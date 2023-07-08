@@ -237,7 +237,7 @@ If you use Windows Defender, it is advised that you set up an Exception for the 
 
 ### Controller and Gamepad Setup
 
-YLIK FILL THIS OUT
+![](https://raw.githubusercontent.com/Oghma-Infinium/Vagabond/main/images/controlmap.png)
 
 ## Playing the List
 
