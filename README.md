@@ -245,12 +245,15 @@ If you use Windows Defender, it is advised that you set up an Exception for the 
  - Head over to the installation folder and locate an executable named ModOrganizer.exe and launch it.
 
  1. Launch the "Vagabond" Executable in MO2.
-. . .
- ?. Once the MCM Recorder finishes (you will get a notification), you can proceed to customize any other MCMs, then press `Enter` and choose "Continue".
+ 2. Once the game loads start a new game.
+ 3. The game will open in Racemenu where you can customize your character. Guide for adding presets will be included later.
+ 4. After you're done with the character creation you'll be presented with series of message boxes that you can use to configure the start of your journey.
+ 5. After picking your options, your playthrough will start just outside the Helgen Keep cave with the main quest continuing as normal.
+ 6. You may adjust MCM settings to your liking, the default settings are for my preferred experience.
 
 ### In-Game MCM options
 
- - **Mod**: Relevant options/what's in the MCM
+ - **Smoothcam**: Try out various presets included if you don't like the default camera.
 
 ## Updating the modlist
 
