@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/Oghma-Infinium/Vagabond/main/images/Banner.png)
+![](https://raw.githubusercontent.com/Oghma-Infinium/Vagabond/main/images/banner.png)
 
 <p align="center">
   [ <a href="https://www.nexusmods.com/skyrimspecialedition/mods/95364">Nexus</a> |
