@@ -296,7 +296,6 @@ To get some more FPS, tweak the following value in the detail section in BethINI
 - `Shadow Resolution`: 2048
 - `Ambient Occlusion`: Either use this or the ENB version. The ENB version is more intensive. Do not have both turned on.
 - `Remove Shadows`: I really don’t recommend turning this on, but if you must, then you can.
-    - Do make note that if you remove shadows you must also disable the [Shadow Boost](https://www.nexusmods.com/skyrimspecialedition/mods/73133) mod in the ENB Menu.
 
 ## Removing the Modlist
 Simply delete the folder. Congratulations, you have uninstalled Vagabond.
