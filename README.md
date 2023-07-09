@@ -178,7 +178,10 @@ Until official release, please download the .wabbajack file from the above link.
 
 Sometimes Google Drive and MEGA will experience bandwidth caps, so below I have included the links to the files that require them.
 - [High Poly Head](https://drive.google.com/file/d/15_0njBUjHKidNnJPmLXEygzGVWsA3Zbq)
-- List GDrive/MEGA Downloads
+- [BDOR hairs 0.13](https://drive.google.com/file/d/1u85h3rTvR2778AjegtovyLKIhkv-pM1b/edit)
+- [Attacko boss movesets](https://drive.google.com/file/d/11TgwNgtbfM1A1AHyp5_C9lGXCeMPTAfn/edit)
+- [Elden Ring - Great Spear](https://drive.google.com/file/d/19muJYVcS_CwVOsQ9bQL_wWsYRz5W7BZI/edit)
+- [Elden ring - Legendary Weapons](https://drive.google.com/file/d/11T5k_CAlFMoN9uwWuyRhdRprV7pGHb7n/edit)
 
 Sometimes the SkyrimGuild website also runs into issues so I suggest downloading these in advanced as well.
 - [Attack+MCODXP+v1.6.0.5.zip](https://www.skyrim-guild.com/s/Attack-MCODXP-v1605.zip)
