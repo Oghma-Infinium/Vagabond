@@ -32,7 +32,7 @@ Fixed some stuff
 ### Added
 
  - Souls-like smoothcam preset
- - Smoothcam EasyEasye preset
+ - Smoothcam EasyEase preset
  - Smoothcam Octavia preset
  - Smoothcam Modern preset
  - Fate Cards Remade
