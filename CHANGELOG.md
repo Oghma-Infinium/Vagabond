@@ -10,7 +10,43 @@
 ---
 
 # Changelog
+- [0.1.4](#0.1.4)
 - [0.1.3](#0.1.3)
+
+## 0.1.4
+
+### Info
+
+Fixed some stuff
+
+ - All items being weightless instead of just misc items and potions.
+ - NPC having invisible body because it had distributed outfit which didn't exist.
+ - Frost spell / enchantment descriptions match the effect now for the most part.
+ - Added more distant mists to hopefully make distant terrain look better.
+
+<Details>
+
+### Updated
+
+ - Snazzy Interiors Patch Collection
+ - NAT-ENB WYRMSTOOTH patch
+ - NAT-ENB BEYOND SKYRIM BRUMA patch
+
+### Added
+
+ - Resaver
+ - Mihail House Cars - Named Cats
+ - Lennys Ruined Book Replacer 2K
+ - Cresty's Distant Mists
+ - Cresty's Distant Mists _ NAT.ENB 3.1 Patch
+ - NAT-ENB College of Winterhold Patch
+ - Snazzy Interiors - Markarth Guard Tower
+
+### Removed
+ 
+ - -
+
+</Details>
 
 ## 0.1.3
 
