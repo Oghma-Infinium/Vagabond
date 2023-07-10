@@ -10,28 +10,35 @@
 ---
 
 # Changelog
-- [X.X.X](#XXX)
+- [0.1.3](#XXX)
 
-## X.X.X
+## 0.1.3
 
 ### Info
 
-I have no idea
+Fixed some stuff
 
- - Write stuff
+ - Ralof getting murdered right at start of the game
+ - Missing candle texture
+ - Distorted mage hood texture
 
 <Details>
 
 ### Updated
 
- - Mod
+ - Skyland Bits and Bobs - A clutter Overhaul
+ - Divine Wardrobe - Integration
 
 ### Added
 
- - Mod 
+ - Souls-like smoothcam preset
+ - Smoothcam EasyEasye preset
+ - Smoothcam Octavi
+ - Fate Cards Remade
+ - Wither 3 Female Armors - CBBE FIX
 
 ### Removed
  
- - Mod
+ - Save Unbaker
 
 </Details>
