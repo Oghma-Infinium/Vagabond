@@ -33,7 +33,8 @@ Fixed some stuff
 
  - Souls-like smoothcam preset
  - Smoothcam EasyEasye preset
- - Smoothcam Octavi
+ - Smoothcam Octavia preset
+ - Smoothcam Modern preset
  - Fate Cards Remade
  - Wither 3 Female Armors - CBBE FIX
 
