@@ -38,7 +38,7 @@ Fixed some stuff
  - Mihail House Cars - Named Cats
  - Lennys Ruined Book Replacer 2K
  - Cresty's Distant Mists
- - Cresty's Distant Mists _ NAT.ENB 3.1 Patch
+ - Cresty's Distant Mists - NAT.ENB 3.1 Patch
  - NAT-ENB College of Winterhold Patch
  - Snazzy Interiors - Markarth Guard Tower
 
