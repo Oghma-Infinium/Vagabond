@@ -20,7 +20,7 @@
 
 Fixed some stuff
 
- - Fixed most of the reported issue issues. Refer to [trello](https://trello.com/b/khix4egd/vagabond-bug-reports) to track which are fixed and which still persist.
+ - Fixed most of the reported issues. Refer to [Trello](https://trello.com/b/khix4egd/vagabond-bug-reports) to track which are fixed and which still persist.
  - CC artifacts integrated with LotD now have RoM enchantments thanks to Titansbane who sent the patch
  - Optional ENB presets will be included in the next compile as Wabbajack somehow didn't want to include them this time
 
