@@ -22,6 +22,7 @@ Fixed some stuff
 
  - Fixed most of the reported issue issues. Refer to [trello](https://trello.com/b/khix4egd/vagabond-bug-reports) to track which are fixed and which still persist.
  - CC artifacts integrated with LotD now have RoM enchantments thanks to Titansbane who sent the patch
+ - Optional ENB presets will be included in the next compile as Wabbajack somehow didn't want to include them this time
 
 <Details>
 
@@ -39,8 +40,6 @@ Fixed some stuff
  - QND SPID ChakraSSE Pack and required outfits
  - QND SPID Kozakowy Pack and required outfits
  - QNF SPID EVIL armors Pack and required outfits
- - Rudy ENB for NAT 3 as optional ENB
- - PI-CHO ENB for NAT 3 as optional ENB
  - Simple Display - Multiple Greatswords
  - Simple Display Battleaxe and Warhammer
  - Dynamic Sprint
