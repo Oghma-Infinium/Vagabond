@@ -10,8 +10,60 @@
 ---
 
 # Changelog
+- [0.1.5](#0.1.5)
 - [0.1.4](#0.1.4)
 - [0.1.3](#0.1.3)
+
+## 0.1.5
+
+### Info
+
+Fixed some stuff
+
+ - Fixed most of the reported issue issues. Refer to [trello](https://trello.com/b/khix4egd/vagabond-bug-reports) to track which are fixed and which still persist.
+
+<Details>
+
+### Updated
+
+ - Deadly Dragons SE
+ - Detailed Landscapes - Morthal AIO
+ - Untarnished UI
+ - Skyland Bits and Bobs
+
+### Added
+
+ - QND SPID Dunmer Pack and required outfits
+ - QND SPID 4th Unknown Pack
+ - QND SPID ChakraSSE Pack and required outfits
+ - QND SPID Kozakowy Pack and required outfits
+ - QNF SPID EVIL armors Pack and required outfits
+ - Rudy ENB for NAT 3 as optional ENB
+ - PI-CHO ENB for NAT 3 as optional ENB
+ - Simple Display - Multiple Greatswords
+ - Simple Display Battleaxe and Warhammer
+ - Dynamic Sprint
+ - JS Ioun Stones SE
+ - The Heart of Dibella - Quest Expansion
+ - Ordinator - Mihail Dwarven Atuomatons Pack Patch
+ - Spectris - Illusion Spell SFX Overhaul
+ - Skyrim Remastered - High Hrothgar
+ - Volkihar hostility fix
+ - Upscaler Base Plugin
+
+### Removed
+ 
+ - Re-modernize
+   - The physics were bad with constant clipping plus one outfit had invisible body.
+ - Animated Interactions SKSE
+   - Unfortunately caused crashes. Waiting for more stable version to release.
+ - Sons of Skyrim 3BA and HIMBO conversions in a desperate attempt to avoid exploding mesh mug.
+ - Base Coat
+   - Might add Cleaned Skyrim SE textures as replacement in a future update, but maybe not because I feel these don't have many worth while textures left after all my other retexture mods.
+ - Skyrim Textures Redone - High Hrothgar
+   - Replaced with Skyrim Remastered - High Hrothgar due to this mod missing some textures.
+
+</Details>
 
 ## 0.1.4
 
