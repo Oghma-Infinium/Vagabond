@@ -10,9 +10,45 @@
 ---
 
 # Changelog
+- [0.1.6](#0.1.6)
 - [0.1.5](#0.1.5)
 - [0.1.4](#0.1.4)
 - [0.1.3](#0.1.3)
+
+
+## 0.1.6
+
+### Info
+
+Fixed some stuff
+
+ - Fixed the fucking femaleheadbreton issue that was crashing the game.
+ - Fixed some other bugs. Refer to [Trello](https://trello.com/b/khix4egd/vagabond-bug-reports) to track which are fixed and which still persist.
+ - Optional ENB presets should now work.
+ - Made improvements to leveled loot. Let me know if you still get weird loot.
+ 
+
+<Details>
+
+### Updated
+
+ - The Deeper Well
+ - Nocturnal Statue Position fix
+ - College of Winterhold - Quest expansion
+
+### Added
+
+ - Green Water Cubemap Fix
+ - Lennys Eidar Cheese
+
+### Removed
+ 
+ - Northborn scars
+   -  Lots of people in the comments say this is a crash machine, so I removed it pre-emptively even though there is no evidence it caused crashes in this list.
+ -  Houses shops and inns
+   -  I trusted the author too much with the JK compatibility patch. Still caused lots of interior issues.
+
+</Details>
 
 ## 0.1.5
 
