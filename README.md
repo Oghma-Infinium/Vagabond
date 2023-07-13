@@ -63,7 +63,7 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 | Spec Category | My Specs (1440p) | Recommended (1080p) |
 |     :---:    |     :---:     |     :---:     
 | **CPU**   | i9 9900K @5.0GHz |  R7 3700x / i5 10600k |
-| **Video Card**    | 2080ti | 3060 Ti / 2070 / 6700 XT |
+| **Video Card**    | 2080ti @1.83Ghz | 3060 Ti / 2070 / 6700 XT |
 | **Ram**    | 32gb (2x16) @3.2GHz | 32gb (2x16) |
 | **Storage**    | 970 EVO NVMe | SATA SSD |
 
