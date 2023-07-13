@@ -46,7 +46,7 @@ Fixed some stuff
  - Northborn scars
    -  Lots of people in the comments say this is a crash machine, so I removed it pre-emptively even though there is no evidence it caused crashes in this list.
  -  Houses shops and inns
-   -  I trusted the author too much with the JK compatibility patch. Still caused lots of interior issues.
+     -  I trusted the author too much with the JK compatibility patch. Still caused lots of interior issues.
 
 </Details>
 
