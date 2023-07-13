@@ -184,7 +184,6 @@ Sometimes Google Drive and MEGA will experience bandwidth caps, so below I have 
 - [Elden ring - Legendary Weapons](https://drive.google.com/file/d/11T5k_CAlFMoN9uwWuyRhdRprV7pGHb7n/edit)
 
 Sometimes the SkyrimGuild website also runs into issues so I suggest downloading these in advanced as well.
-- [Attack+MCODXP+v1.6.0.5.zip](https://www.skyrim-guild.com/s/Attack-MCODXP-v1605.zip)
 - [Impactful Blocking](https://www.skyrim-guild.com/s/Impactful-Blocking-14.rar)
 
 Patreon downloads incase they give problems.
