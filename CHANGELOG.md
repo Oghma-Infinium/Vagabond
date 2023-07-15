@@ -16,6 +16,47 @@
 - [0.1.4](#0.1.4)
 - [0.1.3](#0.1.3)
 
+## 0.1.8
+
+### Info
+
+Fixed some stuff
+
+ - Fixed some other bugs. Refer to [Trello](https://trello.com/b/khix4egd/vagabond-bug-reports) to track which are fixed and which still persist.
+ - Fixed bunch of blackfaces caused by a mistake in last update. Some blackfaces still persist, most notably Henry from LoTD and Oliver (priestess' guard in Beyond Reach), I wasn't able to solve these even with CK facegen which is bizarre.
+ - Fixed some College of Winterhold NPCs being nudist due to an issue with SPID outfits I added last patch... at least I wasn't able to find any more nudists.
+ - Undiscovered location markers are again visible on the compass.
+ - Added brigther Lux interior templates.
+
+<Details>
+
+### Updated
+
+ - Custom skills menu
+ - MCO block recovery
+ - Berserker - A God of War Font
+ - Lux
+ - Civil War Lines Expansion
+
+### Added
+
+ - Custom Skills - Vigilant
+ - Custom Skills - Glenmoril
+ - Custom Skills - Hand to Hand
+ - Custom Skills - Unarmored Defense
+ - The Dragon Cult - Priesthood
+ - Molag's Will - A Vampire Skill Tree
+ - Mihail High Clannfears
+ - RS Children Overhaul
+   - and lots of patches for it. 
+ - Vampire Lord Overhaul (visual)
+   - I apparently forgot to delete the previous retexture for vampire lords so you don't actually see this in-game. Not going to recompile for this so just delete mods "Vampire Lord Retextured" and "Vampire Lord and Lady Have Eyes" if you care about the new textures.
+ - Hummingbirds - Optimized Textures
+ - Crows - Optimized Textures
+ - Lennys Bench Replacer 
+
+</Details>
+
 
 ## 0.1.7
 
