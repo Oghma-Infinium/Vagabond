@@ -26,8 +26,6 @@ Fixed some stuff
  - Fixed the dwemmer pipework crash by removing the pipework mod.
  - Ashes of War skills now show magicka cost in-game in the powers menu.
  - I was tired af when writing this. More accurate notes later maybe.
- - I tried out different wood pillars in whiterun as experiment, didn't like it but forgot to remove it for this compile.
-   - so enjoy the temporary shit-brown wood pillars lmao
 
 
 <Details>
