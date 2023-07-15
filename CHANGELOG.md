@@ -23,6 +23,7 @@
 
 Fixed some stuff
 
+ - Fixed some other bugs. Refer to [Trello](https://trello.com/b/khix4egd/vagabond-bug-reports) to track which are fixed and which still persist.
  - Fixed the dwemmer pipework crash by removing the pipework mod.
  - Ashes of War skills now show magicka cost in-game in the powers menu.
  - I was tired af when writing this. More accurate notes later maybe.
