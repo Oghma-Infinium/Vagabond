@@ -10,11 +10,46 @@
 ---
 
 # Changelog
+- [0.1.7](#0.1.7)
 - [0.1.6](#0.1.6)
 - [0.1.5](#0.1.5)
 - [0.1.4](#0.1.4)
 - [0.1.3](#0.1.3)
 
+
+## 0.1.7
+
+### Info
+
+Fixed some stuff
+
+ - Fixed the dwemmer pipework crash by removing the pipework mod.
+ - Ashes of War skills now show magicka cost in-game in the powers menu.
+ - I was tired af when writing this. More accurate notes later maybe.
+ - I tried out different wood pillars in whiterun as experiment, didn't like it but forgot to remove it for this compile.
+   - so enjoy the temporary shit-brown wood pillars lmao
+
+
+<Details>
+
+### Updated
+
+ - Bunch of Jayserpa's mods
+ - Some of Lenny's models
+
+### Added
+
+ - Bunch of new outfits and SPID distribution for them
+ - MCO block recovery
+
+### Removed
+ 
+ - better facelight
+   - was potentially causing crashes
+ - dwemer pipe redone
+   - crash machine.... yeeeeeeeeet 
+
+</Details>
 
 ## 0.1.6
 
