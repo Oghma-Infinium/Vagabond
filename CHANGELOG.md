@@ -23,7 +23,7 @@
 
 Fixed some stuff
 
- - Fixed some other bugs. Refer to [Trello](https://trello.com/b/khix4egd/vagabond-bug-reports) to track which are fixed and which still persist.
+ - Refer to [Trello](https://trello.com/b/khix4egd/vagabond-bug-reports) to track which are fixed and which still persist.
  - Fixed bunch of blackfaces caused by a mistake in last update. Some blackfaces still persist, most notably Henry from LoTD and Oliver (priestess' guard in Beyond Reach), I wasn't able to solve these even with CK facegen which is bizarre.
  - Fixed some College of Winterhold NPCs being nudist due to an issue with SPID outfits I added last patch... at least I wasn't able to find any more nudists.
  - Undiscovered location markers are again visible on the compass.
