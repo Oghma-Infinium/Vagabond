@@ -49,7 +49,7 @@
 
 ## Introduction
 
-Vagabond is a Skyrim modlist for Anniversary Edition with focus on visuals, modern combat, and Legacy of the Dragonborn. In addition, Enairim suite is chosen for most gameplay overhauls, including Vokriinator Black for perks. Wide array of monster, weapon, armor and location overhauls are included to make the world more diverse.
+Vagabond is a Skyrim modlist for Anniversary Edition with focus on visuals, modern combat, and Legacy of the Dragonborn. In addition, Enairim suite is chosen for most gameplay overhauls, including Vokriinator Black for perks. Wide array of monster, weapon, armor, spell and location overhauls are included to make the world more diverse.
 
 The full modlist can be viewed [here](https://loadorderlibrary.com/lists/vagabond).
 
