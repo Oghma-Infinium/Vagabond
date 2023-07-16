@@ -185,6 +185,8 @@ Sometimes Google Drive and MEGA will experience bandwidth caps, so below I have 
 
 Sometimes the SkyrimGuild website also runs into issues so I suggest downloading these in advanced as well.
 - [Impactful Blocking](https://www.skyrim-guild.com/s/Impactful-Blocking-14.rar)
+- [White Fang Dagger](https://www.skyrim-guild.com/s/White-Fang-Dagger-v1.zip)
+- [Valkyrie Sword Redux](https://www.skyrim-guild.com/s/ValkyrieSwordShieldv013.zip)
 
 Patreon downloads incase they give problems.
 - List patreon downloads
