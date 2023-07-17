@@ -49,6 +49,7 @@ Fixed some stuff
 ### Removed
  
  - Reading is bad
+     - Allowed taking books from merchant inventories.
 
 </Details>
 
