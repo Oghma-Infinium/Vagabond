@@ -261,6 +261,7 @@ If you use Windows Defender, it is advised that you set up an Exception for the 
 
  - **Smoothcam**: Try out various presets included if you don't like the default camera.
  - **Lamas tinyhud**: Default settings might make the hud widget look wrong on some screen resolutions. Adjust the settings here.
+ 	- If you play on keyboard and mouse you might want to just completely disable or uninstall Lama's tinyhud as the mod is only useful for controller users. 
 
 ## Updating the modlist
 
