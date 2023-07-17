@@ -32,6 +32,7 @@ Fixed some stuff
  - Refer to [Trello](https://trello.com/b/khix4egd/vagabond-bug-reports) to track which are fixed and which still persist.
  - Fixed Royal Armoury, Immersive Weapons and Immersive Armors lotd integration.
  - Fixed House of Horrors quest not working.
+ - Added one hand shortspear + shield moveset for player, also used by boss type NPCs.
 
 <Details>
 
