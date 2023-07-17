@@ -284,11 +284,17 @@ However, I feel Cabbage ENB is the best fit for the list if you're looking for m
 Open the enbseries.ini for Cabbage and change the following settings:
 
 EnableComplexGrassCollisions=false --> true
+
 EnableComplexParallax=false --> true
+
 EnableTerrainBlending=false --> true
+
 EnableComplexParallaxShadows=false --> true
+
 EnableComplexTerrainParallax=false --> true
+
 EnableComplexTerrainParallaxShadows=false --> true
+
 EnableComplexMaterial=false --> true
 
 You may also disable depth of field and bloom in the same file (or in-game GUI) if you don't like them. Letterbox bars can be disabled in enbseries\enbeffectpostpass.fx.ini or in the in-game GUI.
