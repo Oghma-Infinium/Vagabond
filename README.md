@@ -298,7 +298,18 @@ EnableComplexTerrainParallaxShadows=false --> true
 
 EnableComplexMaterial=false --> true
 
-You may also disable depth of field and bloom in the same file (or in-game GUI) if you don't like them. Letterbox bars can be disabled in enbseries\enbeffectpostpass.fx.ini or in the in-game GUI.
+**Disabling Letterbox bars**
+
+Letterbox bars can be disabled in enbseries\enbeffectpostpass.fx.ini or in the in-game GUI.
+
+To be disable Letterbox in the in-game GUI:
+
+1. open the GUI with END-key.
+2.  Look for "ENBEFFECTPOSTPASS"
+3.  Expand it and scroll down to find "LETTERBOX"
+4.  Simply uncheck the checkmark below it.
+5.  Click save configuration on top left corner,
+6.  Close the ENB GUI by pressing END.
 
 Key for opening in-game ENB GUI for Cabbage is **END**-key.
 
