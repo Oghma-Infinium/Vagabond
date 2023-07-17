@@ -267,10 +267,16 @@ If you use Windows Defender, it is advised that you set up an Exception for the 
 ### (Optional) Installing Cabbage ENB
 
 Cabbage ENB is not included in the list by default, because the author does not want it to be used in Wabbajack lists. Because of this the default ENB in the list is NAT ENB and it is perfectly fine to play with it. 
-However, I feel Cabbage ENB is the best fit for the list if you're looking for my recommended visual experience you can download Cabbage ENB from here: https://cabbage.koji.cc/
-After downloading the zip-file go to folder Cabbage ENB -> LUX. In Mod Organizer 2 (Vagabond install) you can find mod "[NoDelete] Cabbage ENB" Open the mod by right clicking and choosing "open in explorer".
-Once the mod is open in explorer, open the "Root" folder and drag files from the Cabbage ENB zip there. (enbseries -folder, enblocal.ini, enbseries.ini) Then enable the mod in MO2 and disable previosly enabled ENB preset.
-If you have opened the game before with one of the other ENB's, open "Overwrite Output" in MO2 and navigate to "Root" -folder and delete enbcache.
+However, I feel Cabbage ENB is the best fit for the list if you're looking for my recommended visual experience you can follow the steps: 
+
+1. Download Cabbage ENB from here: https://cabbage.koji.cc/
+2. After downloading the zip-file go to folder Cabbage ENB -> LUX.
+3. In Mod Organizer 2 (Vagabond install) you can find mod "[NoDelete] Cabbage ENB" Open the mod by right clicking it and choosing "open in explorer".
+4. Once the mod is open in explorer, open the "Root" folder
+5. Drag files from the Cabbage ENB zip there (enbseries -folder, enblocal.ini, enbseries.ini)
+6. Enable the mod "[NoDelete] Cabbage ENB" in MO2.
+7. Disable previosly enabled ENB preset (NAT, Rudy, PI-CHO)
+8. If you have opened the game before with one of the other ENB's, open "Overwrite Output" in MO2 and navigate to "Root" -folder and delete enbcache.
 
 **Enabling parallax and grass collisions for Cabbage**
 Open the enbseries.ini for Cabbage and change the following settings:
