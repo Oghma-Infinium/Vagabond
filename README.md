@@ -280,6 +280,7 @@ However, I feel Cabbage ENB is the best fit for the list if you're looking for m
 9. If you have opened the game before with one of the other ENB's, open "Overwrite Output" in MO2 and navigate to "Root" -folder and delete enbcache.
 
 **Enabling parallax and grass collisions for Cabbage**
+
 Open the enbseries.ini for Cabbage and change the following settings:
 
 EnableComplexGrassCollisions=false --> true
