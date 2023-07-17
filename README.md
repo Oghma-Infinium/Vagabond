@@ -270,13 +270,14 @@ Cabbage ENB is not included in the list by default, because the author does not 
 However, I feel Cabbage ENB is the best fit for the list if you're looking for my recommended visual experience you can follow the steps: 
 
 1. Download Cabbage ENB from here: https://cabbage.koji.cc/
-2. After downloading the zip-file go to folder Cabbage ENB -> LUX.
-3. In Mod Organizer 2 (Vagabond install) you can find mod "[NoDelete] Cabbage ENB" Open the mod by right clicking it and choosing "open in explorer".
-4. Once the mod is open in explorer, open the "Root" folder
-5. Drag files from the Cabbage ENB zip there (enbseries -folder, enblocal.ini, enbseries.ini)
-6. Enable the mod "[NoDelete] Cabbage ENB" in MO2.
-7. Disable previosly enabled ENB preset (NAT, Rudy, PI-CHO)
-8. If you have opened the game before with one of the other ENB's, open "Overwrite Output" in MO2 and navigate to "Root" -folder and delete enbcache.
+2. After downloading the zip-file open it and go to folder Cabbage ENB -> LUX.
+3. In Mod Organizer 2 (Vagabond install) find mod "[NoDelete] Cabbage ENB" under "ENB preset options"-separator.
+4. Open the mod "[NoDelete] Cabbage ENB" by right clicking it and choosing "open in explorer".
+5. Once the mod is open in explorer, open the "Root"-folder.
+6. Drag files from the Cabbage ENB zip there (enbseries-folder, enblocal.ini, enbseries.ini)
+7. Enable the mod "[NoDelete] Cabbage ENB" in MO2.
+8. Disable previosly enabled ENB preset (NAT, Rudy, PI-CHO)
+9. If you have opened the game before with one of the other ENB's, open "Overwrite Output" in MO2 and navigate to "Root" -folder and delete enbcache.
 
 **Enabling parallax and grass collisions for Cabbage**
 Open the enbseries.ini for Cabbage and change the following settings:
