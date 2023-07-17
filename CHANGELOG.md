@@ -33,6 +33,7 @@ Fixed some stuff
  - Fixed Royal Armoury, Immersive Weapons and Immersive Armors lotd integration.
  - Fixed House of Horrors quest not working.
  - Added one hand shortspear + shield moveset for player, also used by boss type NPCs.
+ - Reverted most of my personal adjustments to the NAT ENB. Maybe it looks less... green now.
 
 <Details>
 
