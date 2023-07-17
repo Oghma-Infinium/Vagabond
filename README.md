@@ -182,6 +182,7 @@ Sometimes Google Drive and MEGA will experience bandwidth caps, so below I have 
 - [Nirwinye movesets](https://drive.google.com/file/d/11TgwNgtbfM1A1AHyp5_C9lGXCeMPTAfn/edit)
 - [Elden Ring - Great Spear](https://drive.google.com/file/d/19muJYVcS_CwVOsQ9bQL_wWsYRz5W7BZI/edit)
 - [Elden ring - Legendary Weapons](https://drive.google.com/file/d/11T5k_CAlFMoN9uwWuyRhdRprV7pGHb7n/edit)
+- [Full_inu armor pack 02](https://drive.google.com/file/d/12Siwo7JsLw03mJBqXrhHkKOcqPmGPX9k/edit)
 
 Sometimes the SkyrimGuild website also runs into issues so I suggest downloading these in advanced as well.
 - [Impactful Blocking](https://www.skyrim-guild.com/s/Impactful-Blocking-14.rar)
