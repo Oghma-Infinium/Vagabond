@@ -259,6 +259,7 @@ If you use Windows Defender, it is advised that you set up an Exception for the 
 ### In-Game MCM options
 
  - **Smoothcam**: Try out various presets included if you don't like the default camera.
+ - **Lamas tinyhud**: Default settings might make the hud widget look wrong on some screen resolutions. Adjust the settings here.
 
 ## Updating the modlist
 
