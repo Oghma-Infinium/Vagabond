@@ -10,6 +10,7 @@
 ---
 
 # Changelog
+- [0.2.1](#0.2.1)
 - [0.2.0](#0.2.0)
 - [0.1.8](#0.1.8)
 - [0.1.7](#0.1.7)
@@ -17,6 +18,36 @@
 - [0.1.5](#0.1.5)
 - [0.1.4](#0.1.4)
 - [0.1.3](#0.1.3)
+
+</Details>
+
+## 0.2.1
+
+### Info
+
+**This update is not save safe.**
+
+Fixed some stuff
+
+ - Refer to [Trello](https://trello.com/b/khix4egd/vagabond-bug-reports) to track which are fixed and which still persist.
+ - Fixed Royal Armoury, Immersive Weapons and Immersive Armors lotd integration.
+ - Fixed House of Horrors quest not working.
+
+<Details>
+
+### Updated
+
+ - Elden Rim (only used for assets)
+ - Base Object Swapper
+
+### Added
+
+ - Dint Face Part Mod
+     - I thought some people might want cat ears for their character. Not me though, some other people. 
+
+### Removed
+ 
+ - Reading is bad
 
 </Details>
 
