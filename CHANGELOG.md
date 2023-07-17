@@ -10,12 +10,70 @@
 ---
 
 # Changelog
+- [0.2.0](#0.2.0)
 - [0.1.8](#0.1.8)
 - [0.1.7](#0.1.7)
 - [0.1.6](#0.1.6)
 - [0.1.5](#0.1.5)
 - [0.1.4](#0.1.4)
 - [0.1.3](#0.1.3)
+
+</Details>
+
+## 0.2.0
+
+### Info
+
+Fixed some stuff
+
+ - Refer to [Trello](https://trello.com/b/khix4egd/vagabond-bug-reports) to track which are fixed and which still persist.
+ - Game Freeze in Skyhaven Temple fixed.
+ - Two new Ashes of War and unique movesets added to hand-placed weapons.
+ - 1h and shield movesets added, which are also used by boss-type enemies if they have a shield.
+ - Tantos now have unique moveset.
+ - Clockwork enemies have unique movesets. (these are intentionally a bit silly)
+
+<Details>
+
+### Updated
+
+ - Custom skills menu
+ - Skyland AIO
+ - Elden Rim
+   - Note, this mod is only used for assets.
+ - Embers XD
+ - Strongholds - Largashbur
+ - Strongholds - Narzulbur
+
+### Added
+
+ - Alchemist's Arsenal
+ - Narrative Loot
+ - Statue of Mara (and some patches)
+ - Dwemer Spectres
+ - DX AIO
+    - I swear just for the LotD displays!
+  - Shinobi Tools
+  - Fossil mining
+  - Ahz Fleet Knight
+  - QND SPID Pulcharmsolis Pack and require outfits
+    - most outfits were already in the list
+  - Beyond Skyrim Bruma LotD HoF patch
+  - Midwood Isle LotD patch
+  - Enhance Enemy Attributes
+    - I forgot to setup the MCM, idk what the default settings are
+  -  Golden Egg Treasure Hunt SSE
+  -  Collectible Dragonling Eggs
+  -  Mihail chlidren toys
+  -  Viridian Knight Armor
+  -  Complex Parallax for Northern Roads
+    - This is more "3D" than the last one. I think this matched fairly well with existing terrain LOD so I didn't rerun xlodgen.
+
+### Removed
+ 
+ - I honestly don't remember removing anything...?
+
+</Details>
 
 ## 0.1.8
 
