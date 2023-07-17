@@ -39,7 +39,7 @@
   - [Playing the List](#playing-the-list)
     - [Starting the Game](#starting-the-game)
     - [In-Game MCM options](#in-game-mcm-options)
-    - [(Optional) Installing Cabbage ENB](#(Optional)-Installing-Cabbage-ENB)
+    - [(Optional) Installing Cabbage ENB](#optional-installing-cabbage-enb)
   - [Updating the modlist](#updating-the-modlist)
     - [Tweaking the Game Settings](#tweaking-the-game-settings)
       - [Performance INI Options](#performance-ini-options)
@@ -47,6 +47,7 @@
   - [Removing the Modlist](#removing-the-modlist)
   - [Contact](#contact)
   - [Credits and Thanks](#credits-and-thanks)
+
 
 ## Introduction
 
