@@ -299,6 +299,8 @@ EnableComplexMaterial=false --> true
 
 You may also disable depth of field and bloom in the same file (or in-game GUI) if you don't like them. Letterbox bars can be disabled in enbseries\enbeffectpostpass.fx.ini or in the in-game GUI.
 
+Key for opening in-game ENB GUI for Cabbage is **END**-key.
+
 **since the mod is marked as [NoDelete], your changes will persist after updates and you'll only have to do these steps once ever if you want to have Cabbage ENB in the list!**
 
 ## Updating the modlist
