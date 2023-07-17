@@ -32,6 +32,7 @@ Fixed some stuff
  - 1h and shield movesets added, which are also used by boss-type enemies if they have a shield.
  - Tantos now have unique moveset.
  - Clockwork enemies have unique movesets. (these are intentionally a bit silly)
+ - Bunch more LotD patches and displays.
 
 <Details>
 
