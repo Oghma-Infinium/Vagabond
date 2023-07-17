@@ -67,7 +67,7 @@ Fixed some stuff
   -  Mihail chlidren toys
   -  Viridian Knight Armor
   -  Complex Parallax for Northern Roads
-    - This is more "3D" than the last one. I think this matched fairly well with existing terrain LOD so I didn't rerun xlodgen.
+      - This is more "3D" than the last one. I think this matched fairly well with existing terrain LOD so I didn't rerun xlodgen.
 
 ### Removed
  
