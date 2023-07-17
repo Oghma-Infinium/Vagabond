@@ -39,6 +39,7 @@
   - [Playing the List](#playing-the-list)
     - [Starting the Game](#starting-the-game)
     - [In-Game MCM options](#in-game-mcm-options)
+    - [(Optional) Installing Cabbage ENB](#(Optional)-Installing-Cabbage-ENB)
   - [Updating the modlist](#updating-the-modlist)
     - [Tweaking the Game Settings](#tweaking-the-game-settings)
       - [Performance INI Options](#performance-ini-options)
@@ -262,6 +263,29 @@ If you use Windows Defender, it is advised that you set up an Exception for the 
  - **Smoothcam**: Try out various presets included if you don't like the default camera.
  - **Lamas tinyhud**: Default settings might make the hud widget look wrong on some screen resolutions. Adjust the settings here.
  	- If you play on keyboard and mouse you might want to just completely disable or uninstall Lama's tinyhud as the mod is only useful for controller users. 
+
+### (Optional) Installing Cabbage ENB
+
+Cabbage ENB is not included in the list by default, because the author does not want it to be used in Wabbajack lists. Because of this the default ENB in the list is NAT ENB and it is perfectly fine to play with it. 
+However, I feel Cabbage ENB is the best fit for the list if you're looking for my recommended visual experience you can download Cabbage ENB from here: https://cabbage.koji.cc/
+After downloading the zip-file go to folder Cabbage ENB -> LUX. In Mod Organizer 2 (Vagabond install) you can find mod "[NoDelete] Cabbage ENB" Open the mod by right clicking and choosing "open in explorer".
+Once the mod is open in explorer, open the "Root" folder and drag files from the Cabbage ENB zip there. (enbseries -folder, enblocal.ini, enbseries.ini) Then enable the mod in MO2 and disable previosly enabled ENB preset.
+If you have opened the game before with one of the other ENB's, open "Overwrite Output" in MO2 and navigate to "Root" -folder and delete enbcache.
+
+**Enabling parallax and grass collisions for Cabbage**
+Open the enbseries.ini for Cabbage and change the following settings:
+
+EnableComplexGrassCollisions=false --> true
+EnableComplexParallax=false --> true
+EnableTerrainBlending=false --> true
+EnableComplexParallaxShadows=false --> true
+EnableComplexTerrainParallax=false --> true
+EnableComplexTerrainParallaxShadows=false --> true
+EnableComplexMaterial=false --> true
+
+You may also disable depth of field and bloom in the same file (or in-game GUI) if you don't like them. Letterbox bars can be disabled in enbseries\enbeffectpostpass.fx.ini or in the in-game GUI.
+
+**since the mod is marked as [NoDelete], your changes will persist after updates and you'll only have to do these steps once ever if you want to have Cabbage ENB in the list!**
 
 ## Updating the modlist
 
