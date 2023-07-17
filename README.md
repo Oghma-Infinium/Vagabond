@@ -279,7 +279,7 @@ Updating is like installing the list. Simply make sure your paths are the same a
 
 #### Performance INI Options
 
-Here are recommended ini tweaks that you can make in order to potentially improve performance without messing up the visuals of the list and/or ENB. These files can be found at `[Path to Modlist]\profiles\YLIK WRITE PROFILE NAME HERE`.
+Here are recommended ini tweaks that you can make in order to potentially improve performance without messing up the visuals of the list and/or ENB. These files can be found at `[Path to Modlist]\profiles\Vagabond`.
 
 **Skyrim.ini**  
 >[Display]  
