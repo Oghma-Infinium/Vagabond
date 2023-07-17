@@ -24,6 +24,8 @@
 
 ### Info
 
+**This update is not save safe.**
+
 Fixed some stuff
 
  - Refer to [Trello](https://trello.com/b/khix4egd/vagabond-bug-reports) to track which are fixed and which still persist.
