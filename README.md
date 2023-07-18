@@ -269,7 +269,7 @@ If you use Windows Defender, it is advised that you set up an Exception for the 
 
 ***This step is optional but highly recommended***
 
-Cabbage ENB is not included in the list by default, because the author does not want it to be used in Wabbajack lists. Because of this the default ENB in the list is NAT ENB and it is perfectly fine to play with it. 
+Cabbage ENB is not included in the list by default, because the author does not want it to be used in Wabbajack lists, however he is fine with me instructing users how to install it. Because of this the default ENB in the list is NAT ENB and it is perfectly fine to play with it. 
 However, Cabbage ENB is the best fit for the list if you're looking for my recommended visual experience. Especially tundra grass might look strange without Cabbage, because the color was carefully adjusted for specifically Cabbage ENB.
 You can follow the steps to install it: 
 
