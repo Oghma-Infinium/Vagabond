@@ -277,8 +277,8 @@ You can follow the steps to install it:
 2. After downloading the zip-file open it and go to folder Cabbage ENB -> LUX.
 3. In Mod Organizer 2 (Vagabond install) find mod "[NoDelete] Cabbage ENB" under "ENB preset options"-separator.
 4. Open the mod "[NoDelete] Cabbage ENB" by right clicking it and choosing "open in explorer".
-5. Once the mod is open in explorer, open the "Root"-folder.
-6. Drag files from the Cabbage ENB zip there (enbseries-folder, enblocal.ini, enbseries.ini)
+5. Once the mod is open in explorer, open the "Root"-folder. (If such folder isn't there create a new folder with same name)
+6. Drag files from the Cabbage ENB zip LUX folder there (enbseries-folder, enblocal.ini, enbseries.ini)
 7. Enable the mod "[NoDelete] Cabbage ENB" in MO2.
 8. Disable previosly enabled ENB preset (NAT, Rudy, PI-CHO)
 9. If you have opened the game before with one of the other ENB's, open "Overwrite Output" in MO2 and navigate to "Root" -folder and delete enbcache.
