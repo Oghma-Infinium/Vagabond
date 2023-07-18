@@ -10,6 +10,7 @@
 ---
 
 # Changelog
+- [0.2.2](#0.2.2)
 - [0.2.1](#0.2.1)
 - [0.2.0](#0.2.0)
 - [0.1.8](#0.1.8)
@@ -18,6 +19,39 @@
 - [0.1.5](#0.1.5)
 - [0.1.4](#0.1.4)
 - [0.1.3](#0.1.3)
+
+</Details>
+
+## 0.2.2
+
+### Info
+
+**This update is save safe.**
+
+Fixed some stuff
+
+ - Refer to [Trello](https://trello.com/b/khix4egd/vagabond-bug-reports) to track which are fixed and which still persist.
+ - Fixed massive solitude road hole.
+ - Fixed weird looking staves.
+ - Fixed load screen crash caused by photo mode by removing photo mode.
+ - Fixed missing Alchemist Vestment's texture.
+
+<Details>
+
+### Updated
+
+ - Paradgm
+ - footprints - heels addon
+
+### Added
+
+ - New Werewolf Animation
+ - Arnima - Troll Hotfix
+
+### Removed
+ 
+ - Photo mode
+
 
 </Details>
 
