@@ -267,6 +267,8 @@ If you use Windows Defender, it is advised that you set up an Exception for the 
 
 ### (Optional) Installing Cabbage ENB
 
+***This step is optional but highly recommended***
+
 Cabbage ENB is not included in the list by default, because the author does not want it to be used in Wabbajack lists. Because of this the default ENB in the list is NAT ENB and it is perfectly fine to play with it. 
 However, Cabbage ENB is the best fit for the list if you're looking for my recommended visual experience. Especially tundra grass might look strange without Cabbage, because the color was carefully adjusted for specifically Cabbage ENB.
 You can follow the steps to install it: 
@@ -312,7 +314,7 @@ To be disable Letterbox in the in-game GUI:
 5.  Click save configuration on top left corner,
 6.  Close the ENB GUI by pressing END.
 
-**since the mod is marked as [NoDelete], your changes will persist after updates and you'll only have to do these steps once ever if you want to have Cabbage ENB in the list!**
+**Since the mod is marked as [NoDelete], your changes will persist after updates and you'll only have to do these steps once ever if you want to have Cabbage ENB in the list!**
 
 ## Updating the modlist
 
