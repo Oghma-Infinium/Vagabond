@@ -268,7 +268,8 @@ If you use Windows Defender, it is advised that you set up an Exception for the 
 ### (Optional) Installing Cabbage ENB
 
 Cabbage ENB is not included in the list by default, because the author does not want it to be used in Wabbajack lists. Because of this the default ENB in the list is NAT ENB and it is perfectly fine to play with it. 
-However, I feel Cabbage ENB is the best fit for the list if you're looking for my recommended visual experience you can follow the steps: 
+However, Cabbage ENB is the best fit for the list if you're looking for my recommended visual experience. Especially tundra grass might look strange without Cabbage, because the color was carefully adjusted for specifically Cabbage ENB.
+You can follow the steps to install it: 
 
 1. Download Cabbage ENB from here: https://cabbage.koji.cc/
 2. After downloading the zip-file open it and go to folder Cabbage ENB -> LUX.
