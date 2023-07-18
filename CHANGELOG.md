@@ -26,7 +26,7 @@
 
 ### Info
 
-**This update is save safe.**
+**This update is save safe, but load the save outside Solitude, preferably on save before you even entered it.**
 
 Fixed some stuff
 
