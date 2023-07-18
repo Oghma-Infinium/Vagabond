@@ -312,8 +312,6 @@ To be disable Letterbox in the in-game GUI:
 5.  Click save configuration on top left corner,
 6.  Close the ENB GUI by pressing END.
 
-Key for opening in-game ENB GUI for Cabbage is **END**-key.
-
 **since the mod is marked as [NoDelete], your changes will persist after updates and you'll only have to do these steps once ever if you want to have Cabbage ENB in the list!**
 
 ## Updating the modlist
