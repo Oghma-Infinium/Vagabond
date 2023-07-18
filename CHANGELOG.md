@@ -40,7 +40,7 @@ Fixed some stuff
 
 ### Updated
 
- - Paradgm
+ - Paradgim - quick start overhaul
  - footprints - heels addon
 
 ### Added
