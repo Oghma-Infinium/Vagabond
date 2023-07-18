@@ -35,6 +35,7 @@ Fixed some stuff
  - Fixed weird looking staves.
  - Fixed load screen crash caused by photo mode by removing photo mode.
  - Fixed missing Alchemist Vestment's texture.
+ - Added template to help installing Cabbage ENB to list. Refer to readme for more details.
 
 <Details>
 
