@@ -10,6 +10,7 @@
 ---
 
 # Changelog
+- [0.2.3](#0.2.3)
 - [0.2.2](#0.2.2)
 - [0.2.1](#0.2.1)
 - [0.2.0](#0.2.0)
@@ -19,6 +20,50 @@
 - [0.1.5](#0.1.5)
 - [0.1.4](#0.1.4)
 - [0.1.3](#0.1.3)
+
+</Details>
+
+## 0.2.3
+
+### Info
+
+**This update is save safe.**
+
+Fixed some stuff
+
+ - Refer to [Trello](https://trello.com/b/khix4egd/vagabond-bug-reports) to track which are fixed and which still persist.
+ - Fixed map markers not showing discovered on compass.
+ - Fixed invisible Ash Pilgrim outfit on males.
+ - Potentially fixed excessive loot non-imperial characters.
+ - Potentially fixed random nif crashes in nordic dungeons.
+ - Some rapiers now have alternative moveset.
+ - One new Ash of War added for a hand-placed weapon.
+
+<Details>
+
+### Updated
+
+ - Twilght Princess Armor
+ - Riften Docks Overhaul
+ - Hammer Dungeon Packs
+ - Paradigm - A Quick Start Overhaul
+
+### Added
+
+ - Spell tomes I4 icons
+ - Aptitude - A Minimalistic Class Mod
+ - Skyrim's Paraglider Anniversary Edition
+ - Lenny's Medieval Wine replacer
+ - Vigilant - No Enemy Blur
+ - Barenziah Quest Markers
+   - I patched this with Destroy the Thieve's Guild but I'm not sure if it will work.
+ -  Jiub's Opus
+ -  Zero Bounty Hostility Fix
+
+### Removed
+ 
+ - I don't think anything was removed...?
+
 
 </Details>
 
