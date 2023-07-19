@@ -330,37 +330,6 @@ Updating is like installing the list. Simply make sure your paths are the same a
 
 *Please make sure you back up your saves if you plan on continuing a playthrough across a **save safe** update.*
 
-### Tweaking the Game Settings
-
-#### Performance INI Options
-
-Here are recommended ini tweaks that you can make in order to potentially improve performance without messing up the visuals of the list and/or ENB. These files can be found at `[Path to Modlist]\profiles\Vagabond`.
-
-**Skyrim.ini**  
->[Display]  
-fSAOIntensity=15  
-fSAOExpFactor=0.220  
-fSAORadius=800.0000  
-fSAOBias=0.5000  
-fSAOValueDiffFactor=0.3000
-
-#### BethINI
-
-Before running BethINI please make sure that your paths are correctly set. I also suggest backing up the original `.ini` files just in case. 
-
- - **Game**: `Skyrim Special Edition`
- - **Game Path**: `[Path to Modlist]\Stock Game`
-   - example: `F:\Vagabond\Stock Game`
- - **Mod Organizer**: `[Path to Modlist]` 
-   - example: `F:\Vagabond`
- - **INI Path**: `Mod Organizer > YLIK WRITE PROFILE NAME HERE`
-
-To get some more FPS, tweak the following value in the detail section in BethINI.
-
-- `Shadow Resolution`: 2048
-- `Ambient Occlusion`: Either use this or the ENB version. The ENB version is more intensive. Do not have both turned on.
-- `Remove Shadows`: I really don’t recommend turning this on, but if you must, then you can.
-
 ## Removing the Modlist
 Simply delete the folder. Congratulations, you have uninstalled Vagabond.
 
