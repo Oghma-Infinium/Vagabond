@@ -260,7 +260,9 @@ If you use Windows Defender, it is advised that you set up an Exception for the 
 
  - **Smoothcam**: Try out various presets included if you don't like the default camera.
  - **Lamas tinyhud**: Default settings might make the hud widget look wrong on some screen resolutions. Adjust the settings here.
- 	- If you play on keyboard and mouse you might want to just completely disable or uninstall Lama's tinyhud as the mod is only useful for controller users. 
+ 	- If you play on keyboard and mouse you might want to just completely disable or uninstall Lama's tinyhud as the mod is only useful for controller users.
+- **OCPA**: If you play on keyboard set your power attack key here. Don't bind anything to dual power attack, it doesn't do anything with MCO.
+	- Note: **Power attack and wait keybinds must be the same or some combat functionality will break.** Wait only works in tween menu, so these don't interfere with each other.
 
 ### (Optional) Installing Cabbage ENB
 
