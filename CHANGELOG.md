@@ -47,6 +47,8 @@ Fixed some stuff
    - Timed block no longer reflects projectiles back to sender, however parry will do that instead.
    - Further reduced the base magicka recovery. This makes hardly any difference once you get regeneration bonuses from other sources like robes.
    - Twinblades and quarterstaves now deal 50% less poise damage due to them double-hitting on most attacks. Damage output remains unchanged.
+ - I added my character as a preset. At the moment the only racemenu preset in the list.
+   - If some users want their presets included in the list let me know. You can also upload it to Nexus and I'll include it.
 
 <Details>
 
