@@ -33,6 +33,7 @@
 Fixed some stuff
 
  - Refer to [Trello](https://trello.com/b/khix4egd/vagabond-bug-reports) to track which are fixed and which still persist.
+ - Except update 0.3.1 to come fairly soon. It will be save-safe with 0.3 so feel free to start playing now.
  - Most creatuers are now KYE2 patched thanks to ChromaticRed
  - UI changed to almost fully NordicUI
  - Rework of the block tree, including Sekiro-style posture break and deathblow.
