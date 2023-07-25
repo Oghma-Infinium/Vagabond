@@ -35,7 +35,7 @@ Fixed some stuff
  - Refer to [Trello](https://trello.com/b/khix4egd/vagabond-bug-reports) to track which are fixed and which still persist.
  - Most creatuers are now KYE2 patched thanks to ChromaticRed
  - UI changed to almost fully NordicUI
- - Rework of the block tree
+ - Rework of the block tree, including Sekiro-style posture break and deathblow.
  - Lots of optimizations to combat behaviors to make movement, blocking and attacks feel smoother.
  - Scythes and two-handed katanas now have unique Ash of War.
  - Overhauled Ash of War and moveset for one hand-placed unique weapon.
