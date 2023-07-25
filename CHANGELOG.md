@@ -10,6 +10,7 @@
 ---
 
 # Changelog
+- [0.3.0](#0.3.0)
 - [0.2.3](#0.2.3)
 - [0.2.2](#0.2.2)
 - [0.2.1](#0.2.1)
@@ -22,6 +23,90 @@
 - [0.1.3](#0.1.3)
 
 </Details>
+
+## 0.3.0
+
+### Info
+
+**This update is not save safe.**
+
+Fixed some stuff
+
+ - Refer to [Trello](https://trello.com/b/khix4egd/vagabond-bug-reports) to track which are fixed and which still persist.
+ - Most creatuers are now KYE2 patched thanks to ChromaticRed
+ - UI changed to almost fully NordicUI
+ - Rework of the block tree
+ - Lots of optimizations to combat behaviors to make movement, blocking and attacks feel smoother.
+ - Scythes and two-handed katanas now have unique Ash of War.
+ - Overhauled Ash of War and moveset for one hand-placed unique weapon.
+ - Lots of combat rebalancing:
+   - Enemies now lose 25% less stamina from light attacks than before.
+   - Fine tuned the amount of stamina restored to player on light attacks per weapon type.
+   - Player now takes 25% more damage from blocked power attacks unless its successfully deflected with timed block. (calculated after block mitigation)
+   - Enemies now take 75% less poise damage from light attack when power attacking. This to make it harder to negate enemy power attacks simply by staggering them with a fast light attack.
+   - Timed block no longer reflects projectiles back to sender, however parry will do that instead.
+   - Further reduced the base magicka recovery. This makes hardly any difference once you get regeneration bonuses from other sources like robes.
+   - Twinblades and quarterstaves now deal 50% less poise damage due to them double-hitting on most attacks. Damage output remains unchanged.
+
+<Details>
+
+### Updated
+
+ - Beyond Reach mesh fixes
+ - Welkynar Knight - Quest
+ - The Deeper Well
+ - Bunch of QND SPID packs
+ - Aptitude - A Minimalistic Class Mod
+ - Sacrosact
+
+### Added
+
+ - Skyrim Unbound Reborn and patches
+ - Dwemer Pipework Reworked
+    -  This mod returns because of users reporting the hotfix fixed the crashes.
+ - Bunch of KYE 2 pat
+ - Rebalancing AE quest requirements
+ - DEATHBRAND my version by Xtduo
+ - Blackened Steel Armor and Weapon set - Rebalance
+    - Thanks Xgatt
+ - Achieve That SE
+ - Ancient AF Windhelm
+   - I felt this would make Windhelm look better but I forgot to check if it caused any visual glitches. Lmk if you see weird looking stuff in Windhelm.
+ - Sabre Cat Courier SSE
+ - Animated Mounted Casting
+ - Stuck on Screen Load Door Prompt Fix
+ - Kanjs Spellbreaker animated
+ - IWantWidgetsNG
+ - Notification Filter
+ - Lennys Apple Replacer
+ - Kingsglaive moveset
+ - Abyssal Wind Magic
+ - Simple Snow Improvements - Solstheim Ruins
+ - Higher Poly vanilla Eldergleam Roots
+ - Completionist Skyrim Tracker
+ - I honestly can't believe its not butter!
+ - Giant bash hitframe fix
+
+### Removed
+ 
+ - ENB Light Inventory Fix
+   - Was causing more issues than it fixed.
+ - Golden Easter Egg Hunt
+   - Some eggs were placed in areas which were edited by other mods causing clipping or floating eggs. Don't care enough to fix it all.
+ - Missives - Wyrmstooth
+   - I think this caused a rare crash.
+ - Pause after loading screens SKSE
+   - Caused NPC scenes to break. Scripted alternative doesn't have such issue.
+ - Mihail Wraiths and Spectres
+   - Overlaps with 4th's Wraiths and Mihail Spectres standalone.
+ - Hemomancy - Blood Magic
+    - The perk tree room was broken.
+ - Molag's Will - Vampire CSM tree
+    - Overlap with Sacrosact and no compatibility patch for new Sacrosact update.
+
+
+</Details>
+
 
 ## 0.2.3
 
