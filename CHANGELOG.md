@@ -66,7 +66,7 @@ Fixed some stuff
  - Skyrim Unbound Reborn and patches
  - Dwemer Pipework Reworked
     -  This mod returns because of users reporting the hotfix fixed the crashes.
- - Bunch of KYE 2 pat
+ - Bunch of KYE 2 patches.
  - Rebalancing AE quest requirements
  - DEATHBRAND my version by Xtduo
  - Blackened Steel Armor and Weapon set - Rebalance
