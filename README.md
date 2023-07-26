@@ -258,6 +258,8 @@ If you use Windows Defender, it is advised that you set up an Exception for the 
 
 ### In-Game MCM options
 
+*If MCM for a mod is not mentioned in this section, it may or may not be safe to customize. Only MCM settings specifically mentioned in this section are officially supported to be adjusted.*
+
  - **Skyrim Unboound**: You can change your start settings here. **Do not choose werewolf or vampire start these are known to cause issues.**
  - **Smoothcam**: Try out various presets included if you don't like the default camera.
  - **Lamas tinyhud**: Default settings might make the hud widget look wrong on some screen resolutions. Adjust the settings here.
@@ -265,6 +267,7 @@ If you use Windows Defender, it is advised that you set up an Exception for the 
  - **One click power attack**: Set your power attack key here. Don't bind anything to dual power attack, it doesn't do anything with MCO. Controller players can keep default settings. Also, **Don't set up power attack to play on button combo.**
 	- Note: **Power attack and wait keybinds must be the same or some combat functionality will break.** Wait only works in tween menu, so these don't interfere with each other.
  - **Completionist**: This mod gives quite frequent notifications. You can disable them in the HUD section if they bother you.
+ - **Skyrim Outfit System**: You can enable the mod and create your own outfits here that can override visuals of your equipped gear but retain the stats.
 
 ### (Optional) Installing Cabbage ENB
 
