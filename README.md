@@ -42,6 +42,7 @@
     - [(Optional) Installing Cabbage ENB](#optional-installing-cabbage-enb)
   - [Updating the modlist](#updating-the-modlist)
   - [Removing the Modlist](#removing-the-modlist)
+  - [FAQ](#FAQ)
   - [Contact](#contact)
   - [Credits and Thanks](#credits-and-thanks)
 
@@ -332,6 +333,10 @@ Updating is like installing the list. Simply make sure your paths are the same a
 
 ## Removing the Modlist
 Simply delete the folder. Congratulations, you have uninstalled Vagabond.
+
+## FAQ
+- Q: How do I wait?
+- A: Open tween menu (tab menu) first.
 
 ## Contact
 
