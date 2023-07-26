@@ -35,7 +35,7 @@
 Fixed some stuff
 
  - Refer to [Trello](https://trello.com/b/khix4egd/vagabond-bug-reports) to track which are fixed and which still persist.
- - Known issues: sneak power attack with daggers doesn't work (I have no clue why this happens), some floating grass due to me fixing landscape holes. Wwill be fixed in 0.4 when I redo LODs.)
+ - Known issues: sneak power attack with daggers doesn't work (I have no clue why this happens), some floating grass due to me fixing landscape holes. (Will be fixed in 0.4 when I redo LODs.)
  - Hopefully fixed all the input jank with blocking.
  - Fixed all KYE2 resistances being applied to all enemies due to patch author making major mistake. (not Chroma's patches)
  - Fixed Ravenrock crash due to Guar mounts there
