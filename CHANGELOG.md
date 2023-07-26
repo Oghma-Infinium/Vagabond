@@ -10,6 +10,7 @@
 ---
 
 # Changelog
+- [0.3.1](#0.3.1)
 - [0.3.0](#0.3.0)
 - [0.2.3](#0.2.3)
 - [0.2.2](#0.2.2)
@@ -21,6 +22,53 @@
 - [0.1.5](#0.1.5)
 - [0.1.4](#0.1.4)
 - [0.1.3](#0.1.3)
+
+</Details>
+
+
+## 0.3.1
+
+### Info
+
+**This update is save safe, however I recommend loading a save where you are *not* in Blue Palace or Soltsheim.**
+
+Fixed some stuff
+
+ - Refer to [Trello](https://trello.com/b/khix4egd/vagabond-bug-reports) to track which are fixed and which still persist.
+ - Known issues: sneak power attack with daggers doesn't work (I have no clue why this happens), some floating grass due to me fixing landscape holes. Wwill be fixed in 0.4 when I redo LODs.)
+ - Hopefully fixed all the input jank with blocking.
+ - Fixed all KYE2 resistances being applied to all enemies due to patch author making major mistake. (not Chroma's patches)
+ - Fixed Ravenrock crash due to Guar mounts there
+ - Fixed Blue Palace interior
+
+<Details>
+
+### Updated
+
+ - Embers XD
+ - Abyssal Wind Magic
+ - Lux LotD patch
+
+### Added
+
+ - Magick sneak attacks
+ - Lennys Sovngarde Goblet Replacer
+ - Elsopa HD Buckets
+ - Elsopa Iron Weapons Redone
+ - ElSopa Tankard
+ - Project Minoan - Weapons
+ - Modpocalypse replacers for some mod-added NPCs
+ - Footprints - Beyond Skyrim Bruma
+ - Stonewall Parallax
+   - This will cause LODs for farmhouses to not match since I didn't regenerate DynDOLOD yet, but I still wanted to replace them already.
+
+### Removed
+ 
+ - Beyond Skyrim Bruma - high poly NPC overhaul
+   - Was probably causing bunch of black faces
+ - Skyrim Character Sheet
+   - Was crashing the game
+
 
 </Details>
 
