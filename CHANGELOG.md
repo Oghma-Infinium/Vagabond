@@ -59,6 +59,7 @@ Fixed some stuff
  - Project Minoan - Weapons
  - Modpocalypse replacers for some mod-added NPCs
  - Footprints - Beyond Skyrim Bruma
+ - Skyrim 3D stonewall
  - Stonewall Parallax
    - This will cause LODs for farmhouses to not match since I didn't regenerate DynDOLOD yet, but I still wanted to replace them already.
 
