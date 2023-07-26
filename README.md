@@ -337,6 +337,8 @@ Simply delete the folder. Congratulations, you have uninstalled Vagabond.
 ## FAQ
 - Q: How do I wait?
 - A: Open tween menu (tab menu) first.
+- Q: Can you change the green tundra grass?
+- A: I won't change the grass.
 
 ## Contact
 
