@@ -342,6 +342,8 @@ Simply delete the folder. Congratulations, you have uninstalled Vagabond.
 - A: Open tween menu (tab menu) first.
 - Q: Can you change the green tundra grass?
 - A: I won't change the grass.
+- Q: I enter block every time I attack without pressing block? What happened?
+- A: You likely entered menu/console while blocking or pressed block during loading screen. Simply tap block couple times to fix it. If this bug occurs in any other situation then report it to me.
 
 ## Contact
 
