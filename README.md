@@ -347,7 +347,7 @@ Simply delete the folder. Congratulations, you have uninstalled Vagabond.
 - A: You likely entered menu/console while blocking or pressed block during loading screen. Simply tap block couple times to fix it. If this bug occurs in any other situation then report it to me.
 
 ## Known Issues
-- Some tree lods glowing at night. Will investigate when I redo LODs.
+- Some tree LODs glow at night. Will investigate when I redo LODs.
 
 ## Contact
 
