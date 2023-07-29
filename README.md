@@ -43,6 +43,7 @@
   - [Updating the modlist](#updating-the-modlist)
   - [Removing the Modlist](#removing-the-modlist)
   - [FAQ](#FAQ)
+  - [Known Issues](#known-issues)
   - [Contact](#contact)
   - [Credits and Thanks](#credits-and-thanks)
 
@@ -344,6 +345,9 @@ Simply delete the folder. Congratulations, you have uninstalled Vagabond.
 - A: I won't change the grass.
 - Q: I enter block every time I attack without pressing block? What happened?
 - A: You likely entered menu/console while blocking or pressed block during loading screen. Simply tap block couple times to fix it. If this bug occurs in any other situation then report it to me.
+
+## Known Issues
+- Some tree lods glowing at night. Will investigate when I redo LODs.
 
 ## Contact
 
