@@ -41,9 +41,9 @@
     - [In-Game MCM options](#in-game-mcm-options)
     - [(Optional) Installing Cabbage ENB](#optional-installing-cabbage-enb)
   - [Updating the modlist](#updating-the-modlist)
-  - [Removing the Modlist](#removing-the-modlist)
   - [FAQ](#FAQ)
   - [Known Issues](#known-issues)
+  - [Removing the Modlist](#removing-the-modlist)
   - [Contact](#contact)
   - [Credits and Thanks](#credits-and-thanks)
 
@@ -335,9 +335,6 @@ Updating is like installing the list. Simply make sure your paths are the same a
 
 *Please make sure you back up your saves if you plan on continuing a playthrough across a **save safe** update.*
 
-## Removing the Modlist
-Simply delete the folder. Congratulations, you have uninstalled Vagabond.
-
 ## FAQ
 - Q: How do I wait?
 - A: Open tween menu (tab menu) first.
@@ -348,6 +345,9 @@ Simply delete the folder. Congratulations, you have uninstalled Vagabond.
 
 ## Known Issues
 - Some tree LODs glow at night. Will investigate when I redo LODs.
+
+## Removing the Modlist
+Simply delete the folder. Congratulations, you have uninstalled Vagabond.
 
 ## Contact
 
