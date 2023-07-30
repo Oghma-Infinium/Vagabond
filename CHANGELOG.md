@@ -27,7 +27,7 @@
 </Details>
 
 
-# 0.3.1
+## 0.3.1
 
 ### Info
 
@@ -74,7 +74,7 @@ Fixed some stuff
 
 </Details>
 
-# 0.3.0
+## 0.3.0
 
 ### Info
 
@@ -161,7 +161,7 @@ Fixed some stuff
 </Details>
 
 
-# 0.2.3
+## 0.2.3
 
 ### Info
 
@@ -205,7 +205,7 @@ Fixed some stuff
 
 </Details>
 
-# 0.2.2
+## 0.2.2
 
 ### Info
 
@@ -239,7 +239,7 @@ Fixed some stuff
 
 </Details>
 
-# 0.2.1
+## 0.2.1
 
 ### Info
 
@@ -330,7 +330,7 @@ Fixed some stuff
 
 </Details>
 
-# 0.1.8
+## 0.1.8
 
 ### Info
 
@@ -372,7 +372,7 @@ Fixed some stuff
 </Details>
 
 
-# 0.1.7
+## 0.1.7
 
 ### Info
 
@@ -405,7 +405,7 @@ Fixed some stuff
 
 </Details>
 
-# 0.1.6
+## 0.1.6
 
 ### Info
 
@@ -439,7 +439,7 @@ Fixed some stuff
 
 </Details>
 
-# 0.1.5
+## 0.1.5
 
 ### Info
 
@@ -490,7 +490,7 @@ Fixed some stuff
 
 </Details>
 
-# 0.1.4
+## 0.1.4
 
 ### Info
 
@@ -525,7 +525,7 @@ Fixed some stuff
 
 </Details>
 
-# 0.1.3
+## 0.1.3
 
 ### Info
 
