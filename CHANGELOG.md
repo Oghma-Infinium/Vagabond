@@ -38,6 +38,7 @@ Fixed some stuff
  - Refer to [Trello](https://trello.com/b/khix4egd/vagabond-bug-reports) to track which are fixed and which still persist.
  - Fixed the Whiterun femaleheadbreton crash that I had already fixed at one point but resurfaced
  - Made water creek rocks less glossy
+ - Rearranged the hud elements slightly (this might look a bit weird if your screen resolution doesn't support my TinyHud settings)
 
 <Details>
 
