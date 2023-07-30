@@ -10,6 +10,7 @@
 ---
 
 # Changelog
+- [0.3.2 hotfix 2](#032-hotfix-2)
 - [0.3.2 hotfix](#032-hotfix)
 - [0.3.2](#032)
 - [0.3.1](#031)
@@ -24,6 +25,30 @@
 - [0.1.5](#015)
 - [0.1.4](#014)
 - [0.1.3](#013)
+
+</Details>
+
+
+## 0.3.2 hotfix 2
+
+### Info
+
+**This update is save safe.**
+
+Fixed some stuff
+
+ - Refer to [Trello](https://trello.com/b/khix4egd/vagabond-bug-reports) to track which are fixed and which still persist.
+ - Fixed left hand casting not working which broke due to my block fix in 0.3.2
+ - MCO draugr now have KYE2 resistances
+
+<Details>
+
+### Updated
+
+ - Embers XD
+ - IWantWidgetsNG
+ - Know Your Enemy 2 - Vagabond Pack
+
 
 </Details>
 
