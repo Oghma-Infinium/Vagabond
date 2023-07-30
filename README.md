@@ -375,11 +375,10 @@ Updating is like installing the list. Simply make sure your paths are the same a
 - A: Open tween menu (tab menu) first.
 - Q: Can you change the green tundra grass?
 - A: I won't change the grass.
-- Q: I enter block every time I attack without pressing block? What happened?
-- A: You likely entered menu/console while blocking or pressed block during loading screen. Simply tap block couple times to fix it. If this bug occurs in any other situation then report it to me.
 
 ## Known Issues
 - Some tree LODs glow at night. Will investigate when I redo LODs.
+- Left hand cast not working. Temporary fix can be found in the Vagabond support channel in Waking Dreams discord. Will be fixed in the next update.
 
 ## Removing the Modlist
 Simply delete the folder. Congratulations, you have uninstalled Vagabond.
