@@ -52,6 +52,9 @@ Fixed some stuff
  - High Poly Wyrmstooth NPCs
  - High Poly Beyond Reach NPCs
  - Inmortui - Undead SFX Overhaul
+ - Stand Still in Racemenu
+ - Seamless Varied Masculine Idles OAR (for male NPC only)
+ - HDT-SMP fleet knight skirt
 
 ### Removed
  
