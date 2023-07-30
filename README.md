@@ -375,6 +375,8 @@ Updating is like installing the list. Simply make sure your paths are the same a
 - A: Open tween menu (tab menu) first.
 - Q: Can you change the green tundra grass?
 - A: I won't change the grass.
+- Q: Can I play the list in first person?
+- A: The combat is meant for 3rd person only and I won't support or solve first-person specific issues with combat. You can use first person for casually exploring or picking up items though.
 
 ## Known Issues
 - Some tree LODs glow at night. Will investigate when I redo LODs.
