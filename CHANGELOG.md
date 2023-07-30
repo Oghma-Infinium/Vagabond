@@ -26,6 +26,40 @@
 
 </Details>
 
+## 0.3.2
+
+### Info
+
+**This update is save safe.**
+
+Fixed some stuff
+
+ - Refer to [Trello](https://trello.com/b/khix4egd/vagabond-bug-reports) to track which are fixed and which still persist.
+ - The block getting stuck should now be completely fixed. Let me know if it still happens.
+ - Replaced timed block sparks with better looking ones.
+
+<Details>
+
+### Updated
+
+ - Some stuff
+
+### Added
+
+ - Footprints bright snow fix
+ - The Gray Cowl of Nocturnal Music Overhaul
+ - Mythic Dawn Armor 3BA conversion
+ - High Poly Wyrmstooth NPCs
+ - High Poly Beyond Reach NPCs
+ - Inmortui - Undead SFX Overhaul
+
+### Removed
+ 
+ - Completionist
+   - Was crashing the game with Quickloot EE
+
+
+</Details>
 
 ## 0.3.1
 
