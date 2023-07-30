@@ -40,6 +40,7 @@ Fixed some stuff
  - Refer to [Trello](https://trello.com/b/khix4egd/vagabond-bug-reports) to track which are fixed and which still persist.
  - Fixed left hand casting not working which broke due to my block fix in 0.3.2
  - MCO draugr now have KYE2 resistances
+ - Fixed a bug where my adjustments to health and magicka regeneration were accidentally reverted, causing the regeneration to be much higher than intended.
 
 <Details>
 
