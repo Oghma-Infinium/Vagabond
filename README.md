@@ -40,7 +40,7 @@
     - [Starting the Game](#starting-the-game)
     - [In-Game MCM options](#in-game-mcm-options)
     - [(Optional) Installing Cabbage ENB](#optional-installing-cabbage-enb)
-    - [(Optional) Paywalled DLSS and ENB binaries](#optional-paywalled-dlss-and-enb-binaries)
+    - [(Optional) Patreon DLSS and ENB binaries](#optional-patreon-dlss-and-enb-binaries)
   - [Updating the modlist](#updating-the-modlist)
   - [FAQ](#FAQ)
   - [Known Issues](#known-issues)
