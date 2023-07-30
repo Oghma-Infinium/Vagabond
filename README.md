@@ -40,6 +40,7 @@
     - [Starting the Game](#starting-the-game)
     - [In-Game MCM options](#in-game-mcm-options)
     - [(Optional) Installing Cabbage ENB](#optional-installing-cabbage-enb)
+    - [(Optional) Paywalled DLSS and ENB binaries](#optional-paywalled-dlss-and-enb-binaries)
   - [Updating the modlist](#updating-the-modlist)
   - [FAQ](#FAQ)
   - [Known Issues](#known-issues)
@@ -320,6 +321,40 @@ To be disable Letterbox in the in-game GUI:
 6.  Close the ENB GUI by pressing END.
 
 **Since the mod is marked as [NoDelete], your changes will persist after updates and you'll only have to do these steps once ever if you want to have Cabbage ENB in the list!**
+
+### (Optional) Patreon DLSS and ENB binaries
+
+*Playing this modlist will **never** require using paid mods, this guide is simply for those who are willing to drop a few bucks for improved performance on GPU limited systems*
+
+There are two paywalled mods, which can provide significant performance increase. The perfromance increase is most noticeable on GPU-limited system as opposed to CPU-limited ones. Notably, DLSS can even provide small reduction in VRAM usage (estimated roughly 10-20% on perforrmance mode in DLSS.)
+
+Please check if your graphics card is compatible with DLSS before choosing to buy it.
+
+- [ENB-compatible DLSS by Puredark](https://www.patreon.com/PureDark)
+- [Optimized ENB binaries by Boris Vorontsov](https://www.patreon.com/enb)
+
+If you choose to get either of these, you need to subscribe to the Author's Patreon with the subscription tier that grants access to their paywalled content.
+As of writing this, it seems to be the $5 tier for both Puredark and Boris Vorontsov but make sure to read the Patreon tiers yourself in case this changes.
+Do note that I'm not responsible if you have issues with the Patreon payment or getting the files from Patreon discord once you subscribe.
+
+**Installing DLSS:**
+
+Simply drag and drop the archive you downloaded to bottom of MO2 left pane and install like any other mod and enable it. You can keep it at the very bottom of the list. I recommend adding [NoDelete] in the mod name so you don't need to reinstall DLSS every time you update.
+
+*You don't need to adjust display tweaks or Skyrim.ini settings like Puredark says, my default settings for the modlist support DLSS*
+
+You can find configuration file for DLSS in the skse\plugins folder of the mod. Don't touch either of the MipLodBias settings. I recommend turning of sharpening.  Combining Reshade and DLSS is not officially supported and I will not assist with that.
+
+**Installing Patreon ENB binaries:**
+
+1. Find the mod called "[NoDelete] Optional ENB Patreon Binaries" in the optionals section of MO2 left pane.
+2. Right click the mod and choose "open in explorer".
+3. Once the window opens, click the "Root"-folder.
+4. Open the archive you got from Boris' discord navigate to "wrapper"-folder.
+5. Drag and drop d3d11.dll and d3dcompiler_46e.dll in the Root-folder.
+6. Enable the mod "[NoDelete] Optional ENB Patreon Binaries" in MO2
+7. If you have opened the game before, open overwrite by clicking the red "overwrite" section at the very bottom of MO2 left pane.
+8. Navigate to Root-folder and delete enbcache and gpucache folders if they exist.
 
 ## Updating the modlist
 
