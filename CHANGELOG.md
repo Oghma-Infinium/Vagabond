@@ -41,6 +41,7 @@ Fixed some stuff
  - Fixed left hand casting not working which broke due to my block fix in 0.3.2
  - MCO draugr now have KYE2 resistances
  - Fixed a bug where my adjustments to health and magicka regeneration were accidentally reverted, causing the regeneration to be much higher than intended.
+   - If you feel a spike in difficulty after the hotfix, this is the reason. Consider turning down difficulty if the game became too difficult.
 
 <Details>
 
