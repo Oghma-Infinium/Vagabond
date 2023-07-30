@@ -10,6 +10,7 @@
 ---
 
 # Changelog
+- [0.3.2 hotfix](#032-hotfix)
 - [0.3.2](#032)
 - [0.3.1](#031)
 - [0.3.0](#030)
@@ -25,6 +26,30 @@
 - [0.1.3](#013)
 
 </Details>
+
+## 0.3.2 hotfix
+
+### Info
+
+**This update is save safe.**
+
+Fixed some stuff
+
+ - Refer to [Trello](https://trello.com/b/khix4egd/vagabond-bug-reports) to track which are fixed and which still persist.
+ - Fixed the Whiterun femaleheadbreton crash that I had already fixed at one point but resurfaced
+ - Made water creek rocks less glossy
+
+<Details>
+
+### Updated
+
+ - Embers XD
+ - Headhunter - Bounties Redone
+ - Twilight Princes Armor
+
+
+</Details>
+
 
 ## 0.3.2
 
