@@ -343,7 +343,7 @@ Simply drag and drop the archive you downloaded to bottom of MO2 left pane and i
 
 *You don't need to adjust display tweaks or Skyrim.ini settings like Puredark says, my default settings for the modlist support DLSS*
 
-You can find configuration file for DLSS in the skse\plugins folder of the mod. Don't touch either of the MipLodBias settings. I recommend turning of sharpening.  Combining Reshade and DLSS is not officially supported and I will not assist with that.
+You can find configuration file for DLSS in the skse\plugins folder of the mod. Don't touch either of the MipLodBias settings. I recommend turning off sharpening.  Combining Reshade and DLSS is not officially supported and I will not assist with that.
 
 **Installing Patreon ENB binaries:**
 
