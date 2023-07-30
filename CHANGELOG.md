@@ -55,6 +55,7 @@ Fixed some stuff
  - Stand Still in Racemenu
  - Seamless Varied Masculine Idles OAR (for male NPC only)
  - HDT-SMP fleet knight skirt
+ - Paraglider Auto-Equip Tarhiel's Gale
 
 ### Removed
  
