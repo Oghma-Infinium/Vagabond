@@ -380,7 +380,7 @@ Updating is like installing the list. Simply make sure your paths are the same a
 
 ## Known Issues
 - Some tree LODs glow at night. Will investigate when I redo LODs.
-- Left hand cast not working. Temporary fix can be found in the Vagabond support channel in Waking Dreams discord. Will be fixed in the next update.
+- Getting stuck in block if you let go of block button during bash animation. Temporary fix can be found in the Vagabond support channel in Waking Dreams discord. Will be fixed in the next update.
 
 ## Removing the Modlist
 Simply delete the folder. Congratulations, you have uninstalled Vagabond.
