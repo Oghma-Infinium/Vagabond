@@ -10,6 +10,7 @@
 ---
 
 # Changelog
+- [0.3.3](#033)
 - [0.3.2 hotfix 2](#032-hotfix-2)
 - [0.3.2 hotfix](#032-hotfix)
 - [0.3.2](#032)
@@ -28,6 +29,43 @@
 
 </Details>
 
+## 0.3.3
+
+### Info
+
+**This update is save safe.**
+
+Fixed some stuff
+
+ - Refer to [Trello](https://trello.com/b/khix4egd/vagabond-bug-reports) to track which are fixed and which still persist.
+ - Fixed releasing block during bash animation getting block stuck. Maybe now block stuff is fixed? Millionth time the charm?
+
+<Details>
+
+### Updated
+
+ - Footprints
+
+### Added
+
+ - SkyClimb
+   - Very new SKSE plugin. If it causes crashes I will remove it.
+ - Simple Wearable Lanterns
+   - Quicklight is still in the list but I recommend using this instead because quicklight can crash the game in very rare cases.
+ - Face Discoloration Fix SE
+   - I wanted to fix the black face bugs without this, because this mod can cause other issues but I was defeated.
+ - Stronger Swimming Animations
+   - I forgor to test if these actually work in-game.
+ - Vampire clothing expansion
+ - No Disarm
+
+### Removed
+
+ - Mihail diversified chickens
+   - I had two mods in the list doing essentially the same thing.
+
+
+</Details>
 
 ## 0.3.2 hotfix 2
 
