@@ -63,6 +63,8 @@ Fixed some stuff
 
  - Mihail diversified chickens
    - I had two mods in the list doing essentially the same thing.
+ - Poison blocking Synthesis patcher because it might have caused a rare crash
+   - Timed block with Valhalla combat should still negate incoming poisons.
 
 
 </Details>
