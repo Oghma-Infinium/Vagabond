@@ -379,6 +379,8 @@ Updating is like installing the list. Simply make sure your paths are the same a
 - A: The combat is meant for 3rd person only and I won't support or solve first-person specific issues with combat. You can use first person for casually exploring or picking up items though.
 - Q: Why can't I attack with my left hand weapon?
 - A: MCO doesn't support left hand attack, but if you have a melee weapon in both hands you get a dual wield moveset that alternates between both hands by just pressing right hand attack.
+- Q: Any video showcase of the list?
+- A: [Biggie's Youtube channel has some content](https://www.youtube.com/@biggie_boss/videos) Look at the LIVE-tab for stream recordings if you want to see longer gameplay sessions.
 
 ## Known Issues
 - Some tree LODs glow at night. Will investigate when I redo LODs.
