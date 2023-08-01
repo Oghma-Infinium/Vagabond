@@ -281,7 +281,7 @@ You can follow the steps to install it:
 
 1. Download Cabbage ENB from here: https://cabbage.koji.cc/
 2. After downloading the zip-file open it and go to folder Cabbage ENB -> LUX.
-3. In Mod Organizer 2 (Vagabond install) find mod "[NoDelete] Cabbage ENB" under "ENB preset options"-separator. (If this doesn't appear create it yourself by right clicking somewhere -> all mods -> create empty mod)
+3. In Mod Organizer 2 (Vagabond install) find mod "[NoDelete] Cabbage ENB" under "ENB preset options"-separator. 
 4. Open the mod "[NoDelete] Cabbage ENB" by right clicking it and choosing "open in explorer".
 5. Once the mod is open in explorer, open the "Root"-folder. (If such folder isn't there create a new folder with same name)
 6. Drag files from the Cabbage ENB zip LUX folder there (enbseries-folder, enblocal.ini, enbseries.ini)
@@ -347,7 +347,7 @@ You can find configuration file for DLSS in the skse\plugins folder of the mod. 
 
 **Installing Patreon ENB binaries:**
 
-1. Find the mod called "[NoDelete] Optional ENB Patreon Binaries" in the optionals section of MO2 left pane.
+1. Find the mod called "[NoDelete] Optional ENB Patreon Binaries" in the optionals section of MO2 left pane. (If this doesn't appear create it yourself by right clicking somewhere -> all mods -> create empty mod)
 2. Right click the mod and choose "open in explorer".
 3. Once the window opens, click the "Root"-folder.
 4. Open the archive you got from Boris' discord navigate to "wrapper"-folder.
