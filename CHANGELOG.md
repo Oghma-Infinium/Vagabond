@@ -10,6 +10,7 @@
 ---
 
 # Changelog
+- [0.3.4](#034)
 - [0.3.3](#033)
 - [0.3.2 hotfix 2](#032-hotfix-2)
 - [0.3.2 hotfix](#032-hotfix)
@@ -26,6 +27,44 @@
 - [0.1.5](#015)
 - [0.1.4](#014)
 - [0.1.3](#013)
+
+</Details>
+
+## 0.3.4
+
+### Info
+
+**This update is save safe.**
+
+Fixed some stuff
+
+ - Refer to [Trello](https://trello.com/b/khix4egd/vagabond-bug-reports) to track which are fixed and which still persist.
+ - Fixed bunch of errors in QND spid packs
+ - Removed Extended UI as a possible cause of perk menu crashes. Let me know if they still happen.
+
+<Details>
+
+### Updated
+
+ - Skyland Bits and Bobs
+ - Strongholds Largashbur
+ - Faster HDT-SMP
+   - Let me know if this increases amount of random crashes. FSMP updates are always very hit or miss.
+
+### Added
+
+ - Dialogue Expansion - Shor's Stone
+ - Dialogue Expansion - Khajit Caravans
+ - Riften Dialogue Expansions
+ - Beyond Reach - NAT patch
+ - Narrative Loot Integration - Location-based
+
+
+### Removed
+
+ - Extended UI
+   - Potential suspect for perk menu crashes. Let me know if it still happens after the update.
+
 
 </Details>
 
