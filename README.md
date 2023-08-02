@@ -42,7 +42,7 @@
     - [(Optional) Installing Cabbage ENB](#optional-installing-cabbage-enb)
     - [(Optional) Patreon DLSS and ENB binaries](#optional-patreon-dlss-and-enb-binaries)
   - [Updating the modlist](#updating-the-modlist)
-  - [FAQ](#FAQ)
+  - [FAQ](#F-A-Q)
   - [Known Issues](#known-issues)
   - [Removing the Modlist](#removing-the-modlist)
   - [Contact](#contact)
