@@ -42,7 +42,7 @@
     - [(Optional) Installing Cabbage ENB](#optional-installing-cabbage-enb)
     - [(Optional) Patreon DLSS and ENB binaries](#optional-patreon-dlss-and-enb-binaries)
   - [Updating the modlist](#updating-the-modlist)
-  - [FAQ](#F-A-Q)
+  - [Frequently Asked Questions](#frequently-asked-questions)
   - [Known Issues](#known-issues)
   - [Removing the Modlist](#removing-the-modlist)
   - [Contact](#contact)
@@ -370,7 +370,7 @@ Updating is like installing the list. Simply make sure your paths are the same a
 
 *Please make sure you back up your saves if you plan on continuing a playthrough across a **save safe** update.*
 
-## FAQ
+## Frequently Asked Questions
 
 Q: How do I wait?
 
