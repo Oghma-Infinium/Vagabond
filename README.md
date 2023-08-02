@@ -385,6 +385,7 @@ Updating is like installing the list. Simply make sure your paths are the same a
 ## Known Issues
 - Some tree LODs glow at night. Will investigate when I redo LODs.
 - Tolfdir not getting to Saarthal. Just click him on console, walk to Saarthal and type "prid" in console without the quotes.
+- Some braziers in Dawnstar and Windhelm have blank texture.
 
 ## Removing the Modlist
 Simply delete the folder. Congratulations, you have uninstalled Vagabond.
