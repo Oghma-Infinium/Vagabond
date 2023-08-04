@@ -392,6 +392,10 @@ Q: Any video showcase of the list?
 
 > A: [Biggie's Youtube channel has some content.](https://www.youtube.com/@biggie_boss/streams)
 
+Q: A mod in the list doesn't do what it says on the mod page. Is it broken?
+
+> A: Is the mod under the "Assets and resources" -separator in MO2 left pane? If yes, then don't assume anything the mod page says about the mod is true for the list. If its not under assets and sourcers then report a bug to me.
+
 ## Known Issues
 - Some tree LODs glow at night. Will investigate when I redo LODs.
 - Tolfdir not getting to Saarthal. Just click him on console, walk to Saarthal and type "prid" in console without the quotes.
