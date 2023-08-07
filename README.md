@@ -396,6 +396,10 @@ Q: A mod in the list doesn't do what it says on the mod page. Is it broken?
 
 > A: Is the mod under the "Assets and resources" -separator in MO2 left pane? If yes, then don't assume anything the mod page says about the mod is true for the list. If its not under assets and sourcers then report a bug to me.
 
+Q: My character's face suddenly became much darker, causing neck seam. What do I do?
+
+> A: A bug with the face discoloration fix mod. Enter and exit racemenu to fix. Console command is "showracemenu" without the quotes.
+
 ## Known Issues
 - Some tree LODs glow at night. Will investigate when I redo LODs.
 - Tolfdir not getting to Saarthal. Just click him on console, walk to Saarthal and type "prid" in console without the quotes.
