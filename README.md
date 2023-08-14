@@ -182,7 +182,6 @@ Sometimes Google Drive and MEGA will experience bandwidth caps, so below I have 
 - [High Poly Head](https://drive.google.com/file/d/15_0njBUjHKidNnJPmLXEygzGVWsA3Zbq)
 - [BDOR hairs 0.13](https://drive.google.com/file/d/1u85h3rTvR2778AjegtovyLKIhkv-pM1b/edit)
 - [BDOR FacePartMod](https://drive.google.com/file/d/1RQl8ki73fgLnzBZn6EWjneuW4Dk8TUO_/edit)
-- [Nirwinye movesets](https://drive.google.com/file/d/11TgwNgtbfM1A1AHyp5_C9lGXCeMPTAfn/edit)
 - [Elden Ring - Great Spear](https://drive.google.com/file/d/19muJYVcS_CwVOsQ9bQL_wWsYRz5W7BZI/edit)
 - [Elden ring - Legendary Weapons](https://drive.google.com/file/d/11T5k_CAlFMoN9uwWuyRhdRprV7pGHb7n/edit)
 - [Full_inu armor pack 02](https://drive.google.com/file/d/12Siwo7JsLw03mJBqXrhHkKOcqPmGPX9k/edit)
