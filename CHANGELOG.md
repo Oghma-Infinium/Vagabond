@@ -45,6 +45,7 @@ Fixed some stuff
  - This update is massive, expect there to be new bugs.
  - This is likely the last "major" beta update. Smaller bugfix updates will follow.
  - Once the list is reasonably stable and bug-free I will release 1.0 on the Wabbajack UI.
+ - Big thanks to Fate and Fovez for testing the update. Otherwise releasing this update would have taken approximately two eternities.
 
 <Details>
 
