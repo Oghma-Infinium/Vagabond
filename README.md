@@ -254,7 +254,7 @@ If you use Windows Defender, it is advised that you set up an Exception for the 
  2. Once the game loads start a new game. You will now spawn in a small room with room with a door in front for you.
  3. (optional) You may adjust MCM settings to your liking, the default settings are for my preferred experience. Refer to MCM options below.
  4. Press enter to create your character. The game will open Racemenu where you can customize your character. Guide for adding presets will be included later.
- 6. After you're done with the character creation you'll be presented with a message box. Choose continue to start your journey.
+ 6. After you're done with the character creation you'll be presented with a message box. Choose continue to start your journey. Other messages boxes may pop up, just press "ok" on those.
 
 ### In-Game MCM options
 
@@ -323,10 +323,6 @@ Q: How do I wait?
 
 > A: Open tween menu (tab menu) first.
 
-Q: Can you change the green tundra grass?
-
-> A: I won't change the grass.
-
 Q: Can I play the list in first person?
 
 > A: The combat is meant for 3rd person only and I won't support or solve first-person specific issues with combat. You can use first person for casually exploring or picking up items though.
@@ -345,12 +341,10 @@ Q: A mod in the list doesn't do what it says on the mod page. Is it broken?
 
 Q: My character's face suddenly became much darker, causing neck seam. What do I do?
 
-> A: A bug with the face discoloration fix mod. Enter and exit racemenu to fix. Console command is "showracemenu" without the quotes.
+> A: Enter and exit racemenu to fix. To enter racemenu, either use vanity mirror in your inventory (recommended, safer) or console command "showracemenu" without the quotes.
 
 ## Known Issues
-- Some tree LODs glow at night. Will investigate when I redo LODs.
 - Tolfdir not getting to Saarthal. Just click him on console, walk to Saarthal and type "prid" in console without the quotes.
-- Some braziers in Dawnstar and Windhelm have blank texture.
 
 ## Removing the Modlist
 Simply delete the folder. Congratulations, you have uninstalled Vagabond.
