@@ -89,7 +89,9 @@ Fixed some stuff
  - Abyssal tides magic
  - Victory screen and fanfare
  - The Gray Cowl of Nocturnal - Music Overhaul
- - Alternative Music for Legacy of the Dragonborn Museum Halls 
+ - Alternative Music for Legacy of the Dragonborn Museum Halls
+ - Vanity Mirror
+   - This is safer alternative to using racemenu to customize your character mid playthrough. Please use this instead of console commands.
 
 
 ### Removed
