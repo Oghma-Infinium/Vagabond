@@ -42,7 +42,7 @@ Fixed some stuff
  - Refer to [Trello](https://trello.com/b/khix4egd/vagabond-bug-reports) to track which are fixed and which still persist.
  - This is the big seasons update I have been working on for far too long. Enjoy!
  - All regions in Skyrim now have unique forests.
- - This update is massive, so exceptt there to be new bugs.
+ - This update is massive, expect there to be new bugs.
  - This is likely the last "major" beta update. Smaller bugfix updates will follow.
  - Once the list is reasonably stable and bug-free I will release 1.0 on the Wabbajack UI.
 
