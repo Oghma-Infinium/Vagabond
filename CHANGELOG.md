@@ -10,6 +10,7 @@
 ---
 
 # Changelog
+- [0.4.0](#040)
 - [0.3.4](#034)
 - [0.3.3](#033)
 - [0.3.2 hotfix 2](#032-hotfix-2)
@@ -27,6 +28,84 @@
 - [0.1.5](#015)
 - [0.1.4](#014)
 - [0.1.3](#013)
+
+</Details>
+
+## 0.4.0
+
+### Info
+
+**This update is save safe.**
+
+Fixed some stuff
+
+ - Refer to [Trello](https://trello.com/b/khix4egd/vagabond-bug-reports) to track which are fixed and which still persist.
+ - This is the big seasons update I have been working on for far too long. Enjoy!
+ - All regions in Skyrim now have unique forests.
+ - This update is massive, so exceptt there to be new bugs.
+ - This is likely the last "major" beta update. Smaller bugfix updates will follow.
+ - Once the list is reasonably stable and bug-free I will release 1.0 on the Wabbajack UI.
+
+<Details>
+
+### Updated
+
+ - Lots of mods
+
+### Added
+
+ - Seasons of Skyrim
+ - Seasonal Landscapes
+ - Seasonal Landscapes - Unfrozen
+ - Turn of Seasons
+ - Skyrim 3D trees and plants
+ - Treerific
+ - Veydogolt trees
+ - Ulvenwald Series - Golden Order Pine
+ - Dave's Trees Addon
+ - Elwap's speedtree
+ - Blubbos other aspen replacer - Alders
+ - Nolvus seasonal grass mashup
+ - Riverwood Overhaul By BigHead 
+ - The Curator's Companion
+   - Voted in by users
+ - Northern scenery mods
+ - New Vominheim
+ - The Realm of Merentif
+ - Hammet dungeon pack 2
+ - Heart of the Reach
+ - Legends of Aetherium
+ - Sets of Skills + custom skills framework addon
+ - Twinblades of Skyrim
+ - JaySuS Swords SE
+ - BillyRo Ultimate Swords Anthology
+ - Many of Vindition's weapons
+ - Ancient Nord Stalhrim
+ - Bjorn ENB
+   - New default ENB
+ - Untarnished UI
+   - This returns to replace Nordic UI which I think was causing a rare crash.
+ - Abyssal tides magic
+ - Victory screen and fanfare
+ - The Gray Cowl of Nocturnal - Music Overhaul
+ - Alternative Music for Legacy of the Dragonborn Museum Halls 
+
+
+### Removed
+
+ - Footprints
+   - Doesn't work on all surfaces. I think no footprints is better than inconsistent footprints.
+ - Forsworn minotaurs
+   - Deleted navmeshes. The other minotaur mod remains.
+ - Nordic UI
+   - Biggest suspect for random perk tree crash.
+ - Celtic music
+   - Started to annoy me.
+ - Northern Roads
+   - Replaced by my custom dirt roads. Northern roads clutter still remains.
+ - JK's Riften Outskirts
+   - Caused massive issue in winter plus fps smasher.
+
 
 </Details>
 
