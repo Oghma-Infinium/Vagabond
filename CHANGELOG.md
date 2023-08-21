@@ -35,7 +35,7 @@
 
 ### Info
 
-**This update is save safe.**
+**This update is absolutely NOT save safe.**
 
 Fixed some stuff
 
