@@ -10,6 +10,7 @@
 ---
 
 # Changelog
+- [0.4.1](#041)
 - [0.4.0](#040)
 - [0.3.4](#034)
 - [0.3.3](#033)
@@ -28,6 +29,35 @@
 - [0.1.5](#015)
 - [0.1.4](#014)
 - [0.1.3](#013)
+
+</Details>
+
+
+## 0.4.1
+
+### Info
+
+**This update is save safe.**
+
+Fixed some stuff
+
+ - Refer to [Trello](https://trello.com/b/khix4egd/vagabond-bug-reports) to track which are fixed and which still persist.
+ - Fixed *many* visual issues reported by users, including incorrect shrubs in Autumn. Some visual issues will remain until I redo LODs.
+ - Fixed crash caused by a Vigilant boss. Vigilant act 4 should now be safe to complete.
+ - The update is small overall, but it is save safe so I still recommend updating.
+
+<Details>
+
+### Updated
+
+ - Glenmoril
+   - This is not the long-awaited 1.0 for Glenmoril. Just a small bugfix update. I did not go test if this update brought *new* issues.
+ - Glenmoril English translation
+
+### Added
+
+ - Fate card vendors for LotD
+
 
 </Details>
 
