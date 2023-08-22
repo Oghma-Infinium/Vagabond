@@ -345,7 +345,6 @@ Q: My character's face suddenly became much darker, causing neck seam. What do I
 
 ## Known Issues
 - Tolfdir not getting to Saarthal. Just click him on console, walk to Saarthal and type "prid" in console without the quotes.
-- Volar the Deathbringer boss in Vigilant instantly crashes the game. I haven't found a fix yet. I'd suggest not doing Vigilant act 4 until this is fixed. (The fix will likely be save safe)
 
 ## Removing the Modlist
 Simply delete the folder. Congratulations, you have uninstalled Vagabond.
