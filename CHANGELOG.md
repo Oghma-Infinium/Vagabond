@@ -43,8 +43,8 @@ Fixed some stuff
 
  - Refer to [Trello](https://trello.com/b/khix4egd/vagabond-bug-reports) to track which are fixed and which still persist.
  - Fixed *many* visual issues reported by users, including incorrect shrubs in Autumn. Some visual issues will remain until I redo LODs.
- - Fixed crash caused by a Vigilant boss. Vigilant act 4 should now be safe to complete.
  - Restored some bridges which were incorrectly removed by a mod.
+ - Fixed crash caused by a Vigilant boss. Vigilant act 4 should now be safe to complete.
  - Unslaad update will be added once English translation is updated as well. I will redo LODs then.
  - The update is small overall, but it is save safe so I still recommend updating.
 
