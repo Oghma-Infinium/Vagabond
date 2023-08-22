@@ -46,6 +46,7 @@ Fixed some stuff
  - This is likely the last "major" beta update. Smaller bugfix updates will follow.
  - Once the list is reasonably stable and bug-free I will release 1.0 on the Wabbajack UI.
  - Big thanks to Fate and Fovez for testing the update. Otherwise releasing this update would have taken approximately two eternities.
+ - The changelog is definitely not comprehensive.
 
 <Details>
 
@@ -92,6 +93,7 @@ Fixed some stuff
  - Alternative Music for Legacy of the Dragonborn Museum Halls
  - Vanity Mirror
    - This is safer alternative to using racemenu to customize your character mid playthrough. Please use this instead of console commands.
+ - Shame of Skyrim
 
 
 ### Removed
