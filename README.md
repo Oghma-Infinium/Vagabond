@@ -33,6 +33,7 @@
       - [Downloading and Installing Vagabond](#downloading-and-installing-vagabond)
     - [Problems with installation](#problems-with-installation)
   - [Post-Installation and Optional Setup](#post-installation-and-optional-setup)
+    - [Verify Install](#verify-install)
     - [Game Folder](#game-folder)
     - [Antivirus Exceptions](#antivirus-exceptions)
     - [Controller and Gamepad Setup](#controller-and-gamepad-setup)
@@ -218,6 +219,10 @@ It is possible that you may encounter an error with Wabbajack when installing. S
  - This error means you failed to follow the readme. Go back to the [game language](#game-language) section and set your game language to English.
 
 ## Post-Installation and Optional Setup
+
+### Verify Install
+
+Due to size of the list, the chance of Wabbajack creating corrupted files is higher than usual. This can cause random crashes. It is recommended to follow the steps in [This guide](https://github.com/Oghma-Infinium/Modding-Guides/blob/main/tutorials/Verifying%20your%20Modlist%20Install.md) right after install to verify your Vagabond install clean. If your install has corrupted files delete "mods" folder inside your Vagabond install and run Wabbajack installer for Vagabond again.
 
 ### Game Folder
 
