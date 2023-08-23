@@ -222,7 +222,7 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 
 ### Verify Install
 
-Due to size of the list, the chance of Wabbajack creating corrupted files is higher than usual. This can cause random crashes. It is recommended to follow the steps in [This guide](https://github.com/Oghma-Infinium/Modding-Guides/blob/main/tutorials/Verifying%20your%20Modlist%20Install.md) right after install to verify your Vagabond install clean. If your install has corrupted files delete "mods" folder inside your Vagabond install and run Wabbajack installer for Vagabond again.
+Due to size of the list, the chances of Wabbajack creating corrupted files is higher than usual. This can cause random crashes. It is recommended to follow the steps in [This guide](https://github.com/Oghma-Infinium/Modding-Guides/blob/main/tutorials/Verifying%20your%20Modlist%20Install.md) right after install is done to verify your Vagabond install is clean. If your install has corrupted files delete "mods" folder inside your Vagabond install and run Wabbajack installer for Vagabond again.
 
 ### Game Folder
 
