@@ -67,6 +67,8 @@ Fixed some stuff
  - Wheeler
  - Yggdrasil Music
    - Feel free to give feedback if you like this or not
+ - Apothecary
+   - I added the patch to make restore health/magicka/stamina potions instant but I forgot to check in xEdit if it wins conflicts.
 
 ### Removed
 
@@ -80,6 +82,7 @@ Fixed some stuff
  - Legends of Aetherium
  - Lama's Tinyhud
  - Alpine forest of Whiterun Hold
+ - Powerful potions
 
 
 </Details>
