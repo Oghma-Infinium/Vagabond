@@ -10,6 +10,7 @@
 ---
 
 # Changelog
+- [0.5.0](#050)
 - [0.4.1](#041)
 - [0.4.0](#040)
 - [0.3.4](#034)
@@ -32,6 +33,56 @@
 
 </Details>
 
+
+
+## 0.5.0
+
+### Info
+
+**This update is not save safe.**
+
+Fixed some stuff
+
+ - Refer to [Trello](https://trello.com/b/khix4egd/vagabond-bug-reports) to track which are fixed and which still persist.
+ - Initially planed to keep 0.4 the last major update before 1.0 but...
+ - Downgraded Obody to older version due to crashes.
+ - Fixed paper map issues with seasons.
+ - Added some new LotD integrated content while removed some that don't have LotD integration.
+ - Added some Blubbo trees to the tree mix.
+
+<Details>
+
+### Updated
+
+ - Unslaad
+ - Unslaad voiced English translation
+
+### Added
+
+ - The Great Forest of Whiterun Hold
+ - Dense Nordic Forests
+ - Aetherium armor and weapons
+ - Dawnguard weapons expansion
+ - Artifacts of Boethiah
+ - Wheeler
+ - Yggdrasil Music
+   - Feel free to give feedback if you like this or not
+
+### Removed
+
+ - New Vominheim
+ - Realm of Meretif
+ - Hammet's Dungeon pack 1 & 2
+ - Forgotten Dungeons
+ - Hearth of the Reach
+   - Not to be confused with Depths of the Reach
+ - Glamoril - magic of time and space
+ - Legends of Aetherium
+ - Lama's Tinyhud
+ - Alpine forest of Whiterun Hold
+
+
+</Details>
 
 ## 0.4.1
 
