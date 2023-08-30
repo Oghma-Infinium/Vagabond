@@ -350,7 +350,7 @@ Q: My character's face suddenly became much darker, causing neck seam. What do I
 
 ## Known Issues
 - Tolfdir not getting to Saarthal. Just click him on console, walk to Saarthal and type "prid" in console without the quotes.
-- NPCs in Whiterun line up in front of Underforge entrance.
+- Solstheim paper map is purple. I forgot to install the map textures. Instructions for a fix in Waking Dreams Discord #Vagabond-support channel pins. Will be fixed in the next update.
 
 ## Removing the Modlist
 Simply delete the folder. Congratulations, you have uninstalled Vagabond.
