@@ -69,7 +69,7 @@ If you choose to get either of these, you need to subscribe to the author's Patr
 
 ⚠ **Combining Reshade and DLSS is not officially supported and I will not assist with that.** ⚠
 
-Simply drag and drop the DLSS archive you downloaded to the bottom of MO2's left pane and install it like any other mod, then tick the box next to it to enable it. You can keep it at the very bottom of the list. I recommend prefixing the mod's name with [NoDelete] so you don't need to reinstall DLSS every time you update the list.
+Simply drag and drop the DLSS archive you downloaded to the bottom of MO2's left pane and install it like any other mod, then tick the box next to it to enable it. You can keep it at the very bottom of the list. I recommend prefixing the mod's name with `[NoDelete]` so you don't need to reinstall DLSS every time you update the list.
 
 **You do not need to adjust the `SSEDisplayTweaks.ini` or `Skyrim.ini` settings per Puredark's instructions. My default settings for the modlist support DLSS.**
 

@@ -64,7 +64,7 @@
 
 ## Tolfdir won't got to Saarthal!
 
-> A: Just click him on console, walk to Saarthal, and type `prid` in console without the quotes.
+> A: Just click him on console, walk to Saarthal, and type `prid` in console.
 
 ## My Solstheim paper map is purple! 
 
