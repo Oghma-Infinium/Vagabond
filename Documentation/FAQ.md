@@ -73,3 +73,7 @@
 ## I'm freezing during the winter in Whiterun and Falkreath areas! 
 
 > A: No known fix, currently investigating.
+
+## NPCs line up at underforge entrance in Whiterun and quest markers in Whiterun point towards that door!
+
+> A: No known fix, currently investigating.
