@@ -26,6 +26,7 @@
   - [Tolfdir won't got to Saarthal!](#tolfdir-wont-got-to-saarthal)
   - [My Solstheim paper map is purple!](#my-solstheim-paper-map-is-purple)
   - [I'm freezing during the winter in Whiterun and Falkreath areas!](#im-freezing-during-the-winter-in-whiterun-and-falkreath-areas)
+  - [NPCs line up at underforge entrance in Whiterun and quest markers in Whiterun point towards that door!](#mpcs-line-up-at-underforge-entrance-in-whiterun-and-quest-markers-in-whiterun-point-towards-that-door)
 
 
 
