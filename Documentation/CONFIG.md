@@ -40,11 +40,14 @@ The following sections detail the **supported** modifications to the list. Any o
 This section will cover the following Optional Mods that are included as a part of the modlist. Please note that if you do any of these tweaks, it is in your best interest to share this information when reporting any potential bugs that you encounter when playing the modlist.
 
  1. **Dark Souls Underwear - Never Nude Bodyslide Generated files**: Enabled by default. Disable this mod if you wish to have a nude body.
-    > Only for female characters.
+      > Only for female characters.
+
  2. **3BA less bounce**: Enabled by default. Disable this mod if you want your 3BA body to jiggle more.
-    > Only for female characters.
+      > Only for female characters.
+
  3. **[NoDelete] Skyrim Priority My Setting**: These are my personal settings for [Skyrim Priority](https://www.nexusmods.com/skyrimspecialedition/mods/50129). If you wish to edit this to accomodate for your PC specs, please read the `PriorityMod.toml` file within the mod.
-    > If you have no clue how to edit this file, do not touch this mod.
+      > If you have no clue how to edit this file, do not touch this mod.
+
  4. **ENB Preset Options:** By default, the list comes with Bjorn ENB enabled. Under the `ENB Preset Options` separator, you may untick the Bjorn ENB mod and enable **one** of the 3 optional ENBs depending on what you prefer.
 
 
@@ -60,7 +63,7 @@ Please check if your graphics card is compatible with DLSS before choosing to bu
 - [Optimized ENB binaries by Boris Vorontsov](https://www.patreon.com/enb)
 
 If you choose to get either of these, you need to subscribe to the author's Patreon with the subscription tier that grants access to their paywalled content. As of writing this, it seems to be the $5 tier for both Puredark and Boris Vorontsov but make sure to read the Patreon tiers yourself in case this changes.
-> **NOTE:** I am not responsible for any issues you have with Patreon's payment system or getting the files from the Patreon's discord once you subscribe.
+  > **NOTE:** I am not responsible for any issues you have with Patreon's payment system or getting the files from the Patreon's discord once you subscribe.
 
 ### Installing DLSS
 
@@ -101,10 +104,10 @@ Example for how the .ini line should look:
 If an MCM for a mod is **not** mentioned in this section, it may or may not be safe to customize. **Only MCM settings specifically mentioned in this section are officially supported to be adjusted.**
 
  - **Skyrim Unbound**: You can change your start settings here. 
-    >**Do not** choose a werewolf or vampire start, these are known to cause issues.
+      >**Do not** choose a werewolf or vampire start, these are known to cause issues.
  - **SmoothCam**: Try out various presets included if you don't like the default camera preset.
  - **One Click Power Attack**: Set your power attack key here. Controller players can keep the default settings.
-    > **Do not** bind any keys to dual power attack, it does not do anything with MCO. **Do not** set up the power attack to play on button combo. 
+      > **Do not** bind any keys to dual power attack, it does not do anything with MCO. **Do not** set up the power attack to play on button combo. 
 	- **Note:** Power attack and wait keybinds must be the same or some combat functionality will break. Waiting only works when in the tween menu, so these don't interfere with each other.
  - **Skyrim Outfit System**: You can enable the mod and create your own outfits here that can override the visuals of your current equipped gear but retain the stats.
 

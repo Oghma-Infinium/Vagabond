@@ -147,7 +147,7 @@ To set your Skyrim language to English:
  If you have never installed the Creation Club Content before, please do the following:
 
  1. Purchase the [`Skyrim Anniversary Edition Upgrade`](https://store.steampowered.com/app/1746860/The_Elder_Scrolls_V_Skyrim_Anniversary_Upgrade/) from Steam. **If you do not do this, you can not install or play the list.**
-   > There is no work around for this and pirating this content will **not** work. If you pirate the content and come asking for assistance, you will be banned.
+    > There is no work around for this and pirating this content will **not** work. If you pirate the content and come asking for assistance, you will be banned.
 
 Once you have the Anniversary Edition Upgrade bought, do the following steps below:
 
@@ -176,20 +176,20 @@ Once you have completed pre-installation, create a folder named Wabbajack on the
 Downloading and installing Vagabond can take a while depending on your internet connection, PC specs, and if you have Nexus Premium. To install Vagabond, complete the following steps.
 
 **VAGABOND'S BETA RELEASE IS CURRENTLY ONLY AVAILABLE ON THE [NEXUS PAGE](https://www.nexusmods.com/skyrimspecialedition/mods/95364).**
->Until official release, please download the .wabbajack file from the above link.
+> Until official release, please download the .wabbajack file from the above link.
 
 1. Manually download the file called `Vagabond - Wabbajack File` from the `Files` tab on the Nexus page.
    
 3. Use 7zip or your preferred file archiver to extract the downloaded file. You should see a `Vagabond.wabbajack` file after extracting the contents of the file.
    
 4. Make a folder named `downloaded_mod_lists` inside your Wabbajack's version folder and move the `Vagabond.wabbajack` file inside the `downloaded_mod_lists` folder you've created.
-  > Example path for the downloaded_mod_lists folder: `C:\Wabbajack\3.2.0.1\downloaded_mod_lists`
+    > Example path for the downloaded_mod_lists folder: `C:\Wabbajack\3.2.0.1\downloaded_mod_lists`
 
 5. Double-click the `Vagabond.wabbajack` file after you've moved it. Wabbajack should automatically open for you. 
-  > If it does not open for you, open the Wabbajack app manually and select the `Install From Disk` option. Then click the three dots next to the `Target Modlist` box and select the `Vagabond.wabbajack` file.
+    > If it does not open for you, open the Wabbajack app manually and select the `Install From Disk` option. Then click the three dots next to the `Target Modlist` box and select the `Vagabond.wabbajack` file.
 
-6. Set the `Modlist Installation location` to a folder such as `C:\Vagabond`. **DO NOT set the folder to Program Files, User protected folders (such as Desktop, Documents, Downloads, etc.), or in your Skyrim's Steam folder**
-  > The `Resource Download Location` does not need to be on an SSD, but it makes installing faster. You can set this location to be an HDD for the sake of saving space.
+6. Set the `Modlist Installation Location` to a folder such as `C:\Vagabond`. **DO NOT set the folder to Program Files, User protected folders (such as Desktop, Documents, Downloads, etc.), or in your Skyrim's Steam folder**
+    > The `Resource Download Location` does not need to be on an SSD, but it makes installing faster. You can set this location to be an HDD for the sake of saving space.
 
 7. Press the play button to begin.
 
