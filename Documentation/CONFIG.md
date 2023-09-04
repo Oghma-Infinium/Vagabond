@@ -48,14 +48,14 @@ This section will cover the following Optional Mods that are included as a part 
  3. **[NoDelete] Skyrim Priority My Setting**: These are my personal settings for [Skyrim Priority](https://www.nexusmods.com/skyrimspecialedition/mods/50129). If you wish to edit this to accomodate for your PC specs, please read the `PriorityMod.toml` file within the mod.
       > If you have no clue how to edit this file, do not touch this mod.
 
- 4. **ENB Preset Options:** By default, the list comes with Bjorn ENB enabled. Under the `ENB Preset Options` separator, you may untick the Bjorn ENB mod and enable **one** of the 3 optional ENBs depending on what you prefer.
+ 4. **ENB Preset Options:** By default, the list comes with Bjorn ENB enabled. Under the `ENB Preset Options` separator, you may untick the `Bjorn ENB` mod and enable **one** of the 3 optional ENBs depending on what you prefer.
 
 
 ## Patreon DLSS and ENB Binaries
 
 Playing this modlist will **never** require using paid mods, however this guide is for those who are willing to drop a few bucks for improved performance on GPU limited systems.
 
-There are two paywalled mods, which can provide a significant performance increase. The perfromance increase is most noticeable on GPU-limited system as opposed to CPU-limited ones. Notably, DLSS can even provide small reduction in VRAM usage (estimated roughly 10-20% on performance mode in DLSS.)
+There are two paywalled mods, which can provide a significant performance increase. The perfromance increase is most noticeable on GPU-limited systems as opposed to CPU-limited ones. Notably, DLSS can even provide small reduction in VRAM usage (estimated roughly 10-20% on performance mode in DLSS.)
 
 Please check if your graphics card is compatible with DLSS before choosing to buy it.
 
@@ -67,7 +67,7 @@ If you choose to get either of these, you need to subscribe to the author's Patr
 
 ### Installing DLSS
 
-⚠ Combining Reshade and DLSS is not officially supported and I will not assist with that. ⚠
+⚠ **Combining Reshade and DLSS is not officially supported and I will not assist with that.** ⚠
 
 Simply drag and drop the DLSS archive you downloaded to the bottom of MO2's left pane and install it like any other mod, then tick the box next to it to enable it. You can keep it at the very bottom of the list. I recommend prefixing the mod's name with [NoDelete] so you don't need to reinstall DLSS every time you update the list.
 
@@ -105,10 +105,13 @@ If an MCM for a mod is **not** mentioned in this section, it may or may not be s
 
  - **Skyrim Unbound**: You can change your start settings here. 
       >**Do not** choose a werewolf or vampire start, these are known to cause issues.
+
  - **SmoothCam**: Try out various presets included if you don't like the default camera preset.
+
  - **One Click Power Attack**: Set your power attack key here. Controller players can keep the default settings.
-      > **Do not** bind any keys to dual power attack, it does not do anything with MCO. **Do not** set up the power attack to play on button combo. 
+      > **Do not** bind any keys to dual power attack, it does not do anything with MCO. **Do not** set up the power attack to play on button combos. 
 	- **Note:** Power attack and wait keybinds must be the same or some combat functionality will break. Waiting only works when in the tween menu, so these don't interfere with each other.
+
  - **Skyrim Outfit System**: You can enable the mod and create your own outfits here that can override the visuals of your current equipped gear but retain the stats.
 
 ## Wheeler

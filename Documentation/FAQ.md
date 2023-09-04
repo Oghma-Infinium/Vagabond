@@ -15,7 +15,7 @@
 
 ## Contents
 - [FAQ](#faq)
-  - [How do I open the OAR menu? How do I open the IED menu?](#how-do-i-open-the-oar-menu-how-do-i-open-the-ied-menu)
+  - [Q: How do I open the OAR menu? How do I open the IED menu?](#q-how-do-i-open-the-oar-menu-how-do-i-open-the-ied-menu)
   - [Q: How do I wait?](#q-how-do-i-wait)
   - [Q: Can I play the list in first person?](#q-can-i-play-the-list-in-first-person)
   - [Q: Why can't I attack with my left hand weapon?](#q-why-cant-i-attack-with-my-left-hand-weapon)
@@ -32,7 +32,7 @@
 
 # FAQ
 
-## How do I open the OAR menu? How do I open the IED menu?
+## Q: How do I open the OAR menu? How do I open the IED menu?
 > A: These menus have been disabled purposefully. Enabling them and messing with these menus is not officially supported. 
 
 ## Q: How do I wait?
@@ -45,7 +45,7 @@
 
 ## Q: Why can't I attack with my left hand weapon?
 
-> A: MCO doesn't support left hand attacks, but if you have a melee weapon in both hands you get a dual wield moveset that alternates between both hands by just pressing right hand attack.
+> A: MCO doesn't support left hand attacks, but if you have a melee weapon in both hands, you will get a dual wield moveset that alternates between both hands by just pressing right hand attack.
 
 ## Q: Any video showcase of the list?
 
@@ -53,11 +53,11 @@
 
 ## Q: A mod in the list doesn't do what it says on the mod page. Is it broken?
 
-> A: If the mod is under the `Assets and Resources` separator in MO2's left pane, then **do not** assume anything the mod page says about the mod is true for the list. If the mod is not under `Assets and Resources`, then report a bug in the Waking Dreams server.
+> A: If the mod is under the `Assets and Resources` separator in MO2's left pane, then **do not** assume anything the mod page says about the mod is true for the list. If the mod is not under `Assets and Resources`, then report a bug in `#🧠│vagabond-support` channel within the [Waking Dreams](https://discord.gg/wakingdreams) server.
 
 ## Q: My character's face suddenly became much darker, causing a neck seam. What do I do?
 
-> A: This is a vanilla bug that can be fixed by entering and exiting Race Menu. To enter Race Menu, either use the vanity mirror in your inventory (recommended and safer) or open console and type in: `showracemenu`, then exit racemenu immediately.
+> A: This is a vanilla bug that can be fixed by entering and exiting Racemenu. To enter Racemenu, either use the vanity mirror in your inventory (recommended and safer) or open console and type in: `showracemenu`, then exit Racemenu immediately.
 
 
 # Known Issues
