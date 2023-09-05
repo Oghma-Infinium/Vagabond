@@ -10,6 +10,7 @@
 ---
 
 # Changelog
+- [0.6.0](#060)
 - [0.5.0](#050)
 - [0.4.1](#041)
 - [0.4.0](#040)
@@ -33,7 +34,39 @@
 
 </Details>
 
+## 0.6.0
 
+### Info
+
+**This update is not save safe.**
+
+Fixed some stuff
+
+ - Refer to [Trello](https://trello.com/b/khix4egd/vagabond-bug-reports) to track which are fixed and which still persist.
+ - (Hopefully) Fixed random long freezes during winter especially around Whiterun region.
+ - Replaced Valhalla Combat timed block with my own version. You need first perk in the block tree to use it.
+ - Replaced female walk/run animations due to complaints about the previous ones.
+
+<Details>
+
+### Updated
+
+ - Idk, some mods.
+
+### Added
+
+ - Fabled Forests
+ - AMON ENB Reborn for NAT
+ -   New ENB preset option. This might not look good since its designed for ELFX interiors and this list uses LUX.
+
+### Removed
+
+ - Dense Nordic Forests
+ -   Replaced by Fabled Forests.
+ - Valhalla Combat
+
+
+</Details>
 
 ## 0.5.0
 
