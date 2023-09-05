@@ -26,6 +26,7 @@
   - [Tolfdir won't got to Saarthal!](#tolfdir-wont-got-to-saarthal)
   - [My Solstheim paper map is purple!](#my-solstheim-paper-map-is-purple)
   - [I'm freezing during the winter in Whiterun and Falkreath areas!](#im-freezing-during-the-winter-in-whiterun-and-falkreath-areas)
+  - [NPCs line up at underforge entrance in Whiterun and quest markers in Whiterun point towards that door!](#npcs-line-up-at-underforge-entrance-in-whiterun-and-quest-markers-in-whiterun-point-towards-that-door)
 
 
 
@@ -71,5 +72,9 @@
 > A: I forgot to install the map textures. Instructions for a fix is within the pins of the `#🧠│vagabond-support` channel in the [Waking Dreams](https://discord.gg/wakingdreams) server. This will be fixed in the next update.
 
 ## I'm freezing during the winter in Whiterun and Falkreath areas! 
+
+> A: No known fix, currently investigating.
+
+## NPCs line up at underforge entrance in Whiterun and quest markers in Whiterun point towards that door!
 
 > A: No known fix, currently investigating.
