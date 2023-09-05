@@ -44,6 +44,7 @@ Fixed some stuff
 
  - Refer to [Trello](https://trello.com/b/khix4egd/vagabond-bug-reports) to track which are fixed and which still persist.
  - (Hopefully) Fixed random long freezes during winter especially around Whiterun region.
+ - (Hopefully) Fixed purple Solstheim map.
  - Replaced Valhalla Combat timed block with my own version. You need first perk in the block tree to use it.
  - Replaced player female walk/run animations due to complaints about the previous ones.
 
