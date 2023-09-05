@@ -244,11 +244,11 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 	- This error means that there is an issue where Wabbajack is unable to hash your Creation Club Content. If you have followed the steps outlined under [Pre-Installation](#installing-creation-club-content), you are not on a pirated copy of the game, and have verified your steam files, then it is very likely that Wabbajack or Bethesda has messed up the hashing for these files. If this is the case, please wait for it to be resolved before continuing to download the list.
 
 - Unable to download `Skyrim_Default.ini`:
- - This error means you failed to follow the readme. Go back to the [game language](#game-language) section and set your game language to English.
+   - This error means you failed to follow the readme. Go back to the [game language](#game-language) section and set your game language to English.
 
 ## Post-Installation
 
-Now that you've completed installation, **please take a look at the [Configuration page](https://github.com/Oghma-Infinium/Vagabond/blob/main/Documentation/CONFIG.md) and the [FAQ page](https://github.com/Oghma-Infinium/Vagabond/blob/main/Documentation/FAQ.md) for the list.** It should only take 10 minutes at most.
+⚠ **Before you start playing the game, I suggest reading over the [Configuration page](https://github.com/Oghma-Infinium/Vagabond/blob/main/Documentation/CONFIG.md) and the [FAQ page](https://github.com/Oghma-Infinium/Vagabond/blob/main/Documentation/FAQ.md) for the list.** ⚠
 
 ### Verify Install
 ⚠ **THIS STEP IS MANDATORY.** ⚠
@@ -307,7 +307,7 @@ Versioning for the list will adhere to the following format: `MAJOR.MINOR.PATCH`
 Before updating, please check the [changelog](https://github.com/Oghma-Infinium/Vagabond/blob/main/CHANGELOG.md) and back up your saves. The changelog will state if you may need to start a new game after certain updates.
 
 Updating is like installing the list. Simply grab the latest version from Nexus, make sure your paths are the same as the ones you picked in [Downloading and Installing Vagabond](#downloading-and-installing-vagabond), and tick the `Overwrite Installation` button. 
-> **Note**: Any mods you have added will be deleted and *any* changes to the files in the list will be reset when updating. To make sure that Wabbajack does not delete your added mods upon updating, prefix your mods with **[NoDelete]**.
+> **Note**: Any mods you have added will be deleted and *any* changes to the files in the list will be reset when updating. To make sure that Wabbajack does not delete your added mods upon updating, prefix your mods with `[NoDelete]`.
 
 ## Removing the Modlist
 Simply delete the Vagabond folder. Congratulations, you have uninstalled Vagabond.
