@@ -57,12 +57,12 @@ Fixed some stuff
 
  - Fabled Forests
  - AMON ENB Reborn for NAT
- -   New ENB preset option. This might not look good since its designed for ELFX interiors and this list uses LUX.
+   - New ENB preset option. This might not look good since its designed for ELFX interiors and this list uses LUX.
 
 ### Removed
 
  - Dense Nordic Forests
- -   Replaced by Fabled Forests.
+   - Replaced by Fabled Forests.
  - Valhalla Combat
 
 
