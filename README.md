@@ -24,8 +24,8 @@
   - [Installation](#installation)
     - [Pre-Installation](#pre-installation)
       - [Prerequisites](#prerequisites)
-      - [Pagefile and Crash prevention](#pagefile-and-crash-prevention)
-      - [Setting Shader Cache Size](#setting-shader-cache-size)
+      - [Pagefile and Crash Prevention](#pagefile-and-crash-prevention)
+      - [Setting Shader Cache Size (NVIDA Graphics Cards Only)](#setting-shader-cache-size-nvida-graphics-cards-only)
       - [Steam Setup](#steam-setup)
       - [Game Language](#game-language)
       - [Installing Creation Club Content](#installing-creation-club-content)
@@ -57,7 +57,7 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 >  Please note these specs are the best idea of a baseline that I can provide at the current moment, based on feedback I have gotten from testers and my own experiences. In the future this will be updated depending on feedback received. With that said, **HDD installs are absolutely not supported**.
 
 
-| Spec Category | My Specs (1440p DLSS performance) | Recommended (1440p) |
+| Spec Category | My Specs (1440p DLSS Performance Preset) | Recommended (1440p) |
 |     :---:    |     :---:     |     :---:     
 | **CPU**   | i9 9900K @5.0GHz |  R7 5800X / i5 12600k |
 | **Video Card**    | 2080ti @1.83Ghz | 4070 Ti / 7700 XT |
@@ -75,7 +75,9 @@ Temp Files: ~30 GB (on OS drive)
 
 ⚠ **Vagabond requires the full AE upgrade, which means you must purchase the AE edition of the game for the list to function!** ⚠
 
-Installing Vagabond is relatively easy and, if you have Nexus Premium, will be a simple waiting game. If you are updating the modlist, you can safely skip to the [updating section](#updating-the-modlist).
+Installing Vagabond is relatively easy and, if you have Nexus Premium, will be a simple waiting game. Without Premium, you will need to manually click the `Download` button for each mod.
+
+If you are updating the modlist, you can safely skip to the [updating section](#updating-the-modlist).
 
 ### Pre-Installation
 
@@ -85,19 +87,15 @@ These steps are only required for installing the modlist for the first time. Add
 
  1. Install [Visual C++ x64](https://aka.ms/vs/16/release/vc_redist.x64.exe) & [.Net Runtime v6 desktop x64](https://dotnet.microsoft.com/en-us/download/dotnet/6.0/runtime).
 
- 2. Make sure you've launched Skyrim at least once to do a graphics check. Do not worry about the settings as they will be replaced during installation.
+ 2. Change Skyrim so it does not [automatically update](https://help.steampowered.com/en/faqs/view/71AB-698D-57EB-178C#disable).
 
- 3. Change Skyrim so it does not [automatically update](https://help.steampowered.com/en/faqs/view/71AB-698D-57EB-178C#disable).
+ 3. Right click on Skyrim SE and click on properties, untick the `Enable Steam Overlay while in-game` option.
 
- 4. Right click on Skyrim SE and click on properties, untick the `Enable Steam Overlay while in-game` option.
+ 4. Remove/disable any 3rd party antivirus such as Webroot or Bitdefender. These programs **will absolutely** cause issues with your Vagabond installation due to how MO2's Virtual File Staging works.
 
- 5. Start the game to the main menu in order to download all the creation club content. **DO NOT SKIP THIS STEP! IF YOU DO SO WABBAJACK WILL FAIL.**
+#### Pagefile and Crash Prevention
 
- 6. Remove/disable any 3rd party antivirus such as Webroot or Bitdefender. These programs **will absolutely** cause issues with your Vagabond installation and cause more problems than it solves.
-
-#### Pagefile and Crash prevention
-
-Larger Skyrim modlists require a significant amount of memory, running out of memory **will** result in crashes and other potential issues. Due to Vagabond's size and number of files required to be handled for the list, this step is **NOT** optional. I do not care how much RAM or VRAM you have, **please** do this step.
+Larger Skyrim modlists require a significant amount of memory and running out of memory **will** result in crashes and other potential issues. Due to Vagabond's size and number of files required to be handled for the list, this step is **NOT** optional. I do not care how much RAM or VRAM you have, **please** do this step.
 
  To set up your pagefile:
  1. Press **Win Key + R**
@@ -116,7 +114,7 @@ Larger Skyrim modlists require a significant amount of memory, running out of me
  14. Click *OK*
  15. Restart your computer in order for your new pagefile to take effect.
 
-#### Setting Shader Cache Size
+#### Setting Shader Cache Size (NVIDA Graphics Cards Only)
  Additionally, if you have an NVIDIA GeForce Graphics Card, please do the following: 
 
  1. Right-click on your desktop and select **NVIDIA Control Panel**
@@ -129,7 +127,7 @@ Larger Skyrim modlists require a significant amount of memory, running out of me
 
 #### Steam Setup
 
- If you have your Steam Library inside your Program Files folder, read [this](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide) and move it elsewhere. Locations such as Desktop, Documents, Downloads, OneDrive, etc. will cause issues with installing and playing the list.
+ If you have your Steam Library inside your Program Files folder, read [this](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide) and move it elsewhere. Locations such as Desktop, Documents, Downloads, OneDrive, etc. will cause issues with installing the list.
 
 #### Game Language
 
@@ -149,8 +147,6 @@ To set your Skyrim language to English:
  1. Purchase the [`Skyrim Anniversary Edition Upgrade`](https://store.steampowered.com/app/1746860/The_Elder_Scrolls_V_Skyrim_Anniversary_Upgrade/) from Steam. **If you do not do this, you can not install or play the list.**
     > There is no work around for this and pirating this content will **not** work. If you pirate the content and come asking for assistance, you will be banned.
 
-Once you have the Anniversary Edition Upgrade bought, do the following steps below:
-
  2. In your Steam Library, right-click on the menu entry for Skyrim, select `Properties` and then select `Installed Files`. Click `Verify Integrity of Game Files` and wait for it to complete.
    
  3. Once this is completed, launch the game once from Steam. You may receive a prompt that your settings were detected or not detected, this does not matter, nor do any options you select here. Simply open the launcher and launch the game.
@@ -168,34 +164,45 @@ Once you have the Anniversary Edition Upgrade bought, do the following steps bel
 
 #### Installing Wabbajack
 
-Once you have completed pre-installation, create a folder named Wabbajack on the root of your drive, such as `C:\Wabbajack` and download the [latest version of Wabbajack](https://github.com/wabbajack-tools/wabbajack/releases/latest/download/Wabbajack.exe). Place the Wabbajack.exe file inside the Wabbajack folder you created and double-click it to set up the program.
-> **DO NOT place the Wabbajack file or Wabbajack folder in Program Files, User protected folders (such as Desktop, Documents, Downloads, OneDrive, etc.), or in your Skyrim's Steam folder**.
+Once you have completed pre-installation, follow these steps to install Wabbajack:
+
+1. Create an empty folder named `Wabbajack` on the root of your drive, such as `C:\Wabbajack` for example. **DO NOT set the folder to Program Files, User protected folders (such as Desktop, Documents, Downloads, etc.), or in your Skyrim's Steam folder**.
+   > The `Wabbajack` folder does not need to be on an SSD, but it makes installing faster. You can set this location to be an HDD for the sake of saving space.
+
+2. Download the [latest version of Wabbajack](https://github.com/wabbajack-tools/wabbajack/releases/latest/download/Wabbajack.exe) and place the `Wabbajack.exe` file inside the `Wabbajack` folder you created in Step 1.
+
+3. Double-click the `Wabbajack.exe` file that is now inside your `Wabbajack` folder to set up the program.
+
+4. If you've followed these steps properly, you should have a `Wabbajack` folder with *only* 3 items inside of it: A folder named `3.2.0.1`, the `Wabbajack.exe` you downloaded in Step 2, and a `wabbajack-cli.bat` file. Proceed to the next section if you can confirm this.
+
 
 #### Downloading and Installing Vagabond
 
-Downloading and installing Vagabond can take a while depending on your internet connection, PC specs, and if you have Nexus Premium. To install Vagabond, complete the following steps.
+Downloading and installing Vagabond can take a while depending on your internet connection, PC specs, and if you have Nexus Premium. Without Premium, you will need to manually click the `Download` button for each mod.
 
 **VAGABOND'S BETA RELEASE IS CURRENTLY ONLY AVAILABLE ON THE [NEXUS PAGE](https://www.nexusmods.com/skyrimspecialedition/mods/95364).**
-> Until official release, please download the .wabbajack file from the above link.
 
-1. Manually download the file called `Vagabond - Wabbajack File` from the `Files` tab on the Nexus page.
+To install Vagabond, complete the following steps:
+
+1. Manually download the file called `Vagabond - Wabbajack File` from the `Files` tab on the Nexus page linked above.
    
-3. Use 7zip or your preferred file archiver to extract the downloaded file. You should see a `Vagabond.wabbajack` file after extracting the contents of the file.
+2. Use 7zip or your preferred file archiver to extract the downloaded file. You should see a `Vagabond.wabbajack` file after extracting the contents of the file.
    
-4. Make a folder named `downloaded_mod_lists` inside your Wabbajack's version folder and move the `Vagabond.wabbajack` file inside the `downloaded_mod_lists` folder you've created.
-    > Example path for the downloaded_mod_lists folder: `C:\Wabbajack\3.2.0.1\downloaded_mod_lists`
+3. Open the Wabbajack folder you created in the [Installing Wabbajack](#installing-wabbajack) section. Open the folder named `3.2.0.1`. Within the `3.2.0.1` folder, make another folder named `downloaded_mod_lists`. If you've done this correctly. the path for this folder should be something simliar to `C:\Wabbajack\3.2.0.1\downloaded_mod_lists`.
+    > If you've already installed other Wabbajack lists before this, you should already have a `downloaded_mod_lists` folder, so you may skip this step.
+
+4. Move the `Vagabond.wabbajack` file inside the `downloaded_mod_lists` folder that was mentioned in Step 3.
 
 5. Double-click the `Vagabond.wabbajack` file after you've moved it. Wabbajack should automatically open for you. 
-    > If it does not open for you, open the Wabbajack app manually and select the `Install From Disk` option. Then click the three dots next to the `Target Modlist` box and select the `Vagabond.wabbajack` file.
+    > If it does not open for you, open the Wabbajack app manually and select the `Install From Disk` option. Next, click the three dots in the `Target Modlist` box and select the `Vagabond.wabbajack` file.
 
-6. Set the `Modlist Installation Location` to a folder such as `C:\Vagabond`. **DO NOT set the folder to Program Files, User protected folders (such as Desktop, Documents, Downloads, etc.), or in your Skyrim's Steam folder**
-    > The `Resource Download Location` does not need to be on an SSD, but it makes installing faster. You can set this location to be an HDD for the sake of saving space.
+6. Set the `Modlist Installation Location` to a folder such as `C:\Vagabond`. 
+   **DO NOT set the folder to Program Files, User protected folders (such as Desktop, Documents, Downloads, etc.), or in your Skyrim's Steam folder**.
+    > The `Resource Download Location` does not need to be on an SSD, but it makes installing faster. You can set this location to an HDD for the sake of saving space.
 
-7. Press the play button to begin.
+7. Press the play arrow to begin the Installation.
 
-8. Turn on your favorite show or a nice long video essay as Wabbajack does its thing. Alternatively, read through this readme again.
-
-9. If the installation is successful, then rejoice and move onto [Post Installation](#post-installation-and-optional-setup). If the installation is unsuccessful, follow the tips below or join the [discord server](https://discord.gg/WakingDreams) for support.
+8. If the installation is successful, then rejoice and move onto the [Post Installation](#post-installation-and-optional-setup) section. If the installation is unsuccessful, follow the tips below or join the [discord server](https://discord.gg/WakingDreams) for support.
 
 Sometimes Google Drive and MEGA will experience bandwidth caps, so below I have included the links to the files that require them.
 - [Elden Ring - Great Spear.7z](https://drive.google.com/file/d/19muJYVcS_CwVOsQ9bQL_wWsYRz5W7BZI/edit)
@@ -227,7 +234,7 @@ Patreon downloads are also listed in case they give any issues.
 It is possible that you may encounter an error with Wabbajack when installing. Some common issues are listed below.
 
 - Could not download **X**:
-	- Big files can fail to download due to connection issues. You can either run wabbajack again or download the file manually. If you decide to manually download it, make sure to place the file(s) inside the folder you set as the `Resource Download Location` in the [Downloading and Installing Vagabond](#downloading-and-installing-vagabond) step.
+	- Big files can fail to download due to connection issues. You can either run wabbajack again or download the file manually. If you decide to manually download it, make sure to place the file(s) inside the folder you set as the `Resource Download Location` in the [Downloading and Installing Vagabond](#downloading-and-installing-vagabond) section.
 
 - **X** is not a whitelisted download:
 
@@ -241,7 +248,7 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 	- Windows 10/11 may automatically quarantine a key file which is needed for Mod Organizer. You can fix this by [adding an exclusion for Mod Organizer in Windows Defender](https://www.thewindowsclub.com/exclude-a-folder-from-windows-security-scan).
 
 - Unable to download `Data_ccXXXXX - *.bsa` or `*.esp`:
-	- This error means that there is an issue where Wabbajack is unable to hash your Creation Club Content. If you have followed the steps outlined under [Pre-Installation](#installing-creation-club-content), you are not on a pirated copy of the game, and have verified your steam files, then it is very likely that Wabbajack or Bethesda has messed up the hashing for these files. If this is the case, please wait for it to be resolved before continuing to download the list.
+	- This error means Wabbajack is unable to hash your Creation Club Content. If you have followed the steps outlined under [Pre-Installation](#installing-creation-club-content), you are not on a pirated copy of the game, and have verified your steam files, then it is very likely that Bethesda has messed up the hashing for these files. If this is the case, please wait for an update ping on the discord server before continuing to download the list.
 
 - Unable to download `Skyrim_Default.ini`:
    - This error means you failed to follow the readme. Go back to the [game language](#game-language) section and set your game language to English.
