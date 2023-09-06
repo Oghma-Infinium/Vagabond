@@ -57,12 +57,12 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 >  Please note these specs are the best idea of a baseline that I can provide at the current moment, based on feedback I have gotten from testers and my own experiences. In the future this will be updated depending on feedback received. With that said, **HDD installs are absolutely not supported**.
 
 
-| Spec Category | My Specs (1440p) | Recommended (1080p) |
+| Spec Category | My Specs (1440p DLSS performance) | Recommended (1440p) |
 |     :---:    |     :---:     |     :---:     
-| **CPU**   | i9 9900K @5.0GHz |  R7 3700x / i5 10600k |
-| **Video Card**    | 2080ti @1.83Ghz | 3060 Ti / 2070 / 6700 XT |
+| **CPU**   | i9 9900K @5.0GHz |  R7 5800X / i5 12600k |
+| **Video Card**    | 2080ti @1.83Ghz | 4070 Ti / 7700 XT |
 | **Ram**    | 32GB (2x16) @3.2GHz | 32GB (2x16) |
-| **Storage**    | 970 EVO NVMe | SATA SSD |
+| **Storage**    | 970 EVO NVMe | SATA/NVME SSD |
 
 Downloads: ~291 GB  
 Install: ~487 GB  
