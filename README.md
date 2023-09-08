@@ -173,36 +173,19 @@ Once you have completed pre-installation, follow these steps to install Wabbajac
 
 3. Double-click the `Wabbajack.exe` file that is now inside your `Wabbajack` folder to set up the program.
 
-4. If you've followed these steps properly, you should have a `Wabbajack` folder with *only* 3 items inside of it: A folder named `3.2.0.1`, the `Wabbajack.exe` you downloaded in Step 2, and a `wabbajack-cli.bat` file. Proceed to the next section if you can confirm this.
-
-
 #### Downloading and Installing Vagabond
 
-Downloading and installing Vagabond can take a while depending on your internet connection, PC specs, and if you have Nexus Premium. Without Premium, you will need to manually click the `Download` button for each mod.
-
-**VAGABOND'S BETA RELEASE IS CURRENTLY ONLY AVAILABLE ON THE [NEXUS PAGE](https://www.nexusmods.com/skyrimspecialedition/mods/95364).**
+Downloading and installing Vagabond can take a while depending on your internet connection, PC specs, and if you have Nexus Premium. Without Premium, you will need to manually click the `Slow Download` button for each mod.
 
 To install Vagabond, complete the following steps:
 
-1. Manually download the file called `Vagabond - Wabbajack File` from the `Files` tab on the Nexus page linked above.
-   
-2. Use 7zip or your preferred file archiver to extract the downloaded file. You should see a `Vagabond.wabbajack` file after extracting the contents of the file.
-   
-3. Open the Wabbajack folder you created in the [Installing Wabbajack](#installing-wabbajack) section. Open the folder named `3.2.0.1`. Within the `3.2.0.1` folder, make another folder named `downloaded_mod_lists`. If you've done this correctly. the path for this folder should be something simliar to `C:\Wabbajack\3.2.0.1\downloaded_mod_lists`.
-    > If you've already installed other Wabbajack lists before this, you should already have a `downloaded_mod_lists` folder, so you may skip this step.
-
-4. Move the `Vagabond.wabbajack` file inside the `downloaded_mod_lists` folder that was mentioned in Step 3.
-
-5. Double-click the `Vagabond.wabbajack` file after you've moved it. Wabbajack should automatically open for you. 
-    > If it does not open for you, open the Wabbajack app manually and select the `Install From Disk` option. Next, click the three dots in the `Target Modlist` box and select the `Vagabond.wabbajack` file.
-
-6. Set the `Modlist Installation Location` to a folder such as `C:\Vagabond`. 
-   **DO NOT set the folder to Program Files, User protected folders (such as Desktop, Documents, Downloads, etc.), or in your Skyrim's Steam folder**.
+1. Open Wabbajack and click `Browse Modlists`
+2. Tick on the `Show Unofficial lists` box in the top right corner of Wabbajack.
+3. Press the download arrow on the `Vagabond` card and wait for it to download.
+4. Set the `Modlist Installation Location` to a folder such as `C:\Vagabond`. **DO NOT set the folder to Program Files, User protected folders (such as Desktop, Documents, Downloads, etc.), or in your Skyrim's Steam folder**.
     > The `Resource Download Location` does not need to be on an SSD, but it makes installing faster. You can set this location to an HDD for the sake of saving space.
-
-7. Press the play arrow to begin the Installation.
-
-8. If the installation is successful, then rejoice and move onto the [Post Installation](#post-installation-and-optional-setup) section. If the installation is unsuccessful, follow the tips below or join the [discord server](https://discord.gg/WakingDreams) for support.
+5. Press the play arrow to begin the Installation.
+6. If the installation is successful, then rejoice and move onto the [Post Installation](#post-installation-and-optional-setup) section. If the installation is unsuccessful, follow the tips below or join the [discord server](https://discord.gg/WakingDreams) for support.
 
 Sometimes Google Drive and MEGA will experience bandwidth caps, so below I have included the links to the files that require them.
 - [Elden Ring - Great Spear.7z](https://drive.google.com/file/d/19muJYVcS_CwVOsQ9bQL_wWsYRz5W7BZI/edit)
