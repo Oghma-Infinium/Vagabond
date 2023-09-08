@@ -313,7 +313,7 @@ If you have an issue with the list, please join the [Waking Dreams](https://disc
 
 - _YOU_ for reading this.
 - [Phoenix](https://github.com/foreverphoenix) for making [Aurora](https://www.nexusmods.com/skyrimspecialedition/mods/89805), which was used as the visual base for the list.
-- [aljo](https://ko-fi.com/aljoxo), [Bingus](https://ko-fi.com/beangas), and the rest of the Waking Dreams server for helping me with the list.
+- [aljo](https://ko-fi.com/aljoxo), [Bingus](https://ko-fi.com/beangas), Fate and the rest of the Waking Dreams server for helping me with the list.
 - [ElminsterAU](https://www.patreon.com/ElminsterAU) and the xEdit team for SSEEdit.
 - Noggog for Mutagen and Synthesis.
 - Halgari and the WJ Team for this amazing platform.
