@@ -10,6 +10,7 @@
 ---
 
 # Changelog
+- [1.0.0](#100)
 - [0.6.0](#060)
 - [0.5.0](#050)
 - [0.4.1](#041)
@@ -31,6 +32,26 @@
 - [0.1.5](#015)
 - [0.1.4](#014)
 - [0.1.3](#013)
+
+</Details>
+
+## 1.0.0
+
+### Info
+
+**This update is save safe.**
+
+Fixed some stuff
+
+ - Refer to [Trello](https://trello.com/b/khix4egd/vagabond-bug-reports) to track which are fixed and which still persist.
+ - Brought Vagabond to Wabbajack UI.
+ - Some minor fixes.
+
+<Details>
+
+### Updated
+
+ - Idk, some mods.
 
 </Details>
 
