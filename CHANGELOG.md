@@ -60,7 +60,7 @@ Fixed some stuff
 ### Added
 
  - Activation animations
-   - You can disable these in the MCM if they bother you-
+   - You can disable these in the MCM if they bother you.
 
 ### Removed
 
