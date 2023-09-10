@@ -11,6 +11,7 @@
 ---
 
 # Changelog
+- [1.0.1](#101)
 - [1.0.0](#100)
 - [0.6.0](#060)
 - [0.5.0](#050)
@@ -33,6 +34,38 @@
 - [0.1.5](#015)
 - [0.1.4](#014)
 - [0.1.3](#013)
+
+</Details>
+
+## 1.0.1
+
+### Info
+
+**This update is save safe.**
+
+Fixed some stuff
+
+ - Refer to [Trello](https://trello.com/b/khix4egd/vagabond-bug-reports) to track which are fixed and which still persist.
+ - Fixed block cancel issue with keyboard and mouse when pressing any of the WASD keys.
+ - Fixed many of the items in inventory having fork and knife icon.
+ - Fixed NPCs lining up at the Underforge in Whiterun.
+ - Ignore the popup about missing plugins when continuing your save. It doesn't matter.
+
+<Details>
+
+### Updated
+
+ - Idk, some mods.
+
+### Added
+
+ - Activation animations
+   - You can disable these in the MCM if they bother you-
+
+### Removed
+
+ - Squirells of Skyrim
+   - I couldn't figure out why they were invisible.
 
 </Details>
 
