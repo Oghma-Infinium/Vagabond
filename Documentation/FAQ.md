@@ -24,7 +24,7 @@
   - [Q: My character's face suddenly became much darker, causing a neck seam. What do I do?](#q-my-characters-face-suddenly-became-much-darker-causing-a-neck-seam-what-do-i-do)
 - [Known Issues](#known-issues)
   - [Tolfdir won't got to Saarthal!](#tolfdir-wont-got-to-saarthal)
-  - [NPCs line up at underforge entrance in Whiterun and quest markers in Whiterun point towards that door!](#npcs-line-up-at-underforge-entrance-in-whiterun-and-quest-markers-in-whiterun-point-towards-that-door)
+
 
 
 
@@ -64,7 +64,3 @@
 ## Tolfdir won't got to Saarthal!
 
 > A: Just click him on console, walk to Saarthal, and type `prid` in console.
-
-## NPCs line up at underforge entrance in Whiterun and quest markers in Whiterun point towards that door!
-
-> A: No known fix, currently investigating.

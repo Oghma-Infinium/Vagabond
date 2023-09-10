@@ -169,9 +169,9 @@ Once you have completed pre-installation, follow these steps to install Wabbajac
 1. Create an empty folder named `Wabbajack` on the root of your drive, such as `C:\Wabbajack` for example. **DO NOT set the folder to Program Files, User protected folders (such as Desktop, Documents, Downloads, etc.), or in your Skyrim's Steam folder**.
    > The `Wabbajack` folder does not need to be on an SSD, but it makes installing faster. You can set this location to be an HDD for the sake of saving space.
 
-2. Download the [latest version of Wabbajack](https://github.com/wabbajack-tools/wabbajack/releases/latest/download/Wabbajack.exe) and place the `Wabbajack.exe` file inside the `Wabbajack` folder you created in Step 1.
+2. Download the [latest version of Wabbajack](https://github.com/wabbajack-tools/wabbajack/releases/latest/download/Wabbajack.exe) and place the `Wabbajack.exe` file inside the Wabbajack folder you created in Step 1.
 
-3. Double-click the `Wabbajack.exe` file that is now inside your `Wabbajack` folder to set up the program.
+3. Double-click the `Wabbajack.exe` file that is now inside your Wabbajack folder to set up the program.
 
 #### Downloading and Installing Vagabond
 
@@ -181,7 +181,7 @@ To install Vagabond, complete the following steps:
 
 1. Open Wabbajack and click `Browse Modlists`
 2. Tick on the `Show Unofficial lists` box in the top right corner of Wabbajack.
-3. Press the download arrow on the `Vagabond` card and wait for it to download.
+3. Press the download arrow on the Vagabond UI card and wait for it to download.
 4. Set the `Modlist Installation Location` to a folder such as `C:\Vagabond`. **DO NOT set the folder to Program Files, User protected folders (such as Desktop, Documents, Downloads, etc.), or in your Skyrim's Steam folder**.
     > The `Resource Download Location` does not need to be on an SSD, but it makes installing faster. You can set this location to an HDD for the sake of saving space.
 5. Press the play arrow to begin the Installation.
@@ -192,6 +192,7 @@ Sometimes Google Drive and MEGA will experience bandwidth caps, so below I have 
 - [EldenRing_LegendaryWeapons.7z](https://drive.google.com/file/d/11T5k_CAlFMoN9uwWuyRhdRprV7pGHb7n/edit)
 - [High Poly Head](https://drive.google.com/file/d/15_0njBUjHKidNnJPmLXEygzGVWsA3Zbq)
 - [[Dint999] BDOR Hairs SSE 0.13.7z](https://drive.google.com/file/d/1u85h3rTvR2778AjegtovyLKIhkv-pM1b/edit)
+- [[Dint999] BDOR Hairs SSE 0.14.7z](https://drive.google.com/file/d/1PigoPEWDTgS66jKtYaeW_qDHHTXJ88wQ/edit)
 - [[Dint999] FacePartMod (SSE) v0.6b.7z](https://drive.google.com/file/d/1RQl8ki73fgLnzBZn6EWjneuW4Dk8TUO_/edit)
 - [[full_inu] Armor Pack 02 SSE.7z](https://drive.google.com/file/d/12Siwo7JsLw03mJBqXrhHkKOcqPmGPX9k/edit)
 
