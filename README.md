@@ -191,7 +191,6 @@ Sometimes Google Drive and MEGA will experience bandwidth caps, so below I have 
 - [Elden Ring - Great Spear.7z](https://drive.google.com/file/d/19muJYVcS_CwVOsQ9bQL_wWsYRz5W7BZI/edit)
 - [EldenRing_LegendaryWeapons.7z](https://drive.google.com/file/d/11T5k_CAlFMoN9uwWuyRhdRprV7pGHb7n/edit)
 - [High Poly Head](https://drive.google.com/file/d/15_0njBUjHKidNnJPmLXEygzGVWsA3Zbq)
-- [[Dint999] BDOR Hairs SSE 0.13.7z](https://drive.google.com/file/d/1u85h3rTvR2778AjegtovyLKIhkv-pM1b/edit)
 - [[Dint999] BDOR Hairs SSE 0.14.7z](https://drive.google.com/file/d/1PigoPEWDTgS66jKtYaeW_qDHHTXJ88wQ/edit)
 - [[Dint999] FacePartMod (SSE) v0.6b.7z](https://drive.google.com/file/d/1RQl8ki73fgLnzBZn6EWjneuW4Dk8TUO_/edit)
 - [[full_inu] Armor Pack 02 SSE.7z](https://drive.google.com/file/d/12Siwo7JsLw03mJBqXrhHkKOcqPmGPX9k/edit)
