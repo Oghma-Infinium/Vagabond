@@ -19,7 +19,6 @@
   - [Patreon DLSS and ENB Binaries](#patreon-dlss-and-enb-binaries)
     - [Installing DLSS](#installing-dlss)
     - [Installing Patreon ENB binaries](#installing-patreon-enb-binaries)
-  - [Changing Resolution](#changing-resolution)
   - [In-Game MCM options](#in-game-mcm-options)
   - [Wheeler](#wheeler)
     - [Wheel Editing](#wheel-editing)
@@ -27,6 +26,7 @@
       - [Insertion](#insertion)
       - [Ordering](#ordering)
       - [Deletion](#deletion)
+
 
 
 ---
@@ -39,17 +39,19 @@ The following sections detail the **supported** modifications to the list. Any o
 
 This section will cover the following Optional Mods that are included as a part of the modlist. Please note that if you do any of these tweaks, it is in your best interest to share this information when reporting any potential bugs that you encounter when playing the modlist.
 
- 1. **Dark Souls Underwear - Never Nude Bodyslide Generated files**: Enabled by default. Disable this mod if you wish to have a nude body.
-      > Only for female characters.
+1. **Dark Souls Underwear - Never Nude Bodyslide Generated files**: Enabled by default. Disable this mod if you wish to have a nude body.
+   > Only for female characters.
 
- 2. **3BA less bounce**: Enabled by default. Disable this mod if you want your 3BA body to jiggle more.
-      > Only for female characters.
+2. **3BA Less Bounce**: Enabled by default. Disable this mod if you want your 3BA body to jiggle more.
+   > Only for female characters.
 
- 3. **[NoDelete] Skyrim Priority My Setting**: These are my personal settings for [Skyrim Priority](https://www.nexusmods.com/skyrimspecialedition/mods/50129). If you wish to edit this to accomodate for your PC specs, please read the `PriorityMod.toml` file within the mod.
-      > If you have no clue how to edit this file, do not touch this mod.
+3. **Skyrim Upscaler - DLAA** - Enable this mod if you'd like better antialiasing, but do not use the DLSS settings since this version **does not work with ENB**.
+   > DLAA and DLSS **cannot** be used together. Do not enable this if you're using Puredark's Patreon DLSS mod.
 
- 4. **ENB Preset Options:** By default, the list comes with Bjorn ENB enabled. Under the `ENB Preset Options` separator, you may untick the `Bjorn ENB` mod and enable **one** of the 3 optional ENBs depending on what you prefer.
+4. **Skyrim Priority My Setting**: These are my personal settings for [Skyrim Priority](https://www.nexusmods.com/skyrimspecialedition/mods/50129). If you wish to edit this to accomodate for your PC specs, please read the `PriorityMod.toml` file within the mod.
+    > If you have no clue how to edit this file, do not touch this mod.
 
+5. **ENB Preset Options:** By default, the list ships with Amon ENB for NAT 3. Under the `ENB Preset Options` separator, you may untick the `AMON ENB REBORN for NAT 3` mod and enable **one** of the 4 optional ENBs depending on what you prefer.
 
 ## Patreon DLSS and ENB Binaries
 
@@ -88,16 +90,6 @@ Please follow the steps below to install the Patreon ENB binaries:
 7. If you have opened the game before installing these ENB binaries, open MO2's `Overwrite` by double-clicking the red `Overwrite` text at the very bottom of MO2's left pane.
 8. Open the `Root` folder inside Overwrite and delete any `enbcache` and `gpucache` folders if they exist.
 
-## Changing Resolution
-
-By default, Wabbajack will set the resolution in your `Skyrimprefs.ini` to match the native resolution of your monitor. However, Skyrim scales very poorly at resolutions above 1080p (`1920x1080`) and depending on your hardware, it might be difficult to achieve consistent FPS on higher resolutions.
-
-The preferable way to change your resolution is to find the `SSEDisplayTweaks.ini` located in the `SSE Display Tweaks` mod. Open the file and navigate to the `[Render]` section and find the lines `#Resolution=1920x1080`. Here you can change the resolution to your desired resolution. After changing the resolution, remove the `#` in order for the settings to take affect when launching the game.
-
-Example for how the .ini line should look:
-
-**Before:** `#Resolution=1920x1080`  
-**After:** `Resolution=2560x1440`
 
 ## In-Game MCM options
 
