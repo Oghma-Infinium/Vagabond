@@ -278,7 +278,7 @@ If you use Windows Defender, it is advised that you set up an exception for the 
 ### Starting the Game
   Head over to the installation folder and locate an executable named `ModOrganizer.exe` and launch it.
 
- 1. Launch the `Vagabond` executable in MO2.
+ 1. Click the button that says `Run` next to the `Vagabond` executable in the top right of MO2.
  2. Once the game loads, start a new game. You will now spawn in a small room with a door in front for you.
       > The game may take 5-10 minutes to load on your first launch due to how big the list is. Please be patient.
  3. **(Optional)** You may adjust MCM settings to your liking, the default settings are for my preferred experience. Refer to MCM options here at the [Configuration page](https://github.com/Oghma-Infinium/Vagabond/blob/main/Documentation/CONFIG.md).
