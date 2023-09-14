@@ -52,6 +52,7 @@ This section will cover the following Optional Mods that are included as a part 
     > If you have no clue how to edit this file, do not touch this mod.
 
 5. **ENB Preset Options:** By default, the list ships with Amon ENB for NAT 3. Under the `ENB Preset Options` separator, you may untick the `AMON ENB REBORN for NAT 3` mod and enable **one** of the 4 optional ENBs depending on what you prefer.
+   > If you have opened the game before, delete enbcache and gpucache from overwrite\root. You can find overwrite by clicking the red text that says "overwrite" at the very bottom of Mod Organizer 2 left pane.
 
 ## Patreon DLSS and ENB Binaries
 
@@ -105,6 +106,8 @@ If an MCM for a mod is **not** mentioned in this section, it may or may not be s
 	- **Note:** Power attack and wait keybinds must be the same or some combat functionality will break. Waiting only works when in the tween menu, so these don't interfere with each other.
 
  - **Skyrim Outfit System**: You can enable the mod and create your own outfits here that can override the visuals of your current equipped gear but retain the stats.
+
+ - **Activation Animations**: You can enabled or disable animations for specific actions like looting or opening doors here.
 
 ## Wheeler
 
