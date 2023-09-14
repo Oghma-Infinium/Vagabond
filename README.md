@@ -185,7 +185,7 @@ To install Vagabond, complete the following steps:
 4. Set the `Modlist Installation Location` to a folder such as `C:\Vagabond`. **DO NOT set the folder to Program Files, User protected folders (such as Desktop, Documents, Downloads, etc.), or in your Skyrim's Steam folder**.
     > The `Resource Download Location` does not need to be on an SSD, but it makes installing faster. You can set this location to an HDD for the sake of saving space.
 5. Press the play arrow to begin the Installation.
-6. If the installation is successful, then rejoice and move onto the [Post Installation](#post-installation-and-optional-setup) section. If the installation is unsuccessful, follow the tips below or join the [discord server](https://discord.gg/WakingDreams) for support.
+6. If the installation is successful, then rejoice and move onto the [Post Installation](#post-installation-and-optional-setup) section. If the installation is unsuccessful, use the download links and tips below or join the [discord server](https://discord.gg/WakingDreams) for support.
 
 Sometimes Google Drive and MEGA will experience bandwidth caps, so below I have included the links to the files that require them.
 - [Elden Ring - Great Spear.7z](https://drive.google.com/file/d/19muJYVcS_CwVOsQ9bQL_wWsYRz5W7BZI/edit)
@@ -210,6 +210,7 @@ Patreon downloads are also listed in case they give any issues.
 - [SC_HorseReplacer.7z](https://www.patreon.com/file?h=35289631&i=5312963)
 - [SC_HorseReplacer_SSE(overwrites LE folder).7z](https://www.patreon.com/file?h=35289631&i=5428357)
 - [Wo Long - Azure Dragon Crescent Glaive.7z](https://www.patreon.com/file?h=80323534&i=13464512)
+- [Wo Long - Azure Dragon Crescent Glaive.7z](https://www.patreon.com/file?h=80323534&i=13464512)
 - [d3dcompiler_43.zip](https://www.patreon.com/file?h=82920846&i=14179396)
 
 ### Problems with Installation
@@ -217,7 +218,7 @@ Patreon downloads are also listed in case they give any issues.
 It is possible that you may encounter an error with Wabbajack when installing. Some common issues are listed below.
 
 - Could not download **X**:
-	- Big files can fail to download due to connection issues. You can either run wabbajack again or download the file manually. If you decide to manually download it, make sure to place the file(s) inside the folder you set as the `Resource Download Location` in the [Downloading and Installing Vagabond](#downloading-and-installing-vagabond) section.
+	- Big files can fail to download due to connection issues or website issues. You can either run Wabbajack again or download the missing file manually. If you decide to manually download the file from , make sure to place the file(s) inside the folder you set as the `Resource Download Location` in the [Downloading and Installing Vagabond](#downloading-and-installing-vagabond) section.
 
 - **X** is not a whitelisted download:
 
