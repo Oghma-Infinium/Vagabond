@@ -241,8 +241,6 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 
 ## Post-Installation
 
-⚠ **Before you start playing the game, I suggest reading over the [Configuration page](https://github.com/Oghma-Infinium/Vagabond/blob/main/Documentation/CONFIG.md) and the [FAQ page](https://github.com/Oghma-Infinium/Vagabond/blob/main/Documentation/FAQ.md) for the list.** ⚠
-
 ### Verify Install
 
 ⚠ **THIS STEP IS MANDATORY.** ⚠
