@@ -14,6 +14,7 @@
 **Modlist Support: [Waking Dreams](https://discord.gg/wakingdreams)**
 
 ## Contents
+
 - [FAQ](#faq)
   - [Q: How do I open the OAR menu? How do I open the IED menu?](#q-how-do-i-open-the-oar-menu-how-do-i-open-the-ied-menu)
   - [Q: How do I wait?](#q-how-do-i-wait)
@@ -25,14 +26,11 @@
 - [Known Issues](#known-issues)
   - [Tolfdir won't got to Saarthal!](#tolfdir-wont-got-to-saarthal)
 
-
-
-
-
 # FAQ
 
 ## Q: How do I open the OAR menu? How do I open the IED menu?
-> A: These menus have been disabled purposefully. Enabling them and messing with these menus is not officially supported. 
+>
+> A: These menus have been disabled purposefully. Enabling them and messing with these menus is not officially supported.
 
 ## Q: How do I wait?
 
@@ -57,7 +55,6 @@
 ## Q: My character's face suddenly became much darker, causing a neck seam. What do I do?
 
 > A: This is a vanilla bug that can be fixed by entering and exiting Racemenu. To enter Racemenu, either use the vanity mirror in your inventory (recommended and safer) or open console and type in: `showracemenu`, then exit Racemenu immediately.
-
 
 # Known Issues
 

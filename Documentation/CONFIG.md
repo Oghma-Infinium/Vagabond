@@ -14,6 +14,7 @@
 **Modlist Support: [Waking Dreams](https://discord.gg/wakingdreams)**
 
 ## Contents
+
 - [Optional Configurations](#optional-configurations)
   - [Optional Mods](#optional-mods)
   - [Patreon DLSS and ENB Binaries](#patreon-dlss-and-enb-binaries)
@@ -46,7 +47,7 @@ This section will cover the following Optional Mods that are included as a part 
 3. **Skyrim Upscaler - DLAA** - Enable this mod if you'd like better antialiasing, but do not use the DLSS settings since this version **does not work with ENB**.
    > DLAA and DLSS **cannot** be used together. Do not enable this if you're using Puredark's Patreon DLSS mod.
 
-4. **Skyrim Priority My Setting**: These are my personal settings for [Skyrim Priority](https://www.nexusmods.com/skyrimspecialedition/mods/50129). If you wish to edit this to accomodate for your PC specs, please read the `PriorityMod.toml` file within the mod.
+4. **Skyrim Priority My Setting**: These are my personal settings for [Skyrim Priority](https://www.nexusmods.com/skyrimspecialedition/mods/50129). If you wish to edit this to accommodate for your PC specs, please read the `PriorityMod.toml` file within the mod.
     > If you have no clue how to edit this file, do not touch this mod.
 
 5. **ENB Preset Options:** By default, the list ships with Amon ENB for NAT 3. Under the `ENB Preset Options` separator, you may untick the `AMON ENB REBORN for NAT 3` mod and enable **one** of the 4 optional ENBs depending on what you prefer.
@@ -89,23 +90,22 @@ Please follow the steps below to install the Patreon ENB binaries:
 7. If you have opened the game before installing these ENB binaries, open MO2's `Overwrite` by double-clicking the red `Overwrite` text at the very bottom of MO2's left pane.
 8. Open the `Root` folder inside Overwrite and delete any `enbcache` and `gpucache` folders if they exist.
 
-
 ## In-Game MCM options
 
 If an MCM for a mod is **not** mentioned in this section, it may or may not be safe to customize. **Only MCM settings specifically mentioned in this section are officially supported to be adjusted.**
 
- - **Skyrim Unbound**: You can change your start settings here. 
-      >**Do not** choose a werewolf or vampire start, these are known to cause issues.
+- **Skyrim Unbound**: You can change your start settings here.
+    >**Do not** choose a werewolf or vampire start, these are known to cause issues.
 
- - **SmoothCam**: Try out various presets included if you don't like the default camera preset.
+- **SmoothCam**: Try out various presets included if you don't like the default camera preset.
 
- - **One Click Power Attack**: Set your power attack key here. Controller players can keep the default settings.
-      > **Do not** bind any keys to dual power attack, it does not do anything with MCO. **Do not** set up the power attack to play on button combos. 
-	- **Note:** Power attack and wait keybinds must be the same or some combat functionality will break. Waiting only works when in the tween menu, so these don't interfere with each other.
+- **One Click Power Attack**: Set your power attack key here. Controller players can keep the default settings.
+    > **Do not** bind any keys to dual power attack, it does not do anything with MCO. **Do not** set up the power attack to play on button combos.
+  - **Note:** Power attack and wait keybinds must be the same or some combat functionality will break. Waiting only works when in the tween menu, so these don't interfere with each other.
 
- - **Skyrim Outfit System**: You can enable the mod and create your own outfits here that can override the visuals of your current equipped gear but retain the stats.
+- **Skyrim Outfit System**: You can enable the mod and create your own outfits here that can override the visuals of your current equipped gear but retain the stats.
 
- - **Activation Animations**: You can enable or disable animations for specific actions like looting or opening doors here.
+- **Activation Animations**: You can enable or disable animations for specific actions like looting or opening doors here.
 
 ## Wheeler
 
