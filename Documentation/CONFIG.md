@@ -17,7 +17,8 @@
 
 - [Optional Configurations](#optional-configurations)
   - [Optional Mods](#optional-mods)
-  - [Installing DLSS](#installing-dlss)
+  - [Patreon DLSS for ENB](#patreon-dlss-for-enb)
+    - [Installing DLSS](#installing-dlss)
   - [In-Game MCM options](#in-game-mcm-options)
   - [Wheeler](#wheeler)
     - [Wheel Editing](#wheel-editing)
@@ -51,7 +52,7 @@ This section will cover the following Optional Mods that are included as a part 
 5. **ENB Preset Options:** By default, the list ships with Amon ENB for NAT 3. Under the `ENB Preset Options` separator, you may untick the `AMON ENB REBORN for NAT 3` mod and enable **one** of the 4 optional ENBs depending on what you prefer.
    > If you have opened the game before, delete the `enbcache` and `gpucache` folders inside MO2's `Overwrite\Root` folder. You can find Overwrite by scrolling all the way down in Mod Organizers' left pane and double-clicking the red `Overwrite` text.
 
-## Patreon DLSS
+## Patreon DLSS for ENB
 
 Playing this modlist will **never** require using paid mods, however this guide is for those who are willing to drop a few bucks for improved performance on GPU limited systems.
 
