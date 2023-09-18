@@ -25,6 +25,7 @@
   - [Q: My character's face suddenly became much darker, causing a neck seam. What do I do?](#q-my-characters-face-suddenly-became-much-darker-causing-a-neck-seam-what-do-i-do)
 - [Known Issues](#known-issues)
   - [Tolfdir won't got to Saarthal!](#tolfdir-wont-got-to-saarthal)
+  - [I crash in Dwemer ruins!](#i-crash-in-dwemer-ruins)
 
 # FAQ
 
@@ -61,3 +62,8 @@
 ## Tolfdir won't got to Saarthal!
 
 > A: Just click him on console, walk to Saarthal, and type `prid` in console.
+
+## I crash in Dwemer ruins!
+
+> A: Known issue. Fixed in next update. If you don't want to wait download and install [this fix](https://www.nexusmods.com/skyrimspecialedition/mods/53626?tab=files&file_id=260048&nmm=1). Choose "merge" when MO2 asks for overwrite.
+
