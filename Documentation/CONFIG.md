@@ -17,9 +17,7 @@
 
 - [Optional Configurations](#optional-configurations)
   - [Optional Mods](#optional-mods)
-  - [Patreon DLSS and ENB Binaries](#patreon-dlss-and-enb-binaries)
-    - [Installing DLSS](#installing-dlss)
-    - [Installing Patreon ENB binaries](#installing-patreon-enb-binaries)
+  - [Installing DLSS](#installing-dlss)
   - [In-Game MCM options](#in-game-mcm-options)
   - [Wheeler](#wheeler)
     - [Wheel Editing](#wheel-editing)
@@ -53,18 +51,17 @@ This section will cover the following Optional Mods that are included as a part 
 5. **ENB Preset Options:** By default, the list ships with Amon ENB for NAT 3. Under the `ENB Preset Options` separator, you may untick the `AMON ENB REBORN for NAT 3` mod and enable **one** of the 4 optional ENBs depending on what you prefer.
    > If you have opened the game before, delete the `enbcache` and `gpucache` folders inside MO2's `Overwrite\Root` folder. You can find Overwrite by scrolling all the way down in Mod Organizers' left pane and double-clicking the red `Overwrite` text.
 
-## Patreon DLSS and ENB Binaries
+## Patreon DLSS
 
 Playing this modlist will **never** require using paid mods, however this guide is for those who are willing to drop a few bucks for improved performance on GPU limited systems.
 
-There are two paywalled mods, which can provide a significant performance increase. The perfromance increase is most noticeable on GPU-limited systems as opposed to CPU-limited ones. Notably, DLSS can even provide small reduction in VRAM usage (estimated roughly 10-20% on performance mode in DLSS.)
+Perfromance increase from DLSS is most noticeable on GPU-limited systems as opposed to CPU-limited ones. Notably, DLSS can even provide small reduction in VRAM usage (estimated roughly 10-20% on performance mode in DLSS.) DLSS frame generation, which is only available on RTX 4000-series cards can also help with CPU bottleneck.
 
 Please check if your graphics card is compatible with DLSS before choosing to buy it.
 
 - [ENB-compatible DLSS by Puredark](https://www.patreon.com/PureDark)
-- [Optimized ENB binaries by Boris Vorontsov](https://www.patreon.com/enb)
 
-If you choose to get either of these, you need to subscribe to the author's Patreon with the subscription tier that grants access to their paywalled content. As of writing this, it seems to be the $5 tier for both Puredark and Boris Vorontsov but make sure to read the Patreon tiers yourself in case this changes.
+If you choose to get DLSS, you need to subscribe to the author's Patreon with the subscription tier that grants access to their paywalled content. As of writing this, it seems to be the $5 tier for Puredark but make sure to read the Patreon tiers yourself in case this changes.
   > **NOTE:** I am not responsible for any issues you have with Patreon's payment system or getting the files from the Patreon's discord once you subscribe.
 
 ### Installing DLSS
@@ -76,19 +73,6 @@ Simply drag and drop the DLSS archive you downloaded to the bottom of MO2's left
 **You do not need to adjust the `SSEDisplayTweaks.ini` or `Skyrim.ini` settings per Puredark's instructions. My default settings for the modlist support DLSS.**
 
 You can find the configuration file for DLSS in the `SKSE\Plugins\` folder of the mod. I recommend turning off sharpening, but **do not** touch either of the MipLodBias settings.
-
-### Installing Patreon ENB binaries
-
-Please follow the steps below to install the Patreon ENB binaries:
-
-1. Create a mod called `[NoDelete] Optional ENB Patreon Binaries` by right-clicking under the `Optionals` separator in the left pane of MO2 -> clicking `All Mods` -> and then clicking `Create empty mod above`.
-2. Once you've created the mod, right-click the mod name and click `Open in Explorer`.
-3. Once the window opens, create a folder named `Root` and open this folder.
-4. Open the archive you got from Boris' discord and open the `WrapperVersion` folder.
-5. Drag and drop **only** the `d3d11.dll` and `d3dcompiler_46e.dll` files into the folder called Root that we opened in Step 3.
-6. Enable the mod `[NoDelete] Optional ENB Patreon Binaries` in MO2 by ticking the box next to it.
-7. If you have opened the game before installing these ENB binaries, open MO2's `Overwrite` by double-clicking the red `Overwrite` text at the very bottom of MO2's left pane.
-8. Open the `Root` folder inside Overwrite and delete any `enbcache` and `gpucache` folders if they exist.
 
 ## In-Game MCM options
 
