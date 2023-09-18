@@ -285,7 +285,7 @@ If you use Windows Defender, it is advised that you set up an exception for the 
       > The game may take 5-10 minutes to load on your first launch due to how big the list is. Please be patient and **do not** click unlock on the MO2 pop-up.
  2. Once the game loads, start a new game. You will now spawn in a small room with a door in front for you.
  3. **(Optional)** Refer to MCM options here at the [Configuration page](https://github.com/Oghma-Infinium/Vagabond/blob/main/Documentation/CONFIG.md).
- 4. After you are done with MCMs, press enter on your keyboard to create your character. The game will open Racemenu where you can customize your character.
+ 4. Press enter on your keyboard to create your character. The game will open Racemenu where you can customize your character.
  5. After you're done with the character creation you'll be presented with a message box. Choose continue to start your journey. Other messages boxes may pop up, just press `Ok` on those.
 
 ## Updating the modlist
