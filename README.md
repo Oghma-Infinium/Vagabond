@@ -212,7 +212,6 @@ Patreon downloads are also listed in case they give any issues.
 - [SC_HorseReplacer.7z](https://www.patreon.com/file?h=35289631&i=5312963)
 - [SC_HorseReplacer_SSE(overwrites LE folder).7z](https://www.patreon.com/file?h=35289631&i=5428357)
 - [Wo Long - Azure Dragon Crescent Glaive.7z](https://www.patreon.com/file?h=80323534&i=13464512)
-- [Wo Long - Azure Dragon Crescent Glaive.7z](https://www.patreon.com/file?h=80323534&i=13464512)
 - [d3dcompiler_43.zip](https://www.patreon.com/file?h=82920846&i=14179396)
 
 ### Problems with Installation
