@@ -25,6 +25,7 @@
   - [Q: My character's face suddenly became much darker, causing a neck seam. What do I do?](#q-my-characters-face-suddenly-became-much-darker-causing-a-neck-seam-what-do-i-do)
 - [Known Issues](#known-issues)
   - [Tolfdir won't got to Saarthal!](#tolfdir-wont-got-to-saarthal)
+  - [Riften house cats talk to me about economy?](#riften-house-cats-talk-to-me-about-economy)
   - [I crash in Dwemer ruins!](#i-crash-in-dwemer-ruins)
 
 # FAQ
@@ -62,6 +63,10 @@
 ## Tolfdir won't got to Saarthal!
 
 > A: Just click him on console, walk to Saarthal, and type `prid` in console.
+
+## Riften house cats talk to me about economy?
+
+> A: Bug that is now a feature, won't fix.
 
 ## I crash in Dwemer ruins!
 
