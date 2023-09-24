@@ -23,6 +23,7 @@
   - [Q: Any video showcase of the list?](#q-any-video-showcase-of-the-list)
   - [Q: A mod in the list doesn't do what it says on the mod page. Is it broken?](#q-a-mod-in-the-list-doesnt-do-what-it-says-on-the-mod-page-is-it-broken)
   - [Q: My character's face suddenly became much darker, causing a neck seam. What do I do?](#q-my-characters-face-suddenly-became-much-darker-causing-a-neck-seam-what-do-i-do)
+  - [Q: How do I activate survival mode?](#q-wow-do-i-activate-survival-mode)
 - [Known Issues](#known-issues)
   - [Tolfdir won't got to Saarthal!](#tolfdir-wont-got-to-saarthal)
   - [Riften house cats talk to me about economy?](#riften-house-cats-talk-to-me-about-economy)
@@ -57,6 +58,10 @@
 ## Q: My character's face suddenly became much darker, causing a neck seam. What do I do?
 
 > A: This is a vanilla bug that can be fixed by entering and exiting Racemenu. To enter Racemenu, either use the vanity mirror in your inventory (recommended and safer) or open console and type in: `showracemenu`, then exit Racemenu immediately.
+
+## Q: How do I activate survival mode?
+
+> A: Survival mode is not supported in Vagabond.
 
 # Known Issues
 
