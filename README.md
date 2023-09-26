@@ -62,6 +62,8 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 | **Ram**    | 32GB (2x16) @3.2GHz | 32GB (2x16) |
 | **Storage**    | 970 EVO NVMe | SATA/NVME SSD |
 
+At least 11GB of VRAM on GPU is recommended for the list, otherwise you'll experience frequent stutters in exteriors.
+
 Downloads: ~291 GB  
 Install: ~487 GB  
 Temp Files: ~30 GB (on OS drive)  
