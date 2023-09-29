@@ -28,6 +28,7 @@
   - [Tolfdir won't got to Saarthal!](#tolfdir-wont-got-to-saarthal)
   - [Riften house cats talk to me about economy?](#riften-house-cats-talk-to-me-about-economy)
   - [I crash in Dwemer ruins!](#i-crash-in-dwemer-ruins)
+  - [I can't swap naked body on male character!](#i-cant-swap-naked-body-on-male-character)
 
 # FAQ
 
@@ -76,4 +77,8 @@
 ## I crash in Dwemer ruins!
 
 > A: Known issue. Fixed in next update. If you don't want to wait download and install [this fix](https://www.nexusmods.com/skyrimspecialedition/mods/53626?tab=files&file_id=260048&nmm=1). Choose "merge" when MO2 asks for overwrite.
+
+## I can't swap naked body on male character!
+
+> A: Known issue. Will be fixed in the next update.
 
