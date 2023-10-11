@@ -42,9 +42,12 @@
 
 ### Info
 
-**This update is save safe.**
+**This update is probably save safe.**
 
-Fixed some stuff
+Small hotfix to make list installable again and to fix a few bugs and remove problematic mods. Update 1.1 is still WIP.
+
+Make sure Quick Light is not active before updating and preferably get rid of your vanity mirror by dropping it on ground, opening console, clicking ont the vanity mirror, and entering `markfordelete` in the console.
+Ignore the popup about missing plugins when continuing your save. It doesn't matter.
 
  - Refer to [Trello](https://trello.com/b/khix4egd/vagabond-bug-reports) to track which are fixed and which still persist.
  - Fixed CTDs in Dwemer Ruins
