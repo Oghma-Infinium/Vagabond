@@ -38,7 +38,6 @@ The following sections detail the **supported** modifications to the list. Any o
 This section will cover the following Optional Mods that are included as a part of the modlist. Please note that if you do any of these tweaks, it is in your best interest to share this information when reporting any potential bugs that you encounter when playing the modlist.
 
 1. **Equipment UI preset for 1080p**: Disabled by default. Enable this mod if you play on a 1080p monitor
-   > Only for female characters.
 
 2. **Dark Souls Underwear - Never Nude Bodyslide Generated files**: Enabled by default. Disable this mod if you wish to have a nude body.
    > Only for female characters.
