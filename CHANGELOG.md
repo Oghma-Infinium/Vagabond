@@ -11,6 +11,7 @@
 ---
 
 # Changelog
+- [1.0.2](#102)
 - [1.0.1](#101)
 - [1.0.0](#100)
 - [0.6.0](#060)
@@ -34,6 +35,40 @@
 - [0.1.5](#015)
 - [0.1.4](#014)
 - [0.1.3](#013)
+
+</Details>
+
+## 1.0.2
+
+### Info
+
+**This update is save safe.**
+
+Fixed some stuff
+
+ - Refer to [Trello](https://trello.com/b/khix4egd/vagabond-bug-reports) to track which are fixed and which still persist.
+ - Fixed CTDs in Dwemer Ruins
+ - Removed Player Magic Lighting mods to prevent lighting crashes
+ - Fixed issues with The Staff Of Magnus quest puzzle
+
+<Details>
+
+### Updated
+
+ - Mrf's Markarth
+ - [Dint999] BDOR Hairs SSE
+
+### Added
+
+ - Optimized ENB lights meshes - Resources
+
+### Removed
+
+ - Quick Light SE
+ - Quick Light SE Alternate Meshes
+ - Quick Light SE - Settings Loader
+ - Player Spell (and Weapon) Lighting
+ - Vanity Mirror 2
 
 </Details>
 
