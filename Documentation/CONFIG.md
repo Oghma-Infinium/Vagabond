@@ -86,7 +86,6 @@ If an MCM for a mod is **not** mentioned in this section, it may or may not be s
 
 - **One Click Power Attack**: Set your power attack key here. Controller players can keep the default settings.
     > **Do not** bind any keys to dual power attack, it does not do anything with MCO. **Do not** set up the power attack to play on button combos.
-  - **Note:** Power attack and wait keybinds must be the same or some combat functionality will break. Waiting only works when in the tween menu, so these don't interfere with each other.
 
 - **Skyrim Outfit System**: You can enable the mod and create your own outfits here that can override the visuals of your current equipped gear but retain the stats.
 
