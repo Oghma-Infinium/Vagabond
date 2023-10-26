@@ -196,6 +196,7 @@ Sometimes Google Drive and MEGA will experience bandwidth caps, so below I have 
 - [[Dint999] HairPack02 SSE 1.10 (base).7z](https://drive.google.com/u/0/uc?id=1Ts0sQz3hDxhCeS_LUnXJQFuws_qbw9YQ&export=download)
 - [[Dint999] FacePartMod (SSE) v0.6b.7z](https://drive.google.com/u/0/uc?id=1RQl8ki73fgLnzBZn6EWjneuW4Dk8TUO_&export=download)
 - [[full_inu] Armor Pack 02 SSE.7z](https://drive.google.com/u/0/uc?id=12Siwo7JsLw03mJBqXrhHkKOcqPmGPX9k&export=download)
+- [Elwap's speedtree](https://mega.nz/file/xUc0zRLY#NYwbmmHOZhpSF2hpV7hMRYejgZsL_MAIVv_DfjK9JRM)
 
 Sometimes the SkyrimGuild website also runs into issues so I suggest downloading these in advance as well.
 
