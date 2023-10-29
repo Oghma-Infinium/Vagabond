@@ -175,7 +175,9 @@ Once you have completed pre-installation, follow these steps to install Wabbajac
 
 #### Downloading and Installing Vagabond
 
-Downloading and installing Vagabond can take a while depending on your internet connection, PC specs, and if you have Nexus Premium. Without Premium, you will need to manually click the `Slow Download` button for each mod.
+Downloading and installing Vagabond can take a while depending on your internet connection, PC specs, and if you have Nexus Premium. Without Premium, you will need to manually click the `Slow Download` button for each mod. 
+
+**NOTE**: If you are downloading *without* Premium, please make sure you download [Impactful Blocking](https://www.skyrim-guild.com/s/Impactful-Blocking-14.rar) manually and place the archive in your downloads folder for Vagabond first.
 
 To install Vagabond, complete the following steps:
 
@@ -185,7 +187,7 @@ To install Vagabond, complete the following steps:
 4. Set the `Modlist Installation Location` to a folder such as `C:\Vagabond`. **DO NOT set the folder to Program Files, User protected folders (such as Desktop, Documents, Downloads, etc.), or in your Skyrim's Steam folder**.
     > The `Resource Download Location` does not need to be on an SSD, but it makes installing faster. You can set this location to an HDD for the sake of saving space.
 5. Press the play arrow to begin the Installation.
-6. If the installation is successful, then rejoice and move onto the [Problems with Installation](#problems-with-installation) section. If the installation is unsuccessful, use the download links and tips below or join the [discord server](https://discord.gg/WakingDreams) for support.
+6. If the installation is successful, then rejoice and move onto the [Post Installation](#post-installation) section. If the installation is unsuccessful, use the download links and tips below or join the [discord server](https://discord.gg/WakingDreams) for support.
 
 Sometimes Google Drive and MEGA will experience bandwidth caps, so below I have included the links to the files that require them.
 
@@ -196,7 +198,14 @@ Sometimes Google Drive and MEGA will experience bandwidth caps, so below I have 
 - [[Dint999] HairPack02 SSE 1.10 (base).7z](https://drive.google.com/u/0/uc?id=1Ts0sQz3hDxhCeS_LUnXJQFuws_qbw9YQ&export=download)
 - [[Dint999] FacePartMod (SSE) v0.6b.7z](https://drive.google.com/u/0/uc?id=1RQl8ki73fgLnzBZn6EWjneuW4Dk8TUO_&export=download)
 - [[full_inu] Armor Pack 02 SSE.7z](https://drive.google.com/u/0/uc?id=12Siwo7JsLw03mJBqXrhHkKOcqPmGPX9k&export=download)
-- [Elwap's speedtree](https://mega.nz/file/xUc0zRLY#NYwbmmHOZhpSF2hpV7hMRYejgZsL_MAIVv_DfjK9JRM)
+- [Real Wheat Fields of Skyrim](https://drive.google.com/uc?id=1aA15AVXDubSoizOnLeNm19TsnbvtpRZn&export=download)
+- [Bloodstorm ENG](https://drive.google.com/uc?id=1wu9hwP_7QJC9tWxLwR8QU41txry5u9vA&export=download)
+- [MCO Sprint Attack Stamina Fix](https://drive.google.com/uc?id=1qY8Xe8LAF63m3UVJM58xVj1TOTd3uR-l&export=download)
+- [Olivier Kenjutsu Great Sword MCO](https://drive.google.com/uc?id=1Idn2Y-_dTCoRtUrohb0zNS3Nea2CfheY&export=download)
+- [Oliver Kenjutsu Sword MCO](https://drive.google.com/uc?id=1DZMKj4B8FUeeAmhv7j3wA6yFQ2kg8w2w&export=download)
+- [Elwap's Speedtree](https://mega.nz/file/xUc0zRLY#NYwbmmHOZhpSF2hpV7hMRYejgZsL_MAIVv_DfjK9JRM)
+- [Mod Organizer 2.4.5 Alpha 3](https://mega.nz/file/EmxzyLLb#0y6vxJ6iy0QRWNn2wTXV56CMkhyfAF8MunZ_w1RfeKE)
+
 
 Sometimes the SkyrimGuild website also runs into issues so I suggest downloading these in advance as well.
 
@@ -207,7 +216,7 @@ Sometimes the SkyrimGuild website also runs into issues so I suggest downloading
 Patreon downloads are also listed in case they give any issues.
 
 - [ADXP I MCO Nioh Dai-Katana (0.902) WIP.rar](https://www.patreon.com/file?h=76242640&i=12606554)
-- [Elden ring - Commander's Standard.7z](https://www.patreon.com/file?h=73960863&i=12153333)
+- [Elden Ring - Commander's Standard.7z](https://www.patreon.com/file?h=73960863&i=12153333)
 - [Eskyrim MCO Installer 1.2.7z](https://www.patreon.com/file?h=68233071&i=11449877)
 - [MCO Dual Axe Normal and Power Attacks.7z](https://www.patreon.com/file?h=68914571&i=11564092)
 - [Miquellan Knight's Sword.7z](https://www.patreon.com/file?h=68558518&i=11200671)
