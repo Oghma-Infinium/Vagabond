@@ -11,6 +11,7 @@
 ---
 
 # Changelog
+- [1.0.3](#103)
 - [1.0.2](#102)
 - [1.0.1](#101)
 - [1.0.0](#100)
@@ -35,6 +36,20 @@
 - [0.1.5](#015)
 - [0.1.4](#014)
 - [0.1.3](#013)
+
+</Details>
+
+## 1.0.3
+
+### Info
+
+**This update is save safe.**
+
+Maintenance update to get the list installable again
+
+ - Refer to [Trello](https://trello.com/b/khix4egd/vagabond-bug-reports) to track which are fixed and which still persist.
+ - Added an experimental fix for those who crash during cell transitions in interiors often under the `Optionals` separator
+ - Added a UI preset for those on 1080p monitors under the `Optionals` separator
 
 </Details>
 

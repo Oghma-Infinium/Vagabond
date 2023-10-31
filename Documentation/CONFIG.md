@@ -37,20 +37,24 @@ The following sections detail the **supported** modifications to the list. Any o
 
 This section will cover the following Optional Mods that are included as a part of the modlist. Please note that if you do any of these tweaks, it is in your best interest to share this information when reporting any potential bugs that you encounter when playing the modlist.
 
-1. **Dark Souls Underwear - Never Nude Bodyslide Generated files**: Enabled by default. Disable this mod if you wish to have a nude body.
-   > Only for female characters.
+1. **ENB Preset Options:** By default, the list ships with Amon ENB for NAT 3. Under the `ENB Preset Options` separator, you may untick the `AMON ENB REBORN for NAT 3` mod and enable **one** of the 4 optional ENBs depending on what you prefer.
+   > If you have opened the game before, delete the `enbcache` and `gpucache` folders inside MO2's `Overwrite\Root` folder. You can find Overwrite by scrolling all the way down in Mod Organizers' left pane and double-clicking the red `Overwrite` text.
 
-2. **3BA Less Bounce**: Enabled by default. Disable this mod if you want your 3BA body to jiggle more.
-   > Only for female characters.
+2. **Dark Souls Underwear - Never Nude Bodyslide Generated files**: Enabled by default. Disable this mod if you wish to have a nude body.
 
-3. **Skyrim Upscaler - DLAA** - Enable this mod if you'd like better antialiasing, but do not use the DLSS settings since this version **does not work with ENB**.
+3. **3BA Less Bounce**: Enabled by default. Disable this mod if you want your 3BA body to jiggle more.
+
+4. **Equipment UI Preset for 1080p**: UI preset for 1080p users. Enable this if you use a 1080p monitor.
+
+5. **Skyrim Upscaler - DLAA** - Enable this mod if you'd like better antialiasing. Do not use the DLSS settings since this version **does not work with ENB**.
    > DLAA and DLSS **cannot** be used together. Do not enable this if you're using Puredark's Patreon DLSS mod.
 
-4. **Skyrim Priority My Setting**: These are my personal settings for [Skyrim Priority](https://www.nexusmods.com/skyrimspecialedition/mods/50129). If you wish to edit this to accommodate for your PC specs, please read the `PriorityMod.toml` file within the mod.
+6. **Experimental Cell Transition Crash Fix**: Experimental fix for CTDs during cell transitions in interiors. If you find yourself getting these often, feel free to enable this mod.
+
+7. **Skyrim Priority My Setting**: These are my personal settings for [Skyrim Priority](https://www.nexusmods.com/skyrimspecialedition/mods/50129). If you wish to edit this to accommodate for your PC specs, please read the `PriorityMod.toml` file within the mod.
     > If you have no clue how to edit this file, do not touch this mod.
 
-5. **ENB Preset Options:** By default, the list ships with Amon ENB for NAT 3. Under the `ENB Preset Options` separator, you may untick the `AMON ENB REBORN for NAT 3` mod and enable **one** of the 4 optional ENBs depending on what you prefer.
-   > If you have opened the game before, delete the `enbcache` and `gpucache` folders inside MO2's `Overwrite\Root` folder. You can find Overwrite by scrolling all the way down in Mod Organizers' left pane and double-clicking the red `Overwrite` text.
+
 
 ## Patreon DLSS for ENB
 
