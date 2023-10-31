@@ -28,6 +28,7 @@
   - [Tolfdir won't got to Saarthal!](#tolfdir-wont-got-to-saarthal)
   - [Riften house cats talk to me about economy?](#riften-house-cats-talk-to-me-about-economy)
   - [I can't swap naked body on male character!](#i-cant-swap-naked-body-on-male-character)
+  - [ENB looks weird until opening and closing the map](#enb-looks-weird-until-opening-and-closing-the-map)
 
 # FAQ
 
@@ -76,3 +77,7 @@
 ## I can't swap naked body on male character!
 
 > A: Known issue. Will be fixed in the next update.
+
+## ENB looks weird until opening and closing the map
+
+> A: Known issue. Don't know the cause. Open and close the map when you start the game.
