@@ -228,7 +228,7 @@ To install Vagabond, complete the following steps:
 3. Press the download arrow on the Vagabond UI card and wait for it to download.
 4. Set the `Modlist Installation Location` to a folder such as `C:\Vagabond`. **DO NOT set the folder to Program Files, User protected folders (such as Desktop, Documents, Downloads, etc.), or in your Skyrim's Steam folder**.
 5. Download the files from the [⚠ Prior to Installation Warning ⚠](#-prior-to-installation-warning-) section and place the files in the `Resource Download Location` folder as is.
-    > The `Resource Download Location` does not need to be on an SSD, but it makes installing faster. You can set this location to an HDD within Wabbajack for the sake of saving space.
+    > The `Resource Download Location` does not need to be on an SSD, but it makes installing faster. You can set this location to an HDD for the sake of saving space.
 6. Press the play arrow to begin the Installation.
 7. If the installation is successful, then rejoice and move onto the [Post Installation](#post-installation) section. If the installation is unsuccessful, use the download links and tips below or join the [discord server](https://discord.gg/WakingDreams) for support.
 
