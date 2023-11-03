@@ -30,9 +30,11 @@
       - [Installing Creation Club Content](#installing-creation-club-content)
     - [Wabbajack Installation](#wabbajack-installation)
       - [Installing Wabbajack](#installing-wabbajack)
+      - [⚠ Prior to Installation Warning](#-prior-to-installation-warning)
       - [Downloading and Installing Vagabond](#downloading-and-installing-vagabond)
     - [Problems with Installation](#problems-with-installation)
   - [Post-Installation](#post-installation)
+    - [Verify Install](#verify-install)
     - [Antivirus Exceptions](#antivirus-exceptions)
     - [Controller Keybinds](#controller-keybinds)
   - [Playing the List](#playing-the-list)
@@ -84,7 +86,7 @@ These steps are only required for installing the modlist for the first time. Add
 
 #### Prerequisites
 
- 1. Install [Visual C++ x64](https://aka.ms/vs/16/release/vc_redist.x64.exe) & [.Net Runtime v6 desktop x64](https://dotnet.microsoft.com/en-us/download/dotnet/6.0/runtime).
+ 1. Install [Visual C++ x64](https://aka.ms/vs/17/release/vc_redist.x64.exe) & [.Net Runtime v6 desktop x64](https://dotnet.microsoft.com/en-us/download/dotnet/6.0/runtime).
 
  2. Change Skyrim so it does not [automatically update](https://help.steampowered.com/en/faqs/view/71AB-698D-57EB-178C#disable).
 
@@ -173,30 +175,16 @@ Once you have completed pre-installation, follow these steps to install Wabbajac
 
 3. Double-click the `Wabbajack.exe` file that is now inside your Wabbajack folder to set up the program.
 
-#### Downloading and Installing Vagabond
+#### ⚠ Prior to Installation Warning
 
-Downloading and installing Vagabond can take a while depending on your internet connection, PC specs, and if you have Nexus Premium. Without Premium, you will need to manually click the `Slow Download` button for each mod. 
+Wabbajack can sometimes have trouble downloading mods hosted on sites other than Nexus. Because of this, it's required that you **MANUALLY DOWNLOAD** the following files **BEFORE** starting pressing the play button to start the install process for Vagabond.
 
-**NOTE**: If you are downloading *without* Premium, please make sure you download [Impactful Blocking](https://www.skyrim-guild.com/s/Impactful-Blocking-14.rar) manually and place the archive in your downloads folder for Vagabond first.
-
-To install Vagabond, complete the following steps:
-
-1. Open Wabbajack and click `Browse Modlists`
-2. Tick on the `Show Unofficial lists` box in the top right corner of Wabbajack.
-3. Press the download arrow on the Vagabond UI card and wait for it to download.
-4. Set the `Modlist Installation Location` to a folder such as `C:\Vagabond`. **DO NOT set the folder to Program Files, User protected folders (such as Desktop, Documents, Downloads, etc.), or in your Skyrim's Steam folder**.
-    > The `Resource Download Location` does not need to be on an SSD, but it makes installing faster. You can set this location to an HDD for the sake of saving space.
-5. Press the play arrow to begin the Installation.
-6. If the installation is successful, then rejoice and move onto the [Post Installation](#post-installation) section. If the installation is unsuccessful, use the download links and tips below or join the [discord server](https://discord.gg/WakingDreams) for support.
-
-Sometimes Google Drive and MEGA will experience bandwidth caps, so below I have included the links to the files that require them.
-
+**Google Drive Links:**
 - [Elden Ring - Great Spear.7z](https://drive.google.com/file/d/19muJYVcS_CwVOsQ9bQL_wWsYRz5W7BZI/edit)
 - [EldenRing_LegendaryWeapons.7z](https://drive.google.com/u/0/uc?id=11T5k_CAlFMoN9uwWuyRhdRprV7pGHb7n&export=download)
 - [High Poly Head](https://drive.google.com/u/0/uc?id=15_0njBUjHKidNnJPmLXEygzGVWsA3Zbq&export=download)
 - [[Dint999] BDOR Hairs SSE 0.15.7z](https://drive.google.com/u/0/uc?id=1vWIbrO7nHgW27HbjXBxMjuM3sJDitAF9&export=download)
 - [[Dint999] HairPack02 SSE 1.11 (base).7z](https://drive.google.com/u/0/uc?id=1Ts0sQz3hDxhCeS_LUnXJQFuws_qbw9YQ&export=download)
-- [[Dint999] HairPack02 SSE 1.10 (base).7z](https://www.mediafire.com/file/yx3c92op1t0w9br/%5BDint999%5D_HairPack02_SSE_1.10_(base).7z/file)
 - [[Dint999] FacePartMod (SSE) v0.6b.7z](https://drive.google.com/u/0/uc?id=1RQl8ki73fgLnzBZn6EWjneuW4Dk8TUO_&export=download)
 - [[full_inu] Armor Pack 02 SSE.7z](https://drive.google.com/u/0/uc?id=12Siwo7JsLw03mJBqXrhHkKOcqPmGPX9k&export=download)
 - [Real Wheat Fields of Skyrim](https://drive.google.com/uc?id=1aA15AVXDubSoizOnLeNm19TsnbvtpRZn&export=download)
@@ -204,17 +192,19 @@ Sometimes Google Drive and MEGA will experience bandwidth caps, so below I have 
 - [MCO Sprint Attack Stamina Fix](https://drive.google.com/uc?id=1qY8Xe8LAF63m3UVJM58xVj1TOTd3uR-l&export=download)
 - [Olivier Kenjutsu Great Sword MCO](https://drive.google.com/uc?id=1Idn2Y-_dTCoRtUrohb0zNS3Nea2CfheY&export=download)
 - [Olivier Kenjutsu Sword MCO](https://drive.google.com/uc?id=1DZMKj4B8FUeeAmhv7j3wA6yFQ2kg8w2w&export=download)
+
+**Mega Links:**
 - [Elwap's Speedtree](https://mega.nz/file/xUc0zRLY#NYwbmmHOZhpSF2hpV7hMRYejgZsL_MAIVv_DfjK9JRM)
 - [Mod Organizer 2.4.5 Alpha 3](https://mega.nz/file/EmxzyLLb#0y6vxJ6iy0QRWNn2wTXV56CMkhyfAF8MunZ_w1RfeKE)
 
 
-Sometimes the SkyrimGuild website also runs into issues so I suggest downloading these in advance as well.
+**SkyrimGuild Links:**
 
 - [Impactful+Blocking+1.4.rar](https://www.skyrim-guild.com/s/Impactful-Blocking-14.rar)
 - [Valkyrie+Sword&Shield+v0.1.3.zip](https://www.skyrim-guild.com/s/ValkyrieSwordShieldv013.zip)
 - [White+Fang+Dagger+v1.zip](https://www.skyrim-guild.com/s/White-Fang-Dagger-v1.zip)
 
-Patreon downloads are also listed in case they give any issues.
+**Patreon Links:**
 
 - [ADXP I MCO Nioh Dai-Katana (0.902) WIP.rar](https://www.patreon.com/file?h=76242640&i=12606554)
 - [Elden Ring - Commander's Standard.7z](https://www.patreon.com/file?h=73960863&i=12153333)
@@ -226,6 +216,21 @@ Patreon downloads are also listed in case they give any issues.
 - [SC_HorseReplacer_SSE(overwrites LE folder).7z](https://www.patreon.com/file?h=35289631&i=5428357)
 - [Wo Long - Azure Dragon Crescent Glaive.7z](https://www.patreon.com/file?h=80323534&i=13464512)
 - [d3dcompiler_43.zip](https://www.patreon.com/file?h=82920846&i=14179396)
+
+#### Downloading and Installing Vagabond
+
+Downloading and installing Vagabond can take a while depending on your internet connection, PC specs, and if you have Nexus Premium. Without Premium, you will need to manually click the `Slow Download` button for each mod. 
+
+To install Vagabond, complete the following steps:
+
+1. Open Wabbajack and click `Browse Modlists`
+2. Tick on the `Show Unofficial lists` box in the top right corner of Wabbajack.
+3. Press the download arrow on the Vagabond UI card and wait for it to download.
+4. Set the `Modlist Installation Location` to a folder such as `C:\Vagabond`. **DO NOT set the folder to Program Files, User protected folders (such as Desktop, Documents, Downloads, etc.), or in your Skyrim's Steam folder**.
+5. Download the files from the [Prior to Installation Warning](#-prior-to-installation-warning) section and place the files in the `Resource Download Location` folder as is.
+    > The `Resource Download Location` does not need to be on an SSD, but it makes installing faster. You can set this location to an HDD within Wabbajack for the sake of saving space.
+6. Press the play arrow to begin the Installation.
+7. If the installation is successful, then rejoice and move onto the [Post Installation](#post-installation) section. If the installation is unsuccessful, use the download links and tips below or join the [discord server](https://discord.gg/WakingDreams) for support.
 
 ### Problems with Installation
 
@@ -252,6 +257,16 @@ It is possible that you may encounter an error with Wabbajack when installing. S
   - This error means you failed to follow the readme. Go back to the [game language](#game-language) section and set your game language to English.
 
 ## Post-Installation
+
+### Verify Install
+
+⚠ **THIS STEP IS MANDATORY.** ⚠
+
+Due to size of the list, the chances of Wabbajack causing a corrupted installation is higher than usual. This can cause random crashes or issues that are not reproducible on the modlist author's end.
+
+Please follow the steps in [this guide](https://github.com/Oghma-Infinium/Modding-Guides/blob/main/tutorials/Verifying%20your%20Modlist%20Install.md) right after your install is done to verify your Vagabond install does not have any errors. If you receive errors in the command prompt window after doing the steps in the guide *successfully*, delete the `mods` folder inside your `Vagabond` folder and rerun the Wabbajack installer for Vagabond again.
+
+If you have any questions or issues doing this step, feel free to stop by the [discord server](https://discord.gg/WakingDreams) for help.
 
 ### Antivirus Exceptions
 
@@ -286,7 +301,7 @@ If you use Windows Defender, it is advised that you set up an exception for the 
   Head over to the installation folder and locate an executable named `ModOrganizer.exe` and launch it.
 
  1. Click the button that says `Run` next to the `Vagabond` executable in the top right of MO2.
-      > The game may take 5-10 minutes to load on your first launch due to how big the list is. Please be patient and **do not** click unlock on the MO2 pop-up.
+      > The game may take 5-10 minutes to load on your first launch due to how big the list is. Please be patient and **DO NOT** click unlock on the MO2 pop-up.
  2. Once the game loads, start a new game. You will now spawn in a small room with a door in front for you.
  3. **(Optional)** Refer to MCM options here at the [Configuration page](https://github.com/Oghma-Infinium/Vagabond/blob/main/Documentation/CONFIG.md).
  4. Press enter on your keyboard to create your character. The game will open Racemenu where you can customize your character.
