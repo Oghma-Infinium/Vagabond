@@ -30,11 +30,11 @@
       - [Installing Creation Club Content](#installing-creation-club-content)
     - [Wabbajack Installation](#wabbajack-installation)
       - [Installing Wabbajack](#installing-wabbajack)
-      - [⚠ Prior to Installation Warning](#-prior-to-installation-warning)
+      - [⚠ Prior to Installation Warning ⚠](#-prior-to-installation-warning-)
       - [Downloading and Installing Vagabond](#downloading-and-installing-vagabond)
     - [Problems with Installation](#problems-with-installation)
   - [Post-Installation](#post-installation)
-    - [Verify Install](#verify-install)
+    - [⚠ Verify Install ⚠](#-verify-install-)
     - [Antivirus Exceptions](#antivirus-exceptions)
     - [Controller Keybinds](#controller-keybinds)
   - [Playing the List](#playing-the-list)
@@ -175,9 +175,9 @@ Once you have completed pre-installation, follow these steps to install Wabbajac
 
 3. Double-click the `Wabbajack.exe` file that is now inside your Wabbajack folder to set up the program.
 
-#### ⚠ Prior to Installation Warning
+#### ⚠ Prior to Installation Warning ⚠
 
-Wabbajack can sometimes have trouble downloading mods hosted on sites other than Nexus. Because of this, it's required that you **MANUALLY DOWNLOAD** the following files **BEFORE** starting pressing the play button to start the install process for Vagabond.
+Wabbajack can sometimes have trouble downloading mods hosted on sites other than Nexus. Because of this, it's required that you **MANUALLY DOWNLOAD** the following files **BEFORE** pressing the play button to start the install process for Vagabond.
 
 **Google Drive Links:**
 - [Elden Ring - Great Spear.7z](https://drive.google.com/file/d/19muJYVcS_CwVOsQ9bQL_wWsYRz5W7BZI/edit)
@@ -258,7 +258,7 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 
 ## Post-Installation
 
-### Verify Install
+### ⚠ Verify Install ⚠
 
 ⚠ **THIS STEP IS MANDATORY.** ⚠
 
