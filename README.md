@@ -76,8 +76,6 @@ Temp Files: ~30 GB (on OS drive)
 
 ⚠ **Vagabond requires the full AE upgrade, which means you must purchase the AE edition of the game for the list to function!** ⚠
 
-Installing Vagabond is relatively easy and, if you have Nexus Premium, will be a simple waiting game. Without Premium, you will need to manually click the `Download` button for each mod.
-
 If you are updating the modlist, you can safely skip to the [updating section](#updating-the-modlist).
 
 ### Pre-Installation
@@ -86,13 +84,15 @@ These steps are only required for installing the modlist for the first time. Add
 
 #### Prerequisites
 
- 1. Install [Visual C++ x64](https://aka.ms/vs/17/release/vc_redist.x64.exe) & [.Net Runtime v6 desktop x64](https://dotnet.microsoft.com/en-us/download/dotnet/6.0/runtime).
+ 1. (Soft Requirement) A Nexus Premium account is recommended. Without Premium, you will need to manually click the `Slow Download` button for each mod.
+ 
+ 2. Install [Visual C++ x64](https://aka.ms/vs/17/release/vc_redist.x64.exe) & [.Net Runtime v6 desktop x64](https://dotnet.microsoft.com/en-us/download/dotnet/6.0/runtime).
 
- 2. Change Skyrim so it does not [automatically update](https://help.steampowered.com/en/faqs/view/71AB-698D-57EB-178C#disable).
+ 3. Change Skyrim so it does not [automatically update](https://help.steampowered.com/en/faqs/view/71AB-698D-57EB-178C#disable).
 
- 3. Right click on Skyrim SE and click on properties, untick the `Enable Steam Overlay while in-game` option.
+ 4. Right click on Skyrim SE and click on properties, untick the `Enable Steam Overlay while in-game` option.
 
- 4. Remove/disable any 3rd party antivirus such as Webroot or Bitdefender. These programs **will absolutely** cause issues with your Vagabond installation due to how MO2's Virtual File Staging works.
+ 5. Remove/disable any 3rd party antivirus such as Webroot or Bitdefender. These programs **will absolutely** cause issues with your Vagabond installation due to how MO2's Virtual File Staging works.
 
 #### Pagefile and Crash Prevention
 
