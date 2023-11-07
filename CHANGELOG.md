@@ -93,6 +93,18 @@
     - With SPID distribution of course
   - Katana - a journey in the shadows
     - You can ask her to not help in combat if you prefer the solo combat I intended for the list.
+  - Eld Beri lantern ENB light
+    - Should be risky about causing crashes comapred to other lantern mods.
+   
+  ###
+
+  - COMAP
+    - Was causing issues with other SKSE mods even when using technically compatible version.
+  - Simple Wearable Lanterns
+    - Replaced by Eld Beri lanterns.
+  - JK's Windhelm Outskirts
+    - It was patching nightmare and I honestly didn't even like the changes it made.
+  - Various tree mods no longer used
   
   ### Future plans
 
