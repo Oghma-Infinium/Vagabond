@@ -11,6 +11,7 @@
 ---
 
 # Changelog
+- [1.1.0](#110)
 - [1.0.3](#103)
 - [1.0.2](#102)
 - [1.0.1](#101)
@@ -36,6 +37,58 @@
 - [0.1.5](#015)
 - [0.1.4](#014)
 - [0.1.3](#013)
+
+</Details>
+
+## 1.1.0
+
+### Info
+
+**This update is save  not safe.**
+
+ - Refer to [Trello](https://trello.com/b/khix4egd/vagabond-bug-reports) to track which are fixed and which still persist.
+ - Big thanks to Fate, Mitch and Foves for testing the update!
+ - Visual overhaul of the list with a goal of more "realistic" northern look. Trees, mountains and landscapes were changed. Trees now sway with wind.
+ - All major cities are overhauled. Don't blame me if the fps is low, you guys voted for it!
+ - Some content and gameplay mods were added as well but the update mostly focused on visuals.
+ - Keep in mind that the update is big, meaning that it is likely there are *new* bugs that me or helpers didn't catch during testing. Be sure to report bugs if you find them.
+
+### Updated
+
+  - A lot of mods
+
+### Added
+
+  - Traverse the Ulvenwald
+    - With the animations update, result of a big collaboration project by Wigfrid and me.
+  - Majestic Mountains Complex material lightside
+  - Majestic landscapes
+  - DK's Realistic Nord Ships SSE
+  - JK's Skyrim
+  - Dawn of Skyrim
+  - City Trees
+  - Trees in Cities
+  - Carriage and ferry travel overhaul
+  - At your own pace
+  - The choise is yours
+  - Narrative Gameplay Consistent Dialogue Tweaks
+  - Obscure Magic
+  - Glamoril, Maze of Labyrinthian
+  - Luftahraan Dungeon Pack
+  - EdgeUI
+    - This mod is still WIP so there are few obvious issues but I still think it was worth including.
+  - Golden Egg Treasure Hunt SSE + LotD integration
+  - Your Orb to Ponder + LotD integration
+    - Big thanks to Fate for patching these two!
+  - Some new Mihail monsters
+  - Most of Fuse's outfits and hairs
+    - With SPID distribution of course
+  
+  ### Future plans
+
+  - More unique Ashes of War (special attacks) for artifacts and unique weapons that don't currently have them
+  - Balance changes
+  - Bugfixes (duh, just make sure to report them)
 
 </Details>
 
