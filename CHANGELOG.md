@@ -65,6 +65,8 @@
     - With the animations update, result of a big collaboration project by Wigfrid and me.
   - Northern Roads
     - Full version, previous version of the list only had NR clutter without the roads.
+  - Cabbage ENB
+    - Finally uploaded on Nexus. Now the default ENB.
   - Majestic Mountains Complex material lightside
   - Majestic landscapes
   - DK's Realistic Nord Ships SSE
