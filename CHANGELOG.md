@@ -91,6 +91,8 @@
   - Some new Mihail monsters
   - Most of Fuse's outfits and hairs
     - With SPID distribution of course
+  - Katana - a journey in the shadows
+    - You can ask her to not help in combat if you prefer the solo combat I intended for the list.
   
   ### Future plans
 
