@@ -53,6 +53,8 @@
  - Some content and gameplay mods were added as well but the update mostly focused on visuals.
  - Keep in mind that the update is big, meaning that it is likely there are *new* bugs that me or helpers didn't catch during testing. Be sure to report bugs if you find them.
 
+<Details>
+
 ### Updated
 
   - A lot of mods
