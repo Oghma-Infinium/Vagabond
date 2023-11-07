@@ -96,7 +96,7 @@
   - Eld Beri lantern ENB light
     - Should be risky about causing crashes comapred to other lantern mods.
    
-  ###
+  ### Removed
 
   - COMAP
     - Was causing issues with other SKSE mods even when using technically compatible version.
