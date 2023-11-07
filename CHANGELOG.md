@@ -73,6 +73,7 @@
   - City Trees
   - Trees in Cities
   - Carriage and ferry travel overhaul
+  - Detailed Carriages 2
   - At your own pace
   - The choise is yours
   - Narrative Gameplay Consistent Dialogue Tweaks
