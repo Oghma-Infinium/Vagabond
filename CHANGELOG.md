@@ -52,6 +52,7 @@
  - All major cities are overhauled. Don't blame me if the fps is low, you guys voted for it!
  - Some content and gameplay mods were added as well but the update mostly focused on visuals.
  - Performance will be somewhat better after this update, but don't expect a massive boost. (Except for cities, those will have *worse* performance.) GPUs with 10GB vram can now probably play the list.
+ - If the game looks weirdly blue/dark/washed during sunny daylight, open and close the map once, that should fix it. This bug existed even before the update but I still don't know what causes it. Keep in mind that there are cloudy weathers as well, this is only a bug if the weather is *actually* sunny!
  - Keep in mind that the update is big, meaning that it is likely there are *new* bugs that me or helpers didn't catch during testing. Be sure to report bugs if you find them.
 
 <Details>
