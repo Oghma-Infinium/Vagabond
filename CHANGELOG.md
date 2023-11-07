@@ -47,7 +47,7 @@
 **This update is not save safe.**
 
  - Refer to [Trello](https://trello.com/b/khix4egd/vagabond-bug-reports) to track which are fixed and which still persist.
- - Big thanks to Fate, Mitch and Foves for testing the update!
+ - Big thanks to Fate, Mitch and Fovez for testing the update!
  - Visual overhaul of the list with a goal of more "realistic" northern look. Trees, mountains and landscapes were changed. Trees now sway with wind.
  - All major cities are overhauled. Don't blame me if the fps is low, you guys voted for it!
  - Some content and gameplay mods were added as well but the update mostly focused on visuals.
@@ -78,7 +78,7 @@
   - Carriage and ferry travel overhaul
   - Detailed Carriages 2
   - At your own pace
-  - The choise is yours
+  - The choice is yours
   - Narrative Gameplay Consistent Dialogue Tweaks
   - Obscure Magic
   - Glamoril, Maze of Labyrinthian
