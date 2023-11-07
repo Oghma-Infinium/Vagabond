@@ -51,7 +51,7 @@
  - Visual overhaul of the list with a goal of more "realistic" northern look. Trees, mountains and landscapes were changed. Trees now sway with wind.
  - All major cities are overhauled. Don't blame me if the fps is low, you guys voted for it!
  - Some content and gameplay mods were added as well but the update mostly focused on visuals.
- - Performance will be somewhat better after this update, but don't expect a massive boost. GPUs with 10GB vram can now probably play the list.
+ - Performance will be somewhat better after this update, but don't expect a massive boost. (Except for cities, those will have *worse* performance.) GPUs with 10GB vram can now probably play the list.
  - Keep in mind that the update is big, meaning that it is likely there are *new* bugs that me or helpers didn't catch during testing. Be sure to report bugs if you find them.
 
 <Details>
