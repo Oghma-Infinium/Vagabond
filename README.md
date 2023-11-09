@@ -177,7 +177,7 @@ Once you have completed pre-installation, follow these steps to install Wabbajac
 
 #### ⚠ Prior to Installation Warning ⚠
 
-Wabbajack can sometimes have trouble downloading mods hosted on sites other than Nexus. Because of this, it's required that you **MANUALLY DOWNLOAD** the following files **BEFORE** pressing the play button to start the install process for Vagabond.
+Wabbajack can sometimes have trouble downloading mods hosted on sites other than Nexus. Because of this, it's recommended that you **MANUALLY DOWNLOAD** the following files **BEFORE** pressing the play button to start the install process for Vagabond.
 
 **Google Drive Links:**
 - [Elden Ring - Great Spear.7z](https://drive.google.com/file/d/19muJYVcS_CwVOsQ9bQL_wWsYRz5W7BZI/edit)
