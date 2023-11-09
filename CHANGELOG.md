@@ -48,8 +48,8 @@
 
  - Refer to [Trello](https://trello.com/b/khix4egd/vagabond-bug-reports) to track which are fixed and which still persist.
  - Big thanks to Fate, Mitch and Fovez for testing the update!
- - Visual overhaul of the list with a goal of more "realistic" northern look. Trees, mountains and landscapes were changed. Trees now sway with wind.
- - All major cities are overhauled. Don't blame me if the fps is low, you guys voted for it!
+ - Visual overhaul of the list with more "realistic" northern look. Trees, mountains and landscapes changed. Trees now sway with wind.
+ - Major cities are overhauled. Don't blame me if the fps is low, you guys voted for it!
  - Some content and gameplay mods were added as well but the update mostly focused on visuals.
  - Performance will be somewhat better after this update, but don't expect a massive boost. (Except for cities, those will have *worse* performance.) GPUs with 10GB vram can now probably play the list.
  - If the game looks weirdly blue/dark/washed during sunny daylight, open and close the map once, that should fix it. This bug existed even before the update but I still don't know what causes it. Keep in mind that there are cloudy weathers as well, this is only a bug if the weather is *actually* sunny!
