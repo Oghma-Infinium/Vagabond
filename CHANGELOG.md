@@ -53,6 +53,7 @@
  - Some content and gameplay mods were added as well but the update mostly focused on visuals.
  - Performance will be somewhat better after this update, but don't expect a massive boost. (Except for cities, those will have *worse* performance.) GPUs with 10GB vram can now probably play the list.
  - If the game looks weirdly blue/dark/washed during sunny daylight, open and close the map once, that should fix it. This bug existed even before the update but I still don't know what causes it. Keep in mind that there are cloudy weathers as well, this is only a bug if the weather is *actually* sunny!
+ - Most trees don't have 3d lod yet, I know the 2d lod looks kind of bad. Someone is making optimized 3d lod for Ulvenwald but I didn't want to delay the update any longer, so I will just redo lods again later.
  - Keep in mind that the update is big, meaning that it is likely there are *new* bugs that me or helpers didn't catch during testing. Be sure to report bugs if you find them.
 
 <Details>
