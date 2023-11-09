@@ -65,12 +65,12 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 
 At least 11GB of VRAM on GPU is recommended for the list, otherwise you'll experience frequent stutters in exteriors.
 
-Downloads: ~291 GB  
-Install: ~487 GB  
+Downloads: ~290 GB  
+Install: ~460 GB  
 Temp Files: ~30 GB (on OS drive)  
 **TOTAL:** ~780 GB  
 
- > Wabbajack requires around 30 GB of space on your main OS drive for temporary and working files during the installation. This space is not counted towards the total install space of the list for sake of this guide, however Wabbajack roughly accounts for it in the UI.
+ > Wabbajack requires around 30 GB of space on your main OS drive for temporary and working files during the installation. The total size after installation is closer to 750 GB.
 
 ## Installation
 
