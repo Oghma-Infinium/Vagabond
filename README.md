@@ -198,11 +198,11 @@ Wabbajack can sometimes have trouble downloading mods hosted on sites other than
 - [Mod Organizer 2.4.5 Alpha 3](https://mega.nz/file/EmxzyLLb#0y6vxJ6iy0QRWNn2wTXV56CMkhyfAF8MunZ_w1RfeKE)
 
 
-**SkyrimGuild Links:**
+**Modding Guild Links:**
 
-- [Impactful+Blocking+1.4.rar](https://www.skyrim-guild.com/s/Impactful-Blocking-14.rar)
-- [Valkyrie+Sword&Shield+v0.1.3.zip](https://www.skyrim-guild.com/s/ValkyrieSwordShieldv013.zip)
-- [White+Fang+Dagger+v1.zip](https://www.skyrim-guild.com/s/White-Fang-Dagger-v1.zip)
+- [ElderSouls-The-Collection-v0.9-SE-(AMR).7z](https://modding-guild.com/archive/ElderSouls-The-Collection-v0.9-SE-(AMR).7z)
+- [Valkyrie+Sword&Shield+v0.1.3.zip](https://modding-guild.com/archive/Valkyrie-Sword-Shield-v0.1.3.zip)
+- [White+Fang+Dagger+v1.zip](https://modding-guild.com/archive/White-Fang-Dagger-v1.zip)
 
 **Patreon Links:**
 
