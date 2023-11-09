@@ -194,7 +194,6 @@ Wabbajack can sometimes have trouble downloading mods hosted on sites other than
 - [Olivier Kenjutsu Sword MCO](https://drive.google.com/uc?id=1DZMKj4B8FUeeAmhv7j3wA6yFQ2kg8w2w&export=download)
 
 **Mega Links:**
-- [Elwap's Speedtree](https://mega.nz/file/xUc0zRLY#NYwbmmHOZhpSF2hpV7hMRYejgZsL_MAIVv_DfjK9JRM)
 - [Mod Organizer 2.4.5 Alpha 3](https://mega.nz/file/EmxzyLLb#0y6vxJ6iy0QRWNn2wTXV56CMkhyfAF8MunZ_w1RfeKE)
 
 
