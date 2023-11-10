@@ -99,15 +99,13 @@ If an MCM for a mod is **not** mentioned in this section, it may or may not be s
 
 This section has been written because it is commonly asked enough that I feel I need to write it down on the list's documentation to have an easy place to point people. Almost this entire section is copy-pasted from the [Wheeler Mod Page](https://www.nexusmods.com/skyrimspecialedition/mods/97345).
 
-**The keybinds mentioned here only apply for keyboard users, I will update with gamepad keybinds later.**
-
 ### Wheel Editing
 
-Changes to the wheel can be made when you open the wheel in either the inventory or magic menu. When you open the wheel in these two menus, the background will grey out, suggesting that you're now in **edit mode**.
+Changes to the wheel can be made when you open the wheel in either the inventory or magic menu. Hold down on the D-pad to open. When you open the wheel in these two menus, the background will grey out, suggesting that you're now in **edit mode**.
 
 #### Creation
 
-By default, create an empty wheel using the "N" key and an empty slot using the "M" key. You can create as many wheels and as many slots in a single wheel as you'd like.
+By default, create an empty wheel using the "N" key or "Y" button and an empty slot using the "M" key or left bumper. You can create as many wheels and as many slots in a single wheel as you'd like.
 
 #### Insertion
 
@@ -115,13 +113,13 @@ To insert an item or magic into the slot, hover on the item you desire in the in
 
 #### Ordering
 
-To change a slot's order in a wheel, press the up/down arrow to swap its position with neighboring slots.
+To change a slot's order in a wheel, press the up/down arrow to swap its position with neighboring slots. Same with D-pad.
 
-To change a wheel's ordering among all wheels, press the left/right arrow to swap its position with neighboring wheels.
+To change a wheel's ordering among all wheels, press the left/right arrow to swap its position with neighboring wheels. Same with D-pad.
 
 #### Deletion
 
-To delete an item from a slot, simply right-click on the item you wish to delete.
+To delete an item from a slot, simply right-click or left bumper on the item you wish to delete.
 
 Right-clicking on an empty slot deletes the slot.
 
