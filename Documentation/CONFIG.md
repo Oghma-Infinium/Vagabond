@@ -99,7 +99,7 @@ If an MCM for a mod is **not** mentioned in this section, it may or may not be s
 
 This section has been written because it is commonly asked enough that I feel I need to write it down on the list's documentation to have an easy place to point people. Almost this entire section is copy-pasted from the [Wheeler Mod Page](https://www.nexusmods.com/skyrimspecialedition/mods/97345).
 
-**The keybinds mentioned here only apply for keyboard users**
+**The keybinds mentioned here only apply for keyboard users, I will update with gamepad keybinds later.**
 
 ### Wheel Editing
 
