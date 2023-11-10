@@ -96,7 +96,7 @@
   - Katana - a journey in the shadows
     - You can ask her to not help in combat if you prefer the solo combat I intended for the list.
   - Eld Beri lantern ENB light
-    - Should be risky about causing crashes comapred to other lantern mods.
+    - Should be less risky about causing crashes comapred to other lantern mods.
    
   ### Removed
 
