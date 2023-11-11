@@ -11,6 +11,7 @@
 ---
 
 # Changelog
+- [1.1.1](#111)
 - [1.1.0](#110)
 - [1.0.3](#103)
 - [1.0.2](#102)
@@ -37,6 +38,39 @@
 - [0.1.5](#015)
 - [0.1.4](#014)
 - [0.1.3](#013)
+
+</Details>
+
+## 1.1.1
+
+### Info
+
+**This update is probably save safe.**
+
+I'm not completely sure if swapping from OBody to Autobody mid save is safe, so if you're still early in your playthrough I'd recommend to restart.
+
+ - Refer to [Trello](https://trello.com/b/khix4egd/vagabond-bug-reports) to track which are fixed and which still persist.
+ - Downgraded faster hdt smp to older version to hopefully remove crashes from it
+ - Fixed many duplicate tree references in cities causing two same trees to clip in exactly the same spot. If you find more of these let me know.
+ - Fixed few minor bugs reported by users
+
+<Details>
+
+### Updated
+
+ - Few mods
+
+### Added
+
+ - Autobody
+   - Replaces ObodyNG
+ - Optional mod to re-enable toggle POV button on gamepad
+   - You must reset keybinds in the in-game controls menu for this to work
+
+### Removed
+
+ - ObodyNG
+   - Replaced by Autobody
 
 </Details>
 
