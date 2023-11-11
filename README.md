@@ -291,6 +291,8 @@ If you use Windows Defender, it is advised that you set up an exception for the 
 
 ![](https://raw.githubusercontent.com/Oghma-Infinium/Vagabond/main/images/controlmap3.png)
 
+**Note:** Toggle POV button bind is disabled by default. Can be enabled with optional mod.
+
 ## Playing the List
 
 **Before you start playing the game, I suggest reading over the [Configuration page](https://github.com/Oghma-Infinium/Vagabond/blob/main/Documentation/CONFIG.md) and the [FAQ page](https://github.com/Oghma-Infinium/Vagabond/blob/main/Documentation/FAQ.md) for the list.**
