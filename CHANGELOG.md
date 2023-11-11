@@ -55,6 +55,7 @@ I'm not completely sure if swapping from OBody to Autobody mid save is safe, so 
  - Downgraded faster hdt smp to older version to hopefully remove crashes from it
  - Fixed many duplicate tree references in cities causing two same trees to clip in exactly the same spot. If you find more of these let me know.
  - Fixed few minor bugs reported by users
+ - "Experimental" cell transition crash fix is now enabled by default because I don't believe there are any real downsides to it.
 
 <Details>
 
