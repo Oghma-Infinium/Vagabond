@@ -11,6 +11,7 @@
 ---
 
 # Changelog
+- [1,1,1 hotfix](#032-hotfix)
 - [1.1.1](#111)
 - [1.1.0](#110)
 - [1.0.3](#103)
@@ -38,6 +39,19 @@
 - [0.1.5](#015)
 - [0.1.4](#014)
 - [0.1.3](#013)
+
+</Details>
+
+## 1.1.1 hotfix
+
+### Info
+
+**This update is save safe.**
+
+ - Refer to [Trello](https://trello.com/b/khix4egd/vagabond-bug-reports) to track which are fixed and which still persist.
+ - Hopefully fixed one more crash some users have been experiencing when loading saves.
+ - Possibly fixed some missing text strings on AE content.
+ - Unarmed and unarmored custom skills should use vanilla perk points now for real instead of their own separate perk points. This was intended in 1.1.0 but didn't work.
 
 </Details>
 
