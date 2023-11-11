@@ -47,6 +47,8 @@
 
 **This update is probably save safe.**
 
+Just a small maintenance update.
+
 I'm not completely sure if swapping from OBody to Autobody mid save is safe, so if you're still early in your playthrough I'd recommend to restart.
 
  - Refer to [Trello](https://trello.com/b/khix4egd/vagabond-bug-reports) to track which are fixed and which still persist.
