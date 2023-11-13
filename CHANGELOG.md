@@ -11,6 +11,7 @@
 ---
 
 # Changelog
+- [1,1,2](#112)
 - [1,1,1 hotfix](#111-hotfix)
 - [1.1.1](#111)
 - [1.1.0](#110)
@@ -39,6 +40,19 @@
 - [0.1.5](#015)
 - [0.1.4](#014)
 - [0.1.3](#013)
+
+</Details>
+
+## 1.1.2
+
+### Info
+
+**This update is not save safe.**
+
+ - Refer to [Trello](https://trello.com/b/khix4egd/vagabond-bug-reports) to track which are fixed and which still persist.
+ - Hopefully fixed one more crash some users have been experiencing when loading saves or exiting interiors.
+   - We determined it was caused by corrupted DynDOLOD output so I regenerated it. With the new output me and testers couldn't get the crash to happen anymore so I believe it is now fixed.
+   - Unforunately not save safe due to regenerated DynDOLOD.
 
 </Details>
 
