@@ -50,7 +50,7 @@
 **This update is not save safe.**
 
  - Refer to [Trello](https://trello.com/b/khix4egd/vagabond-bug-reports) to track which are fixed and which still persist.
- - Hopefully fixed one more crash some users have been experiencing when loading saves or exiting interiors.
+ - Hopefully fixed very common crash most users have been experiencing when loading saves or exiting interiors.
    - We determined it was caused by corrupted DynDOLOD output so I regenerated it. With the new output me and testers couldn't get the crash to happen anymore so I believe it is now fixed.
    - Unforunately not save safe due to regenerated DynDOLOD.
 
