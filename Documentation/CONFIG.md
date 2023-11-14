@@ -71,13 +71,15 @@ If you choose to get DLSS, you need to subscribe to the author's Patreon with th
 
 ### Installing DLSS
 
-⚠ **Combining Reshade and DLSS is not officially supported and I will not assist with that.** ⚠
-
 Simply drag and drop the DLSS archive you downloaded to the bottom of MO2's left pane and install it like any other mod, then tick the box next to it to enable it. You can keep it at the very bottom of the list. I recommend prefixing the mod's name with `[NoDelete]` so you don't need to reinstall DLSS every time you update the list.
 
 **You do not need to adjust the `SSEDisplayTweaks.ini` or `Skyrim.ini` settings per Puredark's instructions. My default settings for the modlist support DLSS.**
 
 You can find the configuration file for DLSS in the `SKSE\Plugins\` folder of the mod. I recommend turning off sharpening, but **do not** touch either of the MipLodBias settings.
+
+### Using Reshade with DLSS Frame Generation build
+
+Using Frame Generation build of DLSS with Reshade requires using modified version of Reshade dxgi.dll. To install this create new folder called "Root" (without the quotes) inside folder of the DLSS mod. Then place the PureDark's dxgi.dll inside that folder. Make sure that DLSS mod is placed lower than Reshade install in MO2 left pane.
 
 ## In-Game MCM options
 
