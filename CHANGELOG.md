@@ -53,7 +53,23 @@
  - Hopefully fixed very common crash most users have been experiencing when loading saves or exiting interiors.
    - We determined it was caused by corrupted DynDOLOD output so I regenerated it. With the new output me and testers couldn't get the crash to happen anymore so I believe it is now fixed.
    - Unforunately not save safe due to regenerated DynDOLOD.
+  
+### Updated
 
+ - Few mods
+
+### Added
+
+ - Reshade
+ - Ragnarok Reshade preset
+ - Meridia's Order
+   - Expansion for Meridia's quest
+
+### Removed
+
+ - JK's College of Winterhold
+   - Was causing crashes with combo patch for Obscure's College of Winterhold
+  
 </Details>
 
 ## 1.1.1 hotfix
