@@ -71,6 +71,8 @@
 
  - JK's College of Winterhold
    - Was causing crashes with combo patch for Obscure's College of Winterhold
+ - Visual lock ownership
+   - Crashes the game
   
 </Details>
 
