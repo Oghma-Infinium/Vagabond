@@ -216,10 +216,6 @@ Wabbajack can sometimes have trouble downloading mods hosted on sites other than
 - [Wo Long - Azure Dragon Crescent Glaive.7z](https://www.patreon.com/file?h=80323534&i=13464512)
 - [d3dcompiler_43.zip](https://www.patreon.com/file?h=82920846&i=14179396)
 
-**Github Links**
-
-- [Vort_Shaders](https://github.com/vortigern11/vort_Shaders/archive/refs/heads/main.zip)
-
 #### Downloading and Installing Vagabond
 
 Downloading and installing Vagabond can take a while depending on your internet connection, PC specs, and if you have Nexus Premium. Without Premium, you will need to manually click the `Slow Download` button for each mod. 
