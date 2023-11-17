@@ -19,6 +19,7 @@
   - [Optional Mods](#optional-mods)
   - [Patreon DLSS for ENB](#patreon-dlss-for-enb)
     - [Installing DLSS](#installing-dlss)
+    - [Using Reshade with DLSS Frame Generation build](#using-reshade-with-dlss-frame-generation-build)
   - [In-Game MCM options](#in-game-mcm-options)
   - [Wheeler](#wheeler)
     - [Wheel Editing](#wheel-editing)
@@ -58,9 +59,10 @@ This section will cover the following Optional Mods that are included as a part 
 
 ## Patreon DLSS for ENB
 
-Playing this modlist will **never** require using paid mods, however this guide is for those who are willing to drop a few bucks for improved performance on GPU limited systems. Also understand we (Vagabond modlist, Waking Dreams server and its staff) assume no responsibility about the DLSS mod bringing you satisfactory results.
+Playing this modlist will **never** require using paid mods, however this guide is for those who are willing to drop a few bucks for improved performance on GPU limited systems.
+> Please understand we (Vagabond modlist author along with the Waking Dreams server and its staff) assume no responsibility about the DLSS mod bringing you satisfactory results.
 
-Perfromance increase from DLSS is most noticeable on GPU-limited systems as opposed to CPU-limited ones. Notably, DLSS can even provide small reduction in VRAM usage (estimated roughly 10-20% on performance mode in DLSS.) DLSS frame generation, which is only available on RTX 4000-series cards can also help with CPU bottleneck.
+Performance increase from DLSS is most noticeable on GPU-limited systems as opposed to CPU-limited ones. Notably, DLSS can even provide small reduction in VRAM usage (estimated roughly 10-20% on performance mode in DLSS.) DLSS frame generation, which is only available on RTX 4000-series cards can also help with CPU bottleneck.
 
 Please check if your graphics card is compatible with DLSS before choosing to buy it.
 
@@ -71,7 +73,10 @@ If you choose to get DLSS, you need to subscribe to the author's Patreon with th
 
 ### Installing DLSS
 
-Simply drag and drop the DLSS archive you downloaded to the bottom of MO2's left pane and install it like any other mod, then tick the box next to it to enable it. You can keep it at the very bottom of the list. I recommend prefixing the mod's name with `[NoDelete]` so you don't need to reinstall DLSS every time you update the list.
+TO install DLSS, please follow the instructions below:
+1. Simply drag and drop the DLSS archive you downloaded to the bottom of MO2's left pane and install it like any other mod
+2. Tick the box next to it to enable it the mod
+3. Prefix the mod's name with `[NoDelete]` so you don't need to reinstall DLSS every time you update the list. For example, `[NoDelete] DLSS`
 
 **You do not need to adjust the `SSEDisplayTweaks.ini` or `Skyrim.ini` settings per Puredark's instructions. My default settings for the modlist support DLSS.**
 
@@ -79,7 +84,16 @@ You can find the configuration file for DLSS in the `SKSE\Plugins\` folder of th
 
 ### Using Reshade with DLSS Frame Generation build
 
-Using Frame Generation build of DLSS with Reshade requires using modified version of Reshade dxgi.dll. To install this create new folder called "Root" (without the quotes) inside folder of the DLSS mod. Then place the PureDark's dxgi.dll inside that folder. Make sure that DLSS mod is placed lower than Reshade install in MO2 left pane.
+Using Frame Generation build of DLSS with Reshade requires using modified version of Reshade's `dxgi.dll`. 
+
+To install this, follow the steps below:
+1. Create a new folder called `Root` inside the DLSS mod. 
+2. Place PureDark's modified `dxgi.dll` inside the `Root` folder you've created in Step 1. 
+3. Make sure Puredark's DLSS mod is placed **lower** than Reshade in MO2's left pane.
+
+> Example of how the DLSS folder should look after the instructions:
+![](https://raw.githubusercontent.com/Oghma-Infinium/Vagabond/main/images/reshade%20dlss%201.png)
+![](https://raw.githubusercontent.com/Oghma-Infinium/Vagabond/main/images/reshade%20dlss%202.png)
 
 ## In-Game MCM options
 

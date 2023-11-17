@@ -16,15 +16,15 @@
 ## Contents
 
 - [FAQ](#faq)
-  - [Q: How do I open the OAR menu? How do I open the IED menu?](#q-how-do-i-open-the-oar-menu-how-do-i-open-the-ied-menu)
-  - [Q: How do I wait?](#q-how-do-i-wait)
+  - [Q: My performance is bad or I get stutters. What can I do?](#q-my-performance-is-bad-or-i-get-stutters-what-can-i-do)
   - [Q: Can I play the list in first person?](#q-can-i-play-the-list-in-first-person)
+  - [Q: How do I wait?](#q-how-do-i-wait)
+  - [Q: How do I open the OAR menu? How do I open the IED menu?](#q-how-do-i-open-the-oar-menu-how-do-i-open-the-ied-menu)
   - [Q: Why can't I attack with my left hand weapon?](#q-why-cant-i-attack-with-my-left-hand-weapon)
   - [Q: Any video showcase of the list?](#q-any-video-showcase-of-the-list)
   - [Q: A mod in the list doesn't do what it says on the mod page. Is it broken?](#q-a-mod-in-the-list-doesnt-do-what-it-says-on-the-mod-page-is-it-broken)
   - [Q: My character's face suddenly became much darker, causing a neck seam. What do I do?](#q-my-characters-face-suddenly-became-much-darker-causing-a-neck-seam-what-do-i-do)
   - [Q: How do I activate survival mode?](#q-how-do-i-activate-survival-mode)
-  - [Q: My performance is bad or I get stutters. What can I do?](#q-my-performance-is-bad-or-i-get-stutters-what-can-i-do)
 - [Known Issues](#known-issues)
   - [Tolfdir won't got to Saarthal!](#tolfdir-wont-got-to-saarthal)
   - [Riften house cats talk to me about economy?](#riften-house-cats-talk-to-me-about-economy)
@@ -33,17 +33,23 @@
 
 # FAQ
 
-## Q: How do I open the OAR menu? How do I open the IED menu?
->
-> A: These menus have been disabled purposefully. Enabling them and messing with these menus is not officially supported.
+## Q: My performance is bad or I get stutters. What can I do?
+
+> A: Vagabond is probably *the heaviest* modlist out there. Either get better hardware or try another modlist. Alternatively you may consider [DLSS](https://github.com/Oghma-Infinium/Vagabond/blob/main/Documentation/CONFIG.md#patreon-dlss-for-enb).
+
+## Q: Can I play the list in first person?
+
+> A: The combat is meant for 3rd person only and I won't support or solve first-person specific issues with combat. You can use first person for casually exploring or picking up items though.
 
 ## Q: How do I wait?
 
 > A: Open the tween menu (press tab) first.
 
-## Q: Can I play the list in first person?
+## Q: How do I open the OAR menu? How do I open the IED menu?
+>
+> A: These menus have been disabled purposefully. Enabling them and messing with these menus is not officially supported.
 
-> A: The combat is meant for 3rd person only and I won't support or solve first-person specific issues with combat. You can use first person for casually exploring or picking up items though.
+
 
 ## Q: Why can't I attack with my left hand weapon?
 
@@ -64,10 +70,6 @@
 ## Q: How do I activate survival mode?
 
 > A: Survival mode is not supported in Vagabond.
-
-### Q: My performance is bad or I get stutters. What can I do?
-
-> A: Vagabond is probably *the heaviest* modlist out there. Either get better hardware or try another modlist. Alternatively you may consider [DLSS](https://github.com/Oghma-Infinium/Vagabond/blob/main/Documentation/CONFIG.md#patreon-dlss-for-enb).
 
 # Known Issues
 
