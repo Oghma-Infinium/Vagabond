@@ -268,7 +268,7 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 
 ### ⚠ Verify Install ⚠
 
-⚠ **THIS STEP IS MANDATORY.** ⚠
+**THIS STEP IS MANDATORY.**
 
 Due to size of the list, the chances of Wabbajack causing a corrupted installation is higher than usual. This can cause random crashes or issues that are not reproducible on the modlist author's end.
 
