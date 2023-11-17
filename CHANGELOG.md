@@ -81,6 +81,8 @@
   - May not apply to all dragons, report a bug if there are still dragons that die weirdly fast
   - The hp buff may not apply at all on existing saves
 
+</Details>
+
 ## 1.1.2
 
 ### Info
