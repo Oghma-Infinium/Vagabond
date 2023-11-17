@@ -11,6 +11,7 @@
 ---
 
 # Changelog
+- [1.1.3](#113)
 - [1.1.2](#112)
 - [1.1.1 hotfix](#111-hotfix)
 - [1.1.1](#111)
@@ -42,6 +43,43 @@
 - [0.1.3](#013)
 
 </Details>
+
+## 1.1.3
+
+### Info
+
+**This update is save safe. Ignore the popup about missing plugins.**
+
+*As always, remember to back up your saves before updating*
+
+ - Refer to [Trello](https://trello.com/b/khix4egd/vagabond-bug-reports) to track which are fixed and which still persist.
+ - Fixed a bug where many of the new spawns in dungeons weren't working.
+   - As a side effect some enemy spawns might be easier, the issue is complicated.
+ - Fixed many small bugs reported by users
+
+<Details>
+ 
+### Updated
+
+ - Few mods
+
+### Added
+
+ - Scuttlers - Mihail Monsters and Animals
+
+### Balance
+
+- Increase stamina cost of rapid bow attacks from 10 to 15
+- Increased default buy prices by 10% and lowered default sell prices by 10%
+  - I felt like the player economy was bit too forgiving
+- Blood Magic perk in Alteration perk tree now reduces magicka cost of spells by 50% instead of 100%
+- Vanican magic in Alteration tree reworked, read the description in-game
+- Buffed one-handed katana and spear ashes of war
+- Made Twilight Princess books again not craftable and removed enchant from existing ones
+  - I already did this before but somehow the tweak was accidentaly removed
+- Buffed dragon health
+  - May not apply to all dragons, report a bug if there are still dragons that die weirdly fast
+  - The hp buff may not apply at all on existing saves
 
 ## 1.1.2
 
