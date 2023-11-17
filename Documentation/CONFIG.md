@@ -58,7 +58,7 @@ This section will cover the following Optional Mods that are included as a part 
 
 ## Patreon DLSS for ENB
 
-Playing this modlist will **never** require using paid mods, however this guide is for those who are willing to drop a few bucks for improved performance on GPU limited systems.
+Playing this modlist will **never** require using paid mods, however this guide is for those who are willing to drop a few bucks for improved performance on GPU limited systems. Also understand we (Vagabond modlist, Waking Dreams server and its staff) assume no responsibility about the DLSS mod bringing you satisfactory results.
 
 Perfromance increase from DLSS is most noticeable on GPU-limited systems as opposed to CPU-limited ones. Notably, DLSS can even provide small reduction in VRAM usage (estimated roughly 10-20% on performance mode in DLSS.) DLSS frame generation, which is only available on RTX 4000-series cards can also help with CPU bottleneck.
 
