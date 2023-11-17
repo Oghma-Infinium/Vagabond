@@ -24,6 +24,7 @@
   - [Q: A mod in the list doesn't do what it says on the mod page. Is it broken?](#q-a-mod-in-the-list-doesnt-do-what-it-says-on-the-mod-page-is-it-broken)
   - [Q: My character's face suddenly became much darker, causing a neck seam. What do I do?](#q-my-characters-face-suddenly-became-much-darker-causing-a-neck-seam-what-do-i-do)
   - [Q: How do I activate survival mode?](#q-how-do-i-activate-survival-mode)
+  - [Q: My performance is bad / I get stutters. What can I do?](#q-my-performance-is-bad-i-get-stutters-what-can-i-do)
 - [Known Issues](#known-issues)
   - [Tolfdir won't got to Saarthal!](#tolfdir-wont-got-to-saarthal)
   - [Riften house cats talk to me about economy?](#riften-house-cats-talk-to-me-about-economy)
@@ -63,6 +64,10 @@
 ## Q: How do I activate survival mode?
 
 > A: Survival mode is not supported in Vagabond.
+
+### Q: My performance is bad / I get stutters. What can I do?
+
+> A: Vagabond is probably *the heaviest* modlist out there. Either get better hardware or try another modlist. Alternatively you may consider [DLSS](https://github.com/Oghma-Infinium/Vagabond/blob/main/Documentation/CONFIG.md#patreon-dlss-for-enb).
 
 # Known Issues
 
