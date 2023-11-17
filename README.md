@@ -30,8 +30,8 @@
       - [Installing Creation Club Content](#installing-creation-club-content)
     - [Wabbajack Installation](#wabbajack-installation)
       - [Installing Wabbajack](#installing-wabbajack)
-      - [⚠ Prior to Installation Warning ⚠](#-prior-to-installation-warning-)
       - [Downloading and Installing Vagabond](#downloading-and-installing-vagabond)
+      - [Problematic Files](#problematic-files)
     - [Problems with Installation](#problems-with-installation)
   - [Post-Installation](#post-installation)
     - [⚠ Verify Install ⚠](#-verify-install-)
@@ -70,7 +70,7 @@ Install: ~460 GB
 Temp Files: ~30 GB (on OS drive)  
 **TOTAL:** ~780 GB  
 
- > Wabbajack requires around 30 GB of space on your main OS drive for temporary and working files during the installation. The total size after installation is closer to 750 GB.
+ > Wabbajack requires around 30 GB of space on your main OS drive for temporary and working files during the installation. The total size after installation is done is closer to 750 GB.
 
 ## Installation
 
@@ -92,7 +92,7 @@ These steps are only required for installing the modlist for the first time. Add
 
  4. Right click on Skyrim SE and click on properties, untick the `Enable Steam Overlay while in-game` option.
 
- 5. Remove/disable any 3rd party antivirus such as Webroot or Bitdefender. These programs **will absolutely** cause issues with your Vagabond installation due to how MO2's Virtual File Staging works.
+ 5. Remove or disable any 3rd party antivirus such as Webroot or Bitdefender. These programs **will absolutely** cause issues with your Vagabond installation due to how MO2's Virtual File Staging works.
 
 #### Pagefile and Crash Prevention
 
@@ -169,15 +169,39 @@ To set your Skyrim language to English:
 Once you have completed pre-installation, follow these steps to install Wabbajack:
 
 1. Create an empty folder named `Wabbajack` on the root of your drive, such as `C:\Wabbajack` for example. **DO NOT set the folder to Program Files, User protected folders (such as Desktop, Documents, Downloads, etc.), or in your Skyrim's Steam folder**.
-   > The `Wabbajack` folder does not need to be on an SSD, but it makes installing faster. You can set this location to be an HDD for the sake of saving space.
+   > The `Wabbajack` folder does not need to be on an SSD, but it makes installing faster. You can create a `Wabbajack` folder on an HDD instead for the sake of saving space.
 
 2. Download the [latest version of Wabbajack](https://github.com/wabbajack-tools/wabbajack/releases/latest/download/Wabbajack.exe) and place the `Wabbajack.exe` file inside the Wabbajack folder you created in Step 1.
 
 3. Double-click the `Wabbajack.exe` file that is now inside your Wabbajack folder to set up the program.
 
-#### ⚠ Prior to Installation Warning ⚠
+#### Downloading and Installing Vagabond
 
-Wabbajack can sometimes have trouble downloading mods hosted on sites other than Nexus. Because of this, it's recommended that you **MANUALLY DOWNLOAD** the following files **BEFORE** pressing the play button to start the install process for Vagabond.
+Downloading and installing Vagabond can take a while depending on your internet connection, PC specs, and if you have Nexus Premium. Without Premium, you will need to manually click the `Slow Download` button for each mod.
+
+To install Vagabond, complete the following steps:
+
+1. Open Wabbajack and click `Browse Modlists`
+   
+2. Tick on the `Show Unofficial lists` box in the top right corner of Wabbajack.
+
+3. Press the download arrow on the Vagabond UI card and wait for it to download.
+
+4. Set the `Modlist Installation Location` to a folder such as `C:\Vagabond`. 
+   > **DO NOT** set the folder to Program Files, User protected folders (such as Desktop, Documents, Downloads, etc.), or in your Skyrim's Steam folder.
+
+5. The `Resource Download Location` line should fill out automatically after you set your `Modlist Installation Location`. 
+   > The `Resource Download Location` does not need to be on an SSD, but it makes installing faster. You can set this location to a folder on an HDD for the sake of saving space.
+
+6. Press the play arrow to begin the installation.
+
+7. If the installation is successful, then rejoice and move onto the [Post Installation](#post-installation) section. If the installation is unsuccessful, refer to the [Problematic Files](#problematic-files) section and tips below or join the [discord server](https://discord.gg/WakingDreams) for support.
+
+#### Problematic Files
+
+Wabbajack can sometimes have trouble downloading mods hosted on sites other than Nexus. Because of this, many problematic files are listed below for your convienence. 
+
+You will need to **manually download** these files and place them in the `Resource Download Location` that is made in the [Downloading and Installing Vagabond](#downloading-and-installing-vagabond) section.
 
 **Google Drive Links:**
 - [Elden Ring - Great Spear.7z](https://drive.google.com/file/d/19muJYVcS_CwVOsQ9bQL_wWsYRz5W7BZI/edit)
@@ -215,21 +239,6 @@ Wabbajack can sometimes have trouble downloading mods hosted on sites other than
 - [SC_HorseReplacer_SSE(overwrites LE folder).7z](https://www.patreon.com/file?h=35289631&i=5428357)
 - [Wo Long - Azure Dragon Crescent Glaive.7z](https://www.patreon.com/file?h=80323534&i=13464512)
 - [d3dcompiler_43.zip](https://www.patreon.com/file?h=82920846&i=14179396)
-
-#### Downloading and Installing Vagabond
-
-Downloading and installing Vagabond can take a while depending on your internet connection, PC specs, and if you have Nexus Premium. Without Premium, you will need to manually click the `Slow Download` button for each mod. 
-
-To install Vagabond, complete the following steps:
-
-1. Open Wabbajack and click `Browse Modlists`
-2. Tick on the `Show Unofficial lists` box in the top right corner of Wabbajack.
-3. Press the download arrow on the Vagabond UI card and wait for it to download.
-4. Set the `Modlist Installation Location` to a folder such as `C:\Vagabond`. **DO NOT set the folder to Program Files, User protected folders (such as Desktop, Documents, Downloads, etc.), or in your Skyrim's Steam folder**.
-5. Download the files from the [⚠ Prior to Installation Warning ⚠](#-prior-to-installation-warning-) section and place the files in the `Resource Download Location` folder as is.
-    > The `Resource Download Location` does not need to be on an SSD, but it makes installing faster. You can set this location to an HDD for the sake of saving space.
-6. Press the play arrow to begin the Installation.
-7. If the installation is successful, then rejoice and move onto the [Post Installation](#post-installation) section. If the installation is unsuccessful, use the download links and tips below or join the [discord server](https://discord.gg/WakingDreams) for support.
 
 ### Problems with Installation
 
