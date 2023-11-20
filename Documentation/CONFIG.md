@@ -50,7 +50,7 @@ This section will cover the following Optional Mods that are included as a part 
 5. **Skyrim Upscaler - DLAA** - Enable this mod if you'd like better antialiasing. Do not use the DLSS settings since this version **does not work with ENB**.
    > DLAA and DLSS **cannot** be used together. Do not enable this if you're using Puredark's Patreon DLSS mod.
 
-6. **Experimental Cell Transition Crash Fix**: Experimental fix for CTDs during cell transitions in interiors. If you find yourself getting these often, feel free to enable this mod.
+6. **Experimental Cell Transition Crash Fix**: Experimental fix for CTDs during cell transitions in interiors. Recommended to keep enabled.
 
 7. **Skyrim Priority My Setting**: These are my personal settings for [Skyrim Priority](https://www.nexusmods.com/skyrimspecialedition/mods/50129). If you wish to edit this to accommodate for your PC specs, please read the `PriorityMod.toml` file within the mod.
     > If you have no clue how to edit this file, do not touch this mod.
