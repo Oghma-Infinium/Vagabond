@@ -19,7 +19,7 @@
   - [Q: My performance is bad or I get stutters. What can I do?](#q-my-performance-is-bad-or-i-get-stutters-what-can-i-do)
   - [Q: Can I play the list in first person?](#q-can-i-play-the-list-in-first-person)
   - [Q: How do I wait?](#q-how-do-i-wait)
-  - [Q: How do I open the OAR/IED/dmenu?](#q-how-do-i-open-the-oar-ied-dmenu)
+  - [Q: How do I open the OAR, IED and dmenu?](#q-how-do-i-open-the-oar-ied-and-dmenu)
   - [Q: Why can't I attack with my left hand weapon?](#q-why-cant-i-attack-with-my-left-hand-weapon)
   - [Q: Any video showcase of the list?](#q-any-video-showcase-of-the-list)
   - [Q: A mod in the list doesn't do what it says on the mod page. Is it broken?](#q-a-mod-in-the-list-doesnt-do-what-it-says-on-the-mod-page-is-it-broken)
@@ -45,11 +45,9 @@
 
 > A: Open the tween menu (press tab) first.
 
-## Q: How do I open the OAR/IED/dmenu?
->
+## Q: How do I open the OAR, IED and dmenu?
+
 > A: These menus have been disabled purposefully. Enabling them and messing with these menus is not officially supported.
-
-
 
 ## Q: Why can't I attack with my left hand weapon?
 
