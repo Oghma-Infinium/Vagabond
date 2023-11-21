@@ -46,10 +46,10 @@ Perks can be obtained by following ways:
 - One perk point from level up.
 - From doing radiant quests, explained in [Radiant Quest Point system](https://www.nexusmods.com/skyrimspecialedition/mods/67956) modpage.
 - From some major quests listed in [Quests Award Perk Points](https://www.nexusmods.com/skyrimspecialedition/mods/33081) modpage.
-- By converting three dragon souls with Oghma Infinium.
 - From some boss kills with [Perk Point Awards Redux](https://www.nexusmods.com/skyrimspecialedition/mods/40461).
   - Note: Dragon kills don't give perk points due to soul conversion mechanic. Also no boss gives three points, only one.
 - From collecting three [Skyshards](https://www.nexusmods.com/skyrimspecialedition/mods/60748?tab=description).
+- By converting three dragon souls with Oghma Infinium.
 - By spending devotion points at altars accessible in end-game areas in [Vigilant](https://www.nexusmods.com/skyrim/mods/67103) and [Glenmoril](https://www.nexusmods.com/skyrimspecialedition/mods/32998)
   - Note that this mechanic is a bit overpowered, choose yourself if you want to use it.
 
