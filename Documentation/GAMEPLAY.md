@@ -55,12 +55,16 @@ Perks can be obtained by following ways:
 
 ## List Tweaks
 
-- Block tree is almost completely overhauled. It includes custom-made timed block mechanic similar to [Valhalla Combat](https://www.nexusmods.com/skyrimspecialedition/mods/64741) with various perks to boost its effectiveness.
+### Stats
+
 - Health regeneration is 0% at base and magicka regeneration at 10%.
   - This only affects **base** regeneration. All regeneration boosts are still as effective as vanilla because the boosts are additive.
   - Food buffs are highly useful to work around the slow regeneration at early levels. Mages should seek to get robes as early as possible.
 - Base magicka is 200 instead of 100.
   - The idea is that you start with more reserve magicka than vanilla, but regenerate slower.
+
+### Combat
+
 - Light melee attacks restore 6 to 20 stamina and 2 to 8 magicka on-hit depending on the weapon type, but deal 50% less damage (compared to vanilla) on enemies that are above 25% stamina.
   - The idea is that light attacks are a tool for sustaining resources with well-timed aggression.
 - You take 25% more damage from power attacks when blocking (calculated *after* block mitigation percent).
@@ -69,9 +73,9 @@ Perks can be obtained by following ways:
 - Enemies take 50% more damage from behind. Player takes 25% more damage from behind.
   - Enemies can't turn much during attack combos. Use this to your advantage by flanking enemies while they are attacking.
 
-### Notable Control Changes
-
 ### Perk Tweaks
+
+- Block tree is almost completely overhauled. It includes custom-made timed block mechanic similar to [Valhalla Combat](https://www.nexusmods.com/skyrimspecialedition/mods/64741) with various perks to boost its effectiveness.
 
 ### Race Tweaks
 
