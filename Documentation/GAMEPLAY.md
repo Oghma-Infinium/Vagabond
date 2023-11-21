@@ -65,7 +65,7 @@ Perks can be obtained by following ways:
 
 ### Combat
 
-- Light melee attacks restore 6 to 20 stamina and 2 to 8 magicka on-hit depending on the weapon type, but deal 50% less damage (compared to vanilla) on enemies that are above 25% stamina.
+- Light melee attacks restore 6 to 20 stamina and 2 to 8 magicka on-hit depending on the weapon type, but deal 50% less damage (compared to vanilla) on enemies above 25% stamina.
   - The idea is that light attacks are a tool for sustaining resources with well-timed aggression.
 - You take 25% more damage from power attacks when blocking (calculated *after* block mitigation percent).
   - This is to balance out the fact that blocking power attacks costs the same amount of stamina as blocking light attacks.
