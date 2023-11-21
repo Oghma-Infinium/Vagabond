@@ -72,6 +72,12 @@ Perks can be obtained by following ways:
   - Timed Block perk still allows you to negate all damage from power attacks with a well-timed block.
 - Enemies take 50% more damage from behind. Player takes 25% more damage from behind.
   - Enemies can't turn much during attack combos. Use this to your advantage by flanking enemies while they are attacking.
+- Ash of War, a special attack for all weapon types is available in powers menu.
+  - Some unique artifacts have unique Ash of War. These will be expanded in the future as I update the list.
+- [Maxsu Poise](https://github.com/max-su-2019/MaxsuPoise/releases) is the stagger system in the list, with my custom tweaks:
+  - Light attacks and ranged attacks inflict a very short small stagger on poise break.
+  - Heavy attacks inflict longer large stagger on poise break.
+  - Some Ash of War attacks inflict special staggers like knockback. 
 
 ### Perk Tweaks
 
