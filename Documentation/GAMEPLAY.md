@@ -42,18 +42,32 @@ Vagabond uses [Static Skill Leveling](https://www.nexusmods.com/skyrimspecialedi
   - 76 to 100: 4
   - **Note:** current version by mistake has last two tiers reversed, feel free to correct this in Static Skill Leveling MCM. Will be fixed in update 1.1.4.
 
-erks can be obtained by following ways:
+Perks can be obtained by following ways:
 - One perk point from level up.
 - From doing radiant quests, explained in [Radiant Quest Point system](https://www.nexusmods.com/skyrimspecialedition/mods/67956) modpage.
 - From some major quests listed in [Quests Award Perk Points](https://www.nexusmods.com/skyrimspecialedition/mods/33081) modpage.
 - By converting three dragon souls with Oghma Infinium.
 - From some boss kills with [Perk Point Awards Redux](https://www.nexusmods.com/skyrimspecialedition/mods/40461).
   - Note: Dragon kills don't give perk points due to soul conversion mechanic. Also no boss gives three points, only one.
-- 
-
-#### Changes to Leveling
+- From collecting three [Skyshards](https://www.nexusmods.com/skyrimspecialedition/mods/60748?tab=description).
+- By spending devotion points at altars accessible in end-game areas in [Vigilant](https://www.nexusmods.com/skyrim/mods/67103) and [Glenmoril](https://www.nexusmods.com/skyrimspecialedition/mods/32998)
+  - Note that this mechanic is a bit overpowered, choose yourself if you want to use it.
 
 ## List Tweaks
+
+- Block tree is almost completely overhauled. It includes custom-made timed block mechanic similar to [Valhalla Combat](https://www.nexusmods.com/skyrimspecialedition/mods/64741) with various perks to boost its effectiveness.
+- Health regeneration is 0% at base and magicka regeneration at 10%.
+  - This only affects **base** regeneration. All regeneration boosts are still as effective as vanilla because the boosts are additive.
+  - Food buffs are highly useful to work around the slow regeneration at early levels. Mages should seek to get robes as early as possible.
+- Base magicka is 200 instead of 100.
+  - The idea is that you start with more reserve magicka than vanilla, but regenerate slower.
+- Light melee attacks restore 6 to 20 stamina and 2 to 8 magicka on-hit depending on the weapon type, but deal 50% less damage (compared to vanilla) on enemies that are above 25% stamina.
+  - The idea is that light attacks are a tool for sustaining resources with well-timed aggression.
+- You take 25% more damage from power attacks when blocking (calculated *after* block mitigation percent).
+  - This is to balance out the fact that blocking power attacks costs the same amount of stamina as blocking light attacks.
+  - Timed Block perk still allows you to negate all damage from power attacks with a well-timed block.
+- Enemies take 50% more damage from behind. Player takes 25% more damage from behind.
+  - Enemies can't turn much during attack combos. Use this to your advantage by flanking enemies while they are attacking.
 
 ### Notable Control Changes
 
