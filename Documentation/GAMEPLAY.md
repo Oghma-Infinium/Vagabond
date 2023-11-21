@@ -42,6 +42,15 @@ Vagabond uses [Static Skill Leveling](https://www.nexusmods.com/skyrimspecialedi
   - 76 to 100: 4
   - **Note:** current version by mistake has last two tiers reversed, feel free to correct this in Static Skill Leveling MCM. Will be fixed in update 1.1.4.
 
+erks can be obtained by following ways:
+- One perk point from level up.
+- From doing radiant quests, explained in [Radiant Quest Point system](https://www.nexusmods.com/skyrimspecialedition/mods/67956) modpage.
+- From some major quests listed in [Quests Award Perk Points](https://www.nexusmods.com/skyrimspecialedition/mods/33081) modpage.
+- By converting three dragon souls with Oghma Infinium.
+- From some boss kills with [Perk Point Awards Redux](https://www.nexusmods.com/skyrimspecialedition/mods/40461).
+  - Note: Dragon kills don't give perk points due to soul conversion mechanic. Also no boss gives three points, only one.
+- 
+
 #### Changes to Leveling
 
 ## List Tweaks
