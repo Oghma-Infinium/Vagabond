@@ -23,6 +23,7 @@ Before reading this section, I suggest looking over the [load order](https://loa
 
 ## Core Mods
 
+- Perk overhaul for the list is [Vokriinator Black](https://www.nexusmods.com/skyrimspecialedition/mods/26702) which combines perks from [Ordinator](https://www.nexusmods.com/skyrimspecialedition/mods/1137), [Vokrii](https://www.nexusmods.com/skyrimspecialedition/mods/26176), [Adamant](https://www.nexusmods.com/skyrimspecialedition/mods/30191), [SPERG](https://www.nexusmods.com/skyrimspecialedition/mods/14180) and [Path of Sorcery](https://www.nexusmods.com/skyrimspecialedition/mods/6660)
 
 ### Leveling and Progression
 
