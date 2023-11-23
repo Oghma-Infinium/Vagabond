@@ -40,7 +40,7 @@
 
 ## Q: My CPU and GPU usage is low. Is there something wrong?
 
-> A: No, your CPU usage is low because Skyrim runs on ancient engine that only supports single-core (main thread) rendering, therefore only one of the cores will be at or close to 100% usage. This will also result in low GPU usage because your GPU can't draw more frames when rendeling is bottlenecked by the CPU main thread. This has always been an issue with Skyrim, but the overall performance demand of Vagabond makes the issue more apparent.
+> A: No, your CPU usage is low because Skyrim runs on an ancient engine that only supports single-core (main thread) rendering, therefore only one of the cores will be at or close to 100% usage. This will also result in low GPU usage because your GPU can't draw more frames when rendering is bottlenecked by the CPU main thread. This has always been an issue with Skyrim, but the overall performance demand of Vagabond makes the issue more apparent.
 
 ## Q: Ultrawide support?
 
