@@ -17,6 +17,7 @@
 
 - [FAQ](#faq)
   - [Q: My performance is bad or I get stutters. What can I do?](#q-my-performance-is-bad-or-i-get-stutters-what-can-i-do)
+  - [Q: Ultrawide support?](#q-ultrawide-support)
   - [Q: Can I play the list in first person?](#q-can-i-play-the-list-in-first-person)
   - [Q: How do I wait?](#q-how-do-i-wait)
   - [Q: How do I open the OAR, IED and dmenu?](#q-how-do-i-open-the-oar-ied-and-dmenu)
@@ -35,6 +36,10 @@
 ## Q: My performance is bad or I get stutters. What can I do?
 
 > A: Vagabond is probably *the heaviest* modlist out there. No plans for performance version. Either get better hardware or try another modlist. Alternatively you may consider [DLSS](https://github.com/Oghma-Infinium/Vagabond/blob/main/Documentation/CONFIG.md#patreon-dlss-for-enb).
+
+## Q: My performance is bad or I get stutters. What can I do?
+
+> A: There is no official ultrawide support for Vagabond.
 
 ## Q: Can I play the list in first person?
 
