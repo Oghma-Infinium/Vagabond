@@ -63,7 +63,7 @@
 
 ## Q: My character's face suddenly became much darker, causing a neck seam. What do I do?
 
-> A: This is a vanilla bug that can be fixed by entering and exiting Racemenu. To enter Racemenu, either use the vanity mirror in your inventory (recommended and safer) or open console and type in: `showracemenu`, then exit Racemenu immediately.
+> A: This is a vanilla bug that can be fixed by entering and exiting Racemenu. To enter Racemenu, open console and type in: `showracemenu`, then exit Racemenu immediately.
 
 ## Q: How do I activate survival mode?
 
