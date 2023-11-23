@@ -79,10 +79,6 @@
 
 > A: Bug that is now a feature, won't fix.
 
-## I can't swap naked body on male character!
-
-> A: Known issue. Will be fixed in the next update.
-
 ## ENB looks weird until opening and closing the map
 
 > A: Known issue. Don't know the cause. Open and close the map when you start the game.
