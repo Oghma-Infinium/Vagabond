@@ -73,7 +73,7 @@
 
 ## Tolfdir won't got to Saarthal!
 
-> A: Just click him on console, walk to Saarthal, and type `prid` in console.
+> A: Just click him on console, walk to Saarthal, and type `moveto player` in console.
 
 ## Riften house cats talk to me about economy?
 
