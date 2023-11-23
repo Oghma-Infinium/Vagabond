@@ -35,7 +35,7 @@
 
 ## Q: My performance is bad or I get stutters. What can I do?
 
-> A: Vagabond is probably *the heaviest* modlist out there. Either get better hardware or try another modlist. Alternatively you may consider [DLSS](https://github.com/Oghma-Infinium/Vagabond/blob/main/Documentation/CONFIG.md#patreon-dlss-for-enb).
+> A: Vagabond is probably *the heaviest* modlist out there. No plans for performance version. Either get better hardware or try another modlist. Alternatively you may consider [DLSS](https://github.com/Oghma-Infinium/Vagabond/blob/main/Documentation/CONFIG.md#patreon-dlss-for-enb).
 
 ## Q: Can I play the list in first person?
 
