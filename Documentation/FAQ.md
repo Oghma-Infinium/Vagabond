@@ -17,6 +17,7 @@
 
 - [FAQ](#faq)
   - [Q: My performance is bad or I get stutters. What can I do?](#q-my-performance-is-bad-or-i-get-stutters-what-can-i-do)
+  - [Q: My CPU and GPU usage is low. Is there something wrong?](#q-my-cpu-and-gpu-usage-is-low-is-there-something-wrong)
   - [Q: Ultrawide support?](#q-ultrawide-support)
   - [Q: Can I play the list in first person?](#q-can-i-play-the-list-in-first-person)
   - [Q: How do I wait?](#q-how-do-i-wait)
@@ -36,6 +37,10 @@
 ## Q: My performance is bad or I get stutters. What can I do?
 
 > A: Vagabond is probably *the heaviest* modlist out there. No plans for performance version. Either get better hardware or try another modlist. Alternatively you may consider [DLSS](https://github.com/Oghma-Infinium/Vagabond/blob/main/Documentation/CONFIG.md#patreon-dlss-for-enb).
+
+## Q: My CPU and GPU usage is low. Is there something wrong?
+
+> A: No, your CPU usage is low because Skyrim runs on ancient engine that only supports single-core (main thread) rendering, therefore only one of the cores will be at or close to 100% usage. This will also result in low GPU usage because your GPU can't draw more frames is rendeling bottlenecked by main thread. This has always been an issue with Skyrim, but the overall performance demand of Vagabond makes the issue more apparent.
 
 ## Q: Ultrawide support?
 
