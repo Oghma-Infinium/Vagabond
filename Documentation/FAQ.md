@@ -44,7 +44,7 @@
 
 ## Q: Ultrawide support?
 
-> A: There is no official ultrawide support for Vagabond.
+> A: There is no official ultrawide support for Vagabond. Only standard aspect ratio of 16:9 is supported. 16:10 might probably work fine as well.
 
 ## Q: Can I play the list in first person?
 
