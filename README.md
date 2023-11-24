@@ -51,6 +51,8 @@ If you're curious about the specific mods in the list, the full modlist can be v
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
+**Note:** Making *any* changes to the list counts as modification and thus voids official support. Even the smallest changes such as editing configurations counts as modificication. Only changes explicitly stated in [config](https://github.com/Oghma-Infinium/Vagabond/blob/main/Documentation/CONFIG.md) are supported. There is separate dicussion channel in Discord for discussing modififications to Vagabond.
+
 ### System Requirements
 
 > Please note these specs are the best idea of a baseline that I can provide at the current moment, based on feedback I have gotten from testers and my own experiences. In the future this will be updated depending on feedback received. With that said, **HDD installs are absolutely not supported**.
