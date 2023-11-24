@@ -55,7 +55,7 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 
 ### System Requirements
 
-> Please note these specs are the best idea of a baseline that I can provide at the current moment, based on feedback I have gotten from testers and my own experiences. In the future this will be updated depending on feedback received. With that said, **HDD installs are absolutely not supported**.
+> Please note these specs are the best idea of a baseline that I can provide at the current moment, based on feedback I have gotten from testers and my own experiences. In the future this will be updated depending on feedback received. With that said, **HDD and external SSD installs are absolutely not supported**.
 
 | Spec Category | My Specs (1440p DLSS Performance Preset) | Recommended (1440p) |
 |     :---:    |     :---:     |     :---:
