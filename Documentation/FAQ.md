@@ -25,7 +25,7 @@
   - [Q: How do I open the OAR, IED and dmenu?](#q-how-do-i-open-the-oar-ied-and-dmenu)
   - [Q: Why can't I attack with my left hand weapon?](#q-why-cant-i-attack-with-my-left-hand-weapon)
   - [Q: Any video showcase of the list?](#q-any-video-showcase-of-the-list)
-  - [Q: A mod in the list doesn't do what it says on the mod page. Is it broken?](#q-a-mod-in-the-list-doesnt-do-what-it-says-on-the-mod-page-is-it-broken)
+  - [Q: How can I access features of Elden Rim mod?](#q-how-can-i-access-features-of-elden-rim-mod)
   - [Q: My character's face suddenly became much darker, causing a neck seam. What do I do?](#q-my-characters-face-suddenly-became-much-darker-causing-a-neck-seam-what-do-i-do)
   - [Q: How do I activate survival mode?](#q-how-do-i-activate-survival-mode)
 - [Known Issues](#known-issues)
@@ -67,9 +67,9 @@
 
 > A: [Biggie Boss' Youtube channel has some content](https://www.youtube.com/@biggie_boss/streams). Searching for [`Vagabond Skyrim Modlist`](https://www.youtube.com/results?search_query=vagabond+skyrim+modlist) in Youtube will also give you many results.
 
-## Q: A mod in the list doesn't do what it says on the mod page. Is it broken?
+## Q: How can I access features of Elden Rim mod?
 
-> A: If the mod is under the `Assets and Resources` separator in MO2's left pane, then **do not** assume anything the mod page says about the mod is true for the list. If the mod is not under `Assets and Resources`, then report a bug in `#🧠│vagabond-support` channel within the [Waking Dreams](https://discord.gg/wakingdreams) server.
+> A: 
 
 ## Q: My character's face suddenly became much darker, causing a neck seam. What do I do?
 
