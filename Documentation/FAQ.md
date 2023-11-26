@@ -3,6 +3,7 @@
 <p align="center">
   [ <a href="https://www.nexusmods.com/skyrimspecialedition/mods/95364">Nexus</a> |
   <a href="https://github.com/Oghma-Infinium/Vagabond/blob/main/README.md">Installation</a> |
+  <a href="https://github.com/Oghma-Infinium/Vagabond/blob/main/Documentation/GAMEPLAY.md">Gameplay Guide<a/> |
   <a href="https://github.com/Oghma-Infinium/Vagabond/blob/main/CHANGELOG.md">Changelog</a> |
   <a href="https://github.com/Oghma-Infinium/Vagabond/blob/main/Documentation/FAQ.md">FAQ</a> |
   <a href="https://github.com/Oghma-Infinium/Vagabond/blob/main/Documentation/CONFIG.md">Config</a> |
