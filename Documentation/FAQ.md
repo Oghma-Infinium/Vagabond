@@ -69,7 +69,7 @@
 
 ## Q: How can I access features of Elden Rim mod?
 
-> A: 
+> A: Elden Rim is not used in the list, the assets and some logic from the plugin are used for other purposes. Don't refer to anything from the elden rim modpage, the mod doesn't "exist" in the list.
 
 ## Q: My character's face suddenly became much darker, causing a neck seam. What do I do?
 
