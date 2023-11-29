@@ -78,7 +78,8 @@ Perks can be obtained by following ways:
 - [Maxsu Poise](https://github.com/max-su-2019/MaxsuPoise/releases) is the stagger system in the list, with my custom tweaks:
   - Light attacks and ranged attacks inflict a very short small stagger on poise break.
   - Heavy attacks inflict longer large stagger on poise break.
-  - Some Ash of War attacks inflict special staggers like knockback. 
+  - Some Ash of War attacks inflict special staggers like knockback.
+  - Enchantments that increase your "mass" increase poise.
 
 ### Perk Tweaks
 
