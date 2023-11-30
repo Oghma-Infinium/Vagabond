@@ -59,12 +59,12 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 
 > Please note these specs are the best idea of a baseline that I can provide at the current moment, based on feedback I have gotten from testers and my own experiences. In the future this will be updated depending on feedback received. With that said, **HDD and external SSD installs are absolutely not supported**.
 
-| Spec Category | My Specs (1440p DLSS Performance Preset) | Recommended (1440p) |
-|     :---:    |     :---:     |     :---:
-| **CPU**   | i9 9900K @5.0GHz |  R7 5800X3D / i7 12700k |
-| **Video Card**    | 2080ti @1.83Ghz | 4070 Ti / 7900-XT |
-| **Ram**    | 32GB (2x16) @3.2GHz | 32GB (2x16) |
-| **Storage**    | 970 EVO NVMe | SATA/NVME SSD |
+| Spec Category | Recommended |
+|     :---:    |      :---:
+| **CPU**   | R7 5800X3D / i7 12700k |
+| **Video Card**    |  4070 Ti / 7900-XT (1440p), 4070 / 7700-XT (1080p) |
+| **Ram**    | 32GB DDR4/5 |
+| **Storage**    | SATA/NVME SSD |
 
 At least 10GB of VRAM on GPU is recommended for the list, otherwise you'll experience frequent stutters in exteriors.
 
