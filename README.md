@@ -36,6 +36,7 @@
     - [Problems with Installation](#problems-with-installation)
   - [Post-Installation](#post-installation)
     - [Antivirus Exceptions](#antivirus-exceptions)
+    - [Keyboard Keybinds](#keyboard-keybinds)
     - [Controller Keybinds](#controller-keybinds)
   - [Playing the List](#playing-the-list)
     - [Starting the Game](#starting-the-game)
@@ -288,11 +289,14 @@ If you use Windows Defender, it is advised that you set up an exception for the 
     - ModOrganizer.exe (`[Path to Modlist]\ModOrganizer.exe`)
     - Nemesis Unlimited Behavior Engine.exe (`[Path to Modlist]\mods\Project New Reign - Nemesis Unlimited Behavior Engine\Nemesis_Engine\Nemesis Unlimited Behavior Engine.exe`)
 
+### Keyboard Keybinds
+![](https://raw.githubusercontent.com/Oghma-Infinium/Vagabond/main/images/keyboard-layout_Vagabond.jpg)
+
 ### Controller Keybinds
 
 ![](https://raw.githubusercontent.com/Oghma-Infinium/Vagabond/main/images/controlmap3.png)
 
-**Note:** Toggle POV button bind is disabled by default. Can be enabled with a mod in the optionals section of MO2.
+**Note:** The Toggle POV button bind is disabled by default, but can be turned on if you wish. Read the [Configuration page](https://github.com/Oghma-Infinium/Vagabond/blob/main/Documentation/CONFIG.md) for more info.
 
 ## Playing the List
 
