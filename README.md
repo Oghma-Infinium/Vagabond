@@ -61,8 +61,8 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 
 | Spec Category | My Specs (1440p DLSS Performance Preset) | Recommended (1440p) |
 |     :---:    |     :---:     |     :---:
-| **CPU**   | i9 9900K @5.0GHz |  R7 5800X / i5 12600k |
-| **Video Card**    | 2080ti @1.83Ghz | 4070 Ti / 7700 XT |
+| **CPU**   | i9 9900K @5.0GHz |  R7 5800X3D / i7 12700k |
+| **Video Card**    | 2080ti @1.83Ghz | 4070 Ti / 7900-XT |
 | **Ram**    | 32GB (2x16) @3.2GHz | 32GB (2x16) |
 | **Storage**    | 970 EVO NVMe | SATA/NVME SSD |
 
