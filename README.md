@@ -59,10 +59,10 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 
 > Please note these specs are the best idea of a baseline that I can provide at the current moment, based on feedback I have gotten from testers and my own experiences. In the future this will be updated depending on feedback received. With that said, **HDD and external SSD installs are absolutely not supported**.
 
-| Spec Category | Recommended |
+| Spec Category | Recommended (1080p) |
 |     :---:    |      :---:
 | **CPU**   | R7 5800X3D / i7 12700k |
-| **Video Card**    |  4070 Ti / 7900-XT (1440p), 4070 / 7700-XT (1080p) |
+| **Video Card**    |  4070 / 7700-XT  |
 | **Ram**    | 32GB DDR4/5 |
 | **Storage**    | SATA/NVME SSD |
 
