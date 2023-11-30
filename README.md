@@ -331,9 +331,9 @@ Simply delete the Vagabond folder. Congratulations, you have uninstalled Vagabon
 
 ## Contact
 
-**PLEASE DO NOT DM ME ON DISCORD!**
+**PLEASE DO NOT DM OR PING ME ON DISCORD!**
 
-If you have an issue with the list, please join the [Waking Dreams](https://discord.gg/wakingdreams) discord server for support.
+If you have an issue with the list, please join the [Waking Dreams](https://discord.gg/wakingdreams) discord server for support. Use dedicated support channel for asking for help. Do not ping anyone, just patiently wait and someone from the staff will help you.
 
 ## Credits and Thanks
 
