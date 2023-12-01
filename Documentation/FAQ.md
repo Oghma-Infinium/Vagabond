@@ -20,6 +20,7 @@
   - [Q: My performance is bad or I get stutters. What can I do?](#q-my-performance-is-bad-or-i-get-stutters-what-can-i-do)
   - [Q: My CPU and GPU usage is low. Is there something wrong?](#q-my-cpu-and-gpu-usage-is-low-is-there-something-wrong)
   - [Q: Ultrawide support?](#q-ultrawide-support)
+  - [Q: Can you add x mod? Why is x mod not included?](#q-can-you-add-x-mod-why-is-x-mod-not-included)
   - [Q: Can I play the list in first person?](#q-can-i-play-the-list-in-first-person)
   - [Q: How do I wait?](#q-how-do-i-wait)
   - [Q: How do I open the OAR, IED and dmenu?](#q-how-do-i-open-the-oar-ied-and-dmenu)
@@ -46,6 +47,10 @@
 ## Q: Ultrawide support?
 
 > A: There is no official ultrawide support for Vagabond. Only standard aspect ratio of 16:9 is supported. 16:10 might probably work fine as well.
+
+## Q: Can you add x mod? Why is x mod not included?
+
+> A: Probably won't add the mod unless its a bugfix or compatibility mod I was missing. I won't give detailed explanation for each mod on why it was not added. Could be bugs, incompatibility, patching, I simply don't like the mod or I didn't know about the mod (very unlikely if it is a popular mod).
 
 ## Q: Can I play the list in first person?
 
