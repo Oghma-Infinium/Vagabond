@@ -35,6 +35,7 @@
   - [Tolfdir won't got to Saarthal!](#tolfdir-wont-got-to-saarthal)
   - [Riften house cats talk to me about economy?](#riften-house-cats-talk-to-me-about-economy)
   - [ENB looks weird until opening and closing the map](#enb-looks-weird-until-opening-and-closing-the-map)
+  - [Autumn has terrible green snow grass](#autumn-has-terrible-green-snow-grass)
 
 # FAQ
 
@@ -107,3 +108,7 @@
 ## ENB looks weird until opening and closing the map
 
 > A: Known issue. Don't know the cause. Open and close the map when you start the game.
+
+## Autumn has terrible green snow grass
+
+> A: I know, it bothers me a lot. I need to redo grass cache and DynDOLOD to fix this.
