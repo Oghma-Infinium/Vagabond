@@ -21,6 +21,7 @@
   - [Q: My CPU and GPU usage is low. Is there something wrong?](#q-my-cpu-and-gpu-usage-is-low-is-there-something-wrong)
   - [Q: Why is the list so performance heavy? Is there a specific mod that causes it?](#q-why-is-the-list-so-performance-heavy-is-there-a-specific-mod-that-causes-it)
   - [Q: Ultrawide support?](#q-ultrawide-support)
+  - [Q: Is x mod in the list?](#q-is-x-mod-in-the-list)
   - [Q: Can you add x mod? Why is x mod not included?](#q-can-you-add-x-mod-why-is-x-mod-not-included)
   - [Q: Can I play the list in first person?](#q-can-i-play-the-list-in-first-person)
   - [Q: How do I wait?](#q-how-do-i-wait)
@@ -52,6 +53,10 @@
 ## Q: Ultrawide support?
 
 > A: There is no official ultrawide support for Vagabond. Only standard aspect ratio of 16:9 is supported. 16:10 might probably work fine as well.
+
+## Q: Is x mod in the list?
+
+> A: Look at the [load order library](https://loadorderlibrary.com/lists/vagabond).
 
 ## Q: Can you add x mod? Why is x mod not included?
 
