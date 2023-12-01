@@ -19,6 +19,7 @@
 - [FAQ](#faq)
   - [Q: My performance is bad or I get stutters. What can I do?](#q-my-performance-is-bad-or-i-get-stutters-what-can-i-do)
   - [Q: My CPU and GPU usage is low. Is there something wrong?](#q-my-cpu-and-gpu-usage-is-low-is-there-something-wrong)
+  - [Q: Why is the list so performance heavy? Is there a specific mod that causes it?](#q-why-is-the-list-so-performance-heavy-is-there-a-specific-mod-that-causes-it)
   - [Q: Ultrawide support?](#q-ultrawide-support)
   - [Q: Can you add x mod? Why is x mod not included?](#q-can-you-add-x-mod-why-is-x-mod-not-included)
   - [Q: Can I play the list in first person?](#q-can-i-play-the-list-in-first-person)
@@ -43,6 +44,10 @@
 ## Q: My CPU and GPU usage is low. Is there something wrong?
 
 > A: No, your CPU usage is low because Skyrim runs on an ancient engine that only supports single-core (main thread) rendering, therefore only one of the cores will be at or close to 100% usage. This will also result in low GPU usage because your GPU can't draw more frames when rendering is bottlenecked by the CPU main thread. This has always been an issue with Skyrim, but the overall performance demand of Vagabond makes the issue more apparent.
+
+## Q: Why is the list so performance heavy? Is there a specific mod that causes it?
+
+> A: The performance heaviness is sum of large amount of mods added to the list. The mod count is not the only factor, but also the *types* of mods added. The list has many mods adding clutter, locations, NPCs, enemies, grass, flora etc. All of the stuff added combined makes this list extremely demanding to run. Diversity of objects also matters, the game engine is observed to be worse at handling diversity of objects even if total count is the same. In conclusion the performance heaviness of the list is result of how the list was built as a whole and can't be pin-pointed on a single mod.
 
 ## Q: Ultrawide support?
 
