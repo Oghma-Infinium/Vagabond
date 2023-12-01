@@ -322,7 +322,7 @@ Versioning for the list will adhere to the following format: `MAJOR.MINOR.PATCH`
   
 Before updating, please check the [changelog](https://github.com/Oghma-Infinium/Vagabond/blob/main/CHANGELOG.md) and back up your saves. The changelog will state if you may need to start a new game after certain updates.
 
-Updating is like installing the list. Simply grab the latest version from Nexus, make sure your paths are the same as the ones you picked in [Downloading and Installing Vagabond](#downloading-and-installing-vagabond), and tick the `Overwrite Installation` button.
+Updating is like installing the list. Simply grab the latest version from Wabbajack UI, make sure your paths are the same as the ones you picked in [Downloading and Installing Vagabond](#downloading-and-installing-vagabond), and tick the `Overwrite Installation` button.
 > **Note**: Any mods you have added will be deleted and *any* changes to the files in the list will be reset when updating. To make sure that Wabbajack does not delete your added mods upon updating, prefix your mods with `[NoDelete]`.
 
 ## Removing the Modlist
