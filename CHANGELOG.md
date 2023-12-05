@@ -12,6 +12,7 @@
 ---
 
 # Changelog
+- [1.1.4](#114)
 - [1.1.3](#113)
 - [1.1.2](#112)
 - [1.1.1 hotfix](#111-hotfix)
@@ -44,6 +45,52 @@
 - [0.1.3](#013)
 
 </Details>
+
+## 1.1.4
+
+### Info
+
+**This update is *probably* save safe. Ignore the popup about missing plugins.**
+
+*As always, remember to back up your saves before updating*
+
+ - Refer to [Trello](https://trello.com/b/khix4egd/vagabond-bug-reports) to track which are fixed and which still persist.
+ - Fixed many bugs reported by users
+ - Added new timed dodge perks in Sneak perk tree.
+   - Note that that exact timings to trigger perfect dodge are not consistent on all enemy attacks and it would be very difficult to fix that.
+
+<Details>
+
+### Known issues
+
+ - Snow grass during autumn looks bad
+   - Won't be fixed for a while as it requires redoing grass cache and DynDOLOD. So unfortunate snowy areas during autumn will be ugly for a while.
+ - Crash caused by unknown spell used by some enemy Vampires
+   - If you crash while fighting Vampires just use console commands to kill them for now. If you can identify the spell causing the crash let me know.
+ - Crash when trading with Dushnamub, Narzulbur blacksmith
+   - For now just don't interact with him until I find a fix.
+ 
+### Updated
+
+ - Many mods
+
+### Added
+
+ - Description Framework
+   - And many addons for it
+ - 
+
+### Removed
+
+- Battle mage armor
+  - Not compatible with divine wardrobe
+
+### Balance
+
+- Made marked for death shout appear less frequently on draugr enemies
+
+</Details>
+
 
 ## 1.1.3
 
