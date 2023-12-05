@@ -52,6 +52,8 @@
 
 **This update is *probably* save safe. Ignore the popup about missing plugins.**
 
+**You must update to latest Steam version of Skyrim to install the update, read full instructions in our [Discord](https://discord.com/channels/1008047161281347606/1008059242835607562/1181664561280077925).
+
 *As always, remember to back up your saves before updating*
 
  - Refer to [Trello](https://trello.com/b/khix4egd/vagabond-bug-reports) to track which are fixed and which still persist.
