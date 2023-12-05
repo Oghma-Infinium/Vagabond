@@ -65,8 +65,8 @@
 
  - Snow grass during autumn looks bad
    - Won't be fixed for a while as it requires redoing grass cache and DynDOLOD. So unfortunate snowy areas during autumn will be ugly for a while.
- - Crash caused by unknown spell used by some enemy Vampires
-   - If you crash while fighting Vampires just use console commands to kill them for now. If you can identify the spell causing the crash let me know.
+ - Crash caused by unknown spell used by some enemy vampires
+   - If you crash while fighting vampires just use console commands to kill them for now. If you can identify the spell causing the crash let me know.
  - Crash when trading with Dushnamub, Narzulbur blacksmith
    - For now just don't interact with him until I find a fix.
  
@@ -78,7 +78,6 @@
 
  - Description Framework
    - And many addons for it
- - 
 
 ### Removed
 
