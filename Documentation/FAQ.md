@@ -36,6 +36,7 @@
   - [Riften house cats talk to me about economy?](#riften-house-cats-talk-to-me-about-economy)
   - [ENB looks weird until opening and closing the map](#enb-looks-weird-until-opening-and-closing-the-map)
   - [Autumn has terrible green snow grass](#autumn-has-terrible-green-snow-grass)
+  - [Some NPCs have multiple sets of gear](#some-npcs-have-multiple-sets-of-gear)
 
 # FAQ
 
@@ -112,3 +113,7 @@
 ## Autumn has terrible green snow grass
 
 > A: I know, it bothers me a lot. I need to redo grass cache and DynDOLOD to fix this.
+
+## Some NPCs have multiple sets of gear
+
+> A: This is a bug with SPID, won't fix.
