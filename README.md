@@ -16,6 +16,8 @@
 
 **Vagabond requires the full AE upgrade, which means you must purchase the AE edition of the game for the list to function!**
 
+**You must update Skyrim Special Edition to latest version on Steam to install this list.**
+
 # Contents
 
 - [Contents](#contents)
