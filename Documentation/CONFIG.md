@@ -43,20 +43,22 @@ This section will cover the following Optional Mods that are included as a part 
 
 3. **3BA Less Bounce**: Enabled by default. Disable this mod if you want your 3BA body to jiggle more.
 
-4. **Skyrim Priority My Setting**: To adjust CPU affinity for your setup, click the `Puzzle Piece` button at the top of MO2 and select `Set CPU Affinity`. Clicking one time will disable it, clicking it again will adjust the affinity to your CPU and re-enable it. Example of the options you need to press are provided [here](https://raw.githubusercontent.com/Oghma-Infinium/Vagabond/main/images/cpu%20affinity%20example.png).
+4. **Seamless Combat Camera**: Enabled by default. Automatically swaps camera to third person whean unsheating weapons or entering combat. Note: *First person combat is not supported.**
 
-5. **Experimental Cell Transition Crash Fix**: Experimental fix for CTDs during cell transitions in interiors. Recommended to keep enabled.
+5. **Skyrim Priority My Setting**: To adjust CPU affinity for your setup, click the `Puzzle Piece` button at the top of MO2 and select `Set CPU Affinity`. Clicking one time will disable it, clicking it again will adjust the affinity to your CPU and re-enable it. Example of the options you need to press are provided [here](https://raw.githubusercontent.com/Oghma-Infinium/Vagabond/main/images/cpu%20affinity%20example.png).
 
-6. **NVIDIA Reflex Support**: SKSE plugin which can more than halve render latency. Only works for NVIDIA GPUs.
+6. **Experimental Cell Transition Crash Fix**: Experimental fix for CTDs during cell transitions in interiors. Recommended to keep enabled.
 
-7. **Skyrim Upscaler - DLAA** - Enable this mod if you'd like better antialiasing. Do not use the DLSS settings since this version **does not work with ENB**.
+7. **NVIDIA Reflex Support**: SKSE plugin which can more than halve render latency. Only works for NVIDIA GPUs.
+
+8. **Skyrim Upscaler - DLAA** - Enable this mod if you'd like better antialiasing. Do not use the DLSS settings since this version **does not work with ENB**.
    > DLAA and DLSS **cannot** be used together. Do not enable this if you're using Puredark's Patreon DLSS mod.
 
-8. **Enable Base Game AA**: Enable this mod if you can't use DLAA or DLSS.
+9. **Enable Base Game AA**: Enable this mod if you can't use DLAA or DLSS.
 
-9. **Equipment UI Preset for 1080p**: UI preset for 1080p users. Enable this if you use a 1080p monitor.
+10. **Equipment UI Preset for 1080p**: UI preset for 1080p users. Enable this if you use a 1080p monitor.
 
-10. **Gamepad Enable Toggle POV**: Enables POV toggling. You must reset controls in-game for this mod to work.
+11. **Gamepad Enable Toggle POV**: Enables POV toggling. You must reset controls in-game for this mod to work.
 
 
 ## In-Game MCM options
