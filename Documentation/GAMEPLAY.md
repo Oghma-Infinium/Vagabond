@@ -83,6 +83,9 @@ Perks can be obtained by following ways:
 ### Perk Tweaks
 
 - Block tree is almost completely overhauled. It includes custom-made timed block mechanic similar to [Valhalla Combat](https://www.nexusmods.com/skyrimspecialedition/mods/64741) with various perks to boost its effectiveness.
+  - It is highly recommended to take the first perk in block tree.
+- Sneak Tree has custom-made perfect dodge perks, so it is recommended to invest some skill points in to sneak even if you don't plan on playing a stealth build.
+  - Note that the exact timing to trigger perfect dodge is not consistent across different enemy attacks. You'll have to learn the timing for eatch individual attack, or just hope it accidentally triggers.
 
 ### Race Tweaks
 
