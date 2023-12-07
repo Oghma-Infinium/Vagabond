@@ -54,7 +54,7 @@
 
 ## Q: Ultrawide support?
 
-> A: There is no official ultrawide support for Vagabond. Only standard aspect ratio of 16:9 is supported. 16:10 might probably work fine as well.
+> A: There is no official ultrawide support for Vagabond. Only monitors with standard aspect ratio of 16:9 is supported. 16:10 might probably work fine as well. Trying to run Vagabond with non-native aspect ratio or resolution of your monitor is unsupported.
 
 ## Q: Is x mod in the list?
 
