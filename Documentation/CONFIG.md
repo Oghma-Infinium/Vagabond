@@ -43,7 +43,7 @@ This section will cover the following Optional Mods that are included as a part 
 
 3. **3BA Less Bounce**: Enabled by default. Disable this mod if you want your 3BA body to jiggle more.
 
-4. **Seamless Combat Camera**: Enabled by default. Automatically swaps camera to third person whean unsheating weapons or entering combat. Note: *First person combat is not supported.*
+4. **Seamless Combat Camera**: Enabled by default. Automatically swaps camera to third person whean unsheating weapons or entering combat. Note: *As mentioned in [FAQ](https://github.com/Oghma-Infinium/Vagabond/blob/main/Documentation/FAQ.md#q-can-i-play-the-list-in-first-person), first person combat is not supported.*
 
 5. **Skyrim Priority My Setting**: To adjust CPU affinity for your setup, click the `Puzzle Piece` button at the top of MO2 and select `Set CPU Affinity`. Clicking one time will disable it, clicking it again will adjust the affinity to your CPU and re-enable it. Example of the options you need to press are provided [here](https://raw.githubusercontent.com/Oghma-Infinium/Vagabond/main/images/cpu%20affinity%20example.png).
 
