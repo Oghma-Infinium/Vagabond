@@ -41,7 +41,6 @@ Vagabond uses [Static Skill Leveling](https://www.nexusmods.com/skyrimspecialedi
   - 26 to 50: 2
   - 51 to 75: 3
   - 76 to 100: 4
-  - **Note:** current version by mistake has last two tiers reversed, feel free to correct this in Static Skill Leveling MCM. Will be fixed in update 1.1.4.
 
 Perks can be obtained by following ways:
 - One perk point from level up.
