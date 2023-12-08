@@ -70,7 +70,7 @@
 
 ## Q: How do I wait?
 
-> A: Open the tween menu (press tab) first.
+> A: Open the tween menu (press tab) first then press T or RT/R2 on controller.
 
 ## Q: How do I open the OAR, IED and dmenu?
 
