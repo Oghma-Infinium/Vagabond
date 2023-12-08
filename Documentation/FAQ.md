@@ -37,6 +37,7 @@
   - [ENB looks weird until opening and closing the map](#enb-looks-weird-until-opening-and-closing-the-map)
   - [Autumn has terrible green snow grass](#autumn-has-terrible-green-snow-grass)
   - [Some NPCs have multiple sets of gear](#some-npcs-have-multiple-sets-of-gear)
+  - [Disappearing bridges](#disappearing-bridges)
 
 # FAQ
 
@@ -117,3 +118,7 @@
 ## Some NPCs have multiple sets of gear
 
 > A: This is a bug with SPID, won't fix.
+
+## Disappearing bridges
+
+> A: Bug with newer versions of DynDOLOD. Can't fix myself, up to original author of the mod to figure it out.
