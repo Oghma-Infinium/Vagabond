@@ -12,6 +12,7 @@
 ---
 
 # Changelog
+- [1.1.5](#115)
 - [1.1.4](#114)
 - [1.1.3](#113)
 - [1.1.2](#112)
@@ -43,6 +44,45 @@
 - [0.1.5](#015)
 - [0.1.4](#014)
 - [0.1.3](#013)
+
+</Details>
+
+## 1.1.5
+
+### Info
+
+**This update is save safe. Ignore the popup about missing plugins.**
+
+**You must update to latest Steam version of Skyrim to install the update, read full instructions in our [Discord](https://discord.com/channels/1008047161281347606/1008059242835607562/1181664561280077925).**
+
+*As always, remember to back up your saves before updating*
+
+ - Refer to [Trello](https://trello.com/b/khix4egd/vagabond-bug-reports) to track which are fixed and which still persist.
+ - Fixed few bugs reported by users
+ - Hopefully fixed the animations.bsa issue with installing the list
+
+<Details>
+
+### Known issues
+
+ - DynDOLOD not properly enabling / disabling objects when you get close
+   - Such as the famous bridge vanishing in Whiterun
+   - Won't fix, responsibility of DynDOLOD author to figure it out
+ 
+### Updated
+
+ - Some mods
+
+### Added
+
+ - Mihail Elemental Golems
+ - Fluted Armor
+ - Yaldabaoth Armor
+
+### Removed
+
+- Mihail Storm Golem
+  - Replaced by Mihail Elemental Golems
 
 </Details>
 
