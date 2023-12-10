@@ -43,7 +43,7 @@
 
 ## Q: My performance is bad or I get stutters. What can I do?
 
-> A: Vagabond is probably *the heaviest* modlist out there. No plans for performance version. Either get better hardware or try another modlist. Configuring CPU affinity for Skyrim Priority mod as instructed in [config](https://github.com/Oghma-Infinium/Vagabond/blob/main/Documentation/CONFIG.md#optional-mods) may help.
+> A: Vagabond is probably *the heaviest* modlist out there. No plans for performance version. Either get better hardware or try another modlist. Some amount of stutters may happen even on powerful PCs when the game loads new cells. Configuring CPU affinity for Skyrim Priority mod as instructed in [config](https://github.com/Oghma-Infinium/Vagabond/blob/main/Documentation/CONFIG.md#optional-mods) may help.
 
 ## Q: My CPU and GPU usage is low. Is there something wrong?
 
