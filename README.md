@@ -177,8 +177,9 @@ Once you have completed pre-installation, follow these steps to install Wabbajac
    > The `Wabbajack` folder does not need to be on an SSD, but it makes installing faster. You can create a `Wabbajack` folder on an HDD instead for the sake of saving space.
 
 2. Download the [latest version of Wabbajack](https://github.com/wabbajack-tools/wabbajack/releases/latest/download/Wabbajack.exe) and place the `Wabbajack.exe` file inside the Wabbajack folder you created in Step 1.
+  > You **must** use latest version of Wabbajack. Don't try using older versions unless instructed by staff.
 
-3. Double-click the `Wabbajack.exe` file that is now inside your Wabbajack folder to set up the program.
+4. Double-click the `Wabbajack.exe` file that is now inside your Wabbajack folder to set up the program.
 
 #### Downloading and Installing Vagabond
 
