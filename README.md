@@ -268,8 +268,8 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 - Unable to download `Skyrim_Default.ini`:
   - This error means you failed to follow the readme. Go back to the [game language](#game-language) section and set your game language to English.
 
-- Unable to download `Data_ccBGSSSE037-Curios.esl`, Unable to download `Data_ccBGSSSE037-Curios.bsa`
-  - Delete `ccbgssse037-curios.esl` and `ccbgssse037-curios.bsa` from your Skyrim Special Edition Steam install location `steamapps\common\Skyrim Special Edition\Data`, then verify integrity of game files for Skyrim Special Edition in Steam.
+- Unable to download `Data_ccBGSSSE037-Curios.esl`, unable to download `Data_ccBGSSSE037-Curios.bsa`
+  - Delete `ccbgssse037-curios.esl` and `ccbgssse037-curios.bsa` from your Skyrim Special Edition Steam install location `steamapps\common\Skyrim Special Edition\Data`, then verify integrity of game files for Skyrim Special Edition on Steam.
 
 ## Post-Installation
 
