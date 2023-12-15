@@ -12,6 +12,7 @@
 ---
 
 # Changelog
+- [1.1.6](#116)
 - [1.1.5](#115)
 - [1.1.4](#114)
 - [1.1.3](#113)
@@ -44,6 +45,31 @@
 - [0.1.5](#015)
 - [0.1.4](#014)
 - [0.1.3](#013)
+
+</Details>
+
+
+## 1.1.6
+
+### Info
+
+**This update is save safe. Ignore the popup about missing plugins.**
+
+*As always, remember to back up your saves before updating*
+
+ - Refer to [Trello](https://trello.com/b/khix4egd/vagabond-bug-reports) to track which are fixed and which still persist.
+ - Fixed few bugs reported by users, including the storm golem crash.
+ - Possibly last update before I start working on update 1.2.0
+
+<Details>
+ 
+### Updated
+
+ - Some mods
+
+### Added
+
+ - Something
 
 </Details>
 
