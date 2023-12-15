@@ -65,11 +65,44 @@
  
 ### Updated
 
- - Some mods
+ - Wyrmstooth
+ - Yes Im Sure
+ - Viridian Knight Armor
+ - The Rune
+ - Skullbreaker - Blunt Weapon SFX Overhaul
+ - Obscure Magic
+ - Perk Entry Point Extender
+ - Morthal Barrow
+ - Dynamic Random Spell Idle
+ - DynDOLOD Resources
+ - Elden Rim
+ - Description Framework
+ - Descriptions for Various Mods
+ - Disk Cache Enabler
+ - Comprehensive Attack Rate Patch - SKSE
+ - C.O.C.K.S. for Skyrim 1.5
+ - Backported Extended ESL Support
+ - AI Overhaul SSE
+ - Alchemy Plus 
 
 ### Added
 
- - Something
+ - ADXP I MCO Valhalla DW Greatsword
+ - ADXP I MCO NarakaBladepoint DW
+ - Witchy - The Horniest Mod Ever
+ - KS Dragon Overhaul 2 Enigma Patch
+ - FYX - Solitude Arch
+ - Gonz - Raven Rock Statue
+ - Elmlock Armor and Blade
+ - Double Check Before Selling
+ - Constructible Object Custom Keyword System NG
+ - Biggie Boss Cabbage ReShade Preset
+ - Apachii Divine Elegance 3BA Bodyslides
+
+
+### Removed
+  - Detailed Landscapes - Gleamblossoms and Caveworms in Falmer Hives (BOS)
+
 
 </Details>
 
