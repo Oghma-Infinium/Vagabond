@@ -88,6 +88,7 @@
 ### Added
 
  - Witchy - The Horniest Mod Ever
+   - Uh, these are actually just horns for character creation...
  - KS Dragon Overhaul 2 Enigma Patch
  - FYX - Solitude Arch
  - Gonz - Raven Rock Statue
