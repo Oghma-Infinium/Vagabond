@@ -87,8 +87,6 @@
 
 ### Added
 
- - ADXP I MCO Valhalla DW Greatsword
- - ADXP I MCO NarakaBladepoint DW
  - Witchy - The Horniest Mod Ever
  - KS Dragon Overhaul 2 Enigma Patch
  - FYX - Solitude Arch
