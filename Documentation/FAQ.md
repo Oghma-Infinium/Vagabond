@@ -38,6 +38,7 @@
   - [Autumn has terrible green snow grass](#autumn-has-terrible-green-snow-grass)
   - [Some NPCs have multiple sets of gear](#some-npcs-have-multiple-sets-of-gear)
   - [Disappearing bridges](#disappearing-bridges)
+  - [Weapon damage higher in crafting menus than in inventory](weapon-damage-higher-in-crafting-menus-than-in-inventory)
 
 # FAQ
 
@@ -122,3 +123,7 @@
 ## Disappearing bridges
 
 > A: Bug with newer versions of DynDOLOD. Can't fix myself, up to original author of the mod to figure it out.
+
+## Weapon damage higher in crafting menus than in inventory
+
+> A: Known issue. No known fix.
