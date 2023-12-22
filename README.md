@@ -37,6 +37,7 @@
       - [Problematic Files](#problematic-files)
     - [Problems with Installation](#problems-with-installation)
   - [Post-Installation](#post-installation)
+    - [⚠ Verify Install ⚠](#-verify-install-)
     - [Antivirus Exceptions](#antivirus-exceptions)
     - [Keyboard Keybinds](#keyboard-keybinds)
     - [Controller Keybinds](#controller-keybinds)
@@ -272,6 +273,16 @@ It is possible that you may encounter an error with Wabbajack when installing. S
   - Delete `ccbgssse037-curios.esl` and `ccbgssse037-curios.bsa` from your Skyrim Special Edition Steam install location `steamapps\common\Skyrim Special Edition\Data`, then verify integrity of game files for Skyrim Special Edition on Steam.
 
 ## Post-Installation
+
+### ⚠ Verify Install ⚠
+
+**THIS STEP IS MANDATORY.**
+
+Due to size of the list, the chances of Wabbajack causing a corrupted installation is higher than usual. This can cause random crashes or issues that are not reproducible on the modlist author's end.
+
+Please follow the steps in [this guide](https://github.com/Oghma-Infinium/Modding-Guides/blob/main/tutorials/Verifying%20your%20Modlist%20Install.md) right after your install is done to verify your Vagabond install does not have any errors. If you receive errors in the command prompt window after doing the steps in the guide *successfully*, delete the `mods` folder inside your `Vagabond` folder and rerun the Wabbajack installer for Vagabond again.
+
+If you have any questions or issues doing this step, feel free to stop by the [discord server](https://discord.gg/WakingDreams) for help.
 
 ### Antivirus Exceptions
 
