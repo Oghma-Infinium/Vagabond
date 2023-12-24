@@ -60,8 +60,6 @@ This section will cover the following Optional Mods that are included as a part 
 
 10. **Equipment UI Preset for 1080p**: UI preset for 1080p users. Enable this if you use a 1080p monitor.
 
-11. **Gamepad Enable Toggle POV**: Enables POV toggling. You must reset controls in-game for this mod to work.
-
 
 ## In-Game MCM options
 
