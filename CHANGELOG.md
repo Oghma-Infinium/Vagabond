@@ -12,6 +12,7 @@
 ---
 
 # Changelog
+- [1.1.7](#117)
 - [1.1.6](#116)
 - [1.1.5](#115)
 - [1.1.4](#114)
@@ -48,6 +49,37 @@
 
 </Details>
 
+## 1.1.7
+
+### Info
+
+**This update is save safe. Ignore the popup about missing plugins.**
+
+*As always, remember to back up your saves before updating*
+
+ - Refer to [Trello](https://trello.com/b/khix4egd/vagabond-bug-reports) to track which are fixed and which still persist.
+ - Fixed a few bugs and minor balance issues.
+ - Changed a lot of NPC replacers.
+ - Gave male player character different 1h idle animation.
+ - Removed the plugin that blocks all killmoves because it caused some bugs.
+   - Killmoves hopefully should still be very infrequent.
+
+<Details>
+ 
+### Updated
+
+ - 
+
+### Added
+
+ - some stuff
+
+
+### Removed
+  - uhhhhh
+
+
+</Details>
 
 ## 1.1.6
 
