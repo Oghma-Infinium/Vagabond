@@ -68,15 +68,63 @@
  
 ### Updated
 
- - Fate if you see this pls do these
+ - Apachii Divine Elegance 3BA Bodyslides
+ - Beyond Skyrim - Bruma - Unofficial Patch
+ - Biggie Boss' Vagabond Reshade Preset
+ - Descriptions for Various Mods
+ - Description Framework
+ - TrueHUD
+
 
 ### Added
 
- - some stuff
+ - Detailmap Seamfix - Skyrim SE
+ - BB's Housecarls - Lydia
+ - BB's The Dark Brotherhood NPC Overhaul Revisited
+ - BB's College of Winterhold NPC Overhaul Revisited
+ - Apachii Armor SPID
+ - BloodMoon - SerketHetyt's Aela Overhaul
+ - Dx's Better Men of Skyrim SE
+ - Deadly Dragons Safe Zone Keyword Distributor (KID)
+ - Apachii Divine Elegance Outfits For NPCs (SPID)
+ - Courageous Women - High Poly Head Female NPC Overhaul
+ - COtR - HQ Characters creation addon for RM
+ - Essential Stay Down
+ - ENB Light Detection Fix
+ - Fuse00 Phantom Armor - 3BA
+ - NITHI NPC ENHANCEMENT - Whiterun
+ - NITHI NPC ENHANCEMENT - The Thieves Guild
+ - NITHI NPC ENHANCEMENT - The Rift
+ - NITHI NPC ENHANCEMENT - The Reach
+ - NITHI NPC ENHANCEMENT - Eastmarch
+ - ZeroKing's Fluffy Foxes - SSE Port
+ - Esl Helen follower or Aela Eola Iona Muiri Lydia replacer
+ - HD Remastered Landscapes - Parallax Blending Fix
+ - HD Remastered Landscapes - ENB Complex Materials
+ - HD Remastered Landscapes - 2k
+ - KHW Update - Jar Replacement
+ - Katana - A Visual Replacer
+ - Karliah Replacer - High Poly Head - 4K FaceTint - ESL
+ - ESL Karin follower or Aela Uthgerd Iona Lydia Serana replacer
+ - Mjoll Replacer - High Poly Head - 4k FaceTint - ESL
+ - Men of Glenmoril Refined - NPC Overhaul
+ - Pride of Skyrim - AIO Male High Poly Head Overhaul
+ - The Men of Winter SSE
+ - Scrambled Bugs - Vendor Respawn Fix
+ - Wintersun - Tweaks and Enhancements
 
 
 ### Removed
-  - uhhhhh
+
+  - Ancient Nord Stahlrim Ebony distribution fix
+  - Animated Armory Burp Patch
+  - CBBE Muscle body normalmaps
+  - Kthonia's Unique Weapon Pack - Chitin Bow Fix Patch
+  - Detailed NPCs - Legendary Alpha Shields 1 for NPCs (SPID)
+  - Fluffworks - Better Photoreal Foxes
+  - Immersive Mouth and Teeth - Skyrim Version
+  - Use Master Strange Runes on Mysticism Master Rituals
+  - Nordic Rugs - My HD version by Xtudo SE
 
 
 </Details>
