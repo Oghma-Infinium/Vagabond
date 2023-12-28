@@ -38,27 +38,25 @@ This section will cover the following Optional Mods that are included as a part 
 
 **Only enabling/disabling these mods is supported. Modifying any settings / configurations for optional mods counts as modification and voids support for the list.** The only exception is `Skyrim Priority My Setting` which has instructions on how to configure it.
 
-1. **ENB Preset Options:** By default, the list ships with Cabbage ENB for NAT 3. Under the `ENB Preset Options` separator, you may untick the `Cabbage ENB for NAT 3` mod and enable **one** of the 5 optional ENBs depending on what you prefer.
+- **ENB Preset Options:** By default, the list ships with Cabbage ENB for NAT 3. Under the `ENB Preset Options` separator, you may untick the `Cabbage ENB for NAT 3` mod and enable **one** of the 5 optional ENBs depending on what you prefer.
    > If you have opened the game before, delete the `enbcache` and `gpucache` folders inside MO2's `Overwrite\Root` folder. You can find Overwrite by scrolling all the way down in Mod Organizers' left pane and double-clicking the red `Overwrite` text.
 
-2. **Dark Souls Underwear - Never Nude Bodyslide Generated files**: Enabled by default. Disable this mod if you wish to have a nude body.
+- **Dark Souls Underwear - Never Nude Bodyslide Generated files**: Enabled by default. Disable this mod if you wish to have a nude body.
 
-3. **3BA Less Bounce**: Enabled by default. Disable this mod if you want your 3BA body to jiggle more.
+- **3BA Less Bounce**: Enabled by default. Disable this mod if you want your 3BA body to jiggle more.
 
-4. **Seamless Combat Camera**: Enabled by default. Automatically swaps camera to third person whean unsheating weapons or entering combat. Note: *As mentioned in [FAQ](https://github.com/Oghma-Infinium/Vagabond/blob/main/Documentation/FAQ.md#q-can-i-play-the-list-in-first-person), first person combat is not supported.*
+- **Seamless Combat Camera**: Enabled by default. Automatically swaps camera to third person whean unsheating weapons or entering combat. Note: *As mentioned in [FAQ](https://github.com/Oghma-Infinium/Vagabond/blob/main/Documentation/FAQ.md#q-can-i-play-the-list-in-first-person), first person combat is not supported.*
 
-5. **Skyrim Priority My Setting**: To adjust CPU affinity for your setup, click the `Puzzle Piece` button at the top of MO2 and select `Set CPU Affinity`. Clicking one time will disable it, clicking it again will adjust the affinity to your CPU and re-enable it. Example of the options you need to press are provided [here](https://raw.githubusercontent.com/Oghma-Infinium/Vagabond/main/images/cpu%20affinity%20example.png).
+- **Skyrim Priority My Setting**: To adjust CPU affinity for your setup, click the `Puzzle Piece` button at the top of MO2 and select `Set CPU Affinity`. Clicking one time will disable it, clicking it again will adjust the affinity to your CPU and re-enable it. Example of the options you need to press are provided [here](https://raw.githubusercontent.com/Oghma-Infinium/Vagabond/main/images/cpu%20affinity%20example.png).
 
-6. **Experimental Cell Transition Crash Fix**: Experimental fix for CTDs during cell transitions in interiors. Recommended to keep enabled.
+- **NVIDIA Reflex Support**: SKSE plugin which can more than halve render latency. Only works for NVIDIA GPUs.
 
-7. **NVIDIA Reflex Support**: SKSE plugin which can more than halve render latency. Only works for NVIDIA GPUs.
-
-8. **Skyrim Upscaler - DLAA** - Enable this mod if you'd like better antialiasing. Do not use the DLSS settings since this version **does not work with ENB**.
+- **Skyrim Upscaler - DLAA** - Enable this mod if you'd like better antialiasing. Do not use the DLSS settings since this version **does not work with ENB**.
    > DLAA and DLSS **cannot** be used together. Do not enable this if you're using Puredark's Patreon DLSS mod.
 
-9. **Enable Base Game AA**: Enable this mod if you can't use DLAA or DLSS.
+- **Enable Base Game AA**: Enable this mod if you can't use DLAA or DLSS.
 
-10. **Equipment UI Preset for 1080p**: UI preset for 1080p users. Enable this if you use a 1080p monitor.
+- **Equipment UI Preset for 1080p**: UI preset for 1080p users. Enable this if you use a 1080p monitor.
 
 
 ## In-Game MCM options
