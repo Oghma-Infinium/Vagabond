@@ -50,8 +50,11 @@ This section will cover the following Optional Mods that are included as a part 
 - **Skyrim Priority My Setting**: To adjust CPU affinity for your setup, click the `Puzzle Piece` button at the top of MO2 and select `Set CPU Affinity`. Clicking one time will disable it, clicking it again will adjust the affinity to your CPU and re-enable it. Example of the options you need to press are provided [here](https://raw.githubusercontent.com/Oghma-Infinium/Vagabond/main/images/cpu%20affinity%20example.png).
 
 - **NVIDIA Reflex Support**: SKSE plugin which can more than halve render latency. Only works for NVIDIA GPUs.
+   > Only for NVIDIA 900 series or later.
 
 - **Skyrim Upscaler - DLAA** - Enable this mod if you'd like better antialiasing. Do not use the DLSS settings since this version **does not work with ENB**.
+   > Only for NVIDIA 2000 series or later.
+   
    > DLAA and DLSS **cannot** be used together. Do not enable this if you're using Puredark's Patreon DLSS mod.
 
 - **Enable Base Game AA**: Enable this mod if you can't use DLAA or DLSS.
