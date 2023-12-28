@@ -12,6 +12,7 @@
 ---
 
 # Changelog
+- [1.1.8](#118)
 - [1.1.7](#117)
 - [1.1.6](#116)
 - [1.1.5](#115)
@@ -46,6 +47,36 @@
 - [0.1.5](#015)
 - [0.1.4](#014)
 - [0.1.3](#013)
+
+</Details>
+
+## 1.1.8
+
+### Info
+
+**This update is save safe.**
+
+*As always, remember to back up your saves before updating*
+
+ - Refer to [Trello](https://trello.com/b/khix4egd/vagabond-bug-reports) to track which are fixed and which still persist.****
+ - Small update for recompilation due to a mod being deleted from Nexus.
+ - Discouraged Penguin Genocide.
+
+<Details>
+
+### Updated
+- Seasons of Vigilant
+- Seasons of Vigilant Unfrozen
+
+### Added
+  - Nothing
+
+### Removed
+  - Apachii Armor SPID
+  - Men of Glenmoril Refined - NPC Overhaul
+  - Unslaad CC Patch (NPC Overhaul)
+    - Removed from Nexus and made the list uninstallable. 
+
 
 </Details>
 
