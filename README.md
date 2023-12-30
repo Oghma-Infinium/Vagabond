@@ -350,7 +350,7 @@ Simply delete the Vagabond folder. Congratulations, you have uninstalled Vagabon
 
 **PLEASE DO NOT DM OR PING ME ON DISCORD!**
 
-If you have an issue with the list, please join the [Waking Dreams](https://discord.gg/wakingdreams) discord server for support. Use dedicated support channel for asking for help. Do not ping anyone, just patiently wait and someone from the staff will help you.
+If you have an issue with the list, please join the [Waking Dreams](https://discord.gg/wakingdreams) discord server for support. Use #vagabond-support for asking for help. Do note that modified installations are not supported, modifying the list in any way voids officals support the modlist. To access the support channel you must first accept the terms for support in #vagabond-eula. After asking a question, do not ping anyone, just patiently wait and someone from the staff will help you.
 
 ## Credits and Thanks
 
