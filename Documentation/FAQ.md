@@ -38,7 +38,8 @@
   - [Autumn has terrible green snow grass](#autumn-has-terrible-green-snow-grass)
   - [Some NPCs have multiple sets of gear](#some-npcs-have-multiple-sets-of-gear)
   - [Disappearing bridges](#disappearing-bridges)
-  - [Weapon damage higher in crafting menus than in inventory](weapon-damage-higher-in-crafting-menus-than-in-inventory)
+  - [Weapon damage higher in crafting menus than in inventory](#weapon-damage-higher-in-crafting-menus-than-in-inventory)
+  - [Player khajit has missing body](#player-khajit-has-missing-body)
 
 # FAQ
 
@@ -127,3 +128,7 @@
 ## Weapon damage higher in crafting menus than in inventory
 
 > A: Known issue. No known fix.
+
+## Player khajit has missing body
+
+> A: Known issue. Will fix in next update. For now pick another race if you're starting a new game.
