@@ -47,8 +47,6 @@ This section will cover the following Optional Mods that are included as a part 
 
 - **Seamless Combat Camera**: Enabled by default. Automatically swaps camera to third person whean unsheating weapons or entering combat. Note: *As mentioned in [FAQ](https://github.com/Oghma-Infinium/Vagabond/blob/main/Documentation/FAQ.md#q-can-i-play-the-list-in-first-person), first person combat is not supported.*
 
-- **Skyrim Priority My Setting**: To adjust CPU affinity for your setup, click the `Puzzle Piece` button at the top of MO2 and select `Set CPU Affinity`. Clicking one time will disable it, clicking it again will adjust the affinity to your CPU and re-enable it. Example of the options you need to press are provided [here](https://raw.githubusercontent.com/Oghma-Infinium/Vagabond/main/images/cpu%20affinity%20example.png).
-
 - **NVIDIA Reflex Support**: SKSE plugin which can more than halve render latency. Only works for NVIDIA GPUs.
    > Only for NVIDIA 900 series or later.
 
@@ -61,6 +59,7 @@ This section will cover the following Optional Mods that are included as a part 
 
 - **Equipment UI Preset for 1080p**: UI preset for 1080p users. Enable this if you use a 1080p monitor.
 
+- **Skyrim Priority (CPU affinity)**: To adjust CPU affinity for your setup, click the `Puzzle Piece` button at the top of MO2 and select `Set CPU Affinity`. Example of the options you need to press are provided [here](https://raw.githubusercontent.com/Oghma-Infinium/Vagabond/main/images/cpu%20affinity%20example.png).
 
 ## In-Game MCM options
 
