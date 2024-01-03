@@ -75,6 +75,8 @@ If an MCM for a mod is **not** mentioned in this section, it may or may not be s
 
 - **Skyrim Outfit System**: You can enable the mod and create your own outfits here that can override the visuals of your current equipped gear but retain the stats.
 
+- **True directional movement:** You can change the target lock button here. By default it's on controller right stick press. If you want to target lock on keyboard or mouse, you must rebind it.
+
 ## Wheeler
 
 This section has been written because it is commonly asked enough that I feel I need to write it down on the list's documentation to have an easy place to point people. Almost this entire section is copy-pasted from the [Wheeler Mod Page](https://www.nexusmods.com/skyrimspecialedition/mods/97345).
