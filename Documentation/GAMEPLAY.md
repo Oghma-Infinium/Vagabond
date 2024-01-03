@@ -31,6 +31,22 @@ Before reading this section, I suggest looking over the [load order](https://loa
 - [MCO - Modern Combat Overhaul](https://modding-guild.com/mod/attack-mcodxp/) is the core mod for melee combat. It overhauls melee attacks to use attack commitment and combo chaining, similar to other modern action games like Elden Ring and Assassin's Creed Valhalla.
 - [Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/11802) is the core content mod of the list. It adds a museum in Solitude where you can display most of the items from Vanilla game as well as many mod-added items. The museum also involves its own questline.
 
+## Saving practices and you
+
+Bad saving practices can quickly corrupt your save with a modlist this large. For this reason we highly recommend to follow good practices for keeping your save health:
+
+- **Do not** "save scum" by saving and reloading frequently, typically more often than every five minutes. If you want to know why this is bad, please check out this [post](https://old.reddit.com/r/skyrimmods/comments/116raxm/psa_engine_bug_when_reloading_saves/).
+- **Do not** play the game at a lower framerate than 30 fps, if this is a problem for you regularly, consider another list.
+- **Avoid** saving the game when in a combat state, moving at high speeds, or transitioning through cells (using doors). Other examples of when to avoid saving include active dialogue, crafting, TFC-mode screenshots, or animations.
+- Trust the [Skyrim SafeSave System Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/70179) to handle your saves.
+  - The mod automatically saves every 15 minutes, but it waits until the game state is safe for saving.
+  - You can also manually request save with F5. If the save doesn't happen immediately it means the game state is not safe for saving.
+- Do not enable autosaves. They can often save the game at troublesome moments like the above.
+  > Autosaves created by Skyrim SafeSave System Overhaul, are safe and can be trusted
+- Respect the Acheron alternative death system rather than reloading save after dying. Reloading saves after dying in combat is especially dangerous for save health.
+
+
+
 ### Leveling and Progression
 
 Vagabond uses [Static Skill Leveling](https://www.nexusmods.com/skyrimspecialedition/mods/30410) for leveling skills. I have configured it with my custom settings:
@@ -79,6 +95,10 @@ Perks can be obtained by following ways:
   - Heavy attacks inflict longer large stagger on poise break.
   - Some Ash of War attacks inflict special staggers like knockback.
   - Enchantments that increase your "mass" increase poise.
+- [Acheron](https://www.nexusmods.com/skyrimspecialedition/mods/108159?tab=description) handles the death system.
+  - After you die you respawn at a nearby location.
+  - If the mod can't find a good location, you enter a crawl state for 30 seconds and de-aggro the enemies, after which you stand back up.
+  - I highly encourage to respect the death system instead of reloading save after dying. Reloading saves after combat is very bad for save health and risks getting your save corrupted, especially in a modlist this large.
 
 ### Perk Tweaks
 
