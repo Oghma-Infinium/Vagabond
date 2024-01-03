@@ -94,11 +94,9 @@ These steps are only required for installing the modlist for the first time. Add
  
  2. Install [Visual C++ x64](https://aka.ms/vs/17/release/vc_redist.x64.exe) & [.Net Runtime v6 desktop x64](https://dotnet.microsoft.com/en-us/download/dotnet/6.0/runtime).
 
- 3. Change Skyrim so it does not [automatically update](https://help.steampowered.com/en/faqs/view/71AB-698D-57EB-178C#disable).
+ 3. Right click on Skyrim SE and click on properties, untick the `Enable Steam Overlay while in-game` option.
 
- 4. Right click on Skyrim SE and click on properties, untick the `Enable Steam Overlay while in-game` option.
-
- 5. Remove or disable any 3rd party antivirus such as Webroot or Bitdefender. These programs **will absolutely** cause issues with your Vagabond installation due to how MO2's Virtual File Staging works.
+ 4. Remove or disable any 3rd party antivirus such as Webroot or Bitdefender. These programs **will absolutely** cause issues with your Vagabond installation due to how MO2's Virtual File Staging works.
 
 #### Pagefile and Crash Prevention
 
