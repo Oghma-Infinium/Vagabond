@@ -12,6 +12,7 @@
 ---
 
 # Changelog
+- [1.1.9](#119)
 - [1.1.8](#118)
 - [1.1.7](#117)
 - [1.1.6](#116)
@@ -50,6 +51,66 @@
 
 </Details>
 
+## 1.1.9
+
+### Info
+
+**This update is save safe.**
+
+*As always, remember to back up your saves before updating*
+
+ - Refer to [Trello](https://trello.com/b/khix4egd/vagabond-bug-reports) to track which are fixed and which still persist.
+
+
+<Details>
+
+### Updated
+  - Bow Rapid Combo V3 - Archer Combat Overhaul
+  - Casting Bar
+  - Dynamic Bow Animation
+  - Open Animation Replacer
+  - Nordic Northern Roads - Retexture - 2K
+  - Narrative Gameplay Consistent Dialogue Tweaks
+  - Populated Skyrim Reborn SSE
+
+### Added
+  - Animated Poisons
+  - Animated Poisons - Settings Loader
+  - Animated Ingredients
+  - Animated Ingredients - Setttings loader
+  - Acheron - Death Alternative
+  - Conditional tavern cheering (OAR)
+  - Conditional Dog Barking (OAR)
+  - Fluffy Spiders
+  - Immersive Folded Hands (OAR)
+  - HD Remastered Northern Roads - Complex Parallax
+  - Lively Children Animations (OAR)
+  - DON'T GIVE ME ALL THIS STUFF - Less Charitable NPCs SE
+  - Medieval Chests 2K by iimlenny
+  - Medieval Chests HD by iimlenny - My optimized textures SE by Xtudo
+  - NPCs React To Frenzy
+  - NPC Animation Remix (OAR)
+  - Northern Roads - Patches Compendium
+  - No Saving in Combat SE
+  - Parallax Meshes for JK's Overhauls
+  - Paired Animation Improvements
+  - The Heart of Dibella - Quest Expansion - RS Children Patch
+
+### Removed
+  - Balaur - Dragon Vocal Replacer
+  - Conditional tavern cheering (DAR)
+  - Crone - Hagraven SFX Replacer
+  - Fallen - Falmer SFX
+  - Frostbite Spider UV Fix
+  - Immersive Folded Hands (DAR)
+  - Lively Children Animations (DAR)
+  - NPC Animation Remix (DAR)
+  - Northern Roads Resculpted Reach Bridge Fix
+  - Skullbreaker - Blunt Weapons SFX
+  - Interesting Casting Bar
+
+</Details>
+
 ## 1.1.8
 
 ### Info
@@ -58,7 +119,7 @@
 
 *As always, remember to back up your saves before updating*
 
- - Refer to [Trello](https://trello.com/b/khix4egd/vagabond-bug-reports) to track which are fixed and which still persist.****
+ - Refer to [Trello](https://trello.com/b/khix4egd/vagabond-bug-reports) to track which are fixed and which still persist.
  - Small update for recompilation due to a mod being deleted from Nexus.
  - Discouraged Penguin Genocide.
 
