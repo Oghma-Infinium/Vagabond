@@ -67,6 +67,7 @@
 ### Updated
   - Bow Rapid Combo V3 - Archer Combat Overhaul
   - Casting Bar
+  - Interesting Casting Bar
   - Dynamic Bow Animation
   - Open Animation Replacer
   - Nordic Northern Roads - Retexture - 2K
@@ -98,16 +99,10 @@
 
 ### Removed
   - Balaur - Dragon Vocal Replacer
-  - Conditional tavern cheering (DAR)
   - Crone - Hagraven SFX Replacer
   - Fallen - Falmer SFX
   - Frostbite Spider UV Fix
-  - Immersive Folded Hands (DAR)
-  - Lively Children Animations (DAR)
-  - NPC Animation Remix (DAR)
   - Northern Roads Resculpted Reach Bridge Fix
-  - Skullbreaker - Blunt Weapons SFX
-  - Interesting Casting Bar
 
 </Details>
 
