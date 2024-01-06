@@ -68,8 +68,9 @@ Note: **Making *any* changes to the list counts as modification and thus voids o
 | **Video Card**    |  4070 / 7700-XT  |
 | **Ram**    | 32GB DDR4/5 |
 | **Storage**    | SATA/NVME SSD |
+| **OS**    | Windows 10/11 |
 
-At least 10GB of VRAM on GPU is recommended for the list, otherwise you'll experience frequent stutters in exteriors.
+At least 10GB of VRAM on GPU is recommended for the list, otherwise you'll experience frequent stutters in exteriors. Only Windows 10/11 operating systems are supported.
 
 Downloads: ~325 GB  
 Install: ~490 GB  
