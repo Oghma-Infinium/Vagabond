@@ -165,7 +165,15 @@ To set your Skyrim language to English:
 
 6. Wait for the download process to complete. Do **NOT** ALT-TAB during this process as it will cause the process to fail and you will have to start over again.
 
-7. Proceed with the rest of the installation.
+> following steps are a temporary, but **mandatory** workaround due to an issue Bethesda caused with a recent update
+
+7. Exit the game and navigate to `steamapps\common\Skyrim Special Edition\Data` folder in your Steam Skyrim Special Edition installation
+
+8. Delete these two files: `ccbgssse037-curios.esl` and `ccbgssse037-curios.bsa`
+
+9. Verify integrity of game files for Skyrim Special Edition on Steam. **Do not open the game again after this.**
+
+10. Proceed with the rest of the installation.
 
 ### Wabbajack Installation
 
