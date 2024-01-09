@@ -61,6 +61,8 @@
 
 It doesn't matter if some of these points didn't cause issues in other modlists. Due to size of Vagabond, the modlist is more likely to show symptomps with PC enviroment that is generally not friendly with modded Skyrim / Creation Engine.
 
+**These points only apply to completely unmodified install of the list. If you have modified the list in *any way*, then we're not providing official support with any issues you may have.**
+
 If none of these suggestions help with your issue, feel free to reach out to us in Waking Dreams Discord. There is always a possibility that the list has some legitimate, unresolved issue. (Check `#vagabond-eula` channel before posting)
 
 ## Q: My performance is bad or I get stutters. What can I do?
