@@ -47,9 +47,11 @@
 ## Q: My game keeps crashing or freezing. What can I do?
 
 > A: There are several reasons that could gause the list to crash or freeze.
+> - First, just try restarting your PC.
 > - If the crash/freeze is one-off and doesn't repeat then I wouldn't worry about it. List this size may have occasional hickup every few hours of gameplay, but if it happens more often than that then there might be an actual issue.
 > - If you crash or freeze, it may produce crash log in `\NetScriptFramework\Crash folder in Overwrite`. You can drop it in appropriate channel in Waking Dreams Discord. (Check [#vagabond-eula](https://discord.com/channels/1008047161281347606/1186441919438532668/1186451364939829348) channel before posting)
 > - If the crash/freeze happens during combat, it could be that the game engine randomly gave up due to amount of animations and effects happening simultaneously.
+> - Make sure you have setup [antivirus exceptions properly](https://github.com/Oghma-Infinium/Vagabond/tree/main#antivirus-exceptions). Any other antivirus except Windows Defender may still cause issues. 
 > - Your save game could be corrupt due to bad saving habbits. Make sure you adhere to good saving practices outlined in [gameplay guide](https://github.com/Oghma-Infinium/Vagabond/blob/main/Documentation/GAMEPLAY.md)
 > - Make sure you've setup [40GB pagefile correctly](https://github.com/Oghma-Infinium/Vagabond/tree/main#pagefile-and-crash-prevention).
 > - Make sure you're not using HDD or external SSD to play the list. Only internal SSD installs are supported (NVME, SATA).
