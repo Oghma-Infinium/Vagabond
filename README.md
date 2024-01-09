@@ -70,7 +70,7 @@ Note: **Making *any* changes to the list counts as modification and thus voids o
 | **Storage**    | SATA/NVME SSD |
 | **OS**    | Windows 10/11 |
 
-At least 10GB of VRAM on GPU is recommended for the list, otherwise you'll experience frequent stutters in exteriors. Only Windows 10/11 operating systems are supported.
+At least 10GB of VRAM on GPU is recommended for the list, otherwise you'll experience frequent stutters in exteriors. Only Windows 10/11 operating systems are supported. Remote computer services are also not supported.
 
 Downloads: ~325 GB  
 Install: ~490 GB  
