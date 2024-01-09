@@ -39,6 +39,7 @@
   - [Some NPCs have multiple sets of gear](#some-npcs-have-multiple-sets-of-gear)
   - [Disappearing bridges](#disappearing-bridges)
   - [Weapon damage higher in crafting menus than in inventory](#weapon-damage-higher-in-crafting-menus-than-in-inventory)
+  - [Reanimation spells not working](#reanimation-spells-not-working)
 
 # FAQ
 
@@ -127,3 +128,7 @@
 ## Weapon damage higher in crafting menus than in inventory
 
 > A: Known issue. No known fix.
+
+## Reanimation spells not working
+
+> A: Known issue that happens randomly. Using dispell spell on the corpse, then reanimate again might make it work. Or just don't play necromancer build.
