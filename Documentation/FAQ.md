@@ -17,6 +17,7 @@
 ## Contents
 
 - [FAQ](#faq)
+  - [Q: My game keeps freezing. What can I do?](#q-my-game-keeps-freezing-what-can-i-do)
   - [Q: My performance is bad or I get stutters. What can I do?](#q-my-performance-is-bad-or-i-get-stutters-what-can-i-do)
   - [Q: My CPU and GPU usage is low. Is there something wrong?](#q-my-cpu-and-gpu-usage-is-low-is-there-something-wrong)
   - [Q: Why is the list so performance heavy? Is there a specific mod that causes it?](#q-why-is-the-list-so-performance-heavy-is-there-a-specific-mod-that-causes-it)
@@ -42,6 +43,23 @@
   - [Reanimation spells not working](#reanimation-spells-not-working)
 
 # FAQ
+
+## Q: My game keeps freezing or crashing. What can I do?
+
+> A: There are several reasons that could gause the list to crash or freeze.
+> - If the crash/freeze is one-off and doesn't repeat then I wouldn't worry about it. List this size may have occasional hickup every few hours of gameplay, but if it happens more often than that then there might be an actual issue.
+> - If you crash or freeze, it may produce crash log in `\NetScriptFramework\Crash folder in Overwrite`. You can drop it in appropriate channel in Waking Dreams Discord. (Check `#vagabond-eula` channel before posting)
+> - If the crash/freeze happens during combat, it could be that the game engine randomly gave up due to amount of animations and effects happening simultaneously.
+> - Your save game could be corrupt due to bad saving habbits. Make sure you adhere to good saving practices outlined in [gameplay guide](https://github.com/Oghma-Infinium/Vagabond/blob/main/Documentation/GAMEPLAY.md)
+> - Make sure you've setup [40GB pagefile correctly](https://github.com/Oghma-Infinium/Vagabond/tree/main#pagefile-and-crash-prevention).
+> - Make sure you're not using HDD or external SSD to play the list. Only internal SSD installs are supported (NVME, SATA).
+> - Make sure you're using supported operating system. Only Windows 10 and 11 operating systems are supported. Remote computer services are also not supported.
+> - Your list install might be corrupted. Do the [list verification](https://github.com/Oghma-Infinium/Vagabond/tree/main#-verify-install-) step in the readme if you haven't already.
+> - Make sure your GPU drivers are up to date. I recommend choosing clean install when updating. Nvidia card users must redo [gpu cache step](https://github.com/Oghma-Infinium/Vagabond/tree/main#setting-shader-cache-size-nvidia-graphics-cards-only) if clean installing drivers.
+> - Close background programs such as iCU or Razer Synapse and any overlays such as Discord overlay.
+> - Disable overclocks you may have on your CPU, GPU or RAM or any other components. Other custom tweaks in BIOS could cause issues as well. We recommend to try reseting BIOS to factory settings in such cases.
+
+If none of these suggestions help with your issue, feel free to reach out to us in Waking Dreams Discord. There is always a possibility that the list has some legitimate, unresolved issue. (Check `#vagabond-eula` channel before posting)
 
 ## Q: My performance is bad or I get stutters. What can I do?
 
