@@ -17,7 +17,7 @@
 ## Contents
 
 - [FAQ](#faq)
-  - [Q: My game keeps crashing or freezing. What can I do?](#q-my-game-keeps-crashing-or-freezing-what-can-i-do)
+  - [Q: My game is not opening or keeps crashing or freezing. What can I do?](#q-my-game-is-not-opening-or-keeps-crashing-or-freezing-what-can-i-do)
   - [Q: My performance is bad or I get stutters. What can I do?](#q-my-performance-is-bad-or-i-get-stutters-what-can-i-do)
   - [Q: My CPU and GPU usage is low. Is there something wrong?](#q-my-cpu-and-gpu-usage-is-low-is-there-something-wrong)
   - [Q: Why is the list so performance heavy? Is there a specific mod that causes it?](#q-why-is-the-list-so-performance-heavy-is-there-a-specific-mod-that-causes-it)
@@ -44,9 +44,10 @@
 
 # FAQ
 
-## Q: My game keeps crashing or freezing. What can I do?
+## Q: My game is not opening or keeps crashing or freezing. What can I do?]
 
 > A: There are several reasons that could gause the list to crash or freeze.
+> - Make sure you're **not** pressing "unlock" button in MO2 after starting Vagabond.
 > - First, just try restarting your PC.
 > - If the crash/freeze is one-off and doesn't repeat then I wouldn't worry about it. List this size may have occasional hickup every few hours of gameplay, but if it happens more often than that then there might be an actual issue.
 > - If you crash or freeze, it may produce crash log in `\NetScriptFramework\Crash folder in Overwrite`. You can drop it in appropriate channel in Waking Dreams Discord. (Check [#vagabond-eula](https://discord.com/channels/1008047161281347606/1186441919438532668/1186451364939829348) channel before posting)
