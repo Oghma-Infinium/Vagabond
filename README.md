@@ -18,6 +18,8 @@
 
 **You must update Skyrim Special Edition to latest version on Steam to install this list.**
 
+**DO NOT MANUALLY DOWNGRADE SKYRIM TO OLDER VERSIONS**
+
 # Contents
 
 - [Contents](#contents)
@@ -82,6 +84,10 @@ Temp Files: ~30 GB (on OS drive)
 ## Installation
 
 ⚠ **Vagabond requires the full AE upgrade, which means you must purchase the AE edition of the game for the list to function!** ⚠
+
+**You must update Skyrim Special Edition to latest version on Steam to install this list.**
+
+**DO NOT MANUALLY DOWNGRADE SKYRIM TO OLDER VERSIONS**
 
 If you are updating the modlist, you can safely skip to the [updating section](#updating-the-modlist).
 
