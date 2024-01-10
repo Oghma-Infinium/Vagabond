@@ -18,7 +18,7 @@
 
 **You must update Skyrim Special Edition to latest version on Steam to install this list.**
 
-**DO NOT MANUALLY DOWNGRADE SKYRIM TO OLDER VERSIONS**
+**DO NOT MANUALLY DOWNGRADE SKYRIM TO OLDER VERSIONS IF YOU INSTALL THIS LIST**
 
 # Contents
 
@@ -87,7 +87,7 @@ Temp Files: ~30 GB (on OS drive)
 
 **You must update Skyrim Special Edition to latest version on Steam to install this list.**
 
-**DO NOT MANUALLY DOWNGRADE SKYRIM TO OLDER VERSIONS**
+**DO NOT MANUALLY DOWNGRADE SKYRIM TO OLDER VERSIONS IF YOU INSTALL THIS LIST**
 
 If you are updating the modlist, you can safely skip to the [updating section](#updating-the-modlist).
 
