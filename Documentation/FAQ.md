@@ -61,7 +61,7 @@
 > - Close background programs such as iCU or Razer Synapse and any overlays such as Discord overlay.
 > - Disable overclocks you may have on your CPU, GPU or RAM or any other components. Other custom tweaks in BIOS could cause issues as well. We recommend to try reseting BIOS to factory settings in such cases.
 
-It doesn't matter if some of these points didn't cause issues in other modlists. Due to size of Vagabond, the modlist is more likely to show symptomps with PC enviroment that is generally not friendly with modded Skyrim / Creation Engine.
+It doesn't matter if some of these points didn't cause issues in other modlists. Due to size of Vagabond, the modlist is more likely to show symptoms with an enviroment that is generally not friendly with modded Skyrim / Creation Engine.
 
 **These points only apply to completely unmodified install of the list. If you have modified the list in *any way*, then we're not providing official support with any issues you may have.**
 
