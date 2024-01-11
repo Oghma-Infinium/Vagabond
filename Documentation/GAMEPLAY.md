@@ -39,7 +39,7 @@ Bad saving practices can quickly corrupt your save with a modlist this large. Fo
 - **Do not** play the game at a lower framerate than 30 fps, if this is a problem for you regularly, consider another list.
 - **Avoid** saving the game when in a combat state, moving at high speeds, or transitioning through cells (using doors). Other examples of when to avoid saving include active dialogue, crafting, TFC-mode screenshots, or animations.
 - Trust the [Skyrim SafeSave System Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/70179) to handle your saves.
-  - The mod automatically saves every 15 minutes, but it waits until the game state is safe for saving.
+  - The mod automatically saves every 5 minutes, but it waits until the game state is safe for saving.
   - You can also manually request save with F5. If the save doesn't happen immediately it means the game state is not safe for saving.
 - Do not enable autosaves. They can often save the game at troublesome moments like the above.
   > Autosaves created by Skyrim SafeSave System Overhaul, are safe and can be trusted
