@@ -44,7 +44,7 @@
 
 # FAQ
 
-## Q: My game is not opening or keeps crashing or freezing. What can I do?]
+## Q: My game is not opening or keeps crashing or freezing. What can I do?
 
 > A: There are several reasons that could gause the list to crash or freeze.
 > - Make sure you're **not** pressing "unlock" button in MO2 after starting Vagabond.
