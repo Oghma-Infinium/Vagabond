@@ -12,7 +12,7 @@
 
 ---
 
-**Modlist Support: [Waking Dreams](https://discord.gg/wakingdreams)**
+**Modlist Support: [Waking Dreams](https://discord.gg/wakingdreams) (You must read [#vagabond-eula](https://discord.com/channels/1008047161281347606/1186441919438532668/1186451364939829348) first.)**
 
 **Vagabond requires the full AE upgrade, which means you must purchase the AE edition of the game for the list to function!**
 
