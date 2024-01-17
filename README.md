@@ -71,13 +71,13 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 
 > Please note these specs are the best idea of a baseline that I can provide at the current moment, based on feedback I have gotten from testers and my own experiences. In the future this will be updated depending on feedback received.
 
-| Spec Category | Recommended (1080p) |
-|     :---:    |      :---:
-| **CPU**   | R7 5800X3D / i7 12700k |
-| **Video Card**    |  4070 / 7700-XT  |
-| **Ram**    | 32GB DDR4/5 |
-| **Storage**    | SATA/NVME SSD |
-| **OS**    | Windows 10/11 |
+| Spec Category | Recommended (1080p) | My specs |
+|     :---:    |      :---:    |      :---:
+| **CPU**   | R7 5800X3D / i7 12700k | R7 7800X3D |
+| **Video Card**    |  4070 / 7700-XT  |  RTX 4090  |
+| **Ram**    | 32GB DDR4/5 | 32GB DDR5 6GHz |
+| **Storage**    | SATA/NVME SSD | Samsung 970 EVO Plus |
+| **OS**    | Windows 10/11 | Windows 11 |
 
 Downloads: ~325 GB  
 Install: ~490 GB  
