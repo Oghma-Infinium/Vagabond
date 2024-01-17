@@ -103,11 +103,10 @@ Prior to installing Vagabond, please complete the following steps:
 
  1. Install [Visual C++ x64](https://aka.ms/vs/17/release/vc_redist.x64.exe) & [.Net Runtime v6 Desktop x64](https://dotnet.microsoft.com/en-us/download/dotnet/6.0/runtime).
  2. Reinstall Skyrim into a location that is not Program Files. Locations such as `C:\Games` is a good location. If you only have one drive, look into LostDragonist's [SteamLibrary tool](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide).
- 3. Change Skyrim so it does not [automatically update](https://help.steampowered.com/en/faqs/view/71AB-698D-57EB-178C#disable).
- 4. Disable the Steam Overlay: Right click on Skyrim SE in Steam and click on `Properties` > Untick the `Enable Steam Overlay while in-game` option
- 5. Set your Skyrim language to English: Right click on your Skyrim in Steam > Click `Properties` > Click the drop down box next to `Language` > Set the language to English
- 6. Remove or disable any 3rd party antiviruses such as Webroot or Bitdefender. These programs can cause issues with your Vagabond installation due to how MO2's Virtual File Staging works.
- 7. (Soft Requirement) A Nexus Premium account is recommended. Without Premium, you will need to manually click the `Slow Download` button for each mod.
+ 3. Disable the Steam Overlay: Right click on Skyrim SE in Steam and click on `Properties` > Untick the `Enable Steam Overlay while in-game` option
+ 4. Set your Skyrim language to English: Right click on your Skyrim in Steam > Click `Properties` > Click the drop down box next to `Language` > Set the language to English
+ 5. Remove or disable any 3rd party antiviruses such as Webroot or Bitdefender. These programs can cause issues with your Vagabond installation due to how MO2's Virtual File Staging works.
+ 6. (Soft Requirement) A Nexus Premium account is recommended. Without Premium, you will need to manually click the `Slow Download` button for each mod.
 
 ---
 
