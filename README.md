@@ -13,7 +13,7 @@
 ---
 
 **Modlist Support: [Waking Dreams](https://discord.gg/wakingdreams)**
-> **(Please read the [#🧠│vagabond-eula](https://discord.com/channels/1008047161281347606/1186441919438532668/1186451364939829348) channel first to access the Vagabond support channel on discord)**
+> **(Please read the [#🧠│vagabond-eula](https://discord.com/channels/1008047161281347606/1186441919438532668/1186451364939829348) channel first to access the Vagabond support channel on Discord)**
 
 **⚠ WARNINGS ⚠:**
 - **Vagabond requires the full AE upgrade, which means you must purchase the AE edition of the game for the list to function!**
@@ -166,7 +166,7 @@ Due to Vagabond's size and number of files required to be handled for the list, 
 
 5. If you did not receive a prompt to download, select the Creation Club option from the menu and you should find a "Download All" prompt in there somewhere. If this message does not appear, you have not purchased the $20 Upgrade. Begin again from Step 1.
 
-6. Wait for the download process to complete. Do **NOT** ALT-TAB during this process as it will cause the process to fail and you will have to start over again.
+6. Wait for the download process to complete. **DO NOT** ALT-TAB during this process as it will cause the process to fail and you will have to start over again.
 
 #### Curios Steps
 After you complete the above steps, please make sure you follow the steps below to avoid any issues with the Curios CC files:
@@ -183,7 +183,7 @@ After you complete the above steps, please make sure you follow the steps below 
 
 #### Installing Wabbajack
 
-Once you have completed pre-installation, follow these steps to install Wabbajack:
+Once you have completed pre-installation, follow the steps below to install Wabbajack:
 
 1. Create an empty folder named `Wabbajack` on the root of your drive, such as `C:\Wabbajack` for example. **DO NOT set the folder to Program Files, User protected folders (such as Desktop, Documents, Downloads, etc.), or in your Skyrim's Steam folder**.
    > The `Wabbajack` folder does not need to be on an SSD, but it makes installing faster. You can create a `Wabbajack` folder on an HDD instead for the sake of saving space.
@@ -212,7 +212,7 @@ To install Vagabond, complete the following steps:
 
 5. Press the play arrow to begin the installation.
 
-6. If the installation is successful, then rejoice and move onto the [Post Installation](#post-installation) section. If the installation is unsuccessful, refer to the [Problematic Files](#problematic-files) section and tips below or join the [discord server](https://discord.gg/WakingDreams) for support.
+6. If the installation is successful, then rejoice and move onto the [Post Installation](#post-installation) section. If the installation is unsuccessful, refer to the [Problematic Files](#problematic-files) section and tips below or join the [Discord server](https://discord.gg/WakingDreams) for support.
 
 ---
 
@@ -239,15 +239,12 @@ You will need to **manually download** these files and place them in the `Resour
 **Mega Links:**
 - [Mod Organizer 2.4.5 Alpha 3](https://mega.nz/file/EmxzyLLb#0y6vxJ6iy0QRWNn2wTXV56CMkhyfAF8MunZ_w1RfeKE)
 
-
 **Modding Guild Links:**
-
 - [ElderSouls-The-Collection-v0.9-SE-(AMR).7z](https://modding-guild.com/archive/ElderSouls-The-Collection-v0.9-SE-(AMR).7z)
 - [Valkyrie+Sword&Shield+v0.1.3.zip](https://modding-guild.com/archive/Valkyrie-Sword-Shield-v0.1.3.zip)
 - [White+Fang+Dagger+v1.zip](https://modding-guild.com/archive/White-Fang-Dagger-v1.zip)
 
 **Patreon Links:**
-
 - [ADXP I MCO Nioh Dai-Katana (0.902) WIP.rar](https://www.patreon.com/file?h=76242640&i=12606554)
 - [Elden Ring - Commander's Standard.7z](https://www.patreon.com/file?h=73960863&i=12153333)
 - [Eskyrim MCO Installer 1.2.7z](https://www.patreon.com/file?h=68233071&i=11449877)
@@ -269,13 +266,13 @@ It is possible that you may encounter an error with Wabbajack when installing. S
   - This error means you failed to follow the readme. Go back to the [Prerequisites](#prerequisites) section and set your game language to English.
 
 - Unable to download `Data_ccBGSSSE037-Curios.esl` or `Data_ccBGSSSE037-Curios.bsa`:
-  - This error means you failed to follow the readme. Go back to the [Curios Steps](#curios-steps) section and follow the instructions there.
+  - This error means you failed to follow the readme. Go back to the [Curios Steps](#curios-steps) section and follow the instructions exactly.
 
 - Could not download **X**:
   - Big files can fail to download due to connection issues or website issues. You can either run Wabbajack again or download the missing file manually. If you decide to manually download the file, make sure to place the file(s) inside the folder you set as the `Resource Download Location` in the [Downloading and Installing Vagabond](#downloading-and-installing-vagabond) section.
 
 - **X** is not a whitelisted download:
-  - This may happen when I update the modlist. Please check if there is a new update or wait until you see a release ping on the discord server.
+  - This may happen when I update the modlist. Please check if there is a new update or wait until you see a release ping on the Discord server.
 
 - Wabbajack could not find my game folder:
   - Either buy the game or go back to the [Pre-Installation](#pre-installation) step.
@@ -284,7 +281,7 @@ It is possible that you may encounter an error with Wabbajack when installing. S
   - Windows 10/11 may automatically quarantine a key file which is needed for Mod Organizer. You can fix this by [adding an exclusion for Mod Organizer in Windows Defender](https://www.thewindowsclub.com/exclude-a-folder-from-windows-security-scan).
 
 - Unable to download `Data_ccXXXXX - *.bsa` or `*.esp`:
-  - This error means Wabbajack is unable to hash your Creation Club Content. If you have followed the steps outlined under [Pre-Installation](#installing-creation-club-content), you are not on a pirated copy of the game, and have verified your steam files, then it is very likely that Bethesda has messed up the hashing for these files. If this is the case, please wait for an update ping on the discord server before continuing to download the list.
+  - This error means Wabbajack is unable to hash your Creation Club Content. If you have followed the steps outlined under [Pre-Installation](#installing-creation-club-content), you are not on a pirated copy of the game, and have verified your steam files, then it is very likely that Bethesda has messed up the hashing for these files. If this is the case, please wait for an update ping on the Discord server before continuing to download the list.
 
 ## Post-Installation
 
@@ -296,7 +293,7 @@ Due to size of the list, the chances of Wabbajack causing a corrupted installati
 
 Please follow the steps in [this guide](https://github.com/Oghma-Infinium/Modding-Guides/blob/main/tutorials/Verifying%20your%20Modlist%20Install.md) **immediately after your install is done** to verify your Vagabond install. If you receive errors in the command prompt window after doing the steps in the guide **successfully**, delete the `mods` folder inside your `Vagabond` folder and rerun the Wabbajack installer for Vagabond again. After Wabbajack installer is complete, verify the install again.
 
-If you have any questions or issues doing this step, feel free to stop by the [discord server](https://discord.gg/WakingDreams) for help.
+If you have any questions or issues doing this step, feel free to stop by the [Discord server](https://discord.gg/WakingDreams) for help.
 
 ---
 
@@ -370,9 +367,9 @@ Simply delete the Vagabond folder. Congratulations, you have uninstalled Vagabon
 
 Please read the [FAQ](https://github.com/Oghma-Infinium/Vagabond/blob/main/Documentation/FAQ.md), [Config](https://github.com/Oghma-Infinium/Vagabond/blob/main/Documentation/CONFIG.md) and [Gameplay Guide](https://github.com/Oghma-Infinium/Vagabond/blob/main/Documentation/GAMEPLAY.md) before seeking support.
 
-If you still have an issue with the list after reading the above docs, feel free to join the [Waking Dreams](https://discord.gg/wakingdreams) discord server for support. **To access the support channel**, you must first accept the terms for support in the [#🧠│vagabond-eula](https://discord.com/channels/1008047161281347606/1186441919438532668/1186451364939829348) channel. Use [#🧠│vagabond-support](https://discord.com/channels/1008047161281347606/1127299705433497700) for asking for help or reporting bugs.
+If you still have an issue with the list after reading the above docs, feel free to join the [Waking Dreams](https://discord.gg/wakingdreams) Discord server for support. **To access the support channel**, you must first accept the terms for support in the [#🧠│vagabond-eula](https://discord.com/channels/1008047161281347606/1186441919438532668/1186451364939829348) channel. Use [#🧠│vagabond-support](https://discord.com/channels/1008047161281347606/1127299705433497700) for asking for help or reporting bugs.
 
-Please be mindful of pings when asking for support and note that modified installations are **not supported**. Modifying the list in any way voids offical support the modlist.
+Please be mindful of pings when asking for support and note that modified installations are **not supported**. Modifying the list in any way voids offical support for the modlist.
 
 **If you encounter issues with an item/NPC/object or similar, please click the item in console and take a screenshot when submitting a bug report. Posting a screenshot of the issue without a console click will most likely be overlooked.**
 
