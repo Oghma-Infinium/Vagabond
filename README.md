@@ -71,7 +71,7 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 
 > Please note these specs are the best idea of a baseline that I can provide at the current moment, based on feedback I have gotten from testers and my own experiences. In the future this will be updated depending on feedback received.
 
-| Spec Category | Recommended (1080p) | My specs |
+| Spec Category | Recommended (1080p) | My specs (1440p) |
 |     :---:    |      :---:    |      :---:
 | **CPU**   | R7 5800X3D / i7 12700k | R7 7800X3D |
 | **Video Card**    |  4070 / 7700-XT  |  RTX 4090  |
