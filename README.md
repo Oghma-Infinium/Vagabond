@@ -12,13 +12,13 @@
 
 ---
 
-**Modlist Support: [Waking Dreams](https://discord.gg/wakingdreams) (You must read [#vagabond-eula](https://discord.com/channels/1008047161281347606/1186441919438532668/1186451364939829348) first.)**
+**Modlist Support: [Waking Dreams](https://discord.gg/wakingdreams)**
+> **(Please read the [#🧠│vagabond-eula](https://discord.com/channels/1008047161281347606/1186441919438532668/1186451364939829348) channel first to access the Vagabond support channel on discord)**
 
-**Vagabond requires the full AE upgrade, which means you must purchase the AE edition of the game for the list to function!**
+**⚠ WARNINGS ⚠:**
+- **Vagabond requires the full AE upgrade, which means you must purchase the AE edition of the game for the list to function!**
+- **You must update Skyrim Special Edition to latest version on Steam to install this list. DO NOT DOWNGRADE YOUR GAME TO INSTALL THIS LIST!**
 
-**You must update Skyrim Special Edition to latest version on Steam to install this list.**
-
-**DO NOT MANUALLY DOWNGRADE SKYRIM TO OLDER VERSIONS IF YOU INSTALL THIS LIST**
 
 # Contents
 
@@ -30,9 +30,8 @@
       - [Prerequisites](#prerequisites)
       - [Pagefile and Crash Prevention](#pagefile-and-crash-prevention)
       - [Setting Shader Cache Size (NVIDIA Graphics Cards Only)](#setting-shader-cache-size-nvidia-graphics-cards-only)
-      - [Steam Setup](#steam-setup)
-      - [Game Language](#game-language)
       - [Installing Creation Club Content](#installing-creation-club-content)
+      - [Curios Steps](#curios-steps)
     - [Wabbajack Installation](#wabbajack-installation)
       - [Installing Wabbajack](#installing-wabbajack)
       - [Downloading and Installing Vagabond](#downloading-and-installing-vagabond)
@@ -45,7 +44,7 @@
     - [Controller Keybinds](#controller-keybinds)
   - [Playing the List](#playing-the-list)
     - [Starting the Game](#starting-the-game)
-  - [Updating the modlist](#updating-the-modlist)
+  - [Updating the Modlist](#updating-the-modlist)
   - [Removing the Modlist](#removing-the-modlist)
   - [Contact](#contact)
   - [Credits and Thanks](#credits-and-thanks)
@@ -56,13 +55,21 @@ Vagabond is a modlist for Skyrim Anniversary Edition with a focus on visuals, mo
 
 If you're curious about the specific mods in the list, the full modlist can be viewed [here](https://loadorderlibrary.com/lists/vagabond).
 
+**NOTE:** Making ***ANY*** changes— including editing INIs or MCMs —to the modlist counts as modification and thus voids official support. Only changes explicitly stated in the [Config Doc](https://github.com/Oghma-Infinium/Vagabond/blob/main/Documentation/CONFIG.md) are supported. There is separate channel in Discord for discussing modifications to Vagabond.
+
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-Note: **Making *any* changes to the list counts as modification and thus voids official support. Even the smallest changes such as editing configurations or MCM counts as modification. Only changes explicitly stated in [config](https://github.com/Oghma-Infinium/Vagabond/blob/main/Documentation/CONFIG.md) are supported. There is separate channel in Discord for discussing modifications to Vagabond.**
+---
 
 ### System Requirements
 
-> Please note these specs are the best idea of a baseline that I can provide at the current moment, based on feedback I have gotten from testers and my own experiences. In the future this will be updated depending on feedback received. With that said, **HDD and external SSD installs are absolutely not supported**.
+**DISCLAIMERS:**
+- Vagabond only supports English Steam versions of Skyrim SE. GOG and other languages are not supported.
+- HDD and external SSD installs are absolutely not supported.
+- At least 10GB of VRAM on GPU is recommended for the list, otherwise you'll experience frequent stutters in exteriors.
+- Only Windows 10/11 operating systems are supported. Windows LTSC, special variants, lightened editions or any other modified variant **WILL NOT WORK.**
+
+> Please note these specs are the best idea of a baseline that I can provide at the current moment, based on feedback I have gotten from testers and my own experiences. In the future this will be updated depending on feedback received.
 
 | Spec Category | Recommended (1080p) |
 |     :---:    |      :---:
@@ -72,8 +79,6 @@ Note: **Making *any* changes to the list counts as modification and thus voids o
 | **Storage**    | SATA/NVME SSD |
 | **OS**    | Windows 10/11 |
 
-At least 10GB of VRAM on GPU is recommended for the list, otherwise you'll experience frequent stutters in exteriors. Only Windows 10/11 operating systems are supported. Remote computer services are also not supported.
-
 Downloads: ~325 GB  
 Install: ~490 GB  
 Temp Files: ~30 GB (on OS drive)  
@@ -81,33 +86,36 @@ Temp Files: ~30 GB (on OS drive)
 
  > Wabbajack requires around 30 GB of space on your main OS drive for temporary and working files during the installation. The total size after installation is done is closer to 815 GB.
 
+
+
 ## Installation
 
-⚠ **Vagabond requires the full AE upgrade, which means you must purchase the AE edition of the game for the list to function!** ⚠
-
-**You must update Skyrim Special Edition to latest version on Steam to install this list.**
-
-**DO NOT MANUALLY DOWNGRADE SKYRIM TO OLDER VERSIONS IF YOU INSTALL THIS LIST**
+**⚠ WARNINGS ⚠:**
+- **Vagabond requires the full AE upgrade, which means you must purchase the AE edition of the game for the list to function!**
+- **You must update Skyrim Special Edition to latest version on Steam to install this list. DO NOT DOWNGRADE YOUR GAME TO INSTALL THIS LIST!**
 
 If you are updating the modlist, you can safely skip to the [updating section](#updating-the-modlist).
 
 ### Pre-Installation
 
-These steps are only required for installing the modlist for the first time. Additionally, many of these steps may be covered in other modlist installs, but for new users I suggest reading through here regardless.
-
 #### Prerequisites
+Prior to installing Vagabond, please complete the following steps:
 
- 1. (Soft Requirement) A Nexus Premium account is recommended. Without Premium, you will need to manually click the `Slow Download` button for each mod.
- 
- 2. Install [Visual C++ x64](https://aka.ms/vs/17/release/vc_redist.x64.exe) & [.Net Runtime v6 desktop x64](https://dotnet.microsoft.com/en-us/download/dotnet/6.0/runtime).
+ 1. Install [Visual C++ x64](https://aka.ms/vs/17/release/vc_redist.x64.exe) & [.Net Runtime v6 Desktop x64](https://dotnet.microsoft.com/en-us/download/dotnet/6.0/runtime).
+ 2. Reinstall Skyrim into a location that is not Program Files. Locations such as `C:\Games` is a good location. If you only have one drive, look into LostDragonist's [SteamLibrary tool](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide).
+ 3. Change Skyrim so it does not [automatically update](https://help.steampowered.com/en/faqs/view/71AB-698D-57EB-178C#disable).
+ 4. Disable the Steam Overlay: Right click on Skyrim SE in Steam and click on `Properties` > Untick the `Enable Steam Overlay while in-game` option
+ 5. Set your Skyrim language to English: Right click on your Skyrim in Steam > Click `Properties` > Click the drop down box next to `Language` > Set the language to English
+ 6. Remove or disable any 3rd party antiviruses such as Webroot or Bitdefender. These programs can cause issues with your Vagabond installation due to how MO2's Virtual File Staging works.
+ 7. (Soft Requirement) A Nexus Premium account is recommended. Without Premium, you will need to manually click the `Slow Download` button for each mod.
 
- 3. Right click on Skyrim SE and click on properties, untick the `Enable Steam Overlay while in-game` option.
-
- 4. Remove or disable any 3rd party antivirus such as Webroot or Bitdefender. These programs **will absolutely** cause issues with your Vagabond installation due to how MO2's Virtual File Staging works.
+---
 
 #### Pagefile and Crash Prevention
 
-Larger Skyrim modlists require a significant amount of memory and running out of memory **will** result in crashes and other potential issues. Due to Vagabond's size and number of files required to be handled for the list, this step is **NOT** optional. I do not care how much RAM or VRAM you have, **please** do this step.
+Larger Skyrim modlists require a significant amount of memory and running out of memory **will** result in crashes and other potential issues. 
+
+Due to Vagabond's size and number of files required to be handled for the list, this step is **NOT** optional. **Regardless of how much RAM or VRAM you have, please do this step.**
 
  To set up your pagefile:
 
@@ -127,6 +135,8 @@ Larger Skyrim modlists require a significant amount of memory and running out of
  14. Click *OK*
  15. Restart your computer in order for your new pagefile to take effect.
 
+---
+
 #### Setting Shader Cache Size (NVIDIA Graphics Cards Only)
 
  Additionally, if you have an NVIDIA GeForce Graphics Card, please do the following:
@@ -139,26 +149,13 @@ Larger Skyrim modlists require a significant amount of memory and running out of
  6. You may exit out of the application.
 ![](https://raw.githubusercontent.com/iAmMe27/Tahrovin/main/img/ShaderCache.png)
 
-#### Steam Setup
-
- If you have your Steam Library inside your Program Files folder, read [this](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide) and move it elsewhere. Locations such as Desktop, Documents, Downloads, OneDrive, etc. will cause issues with installing the list.
-
-#### Game Language
-
-The English Steam version of Skyrim is the only supported version. I understand that this may be frustrating for non-English speaking users or users with the GOG versions, but due to the core file differences between the different versions, I am only able to support one game version.
-
-To set your Skyrim language to English:
-
- 1. Right click on your Skyrim in Steam
- 2. Click `Properties`
- 3. Click the drop down box next to `Language`
- 4. Set the language to English.
+---
 
 #### Installing Creation Club Content
 
  If you have never installed the Creation Club Content before, please do the following:
 
-1. Purchase the [`Skyrim Anniversary Edition Upgrade`](https://store.steampowered.com/app/1746860/The_Elder_Scrolls_V_Skyrim_Anniversary_Upgrade/) from Steam. **If you do not do this, you can not install or play the list.**
+1. Purchase the [Skyrim Anniversary Edition Upgrade](https://store.steampowered.com/app/1746860/The_Elder_Scrolls_V_Skyrim_Anniversary_Upgrade/) from Steam. **If you do not do this, you can not install or play the list.**
     > There is no work around for this and pirating this content will **not** work. If you pirate the content and come asking for assistance, you will be banned.
 
 2. In your Steam Library, right-click on the menu entry for Skyrim, select `Properties` and then select `Installed Files`. Click `Verify Integrity of Game Files` and wait for it to complete.
@@ -167,19 +164,20 @@ To set your Skyrim language to English:
 
 4. Once the intro logo finishes displaying and the Skyrim logo appears, you should receive a prompt to `Download All Content?` Accept this option.
 
-5. If you did not receive a prompt to download, select the Creation Club option from the menu and you should find a "Download All" prompt in there somewhere. If this message does not appear, you have not purchased the $20 Upgrade. Begin again from step 1.
+5. If you did not receive a prompt to download, select the Creation Club option from the menu and you should find a "Download All" prompt in there somewhere. If this message does not appear, you have not purchased the $20 Upgrade. Begin again from Step 1.
 
 6. Wait for the download process to complete. Do **NOT** ALT-TAB during this process as it will cause the process to fail and you will have to start over again.
 
-> following steps are a temporary, but **mandatory** workaround due to an issue Bethesda caused with a recent update
+#### Curios Steps
+After you complete the above steps, please make sure you follow the steps below to avoid any issues with the Curios CC files:
 
-7. Exit the game and navigate to `steamapps\common\Skyrim Special Edition\Data` folder in your Steam Skyrim Special Edition installation
+1. Navigate to your Steam's installation folder of Skyrim Special Edition.
 
-8. Delete these two files: `ccbgssse037-curios.esl` and `ccbgssse037-curios.bsa`
+2. Within the `Skyrim Special Edition\Data` folder, delete the `ccbgssse037-curios.bsa` and `ccbgssse037-curios.esl` files
 
-9. Verify integrity of game files for Skyrim Special Edition on Steam. **Do not open the game again after this.**
+3. Verify your game files for Skyrim. **DO NOT OPEN THE GAME AFTER COMPLETING THIS STEP!**
 
-10. Proceed with the rest of the installation.
+---
 
 ### Wabbajack Installation
 
@@ -190,14 +188,15 @@ Once you have completed pre-installation, follow these steps to install Wabbajac
 1. Create an empty folder named `Wabbajack` on the root of your drive, such as `C:\Wabbajack` for example. **DO NOT set the folder to Program Files, User protected folders (such as Desktop, Documents, Downloads, etc.), or in your Skyrim's Steam folder**.
    > The `Wabbajack` folder does not need to be on an SSD, but it makes installing faster. You can create a `Wabbajack` folder on an HDD instead for the sake of saving space.
 
-2. Download the [latest version of Wabbajack](https://github.com/wabbajack-tools/wabbajack/releases/latest/download/Wabbajack.exe) and place the `Wabbajack.exe` file inside the Wabbajack folder you created in Step 1.
-   > You **must** use the latest version of Wabbajack. Don't try using older versions unless instructed by staff.
+2. Download the [latest version of Wabbajack](https://github.com/wabbajack-tools/wabbajack/releases/latest/download/Wabbajack.exe) and place the `Wabbajack.exe` file inside the Wabbajack folder you created in Step 1. **Do not** use older versions of Wabbajack unless instructed by staff.
 
-4. Double-click the `Wabbajack.exe` file that is now inside your Wabbajack folder to set up the program.
+3. Double-click the `Wabbajack.exe` file that is now inside your Wabbajack folder to set up the program.
+
+---
 
 #### Downloading and Installing Vagabond
 
-Downloading and installing Vagabond can take a while depending on your internet connection, PC specs, and if you have Nexus Premium. Without Premium, you will need to manually click the `Slow Download` button for each mod.
+Downloading and installing Vagabond can take a while depending on your internet connection, PC specs, and if you have Nexus Premium.
 
 To install Vagabond, complete the following steps:
 
@@ -209,11 +208,13 @@ To install Vagabond, complete the following steps:
    > **DO NOT** set the folder to Program Files, User protected folders (such as Desktop, Documents, Downloads, etc.), or in your Skyrim's Steam folder.
 
 4. The `Resource Download Location` line should fill out automatically after you set your `Modlist Installation Location`. 
-   > The `Resource Download Location` does not need to be on an SSD, but it makes installing faster. You can set this location to a folder on an HDD for the sake of saving space.
+   > The `Resource Download Location` does not need to be on the same drive as your Modlist Installation Location. You can set this location to a folder on an HDD for the sake of saving space.
 
 5. Press the play arrow to begin the installation.
 
 6. If the installation is successful, then rejoice and move onto the [Post Installation](#post-installation) section. If the installation is unsuccessful, refer to the [Problematic Files](#problematic-files) section and tips below or join the [discord server](https://discord.gg/WakingDreams) for support.
+
+---
 
 #### Problematic Files
 
@@ -258,19 +259,25 @@ You will need to **manually download** these files and place them in the `Resour
 - [Wo Long - Azure Dragon Crescent Glaive.7z](https://www.patreon.com/file?h=80323534&i=13464512)
 - [d3dcompiler_43.zip](https://www.patreon.com/file?h=82920846&i=14179396)
 
+---
+
 ### Problems with Installation
 
 It is possible that you may encounter an error with Wabbajack when installing. Some common issues are listed below.
+
+- Unable to download `Skyrim_Default.ini`:
+  - This error means you failed to follow the readme. Go back to the [Prerequisites](#prerequisites) section and set your game language to English.
+
+- Unable to download `Data_ccBGSSSE037-Curios.esl` or `Data_ccBGSSSE037-Curios.bsa`:
+  - This error means you failed to follow the readme. Go back to the [Curios Steps](#curios-steps) section and follow the instructions there.
 
 - Could not download **X**:
   - Big files can fail to download due to connection issues or website issues. You can either run Wabbajack again or download the missing file manually. If you decide to manually download the file, make sure to place the file(s) inside the folder you set as the `Resource Download Location` in the [Downloading and Installing Vagabond](#downloading-and-installing-vagabond) section.
 
 - **X** is not a whitelisted download:
-
   - This may happen when I update the modlist. Please check if there is a new update or wait until you see a release ping on the discord server.
 
 - Wabbajack could not find my game folder:
-
   - Either buy the game or go back to the [Pre-Installation](#pre-installation) step.
 
 - Antivirus reports a virus:
@@ -278,12 +285,6 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 
 - Unable to download `Data_ccXXXXX - *.bsa` or `*.esp`:
   - This error means Wabbajack is unable to hash your Creation Club Content. If you have followed the steps outlined under [Pre-Installation](#installing-creation-club-content), you are not on a pirated copy of the game, and have verified your steam files, then it is very likely that Bethesda has messed up the hashing for these files. If this is the case, please wait for an update ping on the discord server before continuing to download the list.
-
-- Unable to download `Skyrim_Default.ini`:
-  - This error means you failed to follow the readme. Go back to the [game language](#game-language) section and set your game language to English.
-
-- Unable to download `Data_ccBGSSSE037-Curios.esl`, unable to download `Data_ccBGSSSE037-Curios.bsa`
-  - Delete `ccbgssse037-curios.esl` and `ccbgssse037-curios.bsa` from your Skyrim Special Edition Steam install location `steamapps\common\Skyrim Special Edition\Data`, then verify integrity of game files for Skyrim Special Edition on Steam. **Do not** run the game again after doing this, just run the Wabbajack installer right away.
 
 ## Post-Installation
 
@@ -293,9 +294,11 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 
 Due to size of the list, the chances of Wabbajack causing a corrupted installation is higher than usual. This can cause random crashes or issues that are not reproducible on the modlist author's end.
 
-Please follow the steps in [this guide](https://github.com/Oghma-Infinium/Modding-Guides/blob/main/tutorials/Verifying%20your%20Modlist%20Install.md) right after your install is done to verify your Vagabond install does not have any errors. If you receive errors in the command prompt window after doing the steps in the guide *successfully*, delete the `mods` folder inside your `Vagabond` folder and rerun the Wabbajack installer for Vagabond again. After Wabbajack installer is complete, verify the install again.
+Please follow the steps in [this guide](https://github.com/Oghma-Infinium/Modding-Guides/blob/main/tutorials/Verifying%20your%20Modlist%20Install.md) **immediately after your install is done** to verify your Vagabond install. If you receive errors in the command prompt window after doing the steps in the guide **successfully**, delete the `mods` folder inside your `Vagabond` folder and rerun the Wabbajack installer for Vagabond again. After Wabbajack installer is complete, verify the install again.
 
 If you have any questions or issues doing this step, feel free to stop by the [discord server](https://discord.gg/WakingDreams) for help.
+
+---
 
 ### Antivirus Exceptions
 
@@ -317,6 +320,8 @@ If you use Windows Defender, it is advised that you set up an exception for the 
     - ModOrganizer.exe (`[Path to Modlist]\ModOrganizer.exe`)
     - Nemesis Unlimited Behavior Engine.exe (`[Path to Modlist]\mods\Project New Reign - Nemesis Unlimited Behavior Engine\Nemesis_Engine\Nemesis Unlimited Behavior Engine.exe`)
 
+---
+
 ### Keyboard Keybinds
 ![](https://raw.githubusercontent.com/Oghma-Infinium/Vagabond/main/images/keyboard-layout_Vagabond.jpg)
 
@@ -324,7 +329,7 @@ If you use Windows Defender, it is advised that you set up an exception for the 
 
 ![](https://raw.githubusercontent.com/Oghma-Infinium/Vagabond/main/images/controlmap3.png)
 
-**Note:** The Toggle POV button bind is disabled by default, but can be turned on if you wish. Read the [Configuration page](https://github.com/Oghma-Infinium/Vagabond/blob/main/Documentation/CONFIG.md) for more info.
+**NOTE:** The Toggle POV button bind for Keyboard/Mouse is disabled by default, but can be turned on if you wish. Read the [Configuration page](https://github.com/Oghma-Infinium/Vagabond/blob/main/Documentation/CONFIG.md) for more info.
 
 ## Playing the List
 
@@ -341,7 +346,7 @@ If you use Windows Defender, it is advised that you set up an exception for the 
  4. Press enter on your keyboard to create your character. The game will open Racemenu where you can customize your character.
  5. After you're done with the character creation you'll be presented with a message box. Choose continue to start your journey. Other messages boxes may pop up, just press `Ok` on those.
 
-## Updating the modlist
+## Updating the Modlist
 
 Versioning for the list will adhere to the following format: `MAJOR.MINOR.PATCH`.
 
@@ -353,7 +358,7 @@ Versioning for the list will adhere to the following format: `MAJOR.MINOR.PATCH`
 Before updating, please check the [changelog](https://github.com/Oghma-Infinium/Vagabond/blob/main/CHANGELOG.md) and back up your saves. The changelog will state if you may need to start a new game after certain updates.
 
 Updating is like installing the list. Simply grab the latest version from Wabbajack UI, make sure your paths are the same as the ones you picked in [Downloading and Installing Vagabond](#downloading-and-installing-vagabond), and tick the `Overwrite Installation` button.
-> **Note**: Any mods you have added will be deleted and *any* changes to the files in the list will be reset when updating. To make sure that Wabbajack does not delete your added mods upon updating, prefix your mods with `[NoDelete]`.
+> **NOTE**: Any mods you have added will be deleted and *any* changes to the files in the list will be reset when updating. To make sure that Wabbajack does not delete your added mods upon updating, prefix your mods with `[NoDelete]`.
 
 ## Removing the Modlist
 
@@ -363,11 +368,13 @@ Simply delete the Vagabond folder. Congratulations, you have uninstalled Vagabon
 
 **PLEASE DO NOT DM OR PING ME ON DISCORD!**
 
-Please reade [FAQ](https://github.com/Oghma-Infinium/Vagabond/blob/main/Documentation/FAQ.md), [Config](https://github.com/Oghma-Infinium/Vagabond/blob/main/Documentation/CONFIG.md) and [Gameplay Guide](https://github.com/Oghma-Infinium/Vagabond/blob/main/Documentation/GAMEPLAY.md) before seeking for support.
+Please read the [FAQ](https://github.com/Oghma-Infinium/Vagabond/blob/main/Documentation/FAQ.md), [Config](https://github.com/Oghma-Infinium/Vagabond/blob/main/Documentation/CONFIG.md) and [Gameplay Guide](https://github.com/Oghma-Infinium/Vagabond/blob/main/Documentation/GAMEPLAY.md) before seeking support.
 
-If you have an issue with the list, please join the [Waking Dreams](https://discord.gg/wakingdreams) discord server for support. **To access the support channel you must first accept the terms for support in [#vagabond-eula](https://discord.com/channels/1008047161281347606/1186441919438532668/1186451364939829348)**. Use #vagabond-support for asking for help or reporting bugs. After asking a question, do not ping anyone, just patiently wait and someone from the staff will help you. Do note that modified installations are not supported, modifying the list in any way voids officals support the modlist.
+If you still have an issue with the list after reading the above docs, feel free to join the [Waking Dreams](https://discord.gg/wakingdreams) discord server for support. **To access the support channel**, you must first accept the terms for support in the [#🧠│vagabond-eula](https://discord.com/channels/1008047161281347606/1186441919438532668/1186451364939829348) channel. Use [#🧠│vagabond-support](https://discord.com/channels/1008047161281347606/1127299705433497700) for asking for help or reporting bugs.
 
-**If you have encountered an issue with some item / npc / object or similar please click the item on console and take the screenshot. Posting a screenshot of the issue without console click is useless most of the time**
+Please be mindful of pings when asking for support and note that modified installations are **not supported**. Modifying the list in any way voids offical support the modlist.
+
+**If you encounter issues with an item/NPC/object or similar, please click the item in console and take a screenshot when submitting a bug report. Posting a screenshot of the issue without a console click will most likely be overlooked.**
 
 ## Credits and Thanks
 
