@@ -212,7 +212,7 @@ To install Vagabond, complete the following steps:
 
 5. Press the play arrow to begin the installation.
 
-6. If the installation is successful, then rejoice and move onto the [Post Installation](#post-installation) section. If the installation is unsuccessful, refer to the [Problematic Files](#problematic-files) section and tips below or join the [Discord server](https://discord.gg/WakingDreams) for support.
+6. If the installation is successful, then rejoice and move onto the [Post Installation](#post-installation) section. If the installation is unsuccessful, refer to the [Problematic Files](#problematic-files) section and tips below or check the [Contact](#contact) section for support.
 
 ---
 
