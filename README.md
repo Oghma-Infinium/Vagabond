@@ -167,15 +167,6 @@ Due to Vagabond's size and number of files required to be handled for the list, 
 
 6. Wait for the download process to complete. **DO NOT** ALT-TAB during this process as it will cause the process to fail and you will have to start over again.
 
-#### Curios Steps
-After you complete the above steps, please make sure you follow the steps below to avoid any issues with the Curios CC files:
-
-1. Navigate to your Steam's installation folder of Skyrim Special Edition.
-
-2. Within the `Skyrim Special Edition\Data` folder, delete the `ccbgssse037-curios.bsa` and `ccbgssse037-curios.esl` files
-
-3. Verify your game files for Skyrim. **DO NOT OPEN THE GAME AFTER COMPLETING THIS STEP!**
-
 ---
 
 ### Wabbajack Installation
@@ -263,9 +254,6 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 
 - Unable to download `Skyrim_Default.ini`:
   - This error means you failed to follow the readme. Go back to the [Prerequisites](#prerequisites) section and set your game language to English.
-
-- Unable to download `Data_ccBGSSSE037-Curios.esl` or `Data_ccBGSSSE037-Curios.bsa`:
-  - This error means you failed to follow the readme. Go back to the [Curios Steps](#curios-steps) section and follow the instructions exactly.
 
 - Could not download **X**:
   - Big files can fail to download due to connection issues or website issues. You can either run Wabbajack again or download the missing file manually. If you decide to manually download the file, make sure to place the file(s) inside the folder you set as the `Resource Download Location` in the [Downloading and Installing Vagabond](#downloading-and-installing-vagabond) section.
