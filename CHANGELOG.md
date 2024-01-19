@@ -72,7 +72,7 @@ Bug fixes and mod updates, few additions.
   - I don't remember what else
 
 ### Added
-  - Seriously I have no idea development of this update was a mess.
+  - Seriously I have no idea, development of this update was a mess.
 
 ### Removed
   - Bruh, no clue.
