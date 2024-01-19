@@ -12,6 +12,7 @@
 ---
 
 # Changelog
+- [1.1.10](#1110)
 - [1.1.9](#119)
 - [1.1.8](#118)
 - [1.1.7](#117)
@@ -48,6 +49,33 @@
 - [0.1.5](#015)
 - [0.1.4](#014)
 - [0.1.3](#013)
+
+</Details>
+
+
+## 1.1.10
+
+### Info
+*As always, remember to back up your saves before updating*
+
+**You must update Skyrim Special Edition to the latest version on Steam and update Creation Club content in-game.**
+
+Bug fixes and mod updates, few additions.
+
+ - Refer to [Trello](https://trello.com/b/khix4egd/vagabond-bug-reports) to track which are fixed and which still persist.
+
+
+<Details>
+
+### Updated
+  - Acheron
+  - I don't remember what else
+
+### Added
+  - Seriously I have no idea development of this update was a mess.
+
+### Removed
+  - Bruh, no clue.
 
 </Details>
 
