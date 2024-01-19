@@ -56,6 +56,9 @@
 ## 1.1.10
 
 ### Info
+
+**This update is save safe.**
+
 *As always, remember to back up your saves before updating*
 
 **You must update Skyrim Special Edition to the latest version on Steam and update Creation Club content in-game.**
