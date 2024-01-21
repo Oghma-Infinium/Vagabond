@@ -14,7 +14,7 @@
 
 **Modlist Support: [Waking Dreams](https://discord.gg/wakingdreams)**
 
-**Some known issues are marked in [Trello](https://trello.com/b/khix4egd/vagabond-bug-reports), be sure to check that as well.
+**Some known issues are marked in [Trello](https://trello.com/b/khix4egd/vagabond-bug-reports), be sure to check that as well.**
 
 ## Contents
 
