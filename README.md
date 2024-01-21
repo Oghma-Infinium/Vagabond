@@ -12,7 +12,7 @@
 
 ---
 
-**Modlist Support: [Waking Dreams](https://discord.gg/wakingdreams)**
+**[Modlist Support](#contact)**
 > **(Please read the [#🧠│vagabond-eula](https://discord.com/channels/1008047161281347606/1186441919438532668/1186451364939829348) channel first to access the Vagabond support channel on Discord)**
 
 **⚠ WARNINGS ⚠:**
