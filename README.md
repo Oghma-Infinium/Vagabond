@@ -353,7 +353,7 @@ Simply delete the Vagabond folder. Congratulations, you have uninstalled Vagabon
 
 **PLEASE DO NOT DM OR PING ME ON DISCORD!**
 
-Please read the [FAQ](https://github.com/Oghma-Infinium/Vagabond/blob/main/Documentation/FAQ.md), [Config](https://github.com/Oghma-Infinium/Vagabond/blob/main/Documentation/CONFIG.md) and [Gameplay Guide](https://github.com/Oghma-Infinium/Vagabond/blob/main/Documentation/GAMEPLAY.md) before seeking support.
+Please read the [FAQ](https://github.com/Oghma-Infinium/Vagabond/blob/main/Documentation/FAQ.md), [Config](https://github.com/Oghma-Infinium/Vagabond/blob/main/Documentation/CONFIG.md), [Gameplay Guide](https://github.com/Oghma-Infinium/Vagabond/blob/main/Documentation/GAMEPLAY.md) and [Trello](https://trello.com/b/khix4egd/vagabond-bug-reports) before seeking support.
 
 If you still have an issue with the list after reading the above docs, feel free to join the [Waking Dreams](https://discord.gg/wakingdreams) Discord server for support. **To access the support channel**, you must first accept the terms for support in the [#🧠│vagabond-eula](https://discord.com/channels/1008047161281347606/1186441919438532668/1186451364939829348) channel. Use [#🧠│vagabond-support](https://discord.com/channels/1008047161281347606/1127299705433497700) for asking for help or reporting bugs.
 
