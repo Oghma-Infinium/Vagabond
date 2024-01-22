@@ -43,7 +43,7 @@ This section will cover the following Optional Mods that are included as a part 
 
 - **Dark Souls Underwear - Never Nude Bodyslide Generated files**: Enabled by default. Disable this mod if you wish to have a nude body.
 
-- **3BA Less Bounce**: Enabled by default. Disable this mod if you want your 3BA body to jiggle more.
+- **3BA Less Bounce**: Enabled by default. ~~Disable this mod if you want your 3BA body to jiggle more.~~ Doesn't work currently, bounce is still minimal even if you disable this.
 
 - **Seamless Combat Camera**: Enabled by default. Automatically swaps camera to third person whean unsheating weapons or entering combat.
    > As mentioned in [FAQ](https://github.com/Oghma-Infinium/Vagabond/blob/main/Documentation/FAQ.md#q-can-i-play-the-list-in-first-person), first person combat is not supported.
