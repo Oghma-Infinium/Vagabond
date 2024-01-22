@@ -43,7 +43,7 @@ Bad saving practices can quickly corrupt your save with a modlist this large. Fo
   - You can also manually request save with F5. If the save doesn't happen immediately it means the game state is not safe for saving.
 - Do not enable autosaves. They can often save the game at troublesome moments like the above.
   > Autosaves created by Skyrim SafeSave System Overhaul, are safe and can be trusted
-- Respect the Acheron alternative death system rather than reloading save after dying. Reloading saves after dying in combat is especially dangerous for save health.
+- Respect the [Acheron](https://www.nexusmods.com/skyrimspecialedition/mods/108159?tab=description) alternative death system rather than reloading save after dying. Reloading saves after dying in combat is especially dangerous for save health.
 
 
 
