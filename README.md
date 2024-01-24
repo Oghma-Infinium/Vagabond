@@ -13,11 +13,11 @@
 ---
 
 **[Modlist Support](#contact)**
-> **(Please read the [#🧠│vagabond-eula](https://discord.com/channels/1008047161281347606/1186441919438532668/1186451364939829348) channel first to access the Vagabond support channel on Discord)**
 
 **⚠ WARNINGS ⚠:**
 - **Vagabond requires the full AE upgrade, which means you must purchase the AE edition of the game for the list to function!**
 - **You must update Skyrim Special Edition to latest version on Steam to install this list. DO NOT DOWNGRADE YOUR GAME TO INSTALL THIS LIST!**
+- **Modifying the list in any way voids offical support for the modlist.**
 
 
 # Contents
@@ -31,7 +31,6 @@
       - [Pagefile and Crash Prevention](#pagefile-and-crash-prevention)
       - [Setting Shader Cache Size (NVIDIA Graphics Cards Only)](#setting-shader-cache-size-nvidia-graphics-cards-only)
       - [Installing Creation Club Content](#installing-creation-club-content)
-      - [Curios Steps](#curios-steps)
     - [Wabbajack Installation](#wabbajack-installation)
       - [Installing Wabbajack](#installing-wabbajack)
       - [Downloading and Installing Vagabond](#downloading-and-installing-vagabond)
@@ -355,9 +354,7 @@ Simply delete the Vagabond folder. Congratulations, you have uninstalled Vagabon
 
 Please read the [FAQ](https://github.com/Oghma-Infinium/Vagabond/blob/main/Documentation/FAQ.md), [Config](https://github.com/Oghma-Infinium/Vagabond/blob/main/Documentation/CONFIG.md), [Gameplay Guide](https://github.com/Oghma-Infinium/Vagabond/blob/main/Documentation/GAMEPLAY.md) and [Trello](https://trello.com/b/khix4egd/vagabond-bug-reports) before seeking support.
 
-If you still have an issue with the list after reading the above docs, feel free to join the [Waking Dreams](https://discord.gg/wakingdreams) Discord server for support. **To access the support channel**, you must first accept the terms for support in the [#🧠│vagabond-eula](https://discord.com/channels/1008047161281347606/1186441919438532668/1186451364939829348) channel. Use [#🧠│vagabond-support](https://discord.com/channels/1008047161281347606/1127299705433497700) for asking for help or reporting bugs.
-
-Please be mindful of pings when asking for support and note that modified installations are **not supported**. Modifying the list in any way voids offical support for the modlist.
+If you still have an issue with the list after reading the above docs, feel free to join the [Waking Dreams](https://discord.gg/wakingdreams) Discord server for support. Please be mindful of pings when asking for support and note that modified installations are **not supported**. **Modifying the list in any way voids offical support for the modlist.**
 
 **If you encounter issues with an item/NPC/object or similar, please click the item in console and take a screenshot when submitting a bug report. Posting a screenshot of the issue without a console click will most likely be overlooked.**
 
