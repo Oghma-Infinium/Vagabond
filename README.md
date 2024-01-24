@@ -54,7 +54,7 @@ Vagabond is a modlist for Skyrim Anniversary Edition with a focus on visuals, mo
 
 If you're curious about the specific mods in the list, the full modlist can be viewed [here](https://loadorderlibrary.com/lists/vagabond).
 
-**NOTE:** Making ***ANY*** changes— including editing INIs or MCMs —to the modlist counts as modification and thus voids official support. Only changes explicitly stated in the [Config Doc](https://github.com/Oghma-Infinium/Vagabond/blob/main/Documentation/CONFIG.md) are supported. There is separate channel in Discord for discussing modifications to Vagabond.
+**NOTE:** Making ***ANY*** changes, — including editing INIs or MCMs —to the modlist, adding mods, removing mods, counts as modification and thus voids official support. Only changes explicitly stated in the [Config Doc](https://github.com/Oghma-Infinium/Vagabond/blob/main/Documentation/CONFIG.md) are supported. There is separate channel in Discord for discussing modifications to Vagabond.
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
