@@ -37,7 +37,6 @@
       - [Problematic Files](#problematic-files)
     - [Problems with Installation](#problems-with-installation)
   - [Post-Installation](#post-installation)
-    - [⚠ Verify Install ⚠](#-verify-install-)
     - [Antivirus Exceptions](#antivirus-exceptions)
     - [Keyboard Keybinds](#keyboard-keybinds)
     - [Controller Keybinds](#controller-keybinds)
@@ -271,18 +270,6 @@ It is possible that you may encounter an error with Wabbajack when installing. S
   - This error means Wabbajack is unable to hash your Creation Club Content. If you have followed the steps outlined under [Pre-Installation](#installing-creation-club-content), you are not on a pirated copy of the game, and have verified your steam files, then it is very likely that Bethesda has messed up the hashing for these files. If this is the case, please wait for an update ping on the Discord server before continuing to download the list.
 
 ## Post-Installation
-
-### ⚠ Verify Install ⚠
-
-**THIS STEP IS MANDATORY.**
-
-Due to size of the list, the chances of Wabbajack causing a corrupted installation is higher than usual. This can cause random crashes or issues that are not reproducible on the modlist author's end.
-
-Please follow the steps in [this guide](https://github.com/Oghma-Infinium/Modding-Guides/blob/main/tutorials/Verifying%20your%20Modlist%20Install.md) **immediately after your install is done** to verify your Vagabond install. If you receive errors in the command prompt window after doing the steps in the guide **successfully**, delete the `mods` folder inside your `Vagabond` folder and rerun the Wabbajack installer for Vagabond again. After Wabbajack installer is complete, verify the install again.
-
-If you have any questions or issues doing this step, feel free to stop by the [Discord server](https://discord.gg/WakingDreams) for help.
-
----
 
 ### Antivirus Exceptions
 
