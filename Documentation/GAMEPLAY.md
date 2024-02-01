@@ -96,8 +96,9 @@ Perks can be obtained by following ways:
   - Some Ash of War attacks inflict special staggers like knockback.
   - Enchantments that increase your "mass" increase poise.
 - [Acheron](https://www.nexusmods.com/skyrimspecialedition/mods/108159?tab=description) handles the death system.
-  - After you die you respawn at a nearby location.
-  - If the mod can't find a good location, you enter a crawl state for 30 seconds and de-aggro the enemies, after which you stand back up.
+  - After you die you either:
+    -  respawn at a nearby location.
+    -  Enter a crawl state for 30 seconds and de-aggro the enemies, after which you stand back up.
   - I highly encourage to respect the death system instead of reloading save after dying. Reloading saves after combat is very bad for save health and risks getting your save corrupted, especially in a modlist this large.
 
 ### Perk Tweaks
