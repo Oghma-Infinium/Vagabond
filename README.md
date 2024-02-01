@@ -65,7 +65,7 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 - Vagabond only supports English Steam versions of Skyrim SE. GOG and other languages are not supported.
 - HDD and external SSD installs are absolutely not supported.
 - Any remote PC / desktop services or apps are not supported.
-- At least 10GB of VRAM on GPU is recommended for the list, otherwise you'll experience frequent stutters in exteriors.
+- At least 11-12GB of GPU VRAM minimum is recommended for the list, otherwise you'll experience frequent stutters in exteriors.
 - Only Windows 10/11 operating systems are supported. Windows LTSC, special variants, lightened editions or any other modified variant **WILL NOT WORK.**
 
 > Please note these specs are the best idea of a baseline that I can provide at the current moment, based on feedback I have gotten from testers and my own experiences. In the future this will be updated depending on feedback received.
