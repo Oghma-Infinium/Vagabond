@@ -73,6 +73,8 @@ Big thanks to Bingus for compiling the update!
 
 ### Updated
   - Acheron
+  - Faster HDT-SMP
+    - Improvement in performance
 
 ## 1.1.10
 
