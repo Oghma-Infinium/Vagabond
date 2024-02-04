@@ -12,6 +12,7 @@
 ---
 
 # Changelog
+- [1.1.11](#1111)
 - [1.1.10](#1110)
 - [1.1.9](#119)
 - [1.1.8](#118)
@@ -52,6 +53,26 @@
 
 </Details>
 
+
+## 1.1.11
+
+### Info
+
+**This update is save safe.**
+
+*As always, remember to back up your saves before updating*
+
+Fixed Aela's face and couple other small issues. Update 1.2 is still work in progress.
+
+Big thanks to Bingus for compiling the update!
+
+ - Refer to [Trello](https://trello.com/b/khix4egd/vagabond-bug-reports) to track which are fixed and which still persist.
+
+
+<Details>
+
+### Updated
+  - Acheron
 
 ## 1.1.10
 
