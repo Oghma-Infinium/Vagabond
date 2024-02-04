@@ -78,6 +78,8 @@ Perks can be obtained by following ways:
   - Food buffs are highly useful to work around the slow regeneration at early levels. Mages should seek to get robes as early as possible.
 - Base magicka is 200 instead of 100.
   - The idea is that you start with more reserve magicka than vanilla, but regenerate slower.
+- Player starts with 200 carry weight, but misc items, ingredients, crafting materials and potions weigh nothing.
+  - You may still want to store excess stuff in your house, because having too much stuff in inventory will cause the inventory to lag.
 
 ### Combat
 
@@ -108,19 +110,12 @@ Perks can be obtained by following ways:
 - Sneak Tree has custom-made perfect dodge perks, so it is recommended to invest some skill points in to sneak even if you don't plan on playing a stealth build.
   - Note that the exact timing to trigger perfect dodge is not consistent across different enemy attacks. You'll have to learn the timing for each individual attack, or just hope it accidentally triggers.
 
-### Race Tweaks
-
-### Religion Tweaks
-
-### Spell Tweaks
-
 ### Vanilla Quest Changes
 
 - First few quests of the main story are skipped. The main quest starts With Way of the Voice after you kill your first dragon. Dragon Rising quest doesn't exist
   - Dragons start spawning at word walls after level 15  and rest of the world after level 20.
 - Retrieving dragonstone is now part of Whiterun thaneship. To become thane of Whiterun you must retrieve the Dragonstone, complete Gildergreen quest and help ten citizens of Whiterun. Once Gildergreen sapling fully grows, you can become thane of Whiterun.
-- [At Your Own Pace](https://www.nexusmods.com/skyrimspecialedition/mods/52704) alters many vanilla questlines, including main quest after Way of the Voice. I recommend just reading the entire modpage. (This mod will be remove in a future update)
-- [Penitus Oculatus](https://www.nexusmods.com/skyrimspecialedition/mods/21061) and [Destroy the Thieves Guild](https://www.nexusmods.com/skyrimspecialedition/mods/43244) add ways to obtain unique rewards from Dark Brotherhood and Thieves Guild questlines without joining the factions.
+- [The Choice is Yours](https://www.nexusmods.com/skyrimspecialedition/mods/3850) gives you the freedom to reject quests you may not want to take at the time.
 
 ## New Content
 
@@ -128,6 +123,8 @@ Perks can be obtained by following ways:
 
 ### Vanilla Quest Expansions and Edits
 
-### Followers
+- [At Your Own Pace](https://www.nexusmods.com/skyrimspecialedition/mods/52704) alters many vanilla questlines, including main quest after Way of the Voice. I recommend just reading the entire modpage. (This mod will be remove in a future update)
+- [Penitus Oculatus](https://www.nexusmods.com/skyrimspecialedition/mods/21061) and [Destroy the Thieves Guild](https://www.nexusmods.com/skyrimspecialedition/mods/43244) add ways to obtain unique rewards from Dark Brotherhood and Thieves Guild questlines without joining the factions.
+
 
 ## Tips and Help
