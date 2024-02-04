@@ -115,6 +115,8 @@ Perks can be obtained by following ways:
 - First few quests of the main story are skipped. The main quest starts With Way of the Voice after you kill your first dragon. Dragon Rising quest doesn't exist
   - Dragons start spawning at word walls after level 15  and rest of the world after level 20.
 - Retrieving dragonstone is now part of Whiterun thaneship. To become thane of Whiterun you must retrieve the Dragonstone, complete Gildergreen quest and help ten citizens of Whiterun. Once Gildergreen sapling fully grows, you can become thane of Whiterun.
+- [At Your Own Pace](https://www.nexusmods.com/skyrimspecialedition/mods/52704) alters many vanilla questlines, including main quest after Way of the Voice. I recommend just reading the entire modpage. (This mod will be remove in a future update)
+  - This mod will be removed in update 1.2
 - [The Choice is Yours](https://www.nexusmods.com/skyrimspecialedition/mods/3850) gives you the freedom to reject quests you may not want to take at the time.
 
 ## New Content
@@ -123,7 +125,6 @@ Perks can be obtained by following ways:
 
 ### Vanilla Quest Expansions and Edits
 
-- [At Your Own Pace](https://www.nexusmods.com/skyrimspecialedition/mods/52704) alters many vanilla questlines, including main quest after Way of the Voice. I recommend just reading the entire modpage. (This mod will be remove in a future update)
 - [Penitus Oculatus](https://www.nexusmods.com/skyrimspecialedition/mods/21061) and [Destroy the Thieves Guild](https://www.nexusmods.com/skyrimspecialedition/mods/43244) add ways to obtain unique rewards from Dark Brotherhood and Thieves Guild questlines without joining the factions.
 
 
