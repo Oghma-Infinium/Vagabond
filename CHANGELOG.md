@@ -13,7 +13,7 @@
 
 # Changelog
 - [1.1.11](#1111)
-- [1.1.10](#1110)
+- [1.1.1](#1110)
 - [1.1.9](#119)
 - [1.1.8](#118)
 - [1.1.7](#117)
@@ -76,7 +76,7 @@ Big thanks to Bingus for compiling the update!
   - Faster HDT-SMP
     - Improvement in performance
 
-## 1.1.10
+## 1.1.1
 
 ### Info
 
