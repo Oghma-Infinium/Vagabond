@@ -56,7 +56,8 @@ This section will cover the following Optional Mods that are included as a part 
    
    > DLAA and DLSS **cannot** be used together. Do not enable this if you're using Puredark's Patreon DLSS mod.
 
-- **Enable Base Game AA**: Enable this mod if you can't use DLAA or DLSS.
+- ~~**Enable Base Game AA**: Enable this mod if you can't use DLAA or DLSS.~~
+  - Does not work currently. Instead change bUseTAA=0 to bUseTAA=1 in profiles/Vagabond/Skyrimperfs.ini if using AMD card.
 
 - **Equipment UI Preset for 1080p**: UI preset for 1080p users. Enable this if you use a 1080p monitor.
 
