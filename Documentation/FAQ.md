@@ -14,7 +14,7 @@
 
 **Modlist Support: [Waking Dreams](https://discord.gg/wakingdreams)**
 
-**Some known issues are marked in [Trello](https://trello.com/b/khix4egd/vagabond-bug-reports), be sure to check that as well.**
+**Known issues are documented in [Trello](https://trello.com/b/khix4egd/vagabond-bug-reports).**
 
 ## Contents
 
@@ -34,15 +34,6 @@
   - [Q: How can I access features of Elden Rim mod?](#q-how-can-i-access-features-of-elden-rim-mod)
   - [Q: My character's face suddenly became much darker, causing a neck seam. What do I do?](#q-my-characters-face-suddenly-became-much-darker-causing-a-neck-seam-what-do-i-do)
   - [Q: How do I activate survival mode?](#q-how-do-i-activate-survival-mode)
-- [Known Issues](#known-issues)
-  - [Tolfdir won't got to Saarthal!](#tolfdir-wont-got-to-saarthal)
-  - [Riften house cats talk to me about economy?](#riften-house-cats-talk-to-me-about-economy)
-  - [ENB looks weird until opening and closing the map](#enb-looks-weird-until-opening-and-closing-the-map)
-  - [Autumn has terrible green snow grass](#autumn-has-terrible-green-snow-grass)
-  - [Some NPCs have multiple sets of gear](#some-npcs-have-multiple-sets-of-gear)
-  - [Disappearing bridges](#disappearing-bridges)
-  - [Weapon damage higher in crafting menus than in inventory](#weapon-damage-higher-in-crafting-menus-than-in-inventory)
-  - [Reanimation spells not working](#reanimation-spells-not-working)
 
 # FAQ
 
@@ -128,34 +119,4 @@ If none of these suggestions help with your issue, feel free to reach out to us 
 
 # Known Issues
 
-## Tolfdir won't got to Saarthal!
-
-> A: Just click him on console, walk to Saarthal, and type `moveto player` in console.
-
-## Riften house cats talk to me about economy?
-
-> A: Bug that is now a feature, won't fix.
-
-## ENB looks weird until opening and closing the map
-
-> A: Known issue. Don't know the cause. Open and close the map when you start the game.
-
-## Autumn has terrible green snow grass
-
-> A: I know, it bothers me a lot. I need to redo grass cache and DynDOLOD to fix this.
-
-## Some NPCs have multiple sets of gear
-
-> A: This is a bug with SPID, won't fix.
-
-## Disappearing bridges
-
-> A: Bug with newer versions of DynDOLOD. Can't fix myself, up to original author of the mod to figure it out.
-
-## Weapon damage higher in crafting menus than in inventory
-
-> A: Known issue. No known fix.
-
-## Reanimation spells not working
-
-> A: Known issue that happens randomly. Using dispell spell on the corpse, then reanimate again might make it work. Or just don't play necromancer build.
+Known issues are documented in [Trello](https://trello.com/b/khix4egd/vagabond-bug-reports)
