@@ -87,7 +87,7 @@ If none of these suggestions help with your issue, feel free to reach out to us 
 
 ## Q: Can I play the list in first person?
 
-> A: The list is meant for 3rd person gameplay and I won't support or solve first-person specific issues. By default, a mod called `Seamless Combat Camera` is enabled, which automatically makes you enter third person when drawing a weapon or entering combat.
+> A: The list is meant for 3rd person gameplay and I won't support or solve first-person specific issues. By default, a mod called `Toggle Combat Camera` is enabled, which automatically makes you enter third person when drawing a weapon or entering combat.
 
 ## Q: How do I wait?
 
