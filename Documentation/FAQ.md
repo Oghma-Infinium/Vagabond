@@ -34,7 +34,7 @@
   - [Q: How can I access features of Elden Rim mod?](#q-how-can-i-access-features-of-elden-rim-mod)
   - [Q: My character's face suddenly became much darker, causing a neck seam. What do I do?](#q-my-characters-face-suddenly-became-much-darker-causing-a-neck-seam-what-do-i-do)
   - [Q: How do I activate survival mode?](#q-how-do-i-activate-survival-mode)
-
+  - [Q: Game looks weirdly washed or dark or other visual issues. Is this a bug?](#q-game-looks-weirdly-washed-or-dark-or-other-visual-issues-is-this-a-bug)
 # FAQ
 
 ## Q: My game is not opening or keeps crashing or freezing. What can I do?
@@ -116,6 +116,10 @@ If none of these suggestions help with your issue, feel free to reach out to us 
 ## Q: How do I activate survival mode?
 
 > A: Survival mode is not supported in Vagabond.
+
+## Q: Game looks weirdly washed or dark or other visual issues. Is this a bug?
+
+> A: First try opening and closing the map once, sometimes there are weird visual issues until you do that. If what you're seeing still looks the same, then its likely just the intended look. I may tweak Cabbage ENB (default ENB preset) if there are visual oddities, but for other ENB presets provided in the list I won't do custom tweaks.
 
 # Known Issues
 
