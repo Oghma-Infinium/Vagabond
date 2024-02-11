@@ -41,7 +41,7 @@ This section will cover the following Optional Mods that are included as a part 
 - **ENB Preset Options:** By default, the list ships with Cabbage ENB for NAT 3. Under the `ENB Preset Options` separator, you may untick the `Cabbage ENB for NAT 3` mod and enable **one** of the 6 optional ENBs depending on what you prefer.
    > If you have opened the game before, delete the `enbcache` and `gpucache` folders inside MO2's `Overwrite\Root` folder. You can find Overwrite by scrolling all the way down in Mod Organizers' left pane and double-clicking the red `Overwrite` text.
 
-- **Dark Souls Underwear - Never Nude Bodyslide Generated files**: Enabled by default. Disable this mod if you wish to have a nude body.
+- **Dark Souls Underwear - Never Nude Bodyslide Generated files**: Enabled by default. Disable this mod if you wish to have a nude body on a female character.
 
 - **3BA Less Bounce**: Enabled by default. ~~Disable this mod if you want your 3BA body to jiggle more.~~ Doesn't work currently, bounce is still minimal even if you disable this.
 
