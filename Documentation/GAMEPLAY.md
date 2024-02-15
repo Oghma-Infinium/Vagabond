@@ -151,6 +151,7 @@ Perks can be obtained by following ways:
 - Vicn Trilogy: [Vigilant](https://www.nexusmods.com/skyrimspecialedition/mods/11849), [Glenmoril](https://www.nexusmods.com/skyrimspecialedition/mods/32998), [Unslaad](https://www.nexusmods.com/skyrimspecialedition/mods/11789)
   - Vigilant requires completion of Dawnguard (DLC main story) and House of Horrors
   - Glenmoril requires completion of Dragonborn (DLC main story) and Discerning the Transmundane
+    - This quest mod is not finished yet. Play at your own discretion.
   - Unslaad requires completion of Dragon Slayer (main quest)
 
 ### New Quests
