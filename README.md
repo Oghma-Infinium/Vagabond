@@ -79,7 +79,8 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 
 Downloads: ~426 GB  
 Install: ~467 GB  
-Temp Files: ~130 GB (on OS drive)  
+Temp Files (OS drive): ~30 GB 
+Temp Files (install drive): ~100 GB 
 **TOTAL:** ~ 1023 GB  
 
  > Wabbajack requires around 130 GB of space on your main OS drive for temporary and working files during the installation. The total size after installation is done is closer to 893 GB.
