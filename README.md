@@ -203,24 +203,23 @@ You will need to **manually download** these files and place them in the `Resour
 - [MCO Sprint Attack Stamina Fix](https://drive.google.com/uc?id=1qY8Xe8LAF63m3UVJM58xVj1TOTd3uR-l&export=download)
 - [Olivier Kenjutsu Great Sword MCO](https://drive.google.com/uc?id=1Idn2Y-_dTCoRtUrohb0zNS3Nea2CfheY&export=download)
 - [Olivier Kenjutsu Sword MCO](https://drive.google.com/uc?id=1DZMKj4B8FUeeAmhv7j3wA6yFQ2kg8w2w&export=download)
-- BDO armors:
-  -  https://drive.google.com/file/d/1siyc644OSI0Lz8PlM9lo3Gxf_VxQLlN5/view
-  -  https://drive.google.com/file/d/1rXV6ftgxGnvvo6_RfAnpchAezr4s3Y48/view
-  -  https://drive.google.com/file/d/1TkeHDdN48ybtTeRH5zpE9_cjKCGAgiHq/view
-  -  https://drive.google.com/file/d/1w8FYON11jWnOY0J8yqaMxKUtEYuI6TdA/view
-  -  https://drive.google.com/file/d/1huAumy3LIObVxpDaw2JdA9_KNQICmSiE/view
-  -  https://drive.google.com/file/d/1iy9FT2kf8vq2g0aTOuFtlLNKiyUepfq9/view
-  -  https://drive.google.com/file/d/11Ix_VTvmZjxMxz0sHpgj1WWtJgH3dozI/view
-  -  https://drive.google.com/file/d/1wUpZayp2hDMbd4303-SYZLfLUqJdwQsK/view
-  -  https://drive.google.com/file/d/1NL26SeJQClfAoq-4NqrcRAsrV3oi2wNb/view
-  -  https://drive.google.com/file/d/1bBhqwH969t1UBVAJVtOog9k2uKJQ-hjY/view
-  -  https://drive.google.com/file/d/1AfWT6nlJ3FGTRXSbPKGrpD1QjYipBPTs/view
-  -  https://drive.google.com/file/d/1Q2lSwBX4fRFWeP5tE5eSaSibfXgMPn0G/view
-  -  https://drive.google.com/file/d/1_OGjX0QK7tgzK7CDRPEY0A7Dswzln1Av/view
-  -  https://drive.google.com/file/d/1qDN1OymReXzS52ZidrD4JywEgnpus-D5/view
-  -  https://drive.google.com/file/d/1qBpFZmOIp6B_JmSXl7-FB4kLDeDeJxAf/view
-  -  https://drive.google.com/file/d/1_rAtCZFiffF-QaCCZ0hz6Svw5mRfcoex/view
-  -  https://drive.google.com/file/d/1qfS_8ccC_C6Qq88toPffLMrQv0kIpmmh/view
+- [[dint999] BDOr Winter Mountain Guardian Spirit](https://drive.google.com/file/d/1siyc644OSI0Lz8PlM9lo3Gxf_VxQLlN5/view)
+- [[SE] BDO Herawen Xing CBBE 3BA SMP SE](https://drive.google.com/file/d/1rXV6ftgxGnvvo6_RfAnpchAezr4s3Y48/view)
+- [[SE] Kirax_BDO DK 0172 SMP 3BA](https://drive.google.com/file/d/1TkeHDdN48ybtTeRH5zpE9_cjKCGAgiHq/view)
+- [[SE] Kirax BDO Rosa Le Dessous SMP 3BA](https://drive.google.com/file/d/1w8FYON11jWnOY0J8yqaMxKUtEYuI6TdA/view)
+- [[SE] DM BDOR Hamshin](https://drive.google.com/file/d/1huAumy3LIObVxpDaw2JdA9_KNQICmSiE/view)
+- [[SE] BDOR Checkmate 3BA fix](https://drive.google.com/file/d/1iy9FT2kf8vq2g0aTOuFtlLNKiyUepfq9/view)
+- [[SE] DM BDOR Caroxya](https://drive.google.com/file/d/11Ix_VTvmZjxMxz0sHpgj1WWtJgH3dozI/view)
+- [[SE] DM BDOR Danharum](https://drive.google.com/file/d/1wUpZayp2hDMbd4303-SYZLfLUqJdwQsK/view)
+- [[SE] DM BDOR Mueburus](https://drive.google.com/file/d/1NL26SeJQClfAoq-4NqrcRAsrV3oi2wNb/view)
+- [[SE] DM BDOR Adamas](https://drive.google.com/file/d/1bBhqwH969t1UBVAJVtOog9k2uKJQ-hjY/view)
+- [[SE] DM BDOR Aquila](https://drive.google.com/file/d/1AfWT6nlJ3FGTRXSbPKGrpD1QjYipBPTs/view)
+- [DM BDOR Dobart](https://drive.google.com/file/d/1Q2lSwBX4fRFWeP5tE5eSaSibfXgMPn0G/view)
+- [[SE] DM BDOR Nova Taritas](https://drive.google.com/file/d/1_OGjX0QK7tgzK7CDRPEY0A7Dswzln1Av/view)
+- [[SE] Kirax BDO Cavaro SMP 3BA](https://drive.google.com/file/d/1qDN1OymReXzS52ZidrD4JywEgnpus-D5/view)
+- [[SE] Kirax BDO DK Ataraxia SMP 3BA](https://drive.google.com/file/d/1qBpFZmOIp6B_JmSXl7-FB4kLDeDeJxAf/view)
+- [[SE] Kirax BDO Yinixtra SMP 3BA](https://drive.google.com/file/d/1_rAtCZFiffF-QaCCZ0hz6Svw5mRfcoex/view)
+- [[SE] DM BDOR Sephia](https://drive.google.com/file/d/1qfS_8ccC_C6Qq88toPffLMrQv0kIpmmh/view)
 
 **Mega Links:**
 - [Mod Organizer 2.4.5 Alpha 3](https://mega.nz/file/EmxzyLLb#0y6vxJ6iy0QRWNn2wTXV56CMkhyfAF8MunZ_w1RfeKE)
