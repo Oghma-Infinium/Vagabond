@@ -68,6 +68,34 @@ Perks can be obtained by following ways:
 - By converting three dragon souls with Oghma Infinium.
 - By spending devotion points at altars accessible in end-game areas in [Vigilant](https://www.nexusmods.com/skyrim/mods/67103) and [Glenmoril](https://www.nexusmods.com/skyrimspecialedition/mods/32998)
   - Note that this mechanic is a bit overpowered, choose yourself if you want to use it.
+- Twenty perk potions are placed throughout the world inside or near dungeons and forts.
+
+### General Locations of Perk Potions
+
+<Details>
+
+- Hrothmund's Barrow
+- Blind Cliff Bastion
+- Temple of Xrib (Sightless Pitt)
+- Strange Vessel (Moesring Pass)
+- Geirmund's Hall
+- Pinewatch Bandit's Sanctuary
+- Frostflow Lighthouse
+- Liar's Retreat
+- Redwater Den
+- Dead Men's Respite
+- Yngol Barrow
+- Bleak Falls Sanctum (Bleak Falls Barrow)
+- Ironbind Barrow
+- Rebel's Cairn
+- Darkshade
+- Darklight Chambers
+- Saering's Watch 
+- Moldering Ruins
+- Blackreach Silent City Catacombs
+- Broken Tower Redoubt (exterior)
+
+</Details>
 
 ## List Tweaks
 
