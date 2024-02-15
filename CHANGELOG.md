@@ -12,6 +12,7 @@
 ---
 
 # Changelog
+- [1.2.0](#120)
 - [1.1.11](#1111)
 - [1.1.10](#1110)
 - [1.1.9](#119)
@@ -53,6 +54,84 @@
 
 </Details>
 
+
+## 1.2.0
+
+### Info
+
+**This update is NOT save safe.**
+
+Removed paid AE and some bad/buggy mods. Added 3d lod. Upgraded most textures to 4K. Lots of small bugfixes.
+
+Lots of improvements to visual consistency of seasons.
+
+Reworked big portions of the animation setup.
+
+Optional cultured outfits added. Only visible in crafting with crafting book in inventory.
+
+Keep in mind the update is big, there are likely *new* bugs introduced. Be sure to report if you encounter any.
+
+ - Refer to [Trello](https://trello.com/b/khix4egd/vagabond-bug-reports) to track which are fixed and which still persist.
+
+
+<Details>
+
+*The changelog is not comprehensive*
+
+### Updated
+  - A lot
+
+### Added
+  - Ultra Weapons
+  - Snozz Silent Moons Camp
+  - Cast Spells As Shouts
+    - Replaces Oblivion Casting
+    - The animations suck for now, I was too lazy to set up better ones.  Will do it later.
+  - Save the Ice Runner
+  - Blood on the Ice Redux
+  - Deceive Degaine
+  - Unmaskin Sybille
+  - Better Mimics
+  - Adventurer's Magic Backpack
+  - HDT-SMP Traveler's Backpack
+    - To replace CC backpacks
+  - Common Clothes and Armors
+  - Kanjs - Books All in One
+  - Extended Guard Dialogue
+  - Fishing - Reduced Cut
+  - Iggath
+  - Gonzeh - Stonehills Re-imagined
+  - Quaint Raven Rock
+  - Better Tell Mithryl
+  - Potion Of Obtainable Progress
+    - Twenty perk potions hidden throughout the world, mostly inside or near dungeons and forts. Not all are in same places as the original mod.
+    - Added to compensate for removal of Sets of Skills and Achieve That
+
+### Removed
+  - Oblivion Casting
+    - Replaced with cast spells as shouts
+  - Ultra Greatswords
+    - Replaced by ultra weapons
+  - Midwood Isle
+    - bugs
+  - Forgotten City
+    - doesn't fit the list
+  - Beyond Reach
+    - extremely buggy
+  - There is no Umbra: Chapter III
+    - breaks Deadra's Best Friend, a vanilla quest
+  - Defy the Gardener
+    - doesn't work
+  - About Roggvir
+    - doesn't work
+  - Sets of Skills
+    - badly designed, unbalanced  
+  - Achieve That
+    - badly designed, unbalanced
+  - Divine Wardrobe
+    - Buggy and compability nightmare. Most outfits still integrated through other ways.
+
+</Details>
 
 ## 1.1.11
 
