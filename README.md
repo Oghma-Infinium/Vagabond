@@ -78,11 +78,11 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 | **OS**    | Windows 10/11 | Windows 11 |
 
 Downloads: ~426 GB  
-Install: ~567 GB  
-Temp Files: ~30 GB (on OS drive)  
+Install: ~467 GB  
+Temp Files: ~130 GB (on OS drive)  
 **TOTAL:** ~ 1023 GB  
 
- > Wabbajack requires around 30 GB of space on your main OS drive for temporary and working files during the installation. The total size after installation is done is closer to 993 GB.
+ > Wabbajack requires around 130 GB of space on your main OS drive for temporary and working files during the installation. The total size after installation is done is closer to 893 GB.
 
 
 
