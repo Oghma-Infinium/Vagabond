@@ -297,8 +297,7 @@ If you use Windows Defender, it is advised that you set up an exception for the 
 
 ![](https://raw.githubusercontent.com/Oghma-Infinium/Vagabond/main/images/controlmap3.png)
 
-**NOTE:** The Toggle POV button bind for Keyboard/Mouse is disabled by default, but can be turned on if you wish. Read the [Configuration page](https://github.com/Oghma-Infinium/Vagabond/blob/main/Documentation/CONFIG.md) for more info.
-
+**NOTE: Some keybinds on both maps are outdated for the current version. These will be updated eventually.**
 ## Playing the List
 
 **Before you start playing the game, I suggest reading over the [Configuration page](https://github.com/Oghma-Infinium/Vagabond/blob/main/Documentation/CONFIG.md), the [FAQ page](https://github.com/Oghma-Infinium/Vagabond/blob/main/Documentation/FAQ.md) and the [Gameplay Guide](https://github.com/Oghma-Infinium/Vagabond/blob/main/Documentation/GAMEPLAY.md) for the list.**
