@@ -65,7 +65,7 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 - HDD and external SSD installs are absolutely not supported.
 - Any remote PC / desktop services or apps are not supported.
 - Only Windows 10/11 operating systems are supported. Windows LTSC, special variants, lightened editions or any other modified variant **WILL NOT WORK.**
-- At least 16GB of GPU VRAM minimum is recommended for the list, otherwise you'll experience frequent stutters in exteriors.
+- At least 16GB of GPU VRAM minimum is recommended for the list (1080p), otherwise you'll experience frequent stutters in exteriors. Higher resolutions may require even more.
 
 > Please note these specs are the best idea of a baseline that I can provide at the current moment, based on feedback I have gotten from testers and my own experiences. In the future this will be updated depending on feedback received.
 
