@@ -15,7 +15,6 @@
 **[Modlist Support](#contact)**
 
 **⚠ WARNINGS ⚠:**
-- **Vagabond requires the full AE upgrade, which means you must purchase the AE edition of the game for the list to function!**
 - **You must update Skyrim Special Edition to latest version on Steam to install this list. DO NOT DOWNGRADE YOUR GAME TO INSTALL THIS LIST!**
 - **Modifying the list in any way voids offical support for the modlist.**
 
@@ -49,7 +48,7 @@
 
 ## Introduction
 
-Vagabond is a modlist for Skyrim Anniversary Edition with a focus on visuals, modern combat, and Legacy of the Dragonborn. EnaiRim suite is chosen for most gameplay overhauls, including Vokriinator Black for perks. A wide array of monster, weapon, armor, spell and location overhauls are included to make the world more diverse. This list also has full seasons support, including unfreezing of snowy areas during Summer.
+Vagabond is a modlist for Skyrim Special Edition with a focus on visuals, modern combat, and Legacy of the Dragonborn. EnaiRim suite is chosen for most gameplay overhauls, including Vokriinator Black for perks. A wide array of monster, weapon, armor, spell and location overhauls are included to make the world more diverse. This list also has full seasons support, including unfreezing of snowy areas during Summer.
 
 If you're curious about the specific mods in the list, the full modlist can be viewed [here](https://loadorderlibrary.com/lists/vagabond).
 
@@ -65,15 +64,15 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 - Vagabond only supports English Steam versions of Skyrim SE. GOG and other languages are not supported.
 - HDD and external SSD installs are absolutely not supported.
 - Any remote PC / desktop services or apps are not supported.
-- At least 11-12GB of GPU VRAM minimum is recommended for the list, otherwise you'll experience frequent stutters in exteriors.
 - Only Windows 10/11 operating systems are supported. Windows LTSC, special variants, lightened editions or any other modified variant **WILL NOT WORK.**
+- At least 16GB of GPU VRAM minimum is recommended for the list, otherwise you'll experience frequent stutters in exteriors.
 
 > Please note these specs are the best idea of a baseline that I can provide at the current moment, based on feedback I have gotten from testers and my own experiences. In the future this will be updated depending on feedback received.
 
 | Spec Category | Recommended (1080p) | My specs (1440p) |
 |     :---:    |      :---:    |      :---:
 | **CPU**   | R7 5800X3D / i7 12700k | R7 7800X3D |
-| **Video Card**    |  4070 / 7700-XT  |  RTX 4090  |
+| **Video Card**    |  4070ti super / 7700-XT  |  RTX 4090  |
 | **Ram**    | 32GB DDR4/5 | 32GB DDR5 6GHz |
 | **Storage**    | SATA/NVME SSD | Samsung 970 EVO Plus |
 | **OS**    | Windows 10/11 | Windows 11 |
@@ -90,7 +89,6 @@ Temp Files: ~30 GB (on OS drive)
 ## Installation
 
 **⚠ WARNINGS ⚠:**
-- **Vagabond requires the full AE upgrade, which means you must purchase the AE edition of the game for the list to function!**
 - **You must update Skyrim Special Edition to latest version on Steam to install this list. DO NOT DOWNGRADE YOUR GAME TO INSTALL THIS LIST!**
 
 If you are updating the modlist, you can safely skip to the [updating section](#updating-the-modlist).
@@ -146,25 +144,6 @@ Due to Vagabond's size and number of files required to be handled for the list, 
  5. Click **Apply** in the bottom right hand corner.
  6. You may exit out of the application.
 ![](https://raw.githubusercontent.com/iAmMe27/Tahrovin/main/img/ShaderCache.png)
-
----
-
-#### Installing Creation Club Content
-
- If you have never installed the Creation Club Content before, please do the following:
-
-1. Purchase the [Skyrim Anniversary Edition Upgrade](https://store.steampowered.com/app/1746860/The_Elder_Scrolls_V_Skyrim_Anniversary_Upgrade/) from Steam. **If you do not do this, you can not install or play the list.**
-    > There is no work around for this and pirating this content will **not** work. If you pirate the content and come asking for assistance, you will be banned.
-
-2. In your Steam Library, right-click on the menu entry for Skyrim, select `Properties` and then select `Installed Files`. Click `Verify Integrity of Game Files` and wait for it to complete.
-
-3. Once this is completed, launch the game once from Steam. You may receive a prompt that your settings were detected or not detected, this does not matter, nor do any options you select here. Simply open the launcher and launch the game.
-
-4. Once the intro logo finishes displaying and the Skyrim logo appears, you should receive a prompt to `Download All Content?` Accept this option.
-
-5. If you did not receive a prompt to download, select the Creation Club option from the menu and you should find a "Download All" prompt in there somewhere. If this message does not appear, you have not purchased the $20 Upgrade. Begin again from Step 1.
-
-6. Wait for the download process to complete. **DO NOT** ALT-TAB during this process as it will cause the process to fail and you will have to start over again.
 
 ---
 
