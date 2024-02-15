@@ -72,7 +72,7 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 | Spec Category | Recommended (1080p) | My specs (1440p) |
 |     :---:    |      :---:    |      :---:
 | **CPU**   | R7 5800X3D / i7 12700k | R7 7800X3D |
-| **Video Card**    |  4070ti super / 7700-XT  |  RTX 4090  |
+| **Video Card**    |  4070ti super / 7800-XT  |  RTX 4090  |
 | **Ram**    | 32GB DDR4/5 | 32GB DDR5 6GHz |
 | **Storage**    | SATA/NVME SSD | Samsung 970 EVO Plus |
 | **OS**    | Windows 10/11 | Windows 11 |
