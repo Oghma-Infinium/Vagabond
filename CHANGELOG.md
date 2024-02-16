@@ -130,6 +130,8 @@ Keep in mind the update is big, there are likely *new* bugs introduced. Be sure 
     - badly designed, unbalanced
   - Divine Wardrobe
     - Buggy and compability nightmare. Most outfits still integrated through other ways.
+  - Ragnarok Reshader
+    - Install issues caused by it
 
 </Details>
 
