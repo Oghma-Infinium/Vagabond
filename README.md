@@ -263,9 +263,6 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 - Antivirus reports a virus:
   - Windows 10/11 may automatically quarantine a key file which is needed for Mod Organizer. You can fix this by [adding an exclusion for Mod Organizer in Windows Defender](https://www.thewindowsclub.com/exclude-a-folder-from-windows-security-scan).
 
-- Unable to download `Data_ccXXXXX - *.bsa` or `*.esp`:
-  - This error means Wabbajack is unable to hash your Creation Club Content. If you have followed the steps outlined under [Pre-Installation](#installing-creation-club-content), you are not on a pirated copy of the game, and have verified your steam files, then it is very likely that Bethesda has messed up the hashing for these files. If this is the case, please wait for an update ping on the Discord server before continuing to download the list.
-
 ## Post-Installation
 
 ### Antivirus Exceptions
