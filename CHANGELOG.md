@@ -12,6 +12,7 @@
 ---
 
 # Changelog
+- [1.2.1](#121)
 - [1.2.0](#120)
 - [1.1.11](#1111)
 - [1.1.10](#1110)
@@ -54,6 +55,35 @@
 
 </Details>
 
+## 1.2.1
+
+### Info
+
+**This update is save safe.**
+
+***IGNORE THE POPUP ABOUT MISSING PLUGINS, IT DOESN'T MATTER***
+
+Small bug fixes and minor balance adjustments.
+
+ - Refer to [Trello](https://trello.com/b/khix4egd/vagabond-bug-reports) to track which are fixed and which still persist.
+
+
+<Details>
+
+*The changelog is not comprehensive*  
+
+### Added
+  - Summermyst Balance Adjustments
+    - Effectively removes Fortify Alchemy and Smithing enchantments from the game
+  - Legacy of the Dragonborn - Replicas for Both Sides - No One Escapes From Cidnha Mine
+
+### Removed
+  - Vokriinator Black perks for NPCs
+    - Aljo pointed out these may cause script bloat to saves
+    - I increased NPC stat scaling in Enhance Enemy Attributes to compensate
+    - Let me know if enemies feel stronger/weaker after this changed
+
+</Details>
 
 ## 1.2.0
 
