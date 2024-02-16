@@ -81,7 +81,7 @@ Small bug fixes and minor balance adjustments.
   - Vokriinator Black perks for NPCs
     - Aljo pointed out these may cause script bloat to saves
     - I increased NPC stat scaling in Enhance Enemy Attributes to compensate
-    - Let me know if enemies feel stronger/weaker after this changed
+    - Let me know if enemies feel stronger/weaker after this change
 
 </Details>
 
