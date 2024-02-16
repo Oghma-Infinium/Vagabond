@@ -196,6 +196,7 @@ You will need to **manually download** these files and place them in the `Resour
 - [EldenRing_LegendaryWeapons.7z](https://drive.google.com/u/0/uc?id=11T5k_CAlFMoN9uwWuyRhdRprV7pGHb7n&export=download)
 - [High Poly Head](https://drive.google.com/u/0/uc?id=15_0njBUjHKidNnJPmLXEygzGVWsA3Zbq&export=download)
 - [[Dint999] BDOR Hairs SSE 0.15.7z](https://drive.google.com/u/0/uc?id=1vWIbrO7nHgW27HbjXBxMjuM3sJDitAF9&export=download)
+- [[Dint999] BDOR Hairs SSE 0.17.7z](https://drive.usercontent.google.com/download?id=1tpY3bDs-LR6rptf8oPUfraKs1CkxJJB3&export=download&authuser=0)
 - [[Dint999] HairPack02 SSE 1.11 (base).7z](https://drive.google.com/u/0/uc?id=1Ts0sQz3hDxhCeS_LUnXJQFuws_qbw9YQ&export=download)
 - [[Dint999] FacePartMod (SSE) v0.6b.7z](https://drive.google.com/u/0/uc?id=1RQl8ki73fgLnzBZn6EWjneuW4Dk8TUO_&export=download)
 - [[full_inu] Armor Pack 02 SSE.7z](https://drive.google.com/u/0/uc?id=12Siwo7JsLw03mJBqXrhHkKOcqPmGPX9k&export=download)
