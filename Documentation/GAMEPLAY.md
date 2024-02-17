@@ -127,7 +127,6 @@ Perks can be obtained by following ways:
   - Some Ash of War attacks inflict special staggers like knockback.
   - Enchantments that increase your "mass" increase poise.
 - [Equip Spells As Shouts](https://www.nexusmods.com/skyrimspecialedition/mods/109814) allows you to caste spells without equiping them on your hands. Read up the mod page for more info.
-  - I know the animations for this are a bit jank for now. I will change it to use better animations in the future.
   - Concentration spells don't work properly with this due to a conflict with Path of Sorcery. This may or may not get fixed in the future.
 - [Acheron](https://www.nexusmods.com/skyrimspecialedition/mods/108159?tab=description) handles the death system.
   - After you die you either:
