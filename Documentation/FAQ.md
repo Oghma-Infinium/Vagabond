@@ -30,6 +30,7 @@
   - [Q: How do I wait?](#q-how-do-i-wait)
   - [Q: How do I open the OAR, IED and dmenu?](#q-how-do-i-open-the-oar-ied-and-dmenu)
   - [Q: Why can't I attack with my left hand weapon?](#q-why-cant-i-attack-with-my-left-hand-weapon)
+  - [Q: How do I block with dual wield or spellsword?](#q-how-do-i-block-with-dual-wield-or-spellsword)
   - [Q: Any video showcase of the list?](#q-any-video-showcase-of-the-list)
   - [Q: How can I access features of Elden Rim mod?](#q-how-can-i-access-features-of-elden-rim-mod)
   - [Q: My character's face suddenly became much darker, causing a neck seam. What do I do?](#q-my-characters-face-suddenly-became-much-darker-causing-a-neck-seam-what-do-i-do)
@@ -100,6 +101,10 @@ If none of these suggestions help with your issue, feel free to reach out to us 
 ## Q: Why can't I attack with my left hand weapon?
 
 > A: MCO doesn't support left hand attacks, but if you have a melee weapon in both hands, you will get a dual wield moveset that alternates between both hands by just pressing right hand attack.
+
+### Q: How do I block with dual wield or spellsword?
+
+> A: With dual wield you block just like you normally would (left bumper or right click). There is no spellsword block. Instead, consider casting spells hands-free with shout casting. (Read [Gameplay Guide](https://github.com/Oghma-Infinium/Vagabond/blob/main/Documentation/GAMEPLAY.md))
 
 ## Q: Any video showcase of the list?
 
