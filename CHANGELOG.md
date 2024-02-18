@@ -12,6 +12,7 @@
 ---
 
 # Changelog
+- [1.2.2](#122)
 - [1.2.1](#121)
 - [1.2.0](#120)
 - [1.1.11](#1111)
@@ -52,6 +53,38 @@
 - [0.1.5](#015)
 - [0.1.4](#014)
 - [0.1.3](#013)
+
+</Details>
+
+## 1.2.2
+
+### Info
+
+**This update is save safe.**
+
+Fixed colossal axe power attack crash, fixed perfect dodge time slow and other small bugfixes. Some balance perk balance adjustments. Improved feel of timed block. Disabled animated ingredients and poisons in MCM due to some animation bugs they might cause. BSA packed even more files.
+
+ - Refer to [Trello](https://trello.com/b/khix4egd/vagabond-bug-reports) to track which are fixed and which still persist.
+
+
+<Details>  
+
+*The changelog is not comprehensive*  
+
+### Added
+  - Halffaces - Diverse (BOS) woodenchair01
+  - Northwatch Keep Better Defended
+    - I forgot to check this place after installing the mod.
+  - HDT-SMP Traveler's Backpack All Colors Crafting and Rebalancing
+  - EldenRing UI Only Active Effects Icon
+    - EdgeUI active effects looked so bad I had to get something else.
+
+### Removed
+  - Performance grass
+    - Can't be bothered to fix bugged texture in it plus it really isn't saving you if you don't have enough VRAM to play the list anyway.
+  - ENBlite
+    - This conflicts with the other optional mod; ENB AA for AMD users. Can't be bothered to make combo of these two.
+    - Also I think it looks so awful you should really consider just playing another list if you need this.
 
 </Details>
 
