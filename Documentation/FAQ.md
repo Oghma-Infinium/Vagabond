@@ -102,7 +102,7 @@ If none of these suggestions help with your issue, feel free to reach out to us 
 
 > A: MCO doesn't support left hand attacks, but if you have a melee weapon in both hands, you will get a dual wield moveset that alternates between both hands by just pressing right hand attack.
 
-### Q: How do I block with dual wield or spellsword?
+## Q: How do I block with dual wield or spellsword?
 
 > A: With dual wield you block just like you normally would (left bumper or right click). There is no spellsword block. Instead, consider casting spells hands-free with shout casting. (Read [Gameplay Guide](https://github.com/Oghma-Infinium/Vagabond/blob/main/Documentation/GAMEPLAY.md))
 
