@@ -62,7 +62,7 @@
 
 **This update is save safe.**
 
-Fixed colossal axe power attack crash, fixed perfect dodge time slow and other small bugfixes. Made nights and interiors brighter for Cabbage ENB. Some balance perk balance adjustments. Improved feel of timed block. Disabled animated ingredients and poisons in MCM due to some animation bugs they might cause. BSA packed even more files.
+Fixed colossal axe power attack crash, fixed perfect dodge time slow and other small bugfixes. Made nights and interiors brighter for Cabbage ENB. Some perk balance adjustments. Improved feel of timed block. Disabled animated ingredients and poisons in MCM due to some animation bugs they might cause. BSA packed even more files.
 
  - Refer to [Trello](https://trello.com/b/khix4egd/vagabond-bug-reports) to track which are fixed and which still persist.
 
