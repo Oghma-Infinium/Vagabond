@@ -51,7 +51,7 @@
 > - Make sure you've setup [40GB pagefile correctly](https://github.com/Oghma-Infinium/Vagabond/tree/main#pagefile-and-crash-prevention).
 > - Make sure you're not using HDD or external SSD to play the list. Only internal SSD installs are supported (NVME, SATA).
 > - Make sure you're using supported operating system. Only Windows 10 and 11 operating systems are supported. Remote computer services are also not supported.
-> - Your list install might be corrupted. Do the [list verification](https://github.com/Oghma-Infinium/Vagabond/tree/main#-verify-install-) step in the readme if you haven't already.
+> - Your list install might be corrupted. You may want to backup your saves, delete the install while keeping downloads and reinstall the list.
 > - Make sure your GPU drivers are up to date. I recommend choosing clean install when updating. Nvidia card users must redo [gpu cache step](https://github.com/Oghma-Infinium/Vagabond/tree/main#setting-shader-cache-size-nvidia-graphics-cards-only) if clean installing drivers.
 > - Close background programs such as iCU or Razer Synapse and any overlays such as Discord overlay.
 > - Disable overclocks you may have on your CPU, GPU or RAM or any other components. Other custom tweaks in BIOS could cause issues as well. We recommend to try reseting BIOS to factory settings in such cases.
