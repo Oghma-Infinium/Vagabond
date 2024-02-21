@@ -12,6 +12,7 @@
 ---
 
 # Changelog
+- [1.2.3](#123)
 - [1.2.2](#122)
 - [1.2.1](#121)
 - [1.2.0](#120)
@@ -53,6 +54,48 @@
 - [0.1.5](#015)
 - [0.1.4](#014)
 - [0.1.3](#013)
+
+</Details>
+
+## 1.2.3
+
+### Info
+
+**This update is save safe.**
+
+**IGNORE THE POPUP ABOUT MISSING PLUGINS, IT DOESN'T MATTER**
+
+Few bugfixes, balance changes and small additions.
+
+ - Refer to [Trello](https://trello.com/b/khix4egd/vagabond-bug-reports) to track which are fixed and which still persist.
+
+
+<Details>  
+
+*The changelog is not comprehensive*  
+
+### Added
+  - Cast Spells As Lesser Powers - Oblivion-like Spell Casting
+    - Cast spells as shouts has an issue where you can't use it during regular shout cooldown, so I added this as an alternative.
+    - This is way more jank though.
+  - Legacy of the Dragonborn CBBE 3BA and HIMBO Patch
+  - Blackreach Eerie Ambience
+  - Whales Off The Coast
+  - Murder of Songbirds
+  - Wildwood Echoes
+    - The four mods above are new ambient sound additions. If you hear some annoying sounds let me know.
+  - Northern Roads - Landscape Fix and Improvement
+  - Northern Roads - Floating Objects Fix
+    - Definitely doesn't fix all floating stuff
+  - Missives - Notes Retexture Darkened
+
+### Removed
+  - Ashara Imperial Outfit
+    - Neck steam that I couldn't figure out how to fix
+  - True Storms
+    - Caused crashes
+  - Yggdrasil music
+    - Some sound effects remain
 
 </Details>
 
