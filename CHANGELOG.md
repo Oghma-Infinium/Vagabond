@@ -12,6 +12,7 @@
 ---
 
 # Changelog
+- [1.2.4](#124)
 - [1.2.3](#123)
 - [1.2.2](#122)
 - [1.2.1](#121)
@@ -54,6 +55,43 @@
 - [0.1.5](#015)
 - [0.1.4](#014)
 - [0.1.3](#013)
+
+</Details>
+
+## 1.2.4
+
+### Info
+
+**This update is save safe. But make sure to remove any ´Eqiup Spells As Shouts´ from your Wheeler menu before updating.**
+
+**IGNORE THE POPUP ABOUT MISSING PLUGINS, IT DOESN'T MATTER**
+
+Potentially fixed crash on save load. Downside is that some scripts will run slower, like LotD display sorting. I will look for an alternative fix for a future update.
+
+Made cultured outfits have no weight, armor or value, as they are only intended to be used with Skyrim Outfit System.
+
+Disabled fall damage so people don't load saves from fall damage deaths. Reworked other sourcer of fall damage reduction. I know I missed couple spells, will remove those in the future.
+
+Some other small bugfixes and balance tweaks.
+
+ - Refer to [Trello](https://trello.com/b/khix4egd/vagabond-bug-reports) to track which are fixed and which still persist.
+
+
+<Details>  
+
+*The changelog is not comprehensive*  
+
+### Added
+  - MCO Blocking Footstep Fix
+  - Clean Save Auto-reloader
+  - Vipir Pickpocket Master Training trainer fix - Unofficial SSE Patch patched
+  - HQ Fort Dawnguard 4k with Parallax
+    - I noticed I didn't like Praedy's Fort Dawnguard
+  - NPCs Take Cover - Smarter Anti-Cheese AI
+
+### Removed
+  - Equip Spells As Shouts
+    - Author didn't want to fix cooldown issue this has when used with regular shouts.  
 
 </Details>
 
