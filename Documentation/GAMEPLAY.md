@@ -69,6 +69,7 @@ Perks can be obtained by following ways:
 - By converting three dragon souls with Oghma Infinium.
 - By spending devotion points at altars accessible in end-game areas in [Vigilant](https://www.nexusmods.com/skyrim/mods/67103) and [Glenmoril](https://www.nexusmods.com/skyrimspecialedition/mods/32998)
   - Note that this mechanic is a bit overpowered, choose yourself if you want to use it.
+- By trading dragon souls to an NPC in [Unslaad](https://www.nexusmods.com/skyrimspecialedition/mods/11789)
 - Twenty perk potions are placed throughout the world inside or near dungeons and forts.
 
 ### General Locations of Perk Potions
