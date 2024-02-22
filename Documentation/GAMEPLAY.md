@@ -43,6 +43,7 @@ Bad saving practices can quickly corrupt your save with a modlist this large. Fo
   - You can also manually request save with F5. If the save doesn't happen immediately it means the game state is not safe for saving.
 - Do not enable autosaves. They can often save the game at troublesome moments like the above.
   > Autosaves created by Skyrim SafeSave System Overhaul, are safe and can be trusted
+- Do not load saves when caught doing crimes. The list has alternative mechanics to evade bounties.
 - Respect the [Acheron](https://www.nexusmods.com/skyrimspecialedition/mods/108159?tab=description) alternative death system rather than reloading save after dying. Reloading saves after dying in combat is especially dangerous for save health.
 
 
@@ -133,6 +134,12 @@ Perks can be obtained by following ways:
     -  respawn at a nearby location.
     -  Enter a crawl state for 30 seconds and de-aggro the enemies, after which you stand back up.
   - I highly encourage to respect the death system instead of reloading save after dying. Reloading saves after combat is very bad for save health and risks getting your save corrupted, especially in a modlist this large.
+
+### Crime
+
+-[Crime Bounty Decay SE](https://www.nexusmods.com/skyrimspecialedition/mods/25457) makes bounties slowly decay by default. You can speed that up with some perks.
+-[Book of Shadows](https://www.nexusmods.com/skyrimspecialedition/mods/76086) adds a mask mechanic for evading bounties. When wearing a mask, the bounty accumulates for the mask only. When not wearing the mask, your bounty is not recognized by guards.
+  - As of update 1.2.4, you will start the game with a mask in your inventory.
 
 ### Perk Tweaks
 
