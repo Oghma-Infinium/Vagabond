@@ -142,7 +142,7 @@ Perks can be obtained by following ways:
 
 - [Crime Bounty Decay SE](https://www.nexusmods.com/skyrimspecialedition/mods/25457) makes bounties slowly decay by default. You can speed that up with some perks.  
 - [Book of Shadows](https://www.nexusmods.com/skyrimspecialedition/mods/76086) adds a mask mechanic for evading bounties. When wearing a mask, the bounty accumulates for the mask only. When not wearing the mask, your bounty is not recognized by guards.  
-  - As of update 1.2.4, you will start the game with a mask in your inventory.
+  > You can craft a mask at tanning rack.
 
 ### Perk Tweaks
 
