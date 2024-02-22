@@ -41,10 +41,10 @@ Bad saving practices can quickly corrupt your save with a modlist this large. Fo
 - Trust the [Skyrim SafeSave System Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/70179) to handle your saves.
   - The mod automatically saves every 5 minutes, but it waits until the game state is safe for saving.
   - You can also manually request save with F5. If the save doesn't happen immediately it means the game state is not safe for saving.
-- Do not enable autosaves. They can often save the game at troublesome moments like the above.
+- Do not enable autosaves. They can often save the game at troublesome moments like the above.  
   > Autosaves created by Skyrim SafeSave System Overhaul, are safe and can be trusted
-- [Clean Save Auto-reloader](https://www.nexusmods.com/skyrimspecialedition/mods/88219?tab=description) automatically restarts the game when reloading a save, except for the first save load when opening the game.
-  - You can disable this if you want as it is optional mod, but understand that you do so at your own risk. You *should* restart the game when reloading saves **or you will even eventually corrupt your save.**
+- [Clean Save Auto-reloader](https://www.nexusmods.com/skyrimspecialedition/mods/88219?tab=description) automatically restarts the game when reloading a save, except for the first save load when opening the game.  
+  > You can disable this if you want as it is optional mod, but understand that you do so at your own risk. You *should* restart the game when reloading saves **or you will even eventually corrupt your save.**
 - Do not load saves when caught doing crimes. The list has alternative mechanics to evade bounties.
 - Respect the [Acheron](https://www.nexusmods.com/skyrimspecialedition/mods/108159?tab=description) alternative death system rather than reloading save after dying. Reloading saves after dying in combat is especially dangerous for save health.
 
