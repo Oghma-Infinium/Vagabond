@@ -38,12 +38,12 @@ This section will cover the following Optional Mods that are included as a part 
 
 **Only enabling/disabling these mods is supported. Modifying any settings / configurations for optional mods counts as modification and voids support for the list.** The only exception is `Skyrim Priority My Setting` which has instructions on how to configure it.
 
-- **ENB Preset Options:** By default, the list ships with Cabbage ENB for NAT 3. Under the `ENB Preset Options` separator, you may untick the `Cabbage ENB for NAT 3` mod and enable **one** of the 6 optional ENBs depending on what you prefer.
+- **ENB Preset Options:** By default, the list ships with Cabbage ENB for NAT 3. Under the `ENB Preset Options` separator, you may untick the `Cabbage ENB for NAT 3` mod and enable **one** of the 10 optional ENBs depending on what you prefer.
    > If you have opened the game before, delete the `enbcache` and `gpucache` folders inside MO2's `Overwrite\Root` folder. You can find Overwrite by scrolling all the way down in Mod Organizers' left pane and double-clicking the red `Overwrite` text.
 
-- **Dark Souls Underwear - Never Nude Bodyslide Generated files**: Enabled by default. Disable this mod if you wish to have a nude body on a female character.
+- **3BA underwear nevernude**: Enabled by default. Disable this mod if you wish to have a nude body on a female character.
 
-- **3BA Less Bounce**: Enabled by default. ~~Disable this mod if you want your 3BA body to jiggle more.~~ Doesn't work currently, bounce is still minimal even if you disable this.
+- **3BA more jiggle**: Enable if you want more body jiggle and bounce for females.
 
 - **Toggle Combat Camera**: Enabled by default. Automatically swaps camera to third person whean unsheating weapons or entering combat.
    > As mentioned in [FAQ](https://github.com/Oghma-Infinium/Vagabond/blob/main/Documentation/FAQ.md#q-can-i-play-the-list-in-first-person), the list is meant to be played in third person and first person specific issues are not supported.
@@ -56,12 +56,13 @@ This section will cover the following Optional Mods that are included as a part 
    
    > DLAA and DLSS **cannot** be used together. Do not enable this if you're using Puredark's Patreon DLSS mod.
 
-- ~~**Enable Base Game AA**: Enable this mod if you can't use DLAA or DLSS.~~
-  - Does not work currently. Instead change bUseTAA=0 to bUseTAA=1 in profiles/Vagabond/Skyrimperfs.ini if using AMD card.
+- **Enable ENB AA**: Enable this mod if you can't use DLAA or DLSS.
+  - You can also change bUseTAA=0 to bUseTAA=1 in profiles/Vagabond/Skyrimperfs.ini for even less grainy image.
 
 - **Equipment UI Preset for 1080p**: UI preset for 1080p users. Enable this if you use a 1080p monitor.
 
-- **Skyrim Priority (CPU affinity)**: To adjust CPU affinity for your setup, click the `Puzzle Piece` button at the top of MO2 and select `Set CPU Affinity`. Example of the options you need to press are provided [here](https://raw.githubusercontent.com/Oghma-Infinium/Vagabond/main/images/cpu%20affinity%20example.png).
+- **CPU affinity**: To adjust CPU affinity for your setup, click the `Puzzle Piece` button at the top of MO2 and select `Set CPU Affinity`. Example of the options you need to press are provided [here](https://raw.githubusercontent.com/Oghma-Infinium/Vagabond/main/images/cpu%20affinity%20example.png).
+  > May give small performance improvement. 
 
 ## In-Game MCM options
 
