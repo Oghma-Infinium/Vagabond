@@ -75,7 +75,7 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 | **Video Card**    |  RXT 4070ti super / 7800-XT  |  RTX 4070 / 6800-XT  |  RTX 4090  |
 | **Ram**    | 32GB DDR4/5 | 32GB DDR4/5 | 32GB DDR5 6GHz |
 | **Storage**    | SATA/NVME SSD | SATA/NVME SSD | Samsung 970 EVO Plus |
-| **OS**    | Windows 10/11 | Windows 10/11 | Windows 11 |
+| **OS**    | Windows 10/11 | Windows 10/11 | Windows 10 |
 
 Downloads: ~426 GB  
 Install: ~467 GB  
