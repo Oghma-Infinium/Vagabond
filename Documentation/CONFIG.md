@@ -46,7 +46,10 @@ This section will cover the following Optional Mods that are included as a part 
 - **ENB Preset Options:** By default, the list ships with Cabbage ENB for NAT 3. Under the `ENB Preset Options` separator, you may untick the `Cabbage ENB for NAT 3` mod and enable **one** of the 10 optional ENBs depending on what you prefer.
    > If you have opened the game before, delete the `enbcache` and `gpucache` folders inside MO2's `Overwrite\Root` folder. You can find Overwrite by scrolling all the way down in Mod Organizers' left pane and double-clicking the red `Overwrite` text.
 
-- **3BA underwear nevernude**: Enabled by default. Disable this mod if you wish to have a nude body on a female character.
+- **Nevernude for females**: Enabled by default. Disable this mod if you wish to have a nude body on a female character.  
+  
+- **Clean Save Auto-reloader**: >utomatically restarts the game when reloading a save, except for the first save load when opening the game. 
+  > You can disable this if you want as it is an optional mod, but understand that you do so at your own risk. You should restart the game when reloading saves or you will even eventually corrupt your save.
 
 - **3BA more jiggle**: Enable if you want more body jiggle and bounce for females.
 
