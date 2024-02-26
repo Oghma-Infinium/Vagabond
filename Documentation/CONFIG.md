@@ -17,6 +17,7 @@
 ## Contents
 
 - [Optional Configurations](#optional-configurations)
+  - [Performance Profile](#performance-profile)
   - [Optional Mods](#optional-mods)
   - [In-Game MCM options](#in-game-mcm-options)
   - [Wheeler](#wheeler)
@@ -27,6 +28,10 @@
       - [Deletion](#deletion)
 
 ---
+
+# Performance Profile
+
+To enable performance profile, look at top left of MO2 window. You see "profile" with name "Vagabond". Click the profile name, which will open drop-down menu and choose "Vagabond Performance".
 
 # Optional Configurations
 
