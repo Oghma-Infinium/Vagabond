@@ -12,6 +12,7 @@
 ---
 
 # Changelog
+- [1.2.5](#125)
 - [1.2.4](#124)
 - [1.2.3](#123)
 - [1.2.2](#122)
@@ -55,6 +56,31 @@
 - [0.1.5](#015)
 - [0.1.4](#014)
 - [0.1.3](#013)
+
+</Details>
+
+## 1.2.5
+
+### Info
+
+**This update is save safe, but don't switch between base and performance profiles on same save.**
+
+**IGNORE THE POPUP ABOUT MISSING PLUGINS, IT DOESN'T MATTER**
+
+Both base and performance profile are now included in the same install. Switch profiles from drop-down menu at the top of MO2.
+
+Added downscaled grass and landscapes to performance profile. If you want to downscale more textures, you must run VRAMr yourself.
+
+Some minor bugfixes and balance tweaks.
+
+ - Refer to [Trello](https://trello.com/b/khix4egd/vagabond-bug-reports) to track which are fixed and which still persist.
+
+
+<Details>  
+
+*The changelog is not comprehensive*  
+
+- :thumbsup: 
 
 </Details>
 
