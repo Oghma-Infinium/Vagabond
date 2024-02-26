@@ -31,7 +31,7 @@
 
 # Performance Profile
 
-To enable performance profile, look at top left of MO2 window. You see "profile" with name "Vagabond". Click the profile name, which will open drop-down menu and choose "Vagabond Performance".
+To enable performance profile, [look at top left of MO2 window](https://media.discordapp.net/attachments/1127299503599403118/1211736589139709952/image.png?ex=65ef48a3&is=65dcd3a3&hm=f7f93aaa71addf532cb8691d6e18bafb75a56a269a00480df6387872aab8944a&=&format=webp&quality=lossless&width=1265&height=927). You see "profile" with name "Vagabond". Click the profile name, which will open [drop-down menu](https://media.discordapp.net/attachments/1127299503599403118/1211736657653530624/image.png?ex=65ef48b4&is=65dcd3b4&hm=0842460a8ee0963f39cfbca791f643be284668307f55026761a19eadc6ad71ee&=&format=webp&quality=lossless&width=287&height=83) and choose "Vagabond Performance".
 
 # Optional Configurations
 
