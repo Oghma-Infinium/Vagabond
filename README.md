@@ -85,7 +85,7 @@ Temp Files (install drive): ~130 GB
 
  > Wabbajack requires around 160 GB of space for temporary and working files during the installation. The total size after installation is done is closer to 893 GB.
 
-
+ > For enabling performance profile, check [config](https://github.com/Oghma-Infinium/Vagabond/blob/main/Documentation/CONFIG.md) page after installation.
 
 ## Installation
 
