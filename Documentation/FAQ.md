@@ -42,15 +42,15 @@
 
 > A: There are several reasons that could gause the list to crash or freeze.
 > - Make sure you're **not** pressing "unlock" button in MO2 after starting Vagabond.
-> - First, just try restarting your PC.
-> - If the crash/freeze is one-off and doesn't repeat then I wouldn't worry about it. List this size may have occasional hickup every few hours of gameplay, but if it happens more often than that then there might be an actual issue.
-> - If you crash or freeze, it may produce crash log in `\NetScriptFramework\Crash folder in Overwrite`. You can drop it in the support channel in the Waking Dreams Discord.
-> - If the crash/freeze happens during combat, it could be that the game engine randomly gave up due to amount of animations and effects happening simultaneously.
-> - Make sure you have setup [antivirus exceptions properly](https://github.com/Oghma-Infinium/Vagabond/tree/main#antivirus-exceptions). Any other antivirus except Windows Defender may still cause issues. 
-> - Your save game could be corrupt due to bad saving habbits. Make sure you adhere to good saving practices outlined in [gameplay guide](https://github.com/Oghma-Infinium/Vagabond/blob/main/Documentation/GAMEPLAY.md)
+> - Make sure you have setup [antivirus exceptions properly](https://github.com/Oghma-Infinium/Vagabond/tree/main#antivirus-exceptions). Any other antivirus except Windows Defender may still cause issues.
 > - Make sure you've setup [40GB pagefile correctly](https://github.com/Oghma-Infinium/Vagabond/tree/main#pagefile-and-crash-prevention).
 > - Make sure you're not using HDD or external SSD to play the list. Only internal SSD installs are supported (NVME, SATA).
-> - Make sure you're using supported operating system. Only Windows 10 and 11 operating systems are supported. Remote computer services are also not supported.
+> - Make sure you're using supported operating system. Only Windows 10 and 11 operating systems are supported. Remote computer services are also not supported. (Including Steam Link)
+> - Just try **restarting your PC** before any other troubleshooting steps.
+> - If the crash/freeze is one-off and doesn't repeat then I wouldn't worry about it. List this size may have occasional hickup every few hours of gameplay, but if it happens more often than that then there might be an actual issue.
+> - If the crash/freeze happens during combat in interiors, it could be that the game engine randomly gave up due to amount of animations and effects happening simultaneously. Some have reported that waiting a few in-game hours has alleviated the issue.
+> - If you crash or freeze, it may produce crash log in `\NetScriptFramework\Crash folder in Overwrite`. You can drop it in the support channel in the Waking Dreams Discord.
+> - Your save game could be corrupt due to bad saving habbits. Make sure you adhere to good saving practices outlined in [gameplay guide](https://github.com/Oghma-Infinium/Vagabond/blob/main/Documentation/GAMEPLAY.md)
 > - Your list install might be corrupted. You may want to backup your saves, delete the install while keeping downloads and reinstall the list.
 > - Make sure your GPU drivers are up to date. I recommend choosing clean install when updating. Nvidia card users must redo [gpu cache step](https://github.com/Oghma-Infinium/Vagabond/tree/main#setting-shader-cache-size-nvidia-graphics-cards-only) if clean installing drivers.
 > - Close background programs such as iCU or Razer Synapse and any overlays such as Discord overlay.
@@ -64,7 +64,7 @@ If none of these suggestions help with your issue, feel free to reach out to us 
 
 ## Q: My performance is bad or I get stutters. What can I do?
 
-> A: Vagabond is probably *the heaviest* modlist out there. No plans for performance version. Either get better hardware or try another modlist. Some amount of stutters may happen even on powerful PCs when the game loads new cells. Configuring CPU affinity for Skyrim Priority mod as instructed in [config](https://github.com/Oghma-Infinium/Vagabond/blob/main/Documentation/CONFIG.md#optional-mods) may help.
+> A: Vagabond is probably *the heaviest* modlist out there. No plans for performance version. Either get better hardware or try another modlist. Some amount of stutters may happen even on powerful PCs when the game loads new cells. Configuring CPU affinity as instructed in [config](https://github.com/Oghma-Infinium/Vagabond/blob/main/Documentation/CONFIG.md#optional-mods) may help.
 
 ## Q: My CPU and GPU usage is low. Is there something wrong?
 
