@@ -12,6 +12,7 @@
 ---
 
 # Changelog
+- [1.2.6](#126)
 - [1.2.5](#125)
 - [1.2.4](#124)
 - [1.2.3](#123)
@@ -59,6 +60,29 @@
 
 </Details>
 
+## 1.2.6
+
+### Info
+
+**This update is save if you follow the steps on Discord**
+
+Regenerated DynDOLOD with a different version to solve a critical crash.
+
+Performance profile removed for now due to difficulty in maintaining two versions of the list.
+
+Some other minor bugfixes, balance tweaks and mod updates.
+
+ - Refer to [Trello](https://trello.com/b/khix4egd/vagabond-bug-reports) to track which are fixed and which still persist.
+
+
+<Details>  
+
+*The changelog is not comprehensive*  
+
+- :thumbsup: 
+
+</Details>
+
 ## 1.2.5
 
 ### Info
@@ -80,7 +104,17 @@ Some minor bugfixes and balance tweaks.
 
 *The changelog is not comprehensive*  
 
-- :thumbsup: 
+### Added
+  - Holy Templar Magic
+  - Pinewood Tone - Forest Ambience Track
+  - Sanguinum - Vampire Magic SFX
+  - Kanjs - Soup and Stew All In One Animated
+  - Stacks of Septims - 3d Coin Piles
+  - Frost VFX Edit
+
+### Removed
+  - DynDOLOD NG
+    > source of many crashes and the reason for the update.
 
 </Details>
 
