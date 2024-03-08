@@ -79,7 +79,17 @@ Some other minor bugfixes, balance tweaks and mod updates.
 
 *The changelog is not comprehensive*  
 
-- :thumbsup: 
+### Added
+  - Holy Templar Magic
+  - Pinewood Tone - Forest Ambience Track
+  - Sanguinum - Vampire Magic SFX
+  - Kanjs - Soup and Stew All In One Animated
+  - Stacks of Septims - 3d Coin Piles
+  - Frost VFX Edit
+
+### Removed
+  - DynDOLOD NG
+    > source of many crashes and the reason for the update.
 
 </Details>
 
@@ -102,19 +112,7 @@ Some minor bugfixes and balance tweaks.
 
 <Details>  
 
-*The changelog is not comprehensive*  
-
-### Added
-  - Holy Templar Magic
-  - Pinewood Tone - Forest Ambience Track
-  - Sanguinum - Vampire Magic SFX
-  - Kanjs - Soup and Stew All In One Animated
-  - Stacks of Septims - 3d Coin Piles
-  - Frost VFX Edit
-
-### Removed
-  - DynDOLOD NG
-    > source of many crashes and the reason for the update.
+- :thumbsup: 
 
 </Details>
 
