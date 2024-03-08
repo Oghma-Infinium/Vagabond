@@ -64,7 +64,7 @@
 
 ### Info
 
-**This update is safe if you follow the steps on Discord**
+**This update is save safe if you follow the steps on Discord**
 
 Regenerated DynDOLOD with a different version to solve a critical crash.
 
