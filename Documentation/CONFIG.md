@@ -79,7 +79,7 @@ If an MCM for a mod is **not** mentioned in this section, it may or may not be s
 - **One Click Power Attack**: Set your power attack key here. Controller players can keep the default settings.
     > **Do not** bind any keys to dual power attack, it does not do anything with MCO. **Do not** set up the power attack to play on button combos.
 
-- **Skyrim Outfit System**: You can enable the mod and create your own outfits here that can override the visuals of your current equipped gear but retain the stats.
+- **[Skyrim Outfit System](https://www.nexusmods.com/skyrimspecialedition/mods/42162)**: You can enable the mod and create your own outfits here that can override the visuals of your current equipped gear but retain the stats.
 
 - **True directional movement:** You can change the target lock button here. By default it's on controller right stick press. If you want to target lock on keyboard or mouse, you must rebind it.
 
