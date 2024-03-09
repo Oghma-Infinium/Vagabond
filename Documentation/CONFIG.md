@@ -57,9 +57,8 @@ This section will cover the following Optional Mods that are included as a part 
 - **Skyrim Upscaler - DLAA** - Enable this mod if you'd like better antialiasing. Do not use the DLSS settings since this version **does not work with ENB**.
    > Only for NVIDIA 2000 series or later.
    
-   > DLAA and DLSS **cannot** be used together. Do not enable this if you're using Puredark's Patreon DLSS mod.
 
-- **Enable ENB AA**: Enable this mod if you can't use DLAA or DLSS.
+- **Enable ENB AA**: Enable this mod if you can't use DLAA.
   - You can also change bUseTAA=0 to bUseTAA=1 in profiles/Vagabond/Skyrimperfs.ini for even less grainy image.
 
 - **Equipment UI Preset for 1080p**: UI preset for 1080p users. Enable this if you use a 1080p monitor.
