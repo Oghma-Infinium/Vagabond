@@ -70,6 +70,8 @@ Regenerated DynDOLOD with a different version to solve a critical crash.
 
 Performance profile removed for now due to difficulty in maintaining two versions of the list.
 
+LotD display sorting is again fast.
+
 Some other minor bugfixes, balance tweaks and mod updates.
 
  - Refer to [Trello](https://trello.com/b/khix4egd/vagabond-bug-reports) to track which are fixed and which still persist.
