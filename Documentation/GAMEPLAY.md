@@ -25,6 +25,7 @@ Before reading this section, I suggest looking over the [load order](https://loa
 ## Core Mods
 
 - Perk overhaul for the list is [Vokriinator Black](https://www.nexusmods.com/skyrimspecialedition/mods/26702) which combines perks from [Ordinator](https://www.nexusmods.com/skyrimspecialedition/mods/1137), [Vokrii](https://www.nexusmods.com/skyrimspecialedition/mods/26176), [Adamant](https://www.nexusmods.com/skyrimspecialedition/mods/30191), [SPERG](https://www.nexusmods.com/skyrimspecialedition/mods/14180) and [Path of Sorcery](https://www.nexusmods.com/skyrimspecialedition/mods/6660)
+   > There is also a [neat calculator](https://thehajo.github.io/VokriinatorBlack/#t/10/0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0) for Vokriinator Black. It is a bit outdated though and doesn't include my custom changes to perks.
 - [Mannaz](https://www.nexusmods.com/skyrimspecialedition/mods/87219) and [Freyr](https://www.nexusmods.com/skyrimspecialedition/mods/88043) overhaul races and standing stones. Each standing stone has unique effect for every race, so make sure to read the modpages for these!
 - [Sacrosanct](https://www.nexusmods.com/skyrimspecialedition/mods/3928) and [Growl](https://www.nexusmods.com/skyrimspecialedition/mods/31245) overhaul vampires and werewolves.
 - [Wintersun](https://www.nexusmods.com/skyrimspecialedition/mods/22506) introduces a religion mechanic.
