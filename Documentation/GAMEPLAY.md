@@ -183,6 +183,7 @@ Perks can be obtained by following ways:
 - [Unmasking Sybille](https://www.nexusmods.com/skyrimspecialedition/mods/109265)
 - [Blood on the Ice Redux SE](https://www.nexusmods.com/skyrimspecialedition/mods/6126)
 - [Save the Icerunner - Lights Out Alternate Routes](https://www.nexusmods.com/skyrimspecialedition/mods/34681)
+- [Get both rewards from Clavicus Vile's quest](https://www.nexusmods.com/skyrimspecialedition/mods/43574)
 
 ### New Lands
 
