@@ -75,7 +75,7 @@ This section will cover the following Optional Mods that are included as a part 
    > Only for NVIDIA 2000 series or later.
 
 - **Enable ENB AA**: Enable this mod if you can't use DLAA.
-  - You can also change bUseTAA=0 to bUseTAA=1 in profiles/Vagabond/Skyrimperfs.ini for even less grainy image.
+   > You can also change bUseTAA=0 to bUseTAA=1 in profiles/Vagabond/Skyrimperfs.ini for even less grainy image.
 
 - **Equipment UI Preset for 1080p**: UI preset for 1080p users. Enable this if you use a 1080p monitor.
 
