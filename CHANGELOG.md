@@ -12,6 +12,7 @@
 ---
 
 # Changelog
+- [1.2.7](#127)
 - [1.2.6](#126)
 - [1.2.5](#125)
 - [1.2.4](#124)
@@ -66,7 +67,7 @@
 
 **This update is save safe, but don't switch between base and performance profiles on same save.**
 
-**IGNORE THE POPUP ABOUT MISSING PLUGINS, IT DOESN'T MATTER**
+**Performance profile users need to do the steps on [Discord](https://discord.com/channels/1008047161281347606/1008059242835607562/1215644316383313940) *before* updating.**
 
 Added back performance profile back in, this time with VRAMr output. Thats why the Wabbajack file is now 8.7GB. 10GB VRAM should be enough to play performance profile, maybe even 8GB?
 
