@@ -66,6 +66,7 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 - Any remote PC / desktop services or apps are not supported. (Including Steam Link)
 - Only Windows 10/11 operating systems are supported. Windows LTSC, special variants, lightened editions or any other modified variant **WILL NOT WORK.**
 - At least 16GB of GPU VRAM minimum is recommended for the list (1080p) or 10GB for performance profile, otherwise you'll experience frequent stutters in exteriors. Higher resolutions may require even more.
+- Perfromance profile can be enabled post-installation. Explained in [config](https://github.com/Oghma-Infinium/Vagabond/blob/main/Documentation/CONFIG.md#performance-profile).
 
 > Please note these specs are the best idea of a baseline that I can provide at the current moment, based on feedback I have gotten from testers and my own experiences. In the future this will be updated depending on feedback received.
 
