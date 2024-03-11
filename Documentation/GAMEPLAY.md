@@ -152,14 +152,39 @@ Perks can be obtained by following ways:
 - Sneak Tree has custom-made perfect dodge perks, so it is recommended to invest some skill points in to sneak even if you don't plan on playing a stealth build.
   - Note that the exact timing to trigger perfect dodge is not consistent across different enemy attacks. You'll have to learn the timing for each individual attack, or just hope it accidentally triggers.
 
+## New Content
+
 ### Vanilla Quest Changes
 
 - First few quests of the main story are skipped. The main quest starts With Way of the Voice after you kill your first dragon. Dragon Rising quest doesn't exist
   - Dragons start spawning at word walls after level 15  and rest of the world after level 20.
 - Retrieving dragonstone is now part of Whiterun thaneship. To become thane of Whiterun you must retrieve the Dragonstone, complete Gildergreen quest and help ten citizens of Whiterun. Once Gildergreen sapling fully grows, you can become thane of Whiterun.
 - [The Choice is Yours](https://www.nexusmods.com/skyrimspecialedition/mods/3850) gives you the freedom to reject quests you may not want to take at the time.
+- [Penitus Oculatus](https://www.nexusmods.com/skyrimspecialedition/mods/21061) and [Destroy the Thieves Guild](https://www.nexusmods.com/skyrimspecialedition/mods/43244) add ways to obtain unique rewards from Dark Brotherhood and Thieves Guild questlines without joining the factions.
 
-## New Lands
+### Other Vanilla Quest Expansions
+
+- [Bring Meeko To Lod](https://www.nexusmods.com/skyrimspecialedition/mods/25246)
+- [Search and Seizure - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/67066)
+- [College of Winterhold - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/66666)
+- [Caught Red Handed - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/65708)
+- [The Heart of Dibella - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/94863)
+- [Deceive Degaine](https://www.nexusmods.com/skyrimspecialedition/mods/51863)
+- [The Only Cure - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/57683)
+- [The Whispering Door - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/76606)
+- [Paarthurnax - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/51711)
+- [House of Horrors - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/57285)
+- [Nilheim - Misc Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/53792)
+- [Boethiah for Good Guys](https://www.nexusmods.com/skyrimspecialedition/mods/329)
+- [Defeat the Dragon Cult](https://www.nexusmods.com/skyrimspecialedition/mods/86625)
+- [Innocence Lost - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/80974)
+- [The Brotherhood of Old - Dark Brotherhood Continued](https://www.nexusmods.com/skyrimspecialedition/mods/15322)
+- [ACDB - Additional Contracts for the Dark Brotherhood](https://www.nexusmods.com/skyrimspecialedition/mods/59211)
+- [Unmasking Sybille](https://www.nexusmods.com/skyrimspecialedition/mods/109265)
+- [Blood on the Ice Redux SE](https://www.nexusmods.com/skyrimspecialedition/mods/6126)
+- [Save the Icerunner - Lights Out Alternate Routes](https://www.nexusmods.com/skyrimspecialedition/mods/34681)
+
+### New Lands
 
 - Vicn Trilogy:
   - [Vigilant](https://www.nexusmods.com/skyrimspecialedition/mods/11849) requires completion of Dawnguard (DLC main story) and House of Horrors
@@ -172,7 +197,7 @@ Perks can be obtained by following ways:
 - [The Gray Cowl of Nocturnal](https://www.nexusmods.com/skyrimspecialedition/mods/4509)
 - [Clockwork](https://www.nexusmods.com/skyrimspecialedition/mods/4155)
 
-## New Quests
+### New Quests
 
 - [The Tools of Kagrenac](https://www.nexusmods.com/skyrimspecialedition/mods/14168)
 - [SIRENROOT - Deluge of Deceit](https://www.nexusmods.com/skyrimspecialedition/mods/70917)
@@ -183,7 +208,7 @@ Perks can be obtained by following ways:
 - [Skyrim on Skooma](https://www.nexusmods.com/skyrimspecialedition/mods/80975)
 - [Belethor's Sister](https://www.nexusmods.com/skyrimspecialedition/mods/92381)
 
-## New Dungeons
+### New Dungeons
 
 - [EasierRider's Dungeon Pack](https://www.nexusmods.com/skyrimspecialedition/mods/2218)
 - [Luftahraan Dungeon Pack](https://www.nexusmods.com/skyrimspecialedition/mods/85807)
@@ -195,9 +220,7 @@ Perks can be obtained by following ways:
 - [Taarengrav Barrow](https://www.nexusmods.com/skyrimspecialedition/mods/84371)
 - [Morthal Barrow](https://www.nexusmods.com/skyrimspecialedition/mods/90737)
 
-### Vanilla Quest Expansions and Edits
 
-- [Penitus Oculatus](https://www.nexusmods.com/skyrimspecialedition/mods/21061) and [Destroy the Thieves Guild](https://www.nexusmods.com/skyrimspecialedition/mods/43244) add ways to obtain unique rewards from Dark Brotherhood and Thieves Guild questlines without joining the factions.
 
 
 ## Tips and Help
