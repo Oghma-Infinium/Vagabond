@@ -189,7 +189,7 @@ Perks can be obtained by following ways:
 
 - Vicn Trilogy:
   - [Vigilant](https://www.nexusmods.com/skyrimspecialedition/mods/11849) requires completion of [Kindred Judgment](https://en.uesp.net/wiki/Skyrim:Kindred_Judgment) (Dawnguard DLC main story) and [House of Horrors](https://en.uesp.net/wiki/Skyrim:The_House_of_Horrors)
-  - [Glenmoril](https://www.nexusmods.com/skyrimspecialedition/mods/32998) requires completion of [At the Summit of Apocrypha](https://en.uesp.net/wiki/Skyrim:At_the_Summit_of_Apocrypha) (Dargonborn DLC main story) and [Discerning the Transmundane](https://en.uesp.net/wiki/Skyrim:Discerning_the_Transmundane)
+  - [Glenmoril](https://www.nexusmods.com/skyrimspecialedition/mods/32998) requires completion of [At the Summit of Apocrypha](https://en.uesp.net/wiki/Skyrim:At_the_Summit_of_Apocrypha) (Dragonborn DLC main story) and [Discerning the Transmundane](https://en.uesp.net/wiki/Skyrim:Discerning_the_Transmundane)
     - This quest mod is not finished yet. Play at your own discretion.
   - [Unslaad](https://www.nexusmods.com/skyrimspecialedition/mods/11789) requires completion of [Dragonslayer](https://en.uesp.net/wiki/Skyrim:Dragonslayer) (main quest)
 - [Skyrim Extended Cut - Saints and Seducers](https://www.nexusmods.com/skyrimspecialedition/mods/72772)
