@@ -188,8 +188,8 @@ Perks can be obtained by following ways:
 ### New Lands
 
 - Vicn Trilogy:
-  - [Vigilant](https://www.nexusmods.com/skyrimspecialedition/mods/11849) requires completion of Dawnguard (DLC main story) and House of Horrors
-  - [Glenmoril](https://www.nexusmods.com/skyrimspecialedition/mods/32998) requires completion of Dragonborn (DLC main story) and Discerning the Transmundane
+  - [Vigilant](https://www.nexusmods.com/skyrimspecialedition/mods/11849) requires completion of Kindred Judgment (Dawnguard DLC main story) and House of Horrors
+  - [Glenmoril](https://www.nexusmods.com/skyrimspecialedition/mods/32998) requires completion of At the Summit of Apocrypha (Dargonborn DLC main story) and Discerning the Transmundane
     - This quest mod is not finished yet. Play at your own discretion.
   - [Unslaad](https://www.nexusmods.com/skyrimspecialedition/mods/11789) requires completion of Dragon Slayer (main quest)
 - [Skyrim Extended Cut - Saints and Seducers](https://www.nexusmods.com/skyrimspecialedition/mods/72772)
