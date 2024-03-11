@@ -159,15 +159,30 @@ Perks can be obtained by following ways:
 - Retrieving dragonstone is now part of Whiterun thaneship. To become thane of Whiterun you must retrieve the Dragonstone, complete Gildergreen quest and help ten citizens of Whiterun. Once Gildergreen sapling fully grows, you can become thane of Whiterun.
 - [The Choice is Yours](https://www.nexusmods.com/skyrimspecialedition/mods/3850) gives you the freedom to reject quests you may not want to take at the time.
 
-## New Content
+## New Lands
 
-- Vicn Trilogy: [Vigilant](https://www.nexusmods.com/skyrimspecialedition/mods/11849), [Glenmoril](https://www.nexusmods.com/skyrimspecialedition/mods/32998), [Unslaad](https://www.nexusmods.com/skyrimspecialedition/mods/11789)
-  - Vigilant requires completion of Dawnguard (DLC main story) and House of Horrors
-  - Glenmoril requires completion of Dragonborn (DLC main story) and Discerning the Transmundane
+- Vicn Trilogy:
+  - [Vigilant](https://www.nexusmods.com/skyrimspecialedition/mods/11849) requires completion of Dawnguard (DLC main story) and House of Horrors
+  - [Glenmoril](https://www.nexusmods.com/skyrimspecialedition/mods/32998) requires completion of Dragonborn (DLC main story) and Discerning the Transmundane
     - This quest mod is not finished yet. Play at your own discretion.
-  - Unslaad requires completion of Dragon Slayer (main quest)
+  - [Unslaad](https://www.nexusmods.com/skyrimspecialedition/mods/11789) requires completion of Dragon Slayer (main quest)
+- [Skyrim Extended Cut - Saints and Seducers](https://www.nexusmods.com/skyrimspecialedition/mods/72772)
+- [Wyrmstooth](https://www.nexusmods.com/skyrimspecialedition/mods/45565)
+- [Beyond Skyrim - Bruma SE](https://www.nexusmods.com/skyrimspecialedition/mods/10917)
+- [The Gray Cowl of Nocturnal](https://www.nexusmods.com/skyrimspecialedition/mods/4509)
+- [Clockwork](https://www.nexusmods.com/skyrimspecialedition/mods/4155)
 
-### New Quests
+## New Quests
+
+- [The Tools of Kagrenac](https://www.nexusmods.com/skyrimspecialedition/mods/14168)
+- [SIRENROOT - Deluge of Deceit](https://www.nexusmods.com/skyrimspecialedition/mods/70917)
+- [Meridia's Order](https://www.nexusmods.com/skyrimspecialedition/mods/102584)
+- [Baba Yaga and the Labyrinth](https://www.nexusmods.com/skyrimspecialedition/mods/84492)
+- [The Welkynar Knight](https://www.nexusmods.com/skyrimspecialedition/mods/89510)
+- [Leaps of Faith](https://www.nexusmods.com/skyrimspecialedition/mods/53074)
+- [Skyrim on Skooma](https://www.nexusmods.com/skyrimspecialedition/mods/80975)
+- [Belethor's Sister](https://www.nexusmods.com/skyrimspecialedition/mods/92381)
+
 
 ### Vanilla Quest Expansions and Edits
 
