@@ -20,7 +20,7 @@ Before reading this guide, please follow the [readme](https://github.com/Oghma-I
 
 This section will cover the absolute basics of the list. I suggest reading, or skimming all of the linked mod pages in this section if you are unfamiliar with the preceding mods.
 
-Before reading this section, I suggest looking over the [load order](https://loadorderlibrary.com/lists/vagabond) and [keybinds](https://github.com/Oghma-Infinium/Vagabond/blob/main/images/keyboard-layout_Vagabond.jpg) or [gamepad binds](https://github.com/Oghma-Infinium/Vagabond/blob/main/images/controlmap3.png).
+Before reading this section, I suggest looking over the [keybinds](https://github.com/Oghma-Infinium/Vagabond/blob/main/images/keyboard-layout_Vagabond.jpg) or [gamepad binds](https://github.com/Oghma-Infinium/Vagabond/blob/main/images/controlmap3.png) (partially outdated) and [load order](https://loadorderlibrary.com/lists/vagabond).
 
 ## Core Mods
 
