@@ -35,6 +35,12 @@ To enable performance profile, [look at top left of MO2 window](https://media.di
 
 Currently performance profile does not have seasons support.
 
+Following mods under the `Performance Profile` separator can be enabled on base profile as well, if you wish to save VRAM. **Other mods under the `Performance Profile` are Performance Profile exclusive and should never be enabled for base profile.**
+
+> - Performance Grass
+> - Performance Landscapes
+> - VRAMr Output
+
 # Optional Configurations
 
 The following sections detail the **supported** modifications to the list. Any other modifications should be discussed in the `#🧠│vagabond-modifications` channel of the [Waking Dreams](https://discord.gg/wakingdreams) support server.
@@ -48,22 +54,25 @@ This section will cover the following Optional Mods that are included as a part 
 - **ENB Preset Options:** By default, the list ships with Cabbage ENB for NAT 3. Under the `ENB Preset Options` separator, you may untick the `Cabbage ENB for NAT 3` mod and enable **one** of the 10 optional ENBs depending on what you prefer.
    > If you have opened the game before, delete the `enbcache` and `gpucache` folders inside MO2's `Overwrite\Root` folder. You can find Overwrite by scrolling all the way down in Mod Organizers' left pane and double-clicking the red `Overwrite` text.
 
+- **Toggle Combat Camera**: Enabled by default. Automatically swaps camera to third person whean unsheating weapons or entering combat.
+   > As mentioned in [FAQ](https://github.com/Oghma-Infinium/Vagabond/blob/main/Documentation/FAQ.md#q-can-i-play-the-list-in-first-person), the list is meant to be played in third person and first person specific issues are not supported.
+
 - **Nevernude for females**: Enabled by default. Disable this mod if you wish to have a nude body on a female character.  
   
-- **Clean Save Auto-reloader**: >utomatically restarts the game when reloading a save, except for the first save load when opening the game. 
+- **Clean Save Auto-reloader**: Automatically restarts the game when reloading a save, except for the first save load when opening the game. 
   > You can disable this if you want as it is an optional mod, but understand that you do so at your own risk. You should restart the game when reloading saves or you will even eventually corrupt your save.
+
+- **SSE FPS Stabilizer**: Automatically adjusts distance of LOD to try to reach target FPS (71 by default). If you wish to always have detailed distant objects at expense of performance, disable this.
 
 - **3BA more jiggle**: Enable if you want more body jiggle and bounce for females.
 
-- **Toggle Combat Camera**: Enabled by default. Automatically swaps camera to third person whean unsheating weapons or entering combat.
-   > As mentioned in [FAQ](https://github.com/Oghma-Infinium/Vagabond/blob/main/Documentation/FAQ.md#q-can-i-play-the-list-in-first-person), the list is meant to be played in third person and first person specific issues are not supported.
+- **AVX512 for HDT-SMP:** Enable this if your CPU supports AVX512 (Google). Dramatically improves performance of HDT-SMP physics.
 
 - **NVIDIA Reflex Support**: SKSE plugin which can more than halve render latency. Only works for NVIDIA GPUs.
    > Only for NVIDIA 900 series or later.
 
-- **Skyrim Upscaler - DLAA** - Enable this mod if you'd like better antialiasing. Do not use the DLSS settings since this version **does not work with ENB**.
+- **Skyrim Upscaler - DLAA:** Enable this mod if you'd like better antialiasing. **Do not edit any settings for the mod or you'll likely crash!**
    > Only for NVIDIA 2000 series or later.
-   
 
 - **Enable ENB AA**: Enable this mod if you can't use DLAA.
   - You can also change bUseTAA=0 to bUseTAA=1 in profiles/Vagabond/Skyrimperfs.ini for even less grainy image.
@@ -95,6 +104,7 @@ If an MCM for a mod is **not** mentioned in this section, it may or may not be s
   > - fBlockMaximumDistance = 250000
   > - fSplitDistanceMult = 0.75
   > - fTreeLoadDistance = 70000
+  > - Note: these tweaks are not needed/useful when SSE FPS Stabilizer is enabled, as that mod does the same thing but dynamically.
 
 ## Wheeler
 
