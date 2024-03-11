@@ -183,6 +183,17 @@ Perks can be obtained by following ways:
 - [Skyrim on Skooma](https://www.nexusmods.com/skyrimspecialedition/mods/80975)
 - [Belethor's Sister](https://www.nexusmods.com/skyrimspecialedition/mods/92381)
 
+## New Dungeons
+
+- [EasierRider's Dungeon Pack](https://www.nexusmods.com/skyrimspecialedition/mods/2218)
+- [Luftahraan Dungeon Pack](https://www.nexusmods.com/skyrimspecialedition/mods/85807)
+- [Depths of the Reach](https://www.nexusmods.com/skyrimspecialedition/mods/77718)
+- [The Grand Paladin](https://www.nexusmods.com/skyrimspecialedition/mods/46867)
+- [The Final Cataclysm](https://www.nexusmods.com/skyrimspecialedition/mods/33167)
+- [Glamoril - The Maze of Labyrinthian](https://www.nexusmods.com/skyrimspecialedition/mods/43477)
+- [The Midden - Expanded](https://www.nexusmods.com/skyrimspecialedition/mods/2219)
+- [Taarengrav Barrow](https://www.nexusmods.com/skyrimspecialedition/mods/84371)
+- [Morthal Barrow](https://www.nexusmods.com/skyrimspecialedition/mods/90737)
 
 ### Vanilla Quest Expansions and Edits
 
