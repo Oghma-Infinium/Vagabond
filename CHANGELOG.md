@@ -60,6 +60,27 @@
 
 </Details>
 
+## 1.2.7
+
+### Info
+
+**This update is save safe, but don't switch between base and performance profiles on same save.**
+
+**IGNORE THE POPUP ABOUT MISSING PLUGINS, IT DOESN'T MATTER**
+
+Added back performance profile back in, this time with VRAMr output. Thats why the Wabbajack file is now 8.7GB. 10GB VRAM should be enough to play performance profile, maybe even 8GB?
+
+Some other minor bugfixes, balance tweaks and mod updates.
+
+ - Refer to [Trello](https://trello.com/b/khix4egd/vagabond-bug-reports) to track which are fixed and which still persist.
+
+
+<Details>  
+
+- :thumbsup: 
+
+</Details>
+
 ## 1.2.6
 
 ### Info
