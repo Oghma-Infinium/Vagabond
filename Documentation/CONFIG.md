@@ -16,6 +16,7 @@
 
 ## Contents
 
+- [Performance Profile](#performance-profile)
 - [Optional Configurations](#optional-configurations)
   - [Optional Mods](#optional-mods)
   - [In-Game MCM options](#in-game-mcm-options)
