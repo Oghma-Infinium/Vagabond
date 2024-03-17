@@ -64,7 +64,7 @@ If none of these suggestions help with your issue, feel free to reach out to us 
 
 ## Q: My performance is bad or I get stutters. What can I do?
 
-> A: Vagabond is probably *the heaviest* modlist out there. You can try [performance profile](https://github.com/Oghma-Infinium/Vagabond/blob/main/Documentation/CONFIG.md#performance-profile) Some amount of stutters may happen even on powerful PCs when the game loads new cells. Configuring CPU affinity as instructed in [config](https://github.com/Oghma-Infinium/Vagabond/blob/main/Documentation/CONFIG.md#optional-mods) may help.
+> A: Vagabond is probably *the heaviest* modlist out there. You can try [performance profile](https://github.com/Oghma-Infinium/Vagabond/blob/main/Documentation/CONFIG.md#performance-profile). Some amount of stutters may happen even on powerful PCs when the game loads new cells. Configuring CPU affinity as instructed in [config](https://github.com/Oghma-Infinium/Vagabond/blob/main/Documentation/CONFIG.md#optional-mods) may help.
 
 ## Q: My CPU and GPU usage is low. Is there something wrong?
 
