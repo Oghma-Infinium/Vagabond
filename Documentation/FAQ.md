@@ -84,7 +84,16 @@ If none of these suggestions help with your issue, feel free to reach out to us 
 
 ## Q: Can you add x mod? Why is x mod not included?
 
-> A: Probably won't add the mod unless its a bugfix or compatibility mod I was missing. I won't give detailed explanation for each mod on why it was not added. Could be bugs, incompatibility, patching, I simply don't like the mod or I didn't know about the mod (very unlikely if it is a popular mod).
+> A: Use `#🧠│vaga-mod-suggestions` channel in the [Waking Dreams](https://discord.gg/wakingdreams) server.
+> - Please refer to the Vagabond [load order library](https://loadorderlibrary.com/lists/vagabond) to see if your suggested mod is already in the list.
+> - Please use Discord search function before suggesting to see if the mod was already discussed.
+> - Please don't suggest mods you know were removed in previous updates.
+> - Please don't suggest framework type mods that don't do anything by themselves.
+> - Please don't suggest patches unless you actually spot an issue in-game.
+> - Please don't suggest mod removals.
+> - Please don't suggest NSFW mods.
+> - I'm unlikely to add mods that would replace existing mods in the list, but you can still suggest them if you want.
+> - **You must give a link to the mod you're suggesting.**
 
 ## Q: Can I play the list in first person?
 
