@@ -332,7 +332,7 @@ Simply delete the Vagabond folder. Congratulations, you have uninstalled Vagabon
 
 ## Contact
 
-**PLEASE DO NOT DM OR PING ME ON DISCORD!**
+**PLEASE DO NOT DM OR PING  ME ON DISCORD! (INCLUDING REPLY PINGS)**
 
 You are **required** to read the [FAQ](https://github.com/Oghma-Infinium/Vagabond/blob/main/Documentation/FAQ.md), [Config](https://github.com/Oghma-Infinium/Vagabond/blob/main/Documentation/CONFIG.md), [Gameplay Guide](https://github.com/Oghma-Infinium/Vagabond/blob/main/Documentation/GAMEPLAY.md) and [Trello](https://trello.com/b/khix4egd/vagabond-bug-reports) before seeking support.
 
