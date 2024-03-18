@@ -121,7 +121,10 @@ Due to Vagabond's size and number of files required to be handled for the list, 
  4. Click the *Advanced* tab at the top
  5. Under *Virtual Memory* click the box "Change..."
  6. Uncheck *Automatically manage* if it is checked
- 7. Select your disk drive, ideally your fastest solid state drive
+ 7. Select your disk drive, ideally your fastest solid state drive.  
+  
+    > This **can't** be a HDD or an external SSD.
+ 
  8. Click the **Custom size:** button
  9. In the box next to **Initial Size (MB)** type `40960`
  10. In the box next to **Maximum Size (MB)** type `40960`
