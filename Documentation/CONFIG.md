@@ -39,7 +39,6 @@ Following mods under the `Performance Profile` separator can be enabled on base 
 
 > - Performance Grass
 > - Performance Landscapes
-> - VRAMr Output
 
 # Optional Configurations
 
