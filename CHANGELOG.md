@@ -102,7 +102,7 @@ Bugfixes, balance tweaks, mod additions and updates.
 
 ### Removed
   - Kreate
-    - Increase VRAM use
+    - Increases VRAM use
   - VRAMr output
     - Output was broken causing black artifacts everywhere
 
