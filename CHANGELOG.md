@@ -12,6 +12,7 @@
 ---
 
 # Changelog
+- [1.2.8](#128)
 - [1.2.7](#127)
 - [1.2.6](#126)
 - [1.2.5](#125)
@@ -58,6 +59,53 @@
 - [0.1.5](#015)
 - [0.1.4](#014)
 - [0.1.3](#013)
+
+</Details>
+
+## 1.2.8
+
+### Info
+
+**This update is save safe**
+
+
+
+
+Bugfixes, balance tweaks and mod updates.
+
+ - Refer to [Trello](https://trello.com/b/khix4egd/vagabond-bug-reports) to track which are fixed and which still persist.
+
+
+<Details>  
+
+*The changelog is not comprehensive*  
+
+### Added
+  - Aptrgangr - Draugr Voice Overhaul
+  - Female Equipment Scale Fix
+  - FF Girls Hair Racemenu and WIG (Physics)
+  - A New Realistic High Heels Sound Bank (HQ)
+  - Animated Ships
+  - Kanjs - Potion of Blood Animated
+  - Halffaces - Diverse (BOS) flagon
+  - FB - Einherjr Armor 3BA
+  - Dark Witch Armor 3BA
+  - MAGECORE - hdt SMP (CBBE 3BA)
+  - Ysmir Armor SE
+  - Crossbow Bolts Expanded
+  - WiZkiD Hunter's Camp Overhaul
+  - Don't Rush Me - Riften (No Brynjolf and Maul Forcegreets)
+  - Aetherium Forge Destroys Items
+  - Dialogue Expansion - Windhelm
+  - Rally's Barsets
+  - Feral Eyes - Beast Eyes for Humanoid Races'
+  - Starsight Eyes
+
+### Removed
+  - Kreate
+    - Increase VRAM use
+  - VRAMr output
+    - Output was broken causing black artifacts everywhere
 
 </Details>
 
