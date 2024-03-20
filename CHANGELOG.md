@@ -68,10 +68,9 @@
 
 **This update is save safe**
 
+Update to make the list installable again.
 
-
-
-Bugfixes, balance tweaks and mod updates.
+Bugfixes, balance tweaks, mod additions and updates.
 
  - Refer to [Trello](https://trello.com/b/khix4egd/vagabond-bug-reports) to track which are fixed and which still persist.
 
