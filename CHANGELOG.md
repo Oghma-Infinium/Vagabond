@@ -73,6 +73,8 @@ Update to make the list installable again.
 
 Part of the bow rework implemented. Now you can do dodge shots (press rapid bow button when arrow is fully drawn) and kick combos by power attacking with a bow. Full bow rework not complete because I kinda had to rush the update.
 
+Performance profile is now retired.
+
 Bugfixes, balance tweaks, mod additions and updates.
 
  - Refer to [Trello](https://trello.com/b/khix4egd/vagabond-bug-reports) to track which are fixed and which still persist.
