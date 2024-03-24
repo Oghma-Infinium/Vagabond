@@ -16,7 +16,6 @@
 
 ## Contents
 
-- [Performance Profile](#performance-profile)
 - [Optional Configurations](#optional-configurations)
   - [Optional Mods](#optional-mods)
   - [In-Game MCM options](#in-game-mcm-options)
@@ -28,17 +27,6 @@
       - [Deletion](#deletion)
 
 ---
-
-# Performance Profile
-
-To enable performance profile, [look at top left of MO2 window](https://media.discordapp.net/attachments/1127299503599403118/1211736589139709952/image.png?ex=65ef48a3&is=65dcd3a3&hm=f7f93aaa71addf532cb8691d6e18bafb75a56a269a00480df6387872aab8944a&=&format=webp&quality=lossless&width=1265&height=927). You see "profile" with name "Vagabond". Click the profile name, which will open [drop-down menu](https://media.discordapp.net/attachments/1127299503599403118/1211736657653530624/image.png?ex=65ef48b4&is=65dcd3b4&hm=0842460a8ee0963f39cfbca791f643be284668307f55026761a19eadc6ad71ee&=&format=webp&quality=lossless&width=287&height=83) and choose "Vagabond Performance".
-
-Currently performance profile does not have seasons support.
-
-Following mods under the `Performance Profile` separator can be enabled on base profile as well, if you wish to save VRAM. **Other mods under the `Performance Profile` are Performance Profile exclusive and should never be enabled for base profile.**
-
-> - Performance Grass
-> - Performance Landscapes
 
 # Optional Configurations
 
@@ -80,6 +68,7 @@ This section will cover the following Optional Mods that are included as a part 
 
 - **CPU affinity**: To adjust CPU affinity for your setup, click the `Puzzle Piece` button at the top of MO2 and select `Set CPU Affinity`. Example of the options you need to press are provided [here](https://raw.githubusercontent.com/Oghma-Infinium/Vagabond/main/images/cpu%20affinity%20example.png).
   > May give small performance improvement. 
+
 
 ## In-Game MCM options
 
