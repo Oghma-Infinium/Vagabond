@@ -65,18 +65,17 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 - HDD and external SSD installs are absolutely not supported.
 - Any remote PC / desktop services or apps are not supported. (Including Steam Link)
 - Only Windows 10/11 operating systems are supported. Windows LTSC, special variants, lightened editions or any other modified variant **WILL NOT WORK.**
-- At least 16GB of GPU VRAM minimum is recommended for the list (1080p) or 12GB for performance profile, otherwise you'll experience frequent stutters in exteriors. Higher resolutions may require even more.
-- Perfromance profile can be enabled post-installation. Explained in [config](https://github.com/Oghma-Infinium/Vagabond/blob/main/Documentation/CONFIG.md#performance-profile).
+- At least 16GB of GPU VRAM minimum is recommended for the list (1080p), otherwise you'll experience frequent stutters in exteriors. Higher resolutions may require even more.
 
 > Please note these specs are the best idea of a baseline that I can provide at the current moment, based on feedback I have gotten from testers and my own experiences. In the future this will be updated depending on feedback received.
 
-| Spec Category | Default (1080p) | Performance (1080p) | My specs (2160p) |
-|     :---:    |      :---:    |      :---:     |      :---:     |
-| **CPU**   | R7 5800X3D / i7 12700k | R7 5700X / i5 12600 | R7 7800X3D |
-| **Video Card**    |  RTX 4070ti super / RX 7800-XT  |  RTX 4070 / RX 6800  |  RTX 4090  |
-| **Ram**    | 32GB DDR4/5 | 32GB DDR4/5 | 32GB DDR5 6GHz |
-| **Storage**    | SATA/NVME SSD | SATA/NVME SSD | Samsung 970 EVO Plus |
-| **OS**    | Windows 10/11 | Windows 10/11 | Windows 10 |
+| Spec Category | Default (1080p) | My specs (2160p) |
+|     :---:    |      :---:    |      :---:     |
+| **CPU**   | R7 5800X3D / i7 12700k | R7 7800X3D |
+| **Video Card**    |  RTX 4070ti super / RX 7800-XT  |  RTX 4090  |
+| **Ram**    | 32GB DDR4/5 | 32GB DDR5 6GHz |
+| **Storage**    | SATA/NVME SSD | Samsung 970 EVO Plus |
+| **OS**    | Windows 10/11 | Windows 10 |
 
 Downloads: ~426 GB  
 Install: ~467 GB  
