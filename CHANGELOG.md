@@ -69,7 +69,7 @@
 
 ### Info
 
-**This update is save safe**
+**This update is save safe. Ignore popup about missing plugins.**
 
 Small maintenance update.
 
