@@ -83,6 +83,7 @@ Known issues with the casting overhaul:
   - Rune spells don't work
   - Some missing casting sounds
   - No input buffer (unfixable, but very minor issue)
+  - **Spellblade does not work** (weapon on right hand, spell on left hand)
 
 </Details>
 
