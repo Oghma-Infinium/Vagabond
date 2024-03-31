@@ -84,6 +84,7 @@ Known issues with the casting overhaul:
   - Some missing casting sounds
   - No input buffer (unfixable, but very minor issue)
   - **Spellblade does not work** (weapon on right hand, spell on left hand)
+  - Concentration spells still use vanilla casting (not really a bug, since I have no way to implement them)
 
 </Details>
 
