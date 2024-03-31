@@ -12,6 +12,7 @@
 ---
 
 # Changelog
+- [1.2.10](#1210)
 - [1.2.9](#129)
 - [1.2.8](#128)
 - [1.2.7](#127)
@@ -60,6 +61,63 @@
 - [0.1.5](#015)
 - [0.1.4](#014)
 - [0.1.3](#013)
+
+</Details>
+
+
+## 1.2.10
+
+### Info
+
+**This update is save safe**
+
+Small maintenance update.
+
+Added optional, experimental Magic Casting Overhaul. Can be enabled and disable at any time. (Disabled by default)
+
+Known issues with the casting overhaul:
+
+<Details>  
+
+  - Dual cast doesn't work
+  - Rune spells don't work
+  - Some missing casting sounds
+  - No input buffer (unfixable, but very minor issue)
+
+</Details>
+
+Bugfixes, balance tweaks, mod additions and updates.
+
+ - Refer to [Trello](https://trello.com/b/khix4egd/vagabond-bug-reports) to track which are fixed and which still persist.
+
+<Details>  
+
+*The changelog is not comprehensive*  
+
+### Added
+  - Mihail Pony Guars
+  - Mihail Zombies
+  - Mihail Cliff Racers
+  - Mihail Giant Club Variety
+  - Cow Calves in Skyrim
+  - Arcs bear Trap Redux
+  - Halffaces - Sujamma
+  - Ignoble Beds
+    - Only for ones not coveredby dragon ebds
+  - TMD Winery
+    - Only for ones not covered by imLenny's wines
+  - Cabbage - A Cabbage Mod
+  - Stairs of Safety - Farmhouses
+  - Elyviel - The Shield Maiden - Female Nord Preset
+  - Tryael - The True Nord - Male Nord Preset
+    - Made by Para, a fellow Vagabond enjoyer
+  - YOT - Your Own Thoughts SE
+  - Immersive Speech Dialogues
+  - The Jagged Crown Tweaks
+  - Prevent Emptying Inventory For Diplomatic Immunity
+  - Debaser SE (LotD artifact replacer)
+  - Nameless Saber SE (LotD artifact replacer)
+  - Battle for Whiterun - Explosions Begone bug fix
 
 </Details>
 
