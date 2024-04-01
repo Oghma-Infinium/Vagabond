@@ -28,6 +28,7 @@
   - [Q: Can you add x mod? Why is x mod not included?](#q-can-you-add-x-mod-why-is-x-mod-not-included)
   - [Q: Can I play the list in first person?](#q-can-i-play-the-list-in-first-person)
   - [Q: How do I wait?](#q-how-do-i-wait)
+  - [Q: Enchantments not consuming charge?](#q-enchantments-not-consuming-charge)
   - [Q: How do I open the OAR, IED and dmenu?](#q-how-do-i-open-the-oar-ied-and-dmenu)
   - [Q: Why can't I attack with my left hand weapon?](#q-why-cant-i-attack-with-my-left-hand-weapon)
   - [Q: How do I block with dual wield or spellsword?](#q-how-do-i-block-with-dual-wield-or-spellsword)
@@ -89,6 +90,10 @@ If none of these suggestions help with your issue, feel free to reach out to us 
 ## Q: How do I wait?
 
 > A: Open the tween menu (press tab) first then press T or RT/R2 on controller.
+
+## Q: Enchantments not consuming charge?
+
+> A: Known issue fixed in next update. Just disable a mod called `Controlled Casting` in left pane of Mod Organizer 2 to fix.
 
 ## Q: How do I open the OAR, IED and dmenu?
 
