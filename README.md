@@ -51,7 +51,7 @@ Vagabond is a modlist for Skyrim Special Edition with a focus on visuals, modern
 
 If you're curious about the specific mods in the list, the full modlist can be viewed [here](https://loadorderlibrary.com/lists/vagabond).
 
-**NOTE:** Making ***ANY*** changes, — including editing INIs or MCMs —to the modlist, adding mods, removing mods, counts as modification and thus voids official support. Only changes explicitly stated in the [Config Doc](https://github.com/Oghma-Infinium/Vagabond/blob/main/Documentation/CONFIG.md) are supported. There is separate channel in Discord for discussing modifications to Vagabond.
+**NOTE:** Making ***ANY*** changes, — including editing INIs or MCMs —to the modlist, adding mods, removing mods, using console commands (unless adviced by staff) counts as modification and thus voids official support. Only changes explicitly stated in the [Config Doc](https://github.com/Oghma-Infinium/Vagabond/blob/main/Documentation/CONFIG.md) are supported. There is separate channel in Discord for discussing modifications to Vagabond.
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
@@ -329,7 +329,7 @@ Simply delete the Vagabond folder. Congratulations, you have uninstalled Vagabon
 
 You are **required** to read the [FAQ](https://github.com/Oghma-Infinium/Vagabond/blob/main/Documentation/FAQ.md), [Config](https://github.com/Oghma-Infinium/Vagabond/blob/main/Documentation/CONFIG.md), [Gameplay Guide](https://github.com/Oghma-Infinium/Vagabond/blob/main/Documentation/GAMEPLAY.md) and [Trello](https://trello.com/b/khix4egd/vagabond-bug-reports) before seeking support.
 
-If you still have an issue with the list after reading the above docs, feel free to join the [Waking Dreams](https://discord.gg/wakingdreams) Discord server for support. **Only latest version of the list is supported.** Please be mindful of pings when asking for support and note that modified installations are **not supported**. **Modifying the list in any way voids offical support for the modlist.**
+If you still have an issue with the list after reading the above docs, feel free to join the [Waking Dreams](https://discord.gg/wakingdreams) Discord server for support. **Only latest version of the list is supported.** Please be mindful of pings when asking for support and note that modified installations are **not supported**, including editing INIs or MCMs —to the modlist, adding mods, removing mods, using console commands (unless adviced by staff) counts as modification and thus voids official support. Only changes explicitly stated in the [Config Doc](https://github.com/Oghma-Infinium/Vagabond/blob/main/Documentation/CONFIG.md) are supported. There is separate channel in Discord for discussing modifications to Vagabond.
 
 **If you encounter issues with an item/NPC/object or similar, please click the item in console and take a screenshot when submitting a bug report. Posting a screenshot of the issue without a console click will most likely be overlooked.**
 
