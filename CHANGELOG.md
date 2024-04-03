@@ -12,6 +12,7 @@
 ---
 
 # Changelog
+- [1.2.11](#1211)
 - [1.2.10](#1210)
 - [1.2.9](#129)
 - [1.2.8](#128)
@@ -64,6 +65,24 @@
 
 </Details>
 
+## 1.2.11
+
+### Info
+
+**This update is save safe. Ignore popup about missing plugins.**
+
+Small maintenance update to make the list installable again.
+
+Bugfixes, balance tweaks, and mod updates.
+
+ - Refer to [Trello](https://trello.com/b/khix4egd/vagabond-bug-reports) to track which are fixed and which still persist.
+
+
+<Details>  
+
+- :thumbsup: 
+
+</Details>
 
 ## 1.2.10
 
