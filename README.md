@@ -258,6 +258,15 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 - Antivirus reports a virus:
   - Windows 10/11 may automatically quarantine a key file which is needed for Mod Organizer. You can fix this by [adding an exclusion for Mod Organizer in Windows Defender](https://www.thewindowsclub.com/exclude-a-folder-from-windows-security-scan).
 
+- Sanity check error extracting **X**:
+  - Win + R - > intl.cpl
+  - Click  the  Administrative tab at the top
+  - Click the Change System Locale button
+  - Change Current System Locale to English (United Kingdom)
+  - Disable Beta: Use Unicode UTF-8 for worldwide language support by unticking the box
+  - Reboot your computer and rerun the Wabbajack installer. 
+
+
 ## Post-Installation
 
 ### Antivirus Exceptions
