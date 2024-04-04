@@ -78,10 +78,15 @@ Bugfixes and mod updates.
 
  - Refer to [Trello](https://trello.com/b/khix4egd/vagabond-bug-reports) to track which are fixed and which still persist.
 
-
 <Details>  
 
-- :thumbsup: 
+*The changelog is not comprehensive*  
+
+### Removed
+  - Eldritch Blast
+    - God dammit
+  - Shalidor's Mirror
+    - It was dumb gameplay wise and I suspect it might'v caused random crashes too
 
 </Details>
 
