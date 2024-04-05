@@ -74,6 +74,8 @@
 
 Small maintenance update to make the list installable again.
 
+Due to changes in outfit distribution with update, some naked npcs may appear for those who play on existing saves. To fix console click the naked NPC and type `resetinventory`.
+
 Bugfixes and mod updates.
 
  - Refer to [Trello](https://trello.com/b/khix4egd/vagabond-bug-reports) to track which are fixed and which still persist.
