@@ -301,7 +301,7 @@ If you use Windows Defender, it is advised that you set up an exception for the 
 **NOTE: Some keybinds on both maps are outdated for the current version. These will be updated eventually.**
 ## Playing the List
 
-**Before you start playing the game, I suggest reading over the [Configuration page](https://github.com/Oghma-Infinium/Vagabond/blob/main/Documentation/CONFIG.md), the [FAQ page](https://github.com/Oghma-Infinium/Vagabond/blob/main/Documentation/FAQ.md) and the [Gameplay Guide](https://github.com/Oghma-Infinium/Vagabond/blob/main/Documentation/GAMEPLAY.md) for the list.**
+**Before you start playing the game, read over the [Configuration page](https://github.com/Oghma-Infinium/Vagabond/blob/main/Documentation/CONFIG.md), the [FAQ page](https://github.com/Oghma-Infinium/Vagabond/blob/main/Documentation/FAQ.md) and the [Gameplay Guide](https://github.com/Oghma-Infinium/Vagabond/blob/main/Documentation/GAMEPLAY.md) for the list.**
 
 ### Starting the Game
 
