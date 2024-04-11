@@ -44,8 +44,8 @@
 > - Make sure you have setup [antivirus exceptions properly](https://github.com/Oghma-Infinium/Vagabond/tree/main#antivirus-exceptions). Any other antivirus except Windows Defender may still cause issues.
 > - Make sure you've setup [40GB pagefile correctly](https://github.com/Oghma-Infinium/Vagabond/tree/main#pagefile-and-crash-prevention).
 > - Make sure you're not using HDD or external SSD to play the list. Only internal SSD installs are supported (NVME, SATA).
-> - Make sure you're using supported operating system. Only Windows 10 and 11 operating systems are supported. Remote computer services are also not supported. (Including Steam Link)
-> - Just try **restarting your PC** before any other troubleshooting steps.
+> - Make sure you're using supported operating system. Only Windows 10 and 11 operating systems are supported. Remote computer services and custom editions of Windows are not supported. (Including Steam Link)
+> - Just try **restarting your PC** before any further troubleshooting steps.
 > - If the crash/freeze is one-off and doesn't repeat then I wouldn't worry about it. List this size may have occasional hickup every few hours of gameplay, but if it happens more often than that then there might be an actual issue.
 > - If the crash/freeze happens during combat in interiors, it could be that the game engine randomly gave up due to amount of animations and effects happening simultaneously. Some have reported that waiting a few in-game hours has alleviated the issue.
 > - If you crash or freeze, it may produce crash log in `\NetScriptFramework\Crash folder in Overwrite`. You can drop it in the support channel in the Waking Dreams Discord.
