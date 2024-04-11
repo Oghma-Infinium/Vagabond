@@ -25,7 +25,6 @@
   - [Q: Why is the list so performance heavy? Is there a specific mod that causes it?](#q-why-is-the-list-so-performance-heavy-is-there-a-specific-mod-that-causes-it)
   - [Q: Ultrawide support?](#q-ultrawide-support)
   - [Q: Is x mod in the list?](#q-is-x-mod-in-the-list)
-  - [Q: Can you add x mod? Why is x mod not included?](#q-can-you-add-x-mod-why-is-x-mod-not-included)
   - [Q: Can I play the list in first person?](#q-can-i-play-the-list-in-first-person)
   - [Q: How do I wait?](#q-how-do-i-wait)
   - [Q: How do I open the OAR, IED and dmenu?](#q-how-do-i-open-the-oar-ied-and-dmenu)
