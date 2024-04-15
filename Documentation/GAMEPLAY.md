@@ -40,8 +40,9 @@ Bad saving practices can quickly corrupt your save with a modlist this large. Fo
 - **Do not** play the game at a lower framerate than 30 fps, if this is a problem for you regularly, consider another list.
 - **Avoid** saving the game when in a combat state, moving at high speeds, or transitioning through cells (using doors). Other examples of when to avoid saving include active dialogue, crafting, TFC-mode screenshots, or animations.
 - Trust the [Skyrim SafeSave System Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/70179) to handle your saves.
-  - The mod automatically saves every 5 minutes, but it waits until the game state is safe for saving.
-  - You can also manually request save with F5. If the save doesn't happen immediately it means the game state is not safe for saving.
+  > The mod automatically saves every 5 minutes, but it waits until the game state is safe for saving.
+
+  > You can also manually request save with F5. If the save doesn't happen immediately it means the game state is not safe for saving.
 - Do not enable autosaves. They can often save the game at troublesome moments like the above.  
   > Autosaves created by Skyrim SafeSave System Overhaul, are safe and can be trusted
 - [Clean Save Auto-reloader](https://www.nexusmods.com/skyrimspecialedition/mods/88219?tab=description) automatically restarts the game when reloading a save, except for the first save load when opening the game.  
@@ -56,11 +57,11 @@ Bad saving practices can quickly corrupt your save with a modlist this large. Fo
 Vagabond uses [Static Skill Leveling](https://www.nexusmods.com/skyrimspecialedition/mods/30410) for leveling skills. I have configured it with my custom settings:
 - Gain skill points equal to 10 + 1 * level for each level up, which caps at 50 points at level 40.
 - You can only store maximum of 50 per level, therefore **after level 40 you must spend all your skills points at level up or you will waste some points.**
-- Skill costs are as follows:
-  - 0 to 25: 1
-  - 26 to 50: 2
-  - 51 to 75: 3
-  - 76 to 100: 4
+  > Skill costs are as follows:
+  > - 0 to 25: 1
+  > - 26 to 50: 2
+  > - 51 to 75: 3
+  > - 76 to 100: 4
 
 Perks can be obtained by following ways:
 - One perk point from level up.
@@ -70,7 +71,7 @@ Perks can be obtained by following ways:
   - Note: Dragon kills don't give perk points due to soul conversion mechanic. Also no boss gives three points, only one.
 - From collecting three [Skyshards](https://www.nexusmods.com/skyrimspecialedition/mods/60748?tab=description).
 - By spending devotion points at altars accessible in end-game areas in [Vigilant](https://www.nexusmods.com/skyrim/mods/67103) and [Glenmoril](https://www.nexusmods.com/skyrimspecialedition/mods/32998)
-  - Note that this mechanic is a bit overpowered, choose yourself if you want to use it.
+  > Note that this mechanic is a bit overpowered, choose yourself if you want to use it.
 - By trading dragon souls to an NPC in [Unslaad](https://www.nexusmods.com/skyrimspecialedition/mods/11789)
 - Twenty perk potions are placed throughout the world inside or near dungeons and forts.
 
@@ -105,39 +106,41 @@ Perks can be obtained by following ways:
 
 ### Stats
 
-- Health regeneration is 0% at base and magicka regeneration at 10%.
-  - This only affects **base** regeneration. All regeneration boosts are still as effective as vanilla because the boosts are additive.
-  - Food buffs are highly useful to work around the slow regeneration at early levels. Mages should seek to get robes as early as possible.
+- Health regeneration is 0% at base, magicka regeneration at 10% and stamina regeneration at 50%.
+  > This only affects **base** regeneration. All regeneration boosts are still as effective as vanilla because the boosts are additive.
+
+  > Food buffs are highly useful to work around the slow regeneration at early levels. Mages should seek to get robes as early as possible.
 - Base magicka is 200 instead of 100.
-  - The idea is that you start with more reserve magicka than vanilla, but regenerate slower.
+  > The idea is that you start with more reserve magicka than vanilla, but regenerate slower.
 - Player starts with 200 carry weight, but misc items, ingredients, crafting materials and potions weigh nothing.
-  - You may still want to store excess stuff in your house, because having too much stuff in inventory will cause the inventory to lag.
+  > You may still want to store excess stuff in your house, because having too much stuff in inventory will cause the inventory to lag.
 
 ### Combat
 
-- Light melee attacks restore 6 to 15 stamina and 3 to 8 magicka on-hit depending on the weapon type, but deal 50% less damage (compared to vanilla) on enemies above 25% stamina.
-  - The idea is that light attacks are a tool for sustaining resources with well-timed aggression.
+- Light melee attacks restore 6 to 15 stamina and 3 to 8 magicka on-hit depending on the weapon type, but deal 33% less damage (compared to vanilla) on enemies above 25% stamina.
+  > The idea is that light attacks are a tool for sustaining resources with well-timed aggression.
 - Enemy stamina can be seen from the orange bar below the compass when targeting an enemy. More full -> less stamina the opponent has.
-  - There are also perks in Block tree tied to enemy stamina (Posture Break and Deathblow)
+  > There are also perks in Block tree tied to enemy stamina (Posture Break and Deathblow)
 - You take 25% more damage from power attacks when blocking (calculated *after* block mitigation percent).
-  - This is to balance out the fact that blocking power attacks costs the same amount of stamina as blocking light attacks.
-  - Timed Block perk still allows you to negate all damage from power attacks with a well-timed block.
+  > This is to balance out the fact that blocking power attacks costs the same amount of stamina as blocking light attacks.
+  > Timed Block perk still allows you to negate all damage from power attacks with a well-timed block.
 - Enemies take 50% more damage from behind. Player takes 25% more damage from behind.
-  - Enemies can't turn much during attack combos. Use this to your advantage by flanking enemies while they are attacking.
+  > Enemies can't turn much during attack combos. Use this to your advantage by flanking enemies while they are attacking.
 - Ash of War, a special attack for all weapon types is available in powers menu.
-  - Some unique artifacts have unique Ash of War. These will be expanded in the future as I update the list.
+  > Some unique artifacts have unique Ash of War. These will be expanded in the future as I update the list.
 - [Maxsu Poise](https://github.com/max-su-2019/MaxsuPoise/releases) is the stagger system in the list, with my custom tweaks:
-  - Light attacks and ranged attacks inflict a very short small stagger on poise break.
-  - Heavy attacks inflict longer large stagger on poise break.
-  - Some Ash of War attacks inflict special staggers like knockback.
-  - Enchantments that increase your "mass" increase poise.
+  > Light attacks and ranged attacks inflict a very short small stagger on poise break.
+  > Heavy attacks inflict longer large stagger on poise break.
+  > Some Ash of War attacks inflict special staggers like knockback.
 - [Oblivion-like Spell Casting](https://www.nexusmods.com/skyrimspecialedition/mods/65398) allows you to caste spells without equiping them on your hands. Read up the mod page for more info.
-  - This mod is a little jank sometimes. Don't try to spam spells too quickly or it will get "stuck" and you'll have wait few seconds for it to work again.
+  > This mod is a little jank sometimes. Don't try to spam spells too quickly or it will get "stuck" and you'll have wait few seconds for it to work again.
 - [Acheron](https://www.nexusmods.com/skyrimspecialedition/mods/108159?tab=description) handles the death system.
-  - After you die you either:
-    -  respawn at a nearby location.
-    -  Enter a crawl state for 30 seconds and de-aggro the enemies, after which you stand back up.
-  - I highly encourage to respect the death system instead of reloading save after dying. Reloading saves after combat is very bad for save health and risks getting your save corrupted, especially in a modlist this large.
+  > After you die you either: 
+  >  -  respawn at a nearby location. 
+  >  -  Enter a crawl state for 30 seconds and de-aggro the enemies, after which you stand back up.  
+  >   
+  
+  >  I highly encourage to respect the death system instead of reloading save after dying. Reloading saves after combat is very bad for save health and risks getting your save corrupted, especially in a modlist this large.
 
 ### Crime
 
