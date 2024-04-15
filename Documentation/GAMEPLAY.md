@@ -48,6 +48,7 @@ Bad saving practices can quickly corrupt your save with a modlist this large. Fo
 - [Clean Save Auto-reloader](https://www.nexusmods.com/skyrimspecialedition/mods/88219?tab=description) automatically restarts the game when reloading a save, except for the first save load when opening the game.  
   > You can disable this if you want as it is an optional mod, but understand that you do so at your own risk. You *should* restart the game when reloading saves **or you will even eventually corrupt your save.**
 - Do not load saves when caught doing crimes. The list has alternative mechanics to evade bounties.
+- To ensure save longevity, ideally you should **always** restart the game before loading a save. This is understandably not ideal because of how long it takes for the list to boot up, but do recognize that loading a save without restarting the game *always* risks breaking something in your save.
 - Respect the [Acheron](https://www.nexusmods.com/skyrimspecialedition/mods/108159?tab=description) alternative death system rather than reloading save after dying. Reloading saves after dying in combat is especially dangerous for save health, unless you restart the game before loading a save.
 
 
