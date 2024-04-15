@@ -66,9 +66,9 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 - Only Windows 10/11 operating systems are supported. Windows LTSC, special variants, lightened editions or any other modified variant **WILL NOT WORK.**
 - At least 16GB of GPU VRAM minimum is recommended for the list (1080p), otherwise you'll experience frequent stutters in exteriors. Higher resolutions may require even more.
 
-> Please note these specs are the best idea of a baseline that I can provide at the current moment, based on feedback I have gotten from testers and my own experiences. In the future this will be updated depending on feedback received.
+> Please note these specs are the best idea of a baseline that I can provide at the current moment, based on feedback I have gotten from testers and my own experiences. In the future this will be updated depending on feedback received. **That said, if any of your specs are lower than minimum specs, you likely will not have a smooth experience playing this list. Asking about this in Discord will get you the same answer.** This is probably the **heaviest** modlist out there, so your performance in other lists is not an useful indication whenever or not you can run this list.
 
-| Spec Category | Default (1080p) | My specs (2160p) |
+| Spec Category | Minimum (1080p) | My specs (2160p) |
 |     :---:    |      :---:    |      :---:     |
 | **CPU**   | R7 5800X3D / i7 12700k | R7 7800X3D |
 | **Video Card**    |  RTX 4070ti super / RX 7800-XT  |  RTX 4090  |
