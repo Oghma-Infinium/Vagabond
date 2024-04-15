@@ -12,6 +12,7 @@
 ---
 
 # Changelog
+- [1.2.13](#1213)
 - [1.2.12](#1212)
 - [1.2.11](#1211)
 - [1.2.10](#1210)
@@ -63,6 +64,30 @@
 - [0.1.5](#015)
 - [0.1.4](#014)
 - [0.1.3](#013)
+
+</Details>
+
+## 1.2.13
+
+### Info
+
+**This update is save safe. Ignore the popup about missing plugins.**
+
+Maintenance update with numerous small bugfixes and other minor changes.
+
+Added special slashfx for fire, frost and shock enchanted weapons for player. Consider this a beta feature as very limited testing was done. (Doesn't work for chaos damage enchantment)
+
+ - Refer to [Trello](https://trello.com/b/khix4egd/vagabond-bug-reports) to track which are fixed and which still persist.
+
+<Details>  
+
+*The changelog is not comprehensive*  
+
+### Removed
+  - Clean Save Auto-Loader
+    - People who skipped reading the documentation constantly kept asking about it. Not my problem if your save encounters issues due to constant save loading.
+  - Nyghtfall - Dark Fantasy Music
+    - This didn't fit the atmoshphere of the list and overshadowed other music mods due to sheer amount of music tracks it has.
 
 </Details>
 
