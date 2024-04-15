@@ -45,9 +45,6 @@ This section will cover the following Optional Mods that are included as a part 
    > As mentioned in [FAQ](https://github.com/Oghma-Infinium/Vagabond/blob/main/Documentation/FAQ.md#q-can-i-play-the-list-in-first-person), the list is meant to be played in third person and first person specific issues are not supported.
 
 - **Nevernude for females**: Enabled by default. Disable this mod if you wish to have a nude body on a female character.  
-  
-- **Clean Save Auto-reloader**: Automatically restarts the game when reloading a save, except for the first save load when opening the game. 
-  > You can disable this if you want as it is an optional mod, but understand that you do so at your own risk. You should restart the game when reloading saves or you will even eventually corrupt your save.
 
 - **SSE FPS Stabilizer**: Automatically adjusts distance of LOD to try to reach target FPS (71 by default). If you wish to always have detailed distant objects at expense of performance, disable this.
 
@@ -67,7 +64,9 @@ This section will cover the following Optional Mods that are included as a part 
 - **Equipment UI Preset for 1080p**: UI preset for 1080p users. Enable this if you use a 1080p monitor.
 
 - **CPU affinity**: To adjust CPU affinity for your setup, click the `Puzzle Piece` button at the top of MO2 and select `Set CPU Affinity`. Example of the options you need to press are provided [here](https://raw.githubusercontent.com/Oghma-Infinium/Vagabond/main/images/cpu%20affinity%20example.png).
-  > May give small performance improvement. 
+  > May give small performance improvement.
+
+- **Enable 1080p**: Enables 1080p resolution for those running on higher resolution screens, such as 1440p or 2160p.
 
 
 ## In-Game MCM options
