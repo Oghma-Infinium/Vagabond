@@ -83,6 +83,21 @@ Added special slashfx for fire, frost and shock enchanted weapons for player. Co
 
 *The changelog is not comprehensive*  
 
+### Added
+  - Musical Lore
+    - Part of the music merge
+  - Rally's Celestial Canvas
+    - Only for auroras
+  - Sewer Rats - Mihail Monsters and Animals
+  - Old People Sounds All In One
+    - Peak immersion
+  - High Quality Ivy
+  - ECE Sliders Addon for Racemenu
+  - Rally's Thrones
+    - Only for thrones not covered by Thrones of Skyrim
+  - Grendel - Troll Audio
+  - Dawnguard Weapons Are Silver
+
 ### Removed
   - Clean Save Auto-Loader
     - People who skipped reading the documentation constantly kept asking about it. Not my problem if your save encounters issues due to constant save loading.
