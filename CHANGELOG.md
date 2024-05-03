@@ -12,6 +12,7 @@
 ---
 
 # Changelog
+- [1.2.14](#1214)
 - [1.2.13](#1213)
 - [1.2.12](#1212)
 - [1.2.11](#1211)
@@ -64,6 +65,25 @@
 - [0.1.5](#015)
 - [0.1.4](#014)
 - [0.1.3](#013)
+
+</Details>
+
+## 1.2.14
+
+### Info
+
+**This update is save safe.**
+
+Maintenance update to hopefully resolve the issue of the game looking washed out sometimes, resulting in needing to open the map and then close it to fix the issue.
+
+ - Refer to [Trello](https://trello.com/b/khix4egd/vagabond-bug-reports) to track which are fixed and which still persist.
+
+<Details>  
+
+### Removed
+  - ENB IMOD Separator
+
+</Details>
 
 </Details>
 
