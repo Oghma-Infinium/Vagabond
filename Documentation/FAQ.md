@@ -38,7 +38,7 @@
   - [Q: How do I activate survival mode?](#q-how-do-i-activate-survival-mode)
 # FAQ
 
-## Q: I found a bug. Can you fix it
+## Q: I found a bug. Can you fix it?
 
 > The list is no longer actively developed so probably not. If the bug is extremely critical preventing gameplay of the list, hotfix might be done, but I doubt such bugs are in the list anymore.
 
