@@ -10,14 +10,14 @@
   <a href="https://loadorderlibrary.com/lists/vagabond">Modlist</a> ]
 </p>
 
----
-
-**Modlist Support: [Waking Dreams](https://discord.gg/wakingdreams)**
+# ⚠ This modlist is no longer maintained and cannot be installed. ⚠
 
 **Known issues are documented in [Trello](https://trello.com/b/khix4egd/vagabond-bug-reports).**
 
 ## Contents
 
+- [⚠ This modlist is no longer maintained and cannot be installed. ⚠](#-this-modlist-is-no-longer-maintained-and-cannot-be-installed-)
+  - [Contents](#contents)
 - [FAQ](#faq)
   - [Q: I found a bug. Can you fix it?](#q-i-found-a-bug-can-you-fix-it)
   - [Q: I have feedback. Will it be implemented?](#q-i-have-feedback-will-it-be-implemented)
@@ -36,6 +36,7 @@
   - [Q: How can I access features of Elden Rim mod?](#q-how-can-i-access-features-of-elden-rim-mod)
   - [Q: My character's face suddenly became much darker, causing a neck seam. What do I do?](#q-my-characters-face-suddenly-became-much-darker-causing-a-neck-seam-what-do-i-do)
   - [Q: How do I activate survival mode?](#q-how-do-i-activate-survival-mode)
+- [Known Issues](#known-issues)
 # FAQ
 
 ## Q: I found a bug. Can you fix it?

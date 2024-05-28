@@ -10,12 +10,12 @@
   <a href="https://loadorderlibrary.com/lists/vagabond">Modlist</a> ]
 </p>
 
----
-
-**Modlist Support: [Waking Dreams](https://discord.gg/wakingdreams)**
+# ⚠ This modlist is no longer maintained and cannot be installed. ⚠
 
 ## Contents
 
+- [⚠ This modlist is no longer maintained and cannot be installed. ⚠](#-this-modlist-is-no-longer-maintained-and-cannot-be-installed-)
+  - [Contents](#contents)
 - [Optional Configurations](#optional-configurations)
   - [Optional Mods](#optional-mods)
   - [In-Game MCM options](#in-game-mcm-options)

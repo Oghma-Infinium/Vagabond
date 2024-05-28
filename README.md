@@ -10,18 +10,9 @@
   <a href="https://loadorderlibrary.com/lists/vagabond">Modlist</a> ]
 </p>
 
----
+# ⚠ This modlist is no longer maintained and cannot be installed. ⚠
 
-**[Modlist Support](#contact)**
-
-**⚠ WARNINGS ⚠:**
-- **You must update Skyrim Special Edition to latest version on Steam to install this list. DO NOT DOWNGRADE YOUR GAME TO INSTALL THIS LIST!**
-- **Modifying the list in any way voids offical support for the modlist.**
-
-
-# Contents
-
-- [Contents](#contents)
+- [⚠ This modlist is no longer maintained and cannot be installed. ⚠](#-this-modlist-is-no-longer-maintained-and-cannot-be-installed-)
   - [Introduction](#introduction)
     - [System Requirements](#system-requirements)
   - [Installation](#installation)

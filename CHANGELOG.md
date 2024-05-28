@@ -9,7 +9,8 @@
   <a href="https://github.com/Oghma-Infinium/Vagabond/blob/main/Documentation/CONFIG.md">Config</a> |
   <a href="https://loadorderlibrary.com/lists/vagabond">Modlist</a> ]
 </p>
----
+
+# ⚠ This modlist is no longer maintained and cannot be installed. ⚠
 
 # Changelog
 - [1.2.14](#1214)
